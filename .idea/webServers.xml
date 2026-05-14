@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66306009-e546-45c6-a451-9ad59135ae47" name="LRZ_LLM">
+        <fileTransfer accessType="SFTP" host="cool.hpc.lrz.de" port="22" sshConfigId="036c5584-35f3-41b3-9d18-e9455e621bdd" sshConfig="ge65nus2@cool.hpc.lrz.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
