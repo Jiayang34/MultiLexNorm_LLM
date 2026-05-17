@@ -1,0 +1,15 @@
+{
+  "detector_en": {
+    "train_data_path": "data/machamp/detector_train_en.tsv",
+    "dev_data_path": "data/machamp/detector_dev_en.tsv",
+    "word_idx": 0,
+    "tasks": {
+      "norm_detect": {
+        "task_type": "seq",
+        "column_idx": 1,
+        "metric": "f1_binary",
+        "additional_metrics": ["accuracy", "f1_micro", "f1_macro"]
+      }
+    }
+  }
+}
