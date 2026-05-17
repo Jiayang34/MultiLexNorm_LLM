@@ -1,6 +1,6 @@
 # LLM Pipeline
 
-Stage 1: train a token detector for lexical normalization
+Stage 1: train a XLM-R token detector for lexical normalization
 
 ## Files
 
@@ -50,7 +50,7 @@ pip install -r external/machamp/requirements.txt
 
 Check config file before training:
 
-```bash
+```text
 `configs/machamp_detector_en.json`: MaChAmp dataset config
 `configs/machamp_params_detector.json`: MaChAmp training config
 ```
