@@ -7,8 +7,8 @@
       "norm_detect": {
         "task_type": "seq",
         "column_idx": 1,
-        "metric": "f1_binary",
-        "additional_metrics": ["accuracy", "f1_micro", "f1_macro"]
+        "metric": "f1_macro",
+        "additional_metrics": ["accuracy", "f1_micro"]
       }
     }
   }
