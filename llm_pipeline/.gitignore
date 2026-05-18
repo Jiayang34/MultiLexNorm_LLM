@@ -1,0 +1,9 @@
+# Generated data and trained artifacts
+/data/
+/models/
+
+# Third-party source checkout
+/external/
+
+# Local inspection helper
+/src/import_hf_dataset.py
