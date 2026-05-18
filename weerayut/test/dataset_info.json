@@ -1,0 +1,72 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "multilexnorm2026-dev-pub",
+  "dataset_size": 17037936,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/weerayut/multilexnorm2026-dev-pub@e6817fb2943c9abb3d7840a946a9c60760b555e4/data/train-00000-of-00001.parquet": {
+      "num_bytes": 5240476,
+      "checksum": null
+    },
+    "hf://datasets/weerayut/multilexnorm2026-dev-pub@e6817fb2943c9abb3d7840a946a9c60760b555e4/data/validation-00000-of-00001.parquet": {
+      "num_bytes": 1131717,
+      "checksum": null
+    },
+    "hf://datasets/weerayut/multilexnorm2026-dev-pub@e6817fb2943c9abb3d7840a946a9c60760b555e4/data/test-00000-of-00001.parquet": {
+      "num_bytes": 458453,
+      "checksum": null
+    }
+  },
+  "download_size": 6830646,
+  "features": {
+    "raw": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "norm": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "lang": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 23868582,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 13157263,
+      "num_examples": 39178,
+      "dataset_name": "multilexnorm2026-dev-pub"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 2489517,
+      "num_examples": 8408,
+      "dataset_name": "multilexnorm2026-dev-pub"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1391156,
+      "num_examples": 5972,
+      "dataset_name": "multilexnorm2026-dev-pub"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

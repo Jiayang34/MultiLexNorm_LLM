@@ -26,6 +26,10 @@ def surgical_clean(raw_tokens, norm_tokens):
     # Head Pruning (only check the first four words)
     start_idx = 0
     for i in range(min(n,4)):
+        # if the sentence is too short, skip
+        if start_idx >= n:
+            start_idx = 0
+            break
         token = raw_tokens[start_idx]
         if is_noise(token) or is_ignorable_punctuation(token):
             start_idx += i+1

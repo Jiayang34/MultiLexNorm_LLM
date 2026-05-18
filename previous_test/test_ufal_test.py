@@ -1,3 +1,4 @@
+from prompt_toolkit import validation
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from datasets import load_from_disk
 import torch
@@ -15,9 +16,8 @@ def run_evaluation(dataset, model, tokenizer, device, lang="en", dataset_type="v
     model.eval()
 
 
-    for count, item in enumerate(tqdm(dataset)):
+    for item in tqdm(dataset):
         raw_tokens, norm_tokens = surgical_clean(item['raw'], item['norm'])
-
         # Prompt Engineering: mark word which needs replacement with extra_id
         """
         e.g. "u r so funy"
@@ -26,12 +26,14 @@ def run_evaluation(dataset, model, tokenizer, device, lang="en", dataset_type="v
         -> "u r <extra_id_0> so <extra_id_1> funy"
         -> "u r so <extra_id_0> funy <extra_id_1>"
         """
+        SENTINEL_START = tokenizer.convert_ids_to_tokens(383)
+        SENTINEL_END = tokenizer.convert_ids_to_tokens(382)
         prompts = []
         for i in range(len(raw_tokens)):
             prefix = " ".join(raw_tokens[:i])
             target = raw_tokens[i]
             suffix = " ".join(raw_tokens[i+1:])
-            prompt = f"{prefix} <extra_id_0>{target}<extra_id_1> {suffix}".strip()
+            prompt = f"{prefix} {SENTINEL_START}{target}{SENTINEL_END} {suffix}".strip()
             prompts.append(prompt)
 
         # inference: one sentence -> a batch with N-sentences (N is num of words in this sentence)
@@ -90,7 +92,7 @@ print(f"--------------{model_name} Evaluation Start--------------")
 for lang in all_languages:
     print(f"--------------Processing Language: {lang}--------------")
     lang_test_set = test.filter(lambda x: x["lang"] == lang)
-    res, err = run_evaluation(lang_test_set, model, tokenizer, device, lang=lang)
+    res, err = run_evaluation(lang_test_set, model, tokenizer, device, lang=lang, dataset_type='test')
     save_results(res, model_name)
     print(f"------------------Processing Finished------------------")
 
