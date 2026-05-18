@@ -18,22 +18,31 @@ raw token != norm token -> NORM
 
 ## Usage
 
-Run from this folder:
+Download dependencies:
 
 ```bash
 cd llm_pipeline
+conda create -n llm-pipeline python=3.10 -y
+conda activate llm-pipeline
 pip install -r requirements.txt
+```
+
+Prepare training data:
+
+```bash
 python -m src.prepare_detector_data
 python -m src.debug_prepare_data
 ```
 
-This creates:
+This creates data:
 
-```text
 For debugging:
+```bash
 data/detector_train_en.jsonl
+```
 
 For training detector:
+```bash
 data/machamp/detector_train_en.tsv
 data/machamp/detector_dev_en.tsv
 ```
@@ -50,10 +59,9 @@ pip install -r external/machamp/requirements.txt
 
 Check config file before training:
 
-```text
 `configs/machamp_detector_en.json`: MaChAmp dataset config
 `configs/machamp_params_detector.json`: MaChAmp training config
-```
+
 
 Train:
 
