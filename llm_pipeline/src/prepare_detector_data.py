@@ -1,23 +1,20 @@
-import json
 import random
-from pathlib import Path
 
 from datasets import load_dataset
 from tqdm import tqdm
 
+from src.config import (
+    DATASET_NAME,
+    DEV_RATIO,
+    MACHAMP_DEV_PATH,
+    MACHAMP_DIR,
+    MACHAMP_TRAIN_PATH,
+    SEED,
+    SPLIT_NAME,
+)
 
-DATASET_NAME = "weerayut/multilexnorm2026-dev-pub"
-SPLIT_NAME = "train"
-LANGUAGE = "en"
-OUTPUT_PATH = Path(f"data/detector_{SPLIT_NAME}_{LANGUAGE}.jsonl")
-MACHAMP_DIR = Path("data/machamp")
-MACHAMP_TRAIN_PATH = MACHAMP_DIR / f"detector_train_{LANGUAGE}.tsv"
-MACHAMP_DEV_PATH = MACHAMP_DIR / f"detector_dev_{LANGUAGE}.tsv"
-DEV_RATIO = 0.1
-SEED = 42
 KEEP_LABEL = "O"
 NORM_LABEL = "NORM"
-
 
 # Read raw and normalized token lists from one dataset row
 def read_tokens(data):
@@ -36,7 +33,7 @@ def read_tokens(data):
 def build_label_record(data):
     raw_tokens, norm_tokens = read_tokens(data)
 
-    # Skip if 1->n or n->1
+    # Defensive check: MFR counts require aligned raw/norm lists e.g. "wanna"->"want to"
     if len(raw_tokens) != len(norm_tokens):
         return None
 
@@ -49,13 +46,6 @@ def build_label_record(data):
     return {"tokens": raw_tokens, "labels": labels}
 
 
-# Write detector records in JSONL format
-def write_jsonl(records, path):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as writer:
-        for record in records:
-            writer.write(json.dumps(record, ensure_ascii=False) + "\n")
-
 
 # Write detector records in MaChAmp TSV format
 def write_machamp_tsv(records, path):
@@ -67,7 +57,7 @@ def write_machamp_tsv(records, path):
             writer.write("\n")
 
 
-# Split detector records into train and dev subsets with a fixed seed
+# Shuffle records with a fixed seed, split into train and dev subsets by a ratio
 def split_records(records):
     shuffled = records.copy()
     random.Random(SEED).shuffle(shuffled)
@@ -76,7 +66,7 @@ def split_records(records):
 
 
 # Main function: iterate through dataset and label tokens
-def convert_dataset(dataset_name, output_path):
+def convert_dataset(dataset_name):
     total = 0
     skipped = 0
     records = []
@@ -90,11 +80,9 @@ def convert_dataset(dataset_name, output_path):
         if record is None:
             skipped += 1
             continue
-
         records.append(record)
 
     train_records, dev_records = split_records(records)
-    write_jsonl(records, output_path)
     write_machamp_tsv(train_records, MACHAMP_TRAIN_PATH)
     write_machamp_tsv(dev_records, MACHAMP_DEV_PATH)
 
@@ -108,7 +96,7 @@ def convert_dataset(dataset_name, output_path):
 
 
 def main():
-    stats = convert_dataset(DATASET_NAME, OUTPUT_PATH)
+    stats = convert_dataset(DATASET_NAME)
     print(
         "Done: "
         f"{stats['written']} written, "
@@ -116,7 +104,7 @@ def main():
         f"{stats['total']} total. "
         f"Train: {stats['train']}, "
         f"Dev: {stats['dev']}. "
-        f"Output: {OUTPUT_PATH}, {MACHAMP_DIR}"
+        f"Output: {MACHAMP_DIR}"
     )
 
 
