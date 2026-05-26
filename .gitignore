@@ -216,6 +216,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-!/results/
-!/results/*.log
+!/previous_test/
+!/previous_test/*.log
 !*.log.jsonl
