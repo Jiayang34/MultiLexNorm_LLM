@@ -47,9 +47,9 @@ def evaluate_metrics(y_raw, y_true, y_pred, ignCaps=True):
     f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0.0 else 0.0
 
     return {
-        "accuracy": accuracy,
-        "lai": lai,
-        "err": err,
+        "accuracy": accuracy,       # how many words are predicted correctly
+        "lai": lai,                 # how many words are naturally correct
+        "err": err,                 # correct replacement / need replacement
         "precision": precision,
         "recall": recall,
         "f1": f1,
