@@ -1,0 +1,76 @@
+Available Languages: ['de', 'en', 'hr', 'id', 'iden', 'ja', 'ko', 'nl', 'sl', 'sr', 'th', 'vi']
+--------------UFAL Evaluation Start--------------
+--------------Processing Language: de--------------
+Model de loading successfully
+Language: de | Samples amount: 573
+Accuracy (Word Level): 0.9931
+Leave-As-Is (LAI): 0.8764
+Error Reduction Rate (ERR): 0.9440
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_de.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_de.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: en--------------
+Model en loading successfully
+Language: en | Samples amount: 590
+Accuracy (Word Level): 0.9498
+Leave-As-Is (LAI): 0.9209
+Error Reduction Rate (ERR): 0.3657
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_en.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_en.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: hr--------------
+Model hr loading successfully
+Language: hr | Samples amount: 1588
+Accuracy (Word Level): 0.9806
+Leave-As-Is (LAI): 0.9016
+Error Reduction Rate (ERR): 0.8024
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_hr.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_hr.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: id--------------
+Cannot found model pretrained on id
+--------------Processing Language: iden--------------
+Model iden loading successfully
+Language: iden | Samples amount: 165
+Accuracy (Word Level): 0.9915
+Leave-As-Is (LAI): 0.8734
+Error Reduction Rate (ERR): 0.9331
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_iden.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_iden.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: ja--------------
+Cannot found model pretrained on ja
+--------------Processing Language: ko--------------
+Cannot found model pretrained on ko
+--------------Processing Language: nl--------------
+Model nl loading successfully
+Language: nl | Samples amount: 308
+Accuracy (Word Level): 0.9838
+Leave-As-Is (LAI): 0.7139
+Error Reduction Rate (ERR): 0.9434
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_nl.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_nl.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: sl--------------
+Model sl loading successfully
+Language: sl | Samples amount: 1557
+Accuracy (Word Level): 0.9941
+Leave-As-Is (LAI): 0.8219
+Error Reduction Rate (ERR): 0.9667
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sl.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sl.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: sr--------------
+Model sr loading successfully
+Language: sr | Samples amount: 1379
+Accuracy (Word Level): 0.9971
+Leave-As-Is (LAI): 0.9177
+Error Reduction Rate (ERR): 0.9646
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sr.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sr.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: th--------------
+Cannot found model pretrained on th
+--------------Processing Language: vi--------------
+Cannot found model pretrained on vi
+------------------Evaluation Finished-----------------
