@@ -1,0 +1,76 @@
+Available Languages: ['de', 'en', 'hr', 'id', 'iden', 'ja', 'ko', 'nl', 'sl', 'sr', 'th', 'vi']
+--------------UFAL Evaluation Start--------------
+--------------Processing Language: de--------------
+Model de loading successfully
+Language: de | Samples amount: 573
+Accuracy (Word Level): 0.9942
+Leave-As-Is (LAI): 0.8858
+Error Reduction Rate (ERR): 0.9495
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_de_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_de_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: en--------------
+Model en loading successfully
+Language: en | Samples amount: 590
+Accuracy (Word Level): 0.8986
+Leave-As-Is (LAI): 0.9310
+Error Reduction Rate (ERR): -0.4692
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_en_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_en_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: hr--------------
+Model hr loading successfully
+Language: hr | Samples amount: 1588
+Accuracy (Word Level): 0.9349
+Leave-As-Is (LAI): 0.9111
+Error Reduction Rate (ERR): 0.2674
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_hr_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_hr_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: id--------------
+Cannot found model pretrained on id
+--------------Processing Language: iden--------------
+Model iden loading successfully
+Language: iden | Samples amount: 165
+Accuracy (Word Level): 0.9929
+Leave-As-Is (LAI): 0.8784
+Error Reduction Rate (ERR): 0.9419
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_iden_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_iden_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: ja--------------
+Cannot found model pretrained on ja
+--------------Processing Language: ko--------------
+Cannot found model pretrained on ko
+--------------Processing Language: nl--------------
+Model nl loading successfully
+Language: nl | Samples amount: 308
+Accuracy (Word Level): 0.9860
+Leave-As-Is (LAI): 0.7336
+Error Reduction Rate (ERR): 0.9475
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_nl_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_nl_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: sl--------------
+Model sl loading successfully
+Language: sl | Samples amount: 1557
+Accuracy (Word Level): 0.9952
+Leave-As-Is (LAI): 0.8438
+Error Reduction Rate (ERR): 0.9691
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sl_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sl_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: sr--------------
+Model sr loading successfully
+Language: sr | Samples amount: 1379
+Accuracy (Word Level): 0.9973
+Leave-As-Is (LAI): 0.9235
+Error Reduction Rate (ERR): 0.9647
+Successfully saved to CSV: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sr_unclean.csv
+Successfully saved to JSONL: /dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/results/UFAL_validation_sr_unclean.jsonl
+------------------Processing Finished------------------
+--------------Processing Language: th--------------
+Cannot found model pretrained on th
+--------------Processing Language: vi--------------
+Cannot found model pretrained on vi
+------------------Evaluation Finished-----------------
