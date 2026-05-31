@@ -6,15 +6,15 @@ from tqdm import tqdm
 from src.config import (
     DATASET_NAME,
     DEV_RATIO,
+    DETECTOR_TRAIN_DIR,
+    KEEP_LABEL,
+    LANGUAGE,
     MACHAMP_DEV_PATH,
-    MACHAMP_DIR,
     MACHAMP_TRAIN_PATH,
+    NORM_LABEL,
     SEED,
     SPLIT_NAME,
 )
-
-KEEP_LABEL = "O"
-NORM_LABEL = "NORM"
 
 # Read raw and normalized token lists from one dataset row
 def read_tokens(data):
@@ -104,7 +104,7 @@ def main():
         f"{stats['total']} total. "
         f"Train: {stats['train']}, "
         f"Dev: {stats['dev']}. "
-        f"Output: {MACHAMP_DIR}"
+        f"Output: {DETECTOR_TRAIN_DIR}"
     )
 
 
