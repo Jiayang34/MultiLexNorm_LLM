@@ -9,6 +9,7 @@ from datasets import load_dataset
 from src.config import (
     DATASET_NAME,
     DETECTOR_CONFIDENCE_PATH,
+    DETECTOR_THRESHOLD,
     DEV_RATIO,
     DICTIONARY_PATH,
     KEEP_LABEL,
@@ -65,15 +66,17 @@ def load_dev_gold():
     ]
 
 
-# Return label (0/NORM) with higher confidence (threshold=0.5)
-# Return confidence score
+# Decide token label
+# If confidence score > threshold then return NORM else 0
 def parse_label_scores(score_field):
     scores = {}
     for part in score_field.split("|"):
         label, score = part.split("=", maxsplit=1)
         scores[label] = float(score)
-    label, confidence = max(scores.items(), key=lambda item: item[1])
-    return label, confidence
+
+    if scores[NORM_LABEL] >= DETECTOR_THRESHOLD:
+        return NORM_LABEL, scores[NORM_LABEL]
+    return KEEP_LABEL, scores[KEEP_LABEL]
 
 
 # Load and parse detector output
