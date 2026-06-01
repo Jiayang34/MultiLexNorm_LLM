@@ -1,0 +1,3 @@
+{"raw": "u", "replacement": "you", "entropy": 0.15521619138220968, "counts": {"you": 238, "you're": 2, "u": 1, "your": 1}}
+{"raw": "isnt", "replacement": "isn't", "entropy": 0.0, "counts": {"isn't": 5}}
+{"raw": "nw", "replacement": "no worries", "entropy": 0.0, "counts": {"no worries": 1}}
