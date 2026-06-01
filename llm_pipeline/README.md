@@ -12,9 +12,9 @@ Stage 1-2:
 - apply detector to label tokens by 0/NROM confidence score
 
 Stage 2: 
-- build MFR look-up dictionary
+- build MFR dictionary
 - read detector predictions and keep tokens with `P(NORM) >= DETECTOR_THRESHOLD`
-- apply dictionary (entropy <= ENTROPY_THRESHOLD) -> the rest is LLM candidates
+- apply dictionary with `dictionary_entropy <= ENTROPY_THRESHOLD` filtering -> the rest is LLM candidates
 
 Stage 3:
 - build LLM prompts with few-shot examples
@@ -45,7 +45,7 @@ DEV:
 - `src/inspect_hf_dataset.py`: helper function: inspect and export the HF dataset
 - `src/prepare_detector_data.py`: convert HF data to labeled data for training detector
 - `src/execute_prepare_detector.py`: execution script: prepare detector data and train the detector.
-- `src/build_dictionary.py`: build a MFR lookup dictionary
+- `src/build_dictionary.py`: build MFR lookup dictionary candidates
 - `src/apply_dictionary.py`: apply dictionary replacements to detector labeled tokens
 - `src/build_llm_prompts.py`: build LLM prompts for LLM candidates.
 - `src/run_llm.py`: run LLM inference and merge results.
@@ -124,7 +124,7 @@ For training: data/detector_train/detector_train_en.tsv
 For evaluation: data/detector_train/detector_dev_en.tsv
 ```
 
-Build lookup dictionary from TRAIN data:
+Build MFR dictionary from TRAIN data:
 
 ```bash
 python -m src.build_dictionary

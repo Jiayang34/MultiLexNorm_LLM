@@ -12,6 +12,7 @@ from src.config import (
     DETECTOR_THRESHOLD,
     DEV_RATIO,
     DICTIONARY_PATH,
+    ENTROPY_THRESHOLD,
     KEEP_LABEL,
     LANGUAGE,
     NORM_LABEL,
@@ -159,12 +160,16 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
             gold_token_norm = gold_norm[token_index] if gold_norm is not None else None
             dictionary_entropy = None
 
-            # Replace tokens labeled with NORM by looking up dictionary
+            # Replace NORM tokens only when the dictionary candidate is low entropy
             if detector_label == NORM_LABEL and raw in dictionary:
                 dictionary_entry = dictionary[raw]
-                replacement = dictionary_entry["replacement"]
                 dictionary_entropy = dictionary_entry["entropy"]
-                source = "dictionary"
+                if dictionary_entropy <= ENTROPY_THRESHOLD:
+                    replacement = dictionary_entry["replacement"]
+                    source = "dictionary"
+                else:
+                    replacement = raw
+                    source = "llm_pending"
             # Rest tokens should be processed by LLM
             elif detector_label == NORM_LABEL:
                 replacement = raw
