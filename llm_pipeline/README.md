@@ -10,10 +10,12 @@ Stage 1-1:
 ### Run Pipeline
 Stage 1-2: 
 - apply detector to label tokens by 0/NROM confidence score
+
 Stage 2: 
 - build MFR look-up dictionary
 - read detector predictions and keep tokens with `P(NORM) >= DETECTOR_THRESHOLD`
 - apply dictionary (entropy <= ENTROPY_THRESHOLD) -> the rest is LLM candidates
+
 Stage 3:
 - build LLM prompts with few-shot examples
 - apply LLM
