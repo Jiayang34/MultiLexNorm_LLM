@@ -11,5 +11,6 @@
 
 # Local inspection helper
 /src/import_hf_dataset.py
+/src/export_examples.py
 
 /scripts/
