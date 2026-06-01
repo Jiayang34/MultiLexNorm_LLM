@@ -49,6 +49,21 @@ DEV:
 - `src/run_llm.py`: run LLM inference and merge results.
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
 
+### Example data
+
+Small sample files under `examples/`.
+
+- `examples/detector_train/detector_train_sample.tsv`: detector TRAIN data.
+- `examples/detector_train/detector_dev_sample.tsv`: detector DEV data.
+- `examples/detector_output/detector_confidence_sample.out`: detector confidence predictions.
+- `examples/detector_output/detector_en.confidence.out.eval`: detector model evaluation result
+- `examples/dictionary_sample.jsonl`: MFR dictionary
+- `examples/table_applied_dictionary_sample.jsonl`: master table after applying dictionary
+- `examples/llm_candidates_sample.jsonl`: remaining LLM candidates list
+- `examples/llm_prompts_sample.jsonl`: LLM prompts for each LLM candidate
+- `examples/llm_candidates_applied_llm_sample.jsonl`: LLM-updated candidate records.
+- `examples/table_applied_llm_sample.jsonl`: final master table after applying LLM
+
 # Usage
 
 ## Download dependencies:
