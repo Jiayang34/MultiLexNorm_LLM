@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "count": 3
+  },
+  "splits": [
+    "train",
+    "test",
+    "validation"
+  ]
+}

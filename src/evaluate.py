@@ -1,13 +1,9 @@
-from sklearn.metrics import accuracy_score
 def evaluate_metrics(y_raw, y_true, y_pred, ignCaps=True):
-    """
-    原作者逻辑适配版：处理平铺的 List[str]
-    """
     if not (len(y_raw) == len(y_true) == len(y_pred)):
-        raise ValueError(f"长度不一致: Raw({len(y_raw)}), True({len(y_true)}), Pred({len(y_pred)})")
+        raise ValueError(f"Inconsistent: Raw({len(y_raw)}), True({len(y_true)}), Pred({len(y_pred)})")
 
-    cor = 0        # 预测正确的总数
-    changed = 0    # 原始文本中需要修改的总数
+    cor = 0        # total correct prediction
+    changed = 0    # total number of samples that need to be changed
     total = len(y_true)
 
     # 四大核心计数器
@@ -51,9 +47,9 @@ def evaluate_metrics(y_raw, y_true, y_pred, ignCaps=True):
     f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0.0 else 0.0
 
     return {
-        "accuracy": accuracy,
-        "lai": lai,
-        "err": err,
+        "accuracy": accuracy,       # how many words are predicted correctly
+        "lai": lai,                 # how many words are naturally correct
+        "err": err,                 # correct replacement / need replacement
         "precision": precision,
         "recall": recall,
         "f1": f1,
