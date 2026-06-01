@@ -13,7 +13,6 @@ from src.config import (
     LANGUAGE,
     SEED,
     SPLIT_NAME,
-    ENTROPY_THRESHOLD
 )
 
 
@@ -81,8 +80,8 @@ def load_train_records():
     return records[dev_size:]
 
 
-# Build look-up dictionary
-def build_dictionary(records, entropy_threshold):
+# Build look-up dictionary candidates
+def build_dictionary(records):
     dictionary = []
 
     counts = counting(records)
@@ -93,17 +92,15 @@ def build_dictionary(records, entropy_threshold):
         if replacement == raw_token:
             continue
 
-        # Add only replacement with low entropy to dictionary
         entropy = miller_madow_entropy(replacement_counts)
-        if entropy <= entropy_threshold:
-            dictionary.append(
-                {
-                    "raw": raw_token,
-                    "replacement": replacement,
-                    "entropy": entropy,
-                    "counts": replacement_counts,
-                }
-            )
+        dictionary.append(
+            {
+                "raw": raw_token,
+                "replacement": replacement,
+                "entropy": entropy,
+                "counts": replacement_counts,
+            }
+        )
 
     return dictionary
 
@@ -117,14 +114,13 @@ def write_jsonl(records, path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build low-entropy MFR dictionary for Stage 2."
+        description="Build MFR dictionary candidates for Stage 2."
     )
     parser.add_argument("--output", type=Path, default=DICTIONARY_PATH)
-    parser.add_argument("--entropy-threshold", type=float, default=ENTROPY_THRESHOLD)
     args = parser.parse_args()
 
     records = load_train_records()
-    dictionary = build_dictionary(records, args.entropy_threshold)
+    dictionary = build_dictionary(records)
     write_jsonl(dictionary, args.output)
 
     print(f"Wrote {len(dictionary)} entries to {args.output}")
