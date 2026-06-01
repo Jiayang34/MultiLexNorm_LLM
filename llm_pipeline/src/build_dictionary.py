@@ -13,6 +13,7 @@ from src.config import (
     LANGUAGE,
     SEED,
     SPLIT_NAME,
+    ENTROPY_THRESHOLD
 )
 
 
@@ -119,7 +120,7 @@ def main():
         description="Build low-entropy MFR dictionary for Stage 2."
     )
     parser.add_argument("--output", type=Path, default=DICTIONARY_PATH)
-    parser.add_argument("--entropy-threshold", type=float, default=0.5)
+    parser.add_argument("--entropy-threshold", type=float, default=ENTROPY_THRESHOLD)
     args = parser.parse_args()
 
     records = load_train_records()

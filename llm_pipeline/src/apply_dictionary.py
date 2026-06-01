@@ -1,14 +1,22 @@
 import argparse
 import json
+import random
 from collections import Counter
 from pathlib import Path
 
+from datasets import load_dataset
+
 from src.config import (
+    DATASET_NAME,
     DETECTOR_CONFIDENCE_PATH,
-    DEV_PATH,
+    DETECTOR_THRESHOLD,
+    DEV_RATIO,
     DICTIONARY_PATH,
     KEEP_LABEL,
+    LANGUAGE,
     NORM_LABEL,
+    SEED,
+    SPLIT_NAME,
     STAGE2_OUTPUT_PATH,
     STAGE3_LLM_CANDIDATES_PATH,
 )
@@ -30,27 +38,45 @@ def load_dictionary(path):
     return dictionary
 
 
-# Load DEV data (RAW and NORM)
-def load_dev_gold(path):
-    sentences = []
-    with path.open(encoding="utf-8") as reader:
-        for line in reader:
-            if not line.strip():
-                continue
-            record = json.loads(line)
-            sentences.append(record)
-    return sentences
+# Load DEV golden data (RAW and NORM) directly from the HF dataset
+def load_dev_gold():
+    dataset = load_dataset(DATASET_NAME, split=SPLIT_NAME)
+    dataset = dataset.filter(lambda row: row.get("lang") == LANGUAGE)
+
+    records = []
+    for row in dataset:
+        if len(row["raw"]) != len(row["norm"]):
+            continue
+        records.append(
+            {
+                "raw": [str(token) for token in row["raw"]],
+                "norm": [str(token) for token in row["norm"]],
+            }
+        )
+
+    random.Random(SEED).shuffle(records)
+    dev_size = int(len(records) * DEV_RATIO)
+    return [
+        {
+            "Sentence_id": sent_id,
+            "raw": record["raw"],
+            "norm": record["norm"],
+        }
+        for sent_id, record in enumerate(records[:dev_size])
+    ]
 
 
-# Return label (0/NORM) with higher confidence (threshold=0.5)
-# Return confidence score
+# Decide token label
+# If confidence score > threshold then return NORM else 0
 def parse_label_scores(score_field):
     scores = {}
     for part in score_field.split("|"):
         label, score = part.split("=", maxsplit=1)
         scores[label] = float(score)
-    label, confidence = max(scores.items(), key=lambda item: item[1])
-    return label, confidence
+
+    if scores[NORM_LABEL] >= DETECTOR_THRESHOLD:
+        return NORM_LABEL, scores[NORM_LABEL]
+    return KEEP_LABEL, scores[KEEP_LABEL]
 
 
 # Load and parse detector output
@@ -116,7 +142,6 @@ def validate_alignment(detector_sentences, gold_sentences):
                     f"detector={detector_token['raw']!r}, gold={gold_token!r}"
                 )
 
-
 # Apply dictionary replacement to detector output and build table
 def build_master_table(detector_sentences, gold_sentences, dictionary):
     validate_alignment(detector_sentences, gold_sentences)
@@ -126,11 +151,12 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
     for sent_id, (detector_sentence, gold_sentence) in enumerate(
         zip(detector_sentences, gold_sentences)
     ):
+        gold_norm = gold_sentence.get("norm")
         for token_index, detector_token in enumerate(detector_sentence):
             raw = detector_token["raw"]
             detector_label = detector_token["label"]
             detector_confidence = detector_token["confidence"]
-            gold_norm = gold_sentence["norm"][token_index]
+            gold_token_norm = gold_norm[token_index] if gold_norm is not None else None
             dictionary_entropy = None
 
             # Replace tokens labeled with NORM by looking up dictionary
@@ -159,7 +185,7 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
                     "Sentence_id": sent_id,
                     "Token_index": token_index,
                     "RAW": raw,
-                    "Gold_NORM": gold_norm,
+                    "Gold_NORM": gold_token_norm,
                     "Detector_label": detector_label,
                     "Detector_confidence": detector_confidence,
                     "Replacement": replacement,
@@ -204,7 +230,6 @@ def main():
         default=DETECTOR_CONFIDENCE_PATH,
     )
     parser.add_argument("--dictionary", type=Path, default=DICTIONARY_PATH)
-    parser.add_argument("--dev-gold", type=Path, default=DEV_PATH)
     parser.add_argument("--output", type=Path, default=STAGE2_OUTPUT_PATH)
     parser.add_argument(
         "--llm-candidates-output",
@@ -215,7 +240,7 @@ def main():
 
     # Inputs: dictionary, dev raw/norm data, detector output
     dictionary = load_dictionary(args.dictionary)
-    gold_sentences = load_dev_gold(args.dev_gold)
+    gold_sentences = load_dev_gold()
     detector_sentences = read_detector_output(args.detector_output)
 
     # Apply dictionary replacement to detector output and build table
