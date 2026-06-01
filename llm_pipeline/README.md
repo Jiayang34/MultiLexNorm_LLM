@@ -1,34 +1,57 @@
-# LLM Pipeline
+# MultiLexNorm 2026 LLM Pipeline
 
-Stage 1: train a XLM-R token detector for lexical normalization.
+## Pipeline overview
+
+### Prepare Detector
+Stage 1-1:
+- prepare detctor training data
+- train a XLM-R detector
+
+### Run Pipeline
+Stage 1-2: 
+- apply detector to label tokens by 0/NROM confidence score
+Stage 2: 
+- build MFR look-up dictionary
+- read detector predictions and keep tokens with `P(NORM) >= DETECTOR_THRESHOLD`
+- apply dictionary (entropy <= ENTROPY_THRESHOLD) -> the rest is LLM candidates
+Stage 3:
+- build LLM prompts with few-shot examples
+- apply LLM
 
 ## Data split
 
-```text
 weerayut/multilexnorm2026-dev-pub -> Train Split -> TRAIN Data (90%) + DEV Data (10%)
-```
 
-- TRAIN Data is used to train the detector and build the lookup dictionary.
-- DEV Data is used to evaluate pipeline outputs.
+TRAIN:
+  - train detector
+  - build lookup dictionary
+  - sample few-shot examples for LLM prompts
+
+DEV:
+  - apply detector
+  - apply dictionary
+  - apply LLM
+  - evaluate outputs
 
 ## Files
+### Config
+- `models/machamp/configs/machamp_detector_en.json`: config file for MaChAmp dataset
+- `models/machamp/configs/machamp_params_detector.json`: config file for MaChAmp training
+- `src/config.py`: config file for hyperparameters and file paths
 
-- `requirements.txt`: dependencies for data preparation.
-- `src/inspect_hf_dataset.py`: inspect the HF dataset and export DEV raw/norm data.
-- `src/prepare_detector_data.py`: convert HF data to labeled data for training detector 
-- `src/dictionary_lookup.py`: build a low-entropy lookup dictionary from TRAIN data.
-- `models/machamp/configs/machamp_detector_en.json`: MaChAmp dataset config
-- `models/machamp/configs/machamp_params_detector.json`: MaChAmp training config
+### Scripts
+- `src/inspect_hf_dataset.py`: helper function: inspect and export the HF dataset
+- `src/prepare_detector_data.py`: convert HF data to labeled data for training detector
+- `src/execute_prepare_detector.py`: execution script: prepare detector data and train the detector.
+- `src/build_dictionary.py`: build a MFR lookup dictionary
+- `src/apply_dictionary.py`: apply dictionary replacements to detector labeled tokens
+- `src/build_llm_prompts.py`: build LLM prompts for LLM candidates.
+- `src/run_llm.py`: run LLM inference and merge results.
+- `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
 
-Label by applying simple rules:
-```text
-raw token == norm token -> O
-raw token != norm token -> NORM
-```
+# Usage
 
-## Usage
-
-Download dependencies:
+## Download dependencies:
 
 ```bash
 cd llm_pipeline
@@ -36,6 +59,40 @@ conda create -n llm-pipeline python=3.10 -y
 conda activate llm-pipeline
 pip install -r requirements.txt
 ```
+
+## Download machamp toolkit:
+
+```bash
+mkdir -p external
+git clone https://github.com/machamp-nlp/machamp.git external/machamp
+pip install -r external/machamp/requirements.txt
+```
+
+## Download Model from Ollama:
+```
+ollama pull qwen3.5:9b
+ollama list
+```
+
+## You can run 2 assembled execution scripts for easy use:
+
+### Model Preparation
+
+Prepare detector data and train the detector:
+
+```bash
+python -m src.execute_prepare_detector
+```
+
+### Run Pipeline
+
+Run detector prediction, build dictionary, apply dictionary, build LLM prompts, and run LLM:
+
+```bash
+python -m src.execute_run_pipeline
+```
+
+## Or you can run single pipeline steps seperately:
 
 Prepare training data:
 
@@ -46,30 +103,20 @@ python -m src.prepare_detector_data
 This creates data:
 
 ```bash
-For training: data/machamp/detector_train_en.tsv
-For evaluation: data/machamp/detector_dev_en.tsv
+For training: data/detector_train/detector_train_en.tsv
+For evaluation: data/detector_train/detector_dev_en.tsv
 ```
 
 Build lookup dictionary from TRAIN data:
 
 ```bash
-python -m src.dictionary_lookup
+python -m src.build_dictionary
 ```
 
 This creates:
 
 ```text
 data/dictionary_en.jsonl
-```
-
-## MaChAmp
-
-Download machamp toolkit:
-
-```bash
-mkdir -p external
-git clone https://github.com/machamp-nlp/machamp.git external/machamp
-pip install -r external/machamp/requirements.txt
 ```
 
 Check config file before training:
@@ -92,35 +139,86 @@ Predict on the dev split with detector confidence:
 
 ```bash
 python external/machamp/predict.py \
-  models/machamp/detector_en_xlmr_0/model_18.pt \
-  data/machamp/detector_dev_en.tsv \
-  models/machamp/detector_en_xlmr_0/detector_en.confidence.out \
+  models/machamp/detector_en_xlmr_0/model.pt \
+  data/detector_train/detector_dev_en.tsv \
+  data/detector_output/detector_en.confidence.out \
   --dataset detector_en \
   --device 0 \
   --topn 2
 ```
 
-Export DEV raw/norm data for evaluation:
-
-```bash
-python -m src.inspect_hf_dataset --export-dev-gold
-```
-
 This creates:
 
 ```text
-data/dev_raw_norm_en.jsonl
+data/detector_output/detector_en.confidence.out
+data/detector_output/detector_en.confidence.out.eval
 ```
 
 Apply dictionary lookup to detector predictions:
 
 ```bash
-python -m src.apply_dictionary_to_detector
+python -m src.apply_dictionary
 ```
 
 This creates:
 
 ```text
-data/stage2_dictionary_applied_en.jsonl
-data/stage3_llm_candidates_en.jsonl
+data/table_applied_dictionary_en.jsonl
+data/llm_candidates_en.jsonl
 ```
+
+Build LLM prompts for remaining candidates:
+
+```bash
+python -m src.build_llm_prompts
+```
+
+This creates:
+
+```text
+data/llm_prompts_en.jsonl
+```
+
+In another terminal:
+
+```bash
+python -m src.run_llm
+```
+
+This creates:
+
+```text
+data/llm_candidates_applied_llm_en.jsonl
+data/table_applied_llm_en.jsonl
+```
+
+## Master Table Format
+
+`data/table_applied_dictionary_en.jsonl` and `data/table_applied_llm_en.jsonl` use
+one JSON object per token as output:
+
+```json
+{
+  "Token_id": 22,
+  "Sentence_id": 1,
+  "Token_index": 4,
+  "RAW": "d",
+  "Gold_NORM": "the",
+  "Detector_label": "NORM",
+  "Detector_confidence": 0.999913215637207,
+  "Replacement": "the",
+  "Dictionary_entropy": null,
+  "Source": "qwen3.5:9b"
+}
+```
+
+- `Token_id`: global token id across DEV data.
+- `Sentence_id`: sentence id in DEV data.
+- `Token_index`: token position inside the sentence.
+- `RAW`: original token.
+- `Gold_NORM`: gold normalized token for evaluation.
+- `Detector_label`: detector decision, `O` or `NORM`.
+- `Detector_confidence`: confidence score of `Detector_label`.
+- `Replacement`: current pipeline prediction.
+- `Dictionary_entropy`: dictionary entropy if `Source` is `dictionary`, otherwise `null`.
+- `Source`: replacement source, such as `keep`, `dictionary`, `llm_pending`, or the LLM model name.
