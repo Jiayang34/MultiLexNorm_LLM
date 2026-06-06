@@ -49,6 +49,7 @@ DEV:
 - `src/apply_dictionary.py`: apply dictionary replacements to detector labeled tokens
 - `src/build_llm_prompts.py`: build LLM prompts for LLM candidates.
 - `src/run_llm.py`: run LLM inference and merge results.
+- `src/evaluate_pipeline.py`: evaluate final pipeline results.
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
 
 ### Example data
@@ -109,7 +110,7 @@ Run detector prediction, build dictionary, apply dictionary, build LLM prompts, 
 python -m src.execute_run_pipeline
 ```
 
-## Or you can run single pipeline steps seperately:
+## Or Run Pipeline Steps Seperately:
 
 Prepare training data:
 
@@ -207,6 +208,19 @@ This creates:
 ```text
 data/llm_candidates_applied_llm_en.jsonl
 data/table_applied_llm_en.jsonl
+```
+
+## Evaluate Final Results
+
+```bash
+python -m src.evaluate_pipeline
+```
+
+This evaluates `overall_final`, `detector`, `dictionary_source`, and `llm_source`,
+then creates:
+
+```text
+data/evaluation_summary_en.json
 ```
 
 ## Master Table Format
