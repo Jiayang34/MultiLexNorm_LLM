@@ -69,7 +69,7 @@ Small sample files under `examples/`.
 
 # Usage
 
-## Download dependencies:
+## 1. Download dependencies:
 
 ```bash
 cd llm_pipeline
@@ -78,7 +78,7 @@ conda activate llm-pipeline
 pip install -r requirements.txt
 ```
 
-## Download machamp toolkit:
+## 2. Download machamp toolkit:
 
 ```bash
 mkdir -p external
@@ -86,13 +86,13 @@ git clone https://github.com/machamp-nlp/machamp.git external/machamp
 pip install -r external/machamp/requirements.txt
 ```
 
-## Download Model from Ollama:
+## 3. Download Model from Ollama:
 ```
 ollama pull qwen3.5:9b
 ollama list
 ```
 
-## You can run 2 assembled execution scripts for easy use:
+## 4a. You can run 2 assembled execution scripts for easy use:
 
 ### Model Preparation
 
@@ -110,7 +110,7 @@ Run detector prediction, build dictionary, apply dictionary, build LLM prompts, 
 python -m src.execute_run_pipeline
 ```
 
-## Or Run Pipeline Steps Seperately:
+## 4b. Or Run Pipeline Steps Seperately:
 
 Prepare training data:
 
@@ -210,7 +210,7 @@ data/llm_candidates_applied_llm_en.jsonl
 data/table_applied_llm_en.jsonl
 ```
 
-## Evaluate Final Results
+## 5. Evaluate Final Results
 
 ```bash
 python -m src.evaluate_pipeline
@@ -223,10 +223,10 @@ then creates:
 data/evaluation_summary_en.json
 ```
 
-## Master Table Format
+## Appendix: Master Table Format
 
 `data/table_applied_dictionary_en.jsonl` and `data/table_applied_llm_en.jsonl` use
-one JSON object per token as output:
+one JSON object per token:
 
 ```json
 {
