@@ -1,0 +1,16 @@
+# Generated data and trained artifacts
+/data/
+/models/*
+!/models/machamp/
+/models/machamp/*
+!/models/machamp/configs/
+!/models/machamp/configs/**
+
+# Third-party source checkout
+/external/
+
+# Local inspection helper
+/src/import_hf_dataset.py
+/src/export_examples.py
+
+/scripts/

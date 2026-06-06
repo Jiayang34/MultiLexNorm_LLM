@@ -1,0 +1,6 @@
+{"Token_id": 22, "Sentence_id": 1, "Token_index": 4, "RAW": "d", "Gold_NORM": "the", "Detector_label": "NORM", "Detector_confidence": 0.999913215637207, "Replacement": "d", "Dictionary_entropy": null, "Source": "llm_pending"}
+{"Token_id": 34, "Sentence_id": 1, "Token_index": 16, "RAW": "n", "Gold_NORM": "n", "Detector_label": "NORM", "Detector_confidence": 0.9999316930770874, "Replacement": "n", "Dictionary_entropy": null, "Source": "llm_pending"}
+{"Token_id": 35, "Sentence_id": 1, "Token_index": 17, "RAW": "upsc", "Gold_NORM": "upsc", "Detector_label": "NORM", "Detector_confidence": 0.9967145919799805, "Replacement": "upsc", "Dictionary_entropy": null, "Source": "llm_pending"}
+{"Token_id": 153, "Sentence_id": 9, "Token_index": 4, "RAW": "har", "Gold_NORM": "har", "Detector_label": "NORM", "Detector_confidence": 0.9950644373893738, "Replacement": "har", "Dictionary_entropy": null, "Source": "llm_pending"}
+{"Token_id": 155, "Sentence_id": 9, "Token_index": 6, "RAW": "k", "Gold_NORM": "k", "Detector_label": "NORM", "Detector_confidence": 0.9962093830108643, "Replacement": "k", "Dictionary_entropy": null, "Source": "llm_pending"}
+{"Token_id": 209, "Sentence_id": 14, "Token_index": 1, "RAW": "oll", "Gold_NORM": "old", "Detector_label": "NORM", "Detector_confidence": 0.9847871661186218, "Replacement": "oll", "Dictionary_entropy": null, "Source": "llm_pending"}

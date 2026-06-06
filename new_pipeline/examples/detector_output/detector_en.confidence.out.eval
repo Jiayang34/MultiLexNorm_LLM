@@ -1,0 +1,26 @@
+{
+    "norm_detect": {
+        "optimization_metrics": "f1_macro",
+        "f1_macro": {
+            "precision_O": 0.9876506024096385,
+            "recall_O": 0.9921331316187595,
+            "f1_O": 0.9898867924528302,
+            "precision_NORM": 0.8907563025210085,
+            "recall_NORM": 0.8379446640316206,
+            "f1_NORM": 0.8635437881873728,
+            "precision_macro": 0.9392034524653234,
+            "recall_macro": 0.91503889782519,
+            "f1_macro": 0.9267152903201015,
+            "sum": "f1_macro"
+        },
+        "accuracy": {
+            "accuracy": 0.9811691961776279
+        },
+        "f1_micro": {
+            "precision_micro": 0.9811691961776279,
+            "recall_micro": 0.9811691961776279,
+            "f1_micro": 0.9811691961776279
+        }
+    },
+    "sum": 0.9267152903201015
+}
