@@ -1,3 +1,4 @@
+import json
 import random
 
 from datasets import load_dataset
@@ -9,6 +10,8 @@ from src.config import (
     DETECTOR_TRAIN_DIR,
     KEEP_LABEL,
     LANGUAGE,
+    MACHAMP_DATASET_CONFIG_PATH,
+    MACHAMP_DATASET_NAME,
     MACHAMP_DEV_PATH,
     MACHAMP_TRAIN_PATH,
     NORM_LABEL,
@@ -57,6 +60,30 @@ def write_machamp_tsv(records, path):
             writer.write("\n")
 
 
+# Write the language-specific MaChAmp dataset config.
+def write_machamp_dataset_config(path):
+    config = {
+        MACHAMP_DATASET_NAME: {
+            "train_data_path": str(MACHAMP_TRAIN_PATH),
+            "dev_data_path": str(MACHAMP_DEV_PATH),
+            "word_idx": 0,
+            "tasks": {
+                "norm_detect": {
+                    "task_type": "seq",
+                    "column_idx": 1,
+                    "metric": "f1_macro",
+                    "additional_metrics": ["accuracy", "f1_micro"],
+                }
+            },
+        }
+    }
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as writer:
+        json.dump(config, writer, ensure_ascii=False, indent=2)
+        writer.write("\n")
+
+
 # Shuffle records with a fixed seed, split into train and dev subsets by a ratio
 def split_records(records):
     shuffled = records.copy()
@@ -97,6 +124,7 @@ def convert_dataset(dataset_name):
 
 def main():
     stats = convert_dataset(DATASET_NAME)
+    write_machamp_dataset_config(MACHAMP_DATASET_CONFIG_PATH)
     print(
         "Done: "
         f"{stats['written']} written, "
@@ -104,7 +132,8 @@ def main():
         f"{stats['total']} total. "
         f"Train: {stats['train']}, "
         f"Dev: {stats['dev']}. "
-        f"Output: {DETECTOR_TRAIN_DIR}"
+        f"Output: {DETECTOR_TRAIN_DIR}. "
+        f"Config: {MACHAMP_DATASET_CONFIG_PATH}"
     )
 
 

@@ -5,6 +5,7 @@ from src.config import (
     DETECTOR_CONFIDENCE_PATH,
     DETECTOR_DEVICE,
     DETECTOR_MODEL_PATH,
+    MACHAMP_DATASET_NAME,
     MACHAMP_DEV_PATH,
 )
 
@@ -26,7 +27,7 @@ def main():
             str(MACHAMP_DEV_PATH),
             str(DETECTOR_CONFIDENCE_PATH),
             "--dataset",
-            "detector_en",
+            MACHAMP_DATASET_NAME,
             "--device",
             DETECTOR_DEVICE,
             "--topn",

@@ -43,7 +43,7 @@ DEV:
 
 ### Scripts
 - `src/inspect_hf_dataset.py`: helper function: inspect and export the HF dataset
-- `src/prepare_detector_data.py`: convert HF data to labeled data for training detector
+- `src/prepare_detector_data.py`: convert HF data to labeled data for training detector, generate language-specified MaChAmp dataset config
 - `src/execute_prepare_detector.py`: execution script: prepare detector data and train the detector.
 - `src/build_dictionary.py`: build MFR lookup dictionary candidates
 - `src/apply_dictionary.py`: apply dictionary replacements to detector labeled tokens
@@ -69,7 +69,9 @@ Small sample files under `examples/`.
 
 # Usage
 
-## 1. Download dependencies:
+## 1. Download
+
+### Dependencies
 
 ```bash
 cd llm_pipeline
@@ -78,7 +80,7 @@ conda activate llm-pipeline
 pip install -r requirements.txt
 ```
 
-## 2. Download machamp toolkit:
+### Machamp Toolkit
 
 ```bash
 mkdir -p external
@@ -86,13 +88,22 @@ git clone https://github.com/machamp-nlp/machamp.git external/machamp
 pip install -r external/machamp/requirements.txt
 ```
 
-## 3. Download Model from Ollama:
-```
+### Ollama Model
+
+```bash
 ollama pull qwen3.5:9b
 ollama list
 ```
 
-## 4a. You can run 2 assembled execution scripts for easy use:
+## 2. Run
+
+### Choose Language
+
+Change language in `src/config.py`
+
+```bash
+LANGUAGE = "en"
+```
 
 ### Model Preparation
 
@@ -110,40 +121,40 @@ Run detector prediction, build dictionary, apply dictionary, build LLM prompts, 
 python -m src.execute_run_pipeline
 ```
 
-## 4b. Or Run Pipeline Steps Seperately:
+## 3. Evaluate
 
-Prepare training data:
-
-```bash
-python -m src.prepare_detector_data
-```
-
-This creates data:
+Evaluate `overall_final`, `detector`, `dictionary_source`, and `llm_source`:
 
 ```bash
-For training: data/detector_train/detector_train_en.tsv
-For evaluation: data/detector_train/detector_dev_en.tsv
-```
-
-Build MFR dictionary from TRAIN data:
-
-```bash
-python -m src.build_dictionary
+python -m src.evaluate_pipeline
 ```
 
 This creates:
 
 ```text
-data/dictionary_en.jsonl
+data/evaluation_summary_en.json
 ```
 
-Check config file before training:
+# Appendix
 
-`models/machamp/configs/machamp_detector_en.json`: MaChAmp dataset config
-`models/machamp/configs/machamp_params_detector.json`: MaChAmp training config
+## Pipeline Steps
+
+1. Prepare training data:
+
+```bash
+python -m src.prepare_detector_data
+```
+
+This creates:
+
+```text
+MaChAmp dataset config: models/machamp/configs/machamp_detector_en.json
+Data for training: data/detector_train/detector_train_en.tsv
+Data for evaluation: data/detector_train/detector_dev_en.tsv
+```
 
 
-Train:
+2. Train detector:
 
 ```bash
 python external/machamp/train.py \
@@ -153,7 +164,7 @@ python external/machamp/train.py \
   --device 0
 ```
 
-Predict on the dev split with detector confidence:
+3. Predict on the dev split with detector confidence:
 
 ```bash
 python external/machamp/predict.py \
@@ -172,7 +183,19 @@ data/detector_output/detector_en.confidence.out
 data/detector_output/detector_en.confidence.out.eval
 ```
 
-Apply dictionary lookup to detector predictions:
+4. Build MFR dictionary from TRAIN data:
+
+```bash
+python -m src.build_dictionary
+```
+
+This creates:
+
+```text
+data/dictionary_en.jsonl
+```
+
+5. Apply dictionary lookup to detector predictions:
 
 ```bash
 python -m src.apply_dictionary
@@ -185,7 +208,7 @@ data/table_applied_dictionary_en.jsonl
 data/llm_candidates_en.jsonl
 ```
 
-Build LLM prompts for remaining candidates:
+6. Build LLM prompts for remaining candidates:
 
 ```bash
 python -m src.build_llm_prompts
@@ -197,7 +220,7 @@ This creates:
 data/llm_prompts_en.jsonl
 ```
 
-In another terminal:
+7. Run LLM inference
 
 ```bash
 python -m src.run_llm
@@ -210,20 +233,7 @@ data/llm_candidates_applied_llm_en.jsonl
 data/table_applied_llm_en.jsonl
 ```
 
-## 5. Evaluate Final Results
-
-```bash
-python -m src.evaluate_pipeline
-```
-
-This evaluates `overall_final`, `detector`, `dictionary_source`, and `llm_source`,
-then creates:
-
-```text
-data/evaluation_summary_en.json
-```
-
-## Appendix: Master Table Format
+## Master Table
 
 `data/table_applied_dictionary_en.jsonl` and `data/table_applied_llm_en.jsonl` use
 one JSON object per token:

@@ -52,7 +52,7 @@ def export_dev_gold(output_path):
             }
         )
 
-    # Match prepare_detector_data.py exactly, so sentence ids align with detector_dev_en.tsv.
+    # Match prepare_detector_data.py so sentence ids align with the detector DEV file.
     random.Random(SEED).shuffle(records)
     dev_size = int(len(records) * DEV_RATIO)
     dev_records = records[:dev_size]
