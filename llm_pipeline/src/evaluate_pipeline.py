@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 
 from src.config import (
+    EVALUATION_SUMMARY_PATH,
     NORM_LABEL,
     STAGE3_MASTER_TABLE_PATH,
 )
@@ -200,7 +201,7 @@ def main():
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("data/evaluation_summary_en.json"),
+        default=EVALUATION_SUMMARY_PATH,
     )
     args = parser.parse_args()
 
