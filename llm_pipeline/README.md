@@ -132,7 +132,7 @@ python -m src.evaluate_pipeline
 This creates:
 
 ```text
-data/evaluation_summary_en.json
+data/en/evaluation_summary_en.json
 ```
 
 # Appendix
@@ -149,8 +149,8 @@ This creates:
 
 ```text
 MaChAmp dataset config: models/machamp/configs/machamp_detector_en.json
-Data for training: data/detector_train/detector_train_en.tsv
-Data for evaluation: data/detector_train/detector_dev_en.tsv
+Data for training: data/en/detector_train/detector_train_en.tsv
+Data for evaluation: data/en/detector_train/detector_dev_en.tsv
 ```
 
 
@@ -169,8 +169,8 @@ python external/machamp/train.py \
 ```bash
 python external/machamp/predict.py \
   models/machamp/detector_en_xlmr_0/model.pt \
-  data/detector_train/detector_dev_en.tsv \
-  data/detector_output/detector_en.confidence.out \
+  data/en/detector_train/detector_dev_en.tsv \
+  data/en/detector_output/detector_en.confidence.out \
   --dataset detector_en \
   --device 0 \
   --topn 2
@@ -179,8 +179,8 @@ python external/machamp/predict.py \
 This creates:
 
 ```text
-data/detector_output/detector_en.confidence.out
-data/detector_output/detector_en.confidence.out.eval
+data/en/detector_output/detector_en.confidence.out
+data/en/detector_output/detector_en.confidence.out.eval
 ```
 
 4. Build MFR dictionary from TRAIN data:
@@ -192,7 +192,7 @@ python -m src.build_dictionary
 This creates:
 
 ```text
-data/dictionary_en.jsonl
+data/en/dictionary_en.jsonl
 ```
 
 5. Apply dictionary lookup to detector predictions:
@@ -204,8 +204,8 @@ python -m src.apply_dictionary
 This creates:
 
 ```text
-data/table_applied_dictionary_en.jsonl
-data/llm_candidates_en.jsonl
+data/en/table_applied_dictionary_en.jsonl
+data/en/llm_candidates_en.jsonl
 ```
 
 6. Build LLM prompts for remaining candidates:
@@ -217,7 +217,7 @@ python -m src.build_llm_prompts
 This creates:
 
 ```text
-data/llm_prompts_en.jsonl
+data/en/llm_prompts_en.jsonl
 ```
 
 7. Run LLM inference
@@ -229,13 +229,14 @@ python -m src.run_llm
 This creates:
 
 ```text
-data/llm_candidates_applied_llm_en.jsonl
-data/table_applied_llm_en.jsonl
+data/en/llm_candidates_applied_llm_en.jsonl
+data/en/table_applied_llm_en.jsonl
 ```
 
 ## Master Table
 
-`data/table_applied_dictionary_en.jsonl` and `data/table_applied_llm_en.jsonl` use
+`data/en/table_applied_dictionary_en.jsonl` and
+`data/en/table_applied_llm_en.jsonl` use
 one JSON object per token:
 
 ```json
