@@ -51,6 +51,7 @@ DEV:
 - `src/run_llm.py`: run LLM inference and merge results.
 - `src/evaluate_pipeline.py`: evaluate final pipeline results.
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
+- `src/analyze_thresholds.py`: analyze detector and entropy thresholds from saved outputs.
 
 ### Example data
 
@@ -97,12 +98,15 @@ ollama list
 
 ## 2. Run
 
-### Choose Language
+### Check Default Language and Thresholds
 
-Change language in `src/config.py`
+Open `config.py`:
 
 ```bash
-LANGUAGE = "en"
+LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
+DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
+ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
+
 ```
 
 ### Model Preparation
@@ -118,7 +122,10 @@ python -m src.execute_prepare_detector
 Run detector prediction, build dictionary, apply dictionary, build LLM prompts, and run LLM:
 
 ```bash
-python -m src.execute_run_pipeline
+python -m src.execute_run_pipeline \
+  --language en \
+  --detector-threshold 0.5 \
+  --entropy-threshold 0.5
 ```
 
 ## 3. Evaluate
@@ -126,13 +133,25 @@ python -m src.execute_run_pipeline
 Evaluate `overall_final`, `detector`, `dictionary_source`, and `llm_source`:
 
 ```bash
-python -m src.evaluate_pipeline
+python -m src.evaluate_pipeline --language en
 ```
 
 This creates:
 
 ```text
 data/en/evaluation_summary_en.json
+```
+
+## 4. Analyze Thresholds
+
+Analyze saved detector probabilities and frozen LLM outputs:
+
+```bash
+python -m src.analyze_thresholds \
+ --language en \
+ --detector-thresholds 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 \
+ --entropy-thresholds 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 \
+ --plot
 ```
 
 # Appendix
@@ -149,8 +168,8 @@ This creates:
 
 ```text
 MaChAmp dataset config: models/machamp/configs/machamp_detector_en.json
-Data for training: data/en/detector_train/detector_train_en.tsv
-Data for evaluation: data/en/detector_train/detector_dev_en.tsv
+Data for training: models/machamp/train_dev/en/detector_train_en.tsv
+Data for evaluation: models/machamp/train_dev/en/detector_dev_en.tsv
 ```
 
 
@@ -169,7 +188,7 @@ python external/machamp/train.py \
 ```bash
 python external/machamp/predict.py \
   models/machamp/detector_en_xlmr_0/model.pt \
-  data/en/detector_train/detector_dev_en.tsv \
+  models/machamp/train_dev/en/detector_dev_en.tsv \
   data/en/detector_output/detector_en.confidence.out \
   --dataset detector_en \
   --device 0 \

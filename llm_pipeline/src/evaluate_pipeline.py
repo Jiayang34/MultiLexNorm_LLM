@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 
 from src.config import (
-    EVALUATION_SUMMARY_PATH,
+    DATA_DIR,
+    LANGUAGE,
     NORM_LABEL,
-    STAGE3_MASTER_TABLE_PATH,
 )
 
 NON_LLM_SOURCES = {"keep", "dictionary", "llm_pending"}
@@ -193,25 +193,40 @@ def main():
     parser = argparse.ArgumentParser(
         description="Evaluate token-level MultiLexNorm pipeline outputs."
     )
+    parser.add_argument("--language", default=LANGUAGE)
     parser.add_argument(
         "--final-table",
         type=Path,
-        default=STAGE3_MASTER_TABLE_PATH,
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=EVALUATION_SUMMARY_PATH,
     )
     args = parser.parse_args()
 
-    final_records = load_jsonl(args.final_table)
+    data_dir = (
+        DATA_DIR
+        if args.language == LANGUAGE
+        else Path("data") / args.language
+    )
+    final_table = (
+        args.final_table
+        if args.final_table is not None
+        else data_dir / f"table_applied_llm_{args.language}.jsonl"
+    )
+    output = (
+        args.output
+        if args.output is not None
+        else data_dir / f"evaluation_summary_{args.language}.json"
+    )
+
+    final_records = load_jsonl(final_table)
 
     summary = summarize(final_records)
     print_summary(summary)
-    write_json(summary, args.output)
+    write_json(summary, output)
 
-    print(f"Wrote evaluation summary to {args.output}")
+    print(f"Wrote evaluation summary to {output}")
 
 
 if __name__ == "__main__":

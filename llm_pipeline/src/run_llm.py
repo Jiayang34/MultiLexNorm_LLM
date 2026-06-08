@@ -105,6 +105,25 @@ def run_inference(prompt_records, candidate_records, model, url):
     return outputs
 
 
+# Reuse cached LLM replacements for the current candidate subset
+def load_cached_predictions(candidate_records, cache_records):
+    cache_by_token = index_by_token_id(cache_records)
+    outputs = []
+
+    for candidate in candidate_records:
+        token_id = candidate["Token_id"]
+        if token_id not in cache_by_token:
+            raise ValueError(f"Missing cached LLM output for Token_id={token_id}")
+
+        cached_record = cache_by_token[token_id]
+        output_record = dict(candidate)
+        output_record["Replacement"] = cached_record["Replacement"]
+        output_record["Source"] = cached_record["Source"]
+        outputs.append(output_record)
+
+    return outputs
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Run LLM inference for normalization candidates."
@@ -120,12 +139,29 @@ def main():
     parser.add_argument("--master-output", type=Path, default=STAGE3_MASTER_TABLE_PATH)
     parser.add_argument("--model", default=OLLAMA_MODEL)
     parser.add_argument("--url", default=OLLAMA_URL)
+    parser.add_argument(
+        "--llm-cache-path",
+        type=Path,
+        help="Reuse LLM replacements from this JSONL file instead of calling Ollama.",
+    )
     args = parser.parse_args()
 
-    prompt_records = load_jsonl(args.prompts)
     master_records = load_jsonl(args.master_table)
     candidate_records = load_jsonl(args.candidates)
-    llm_records = run_inference(prompt_records, candidate_records, args.model, args.url)
+    if args.llm_cache_path is not None:
+        cache_records = load_jsonl(args.llm_cache_path)
+        llm_records = load_cached_predictions(candidate_records, cache_records)
+        print(
+            f"Reused {len(llm_records)} LLM outputs from {args.llm_cache_path}"
+        )
+    else:
+        prompt_records = load_jsonl(args.prompts)
+        llm_records = run_inference(
+            prompt_records,
+            candidate_records,
+            args.model,
+            args.url,
+        )
     merged_records = merge_llm_outputs(master_records, llm_records)
 
     write_jsonl(llm_records, args.output)
