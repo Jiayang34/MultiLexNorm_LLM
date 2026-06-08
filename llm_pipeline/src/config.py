@@ -1,8 +1,9 @@
+import os
 from pathlib import Path
 
 # Change language
-LANGUAGE = "de"
-DATA_DIR = Path("data") / LANGUAGE
+LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
+DATA_DIR = Path(os.getenv("PIPELINE_DATA_DIR", str(Path("data") / LANGUAGE)))
 
 
 # All Data -> EN Training Data -> DEV_RATIO -> TRAIN Data (90%) & DEV Data (10%)
@@ -14,7 +15,7 @@ SEED = 42
 
 ### Detector ### Train/dev data
 MACHAMP_DATASET_NAME = f"detector_{LANGUAGE}"
-DETECTOR_TRAIN_DIR = DATA_DIR / "detector_train"
+DETECTOR_TRAIN_DIR = Path("models") / "machamp" / "train_dev" / LANGUAGE
 MACHAMP_TRAIN_PATH = DETECTOR_TRAIN_DIR / f"detector_train_{LANGUAGE}.tsv"
 MACHAMP_DEV_PATH = DETECTOR_TRAIN_DIR / f"detector_dev_{LANGUAGE}.tsv"
 
@@ -30,7 +31,7 @@ DETECTOR_DEVICE = "0"
 ### Detector ### Setup
 KEEP_LABEL = "O"
 NORM_LABEL = "NORM"
-DETECTOR_THRESHOLD = 0.5
+DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
 DETECTOR_CONFIDENCE_PATH = (
     DATA_DIR / "detector_output" / f"detector_{LANGUAGE}.confidence.out"
 )
@@ -41,7 +42,7 @@ DEV_PATH = DATA_DIR / f"dev_raw_norm_{LANGUAGE}.jsonl"
 
 ### Dictionary ###
 DICTIONARY_PATH = DATA_DIR / f"dictionary_{LANGUAGE}.jsonl"
-ENTROPY_THRESHOLD = 0.5
+ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
 STAGE2_OUTPUT_PATH = DATA_DIR / f"table_applied_dictionary_{LANGUAGE}.jsonl"
 STAGE3_LLM_CANDIDATES_PATH = DATA_DIR / f"llm_candidates_{LANGUAGE}.jsonl"
 
