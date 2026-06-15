@@ -50,8 +50,7 @@ STAGE3_LLM_CANDIDATES_PATH = DATA_DIR / f"llm_candidates_{LANGUAGE}.jsonl"
 ### LLM inference ###
 STAGE3_LLM_PROMPTS_PATH = DATA_DIR / f"llm_prompts_{LANGUAGE}.jsonl"
 NUM_LLM_SHOTS = 8
-OLLAMA_MODEL = "qwen3.5:9b"
-OLLAMA_URL = "http://localhost:11434/api/chat"
+MODEL = os.getenv("MODEL", "qwen3.5:9b")
 STAGE3_LLM_APPLIED_PATH = (
     DATA_DIR / f"llm_candidates_applied_llm_{LANGUAGE}.jsonl"
 )

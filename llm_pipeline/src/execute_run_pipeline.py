@@ -9,6 +9,7 @@ from src.config import (
     DETECTOR_THRESHOLD,
     ENTROPY_THRESHOLD,
     LANGUAGE,
+    MODEL,
 )
 
 
@@ -36,8 +37,9 @@ def main():
     parser.add_argument(
         "--llm-cache-path",
         type=Path,
-        help="Reuse cached LLM outputs instead of calling Ollama.",
+        help="Reuse cached LLM outputs instead of calling an API.",
     )
+    parser.add_argument("--model", default=MODEL)
     args = parser.parse_args()
 
     data_dir = f"data/{args.language}"
@@ -88,7 +90,13 @@ def main():
     run_command([sys.executable, "-m", "src.build_dictionary"], env)
     run_command([sys.executable, "-m", "src.apply_dictionary"], env)
     run_command([sys.executable, "-m", "src.build_llm_prompts"], env)
-    run_llm_command = [sys.executable, "-m", "src.run_llm"]
+    run_llm_command = [
+        sys.executable,
+        "-m",
+        "src.run_llm",
+        "--model",
+        args.model,
+    ]
     if args.llm_cache_path is not None:
         run_llm_command.extend(
             ["--llm-cache-path", str(args.llm_cache_path)]
