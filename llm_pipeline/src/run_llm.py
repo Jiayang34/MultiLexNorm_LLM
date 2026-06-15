@@ -7,12 +7,12 @@ import requests
 from openai import OpenAI
 
 from src.config import (
+    DATA_DIR,
+    DETECTOR_THRESHOLD,
+    ENTROPY_THRESHOLD,
+    LANGUAGE,
     MODEL,
-    STAGE2_OUTPUT_PATH,
-    STAGE3_LLM_APPLIED_PATH,
-    STAGE3_LLM_CANDIDATES_PATH,
-    STAGE3_MASTER_TABLE_PATH,
-    STAGE3_LLM_PROMPTS_PATH,
+    build_run_data_dir,
 )
 
 
@@ -30,6 +30,20 @@ def write_jsonl(records, path):
     with path.open("w", encoding="utf-8") as writer:
         for record in records:
             writer.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+def build_llm_paths(data_dir, language):
+    return {
+        "prompts": data_dir / f"llm_prompts_{language}.jsonl",
+        "master_table": (
+            data_dir / f"table_applied_dictionary_{language}.jsonl"
+        ),
+        "candidates": data_dir / f"llm_candidates_{language}.jsonl",
+        "output": (
+            data_dir / f"llm_candidates_applied_llm_{language}.jsonl"
+        ),
+        "master_output": data_dir / f"table_applied_llm_{language}.jsonl",
+    }
 
 
 # Call Ollama API
@@ -195,45 +209,52 @@ def main():
     parser = argparse.ArgumentParser(
         description="Run LLM inference for normalization candidates."
     )
-    parser.add_argument("--prompts", type=Path, default=STAGE3_LLM_PROMPTS_PATH)
-    parser.add_argument("--master-table", type=Path, default=STAGE2_OUTPUT_PATH)
-    parser.add_argument(
-        "--candidates",
-        type=Path,
-        default=STAGE3_LLM_CANDIDATES_PATH,
-    )
-    parser.add_argument("--output", type=Path, default=STAGE3_LLM_APPLIED_PATH)
-    parser.add_argument("--master-output", type=Path, default=STAGE3_MASTER_TABLE_PATH)
     parser.add_argument("--model", default=MODEL)
-    parser.add_argument(
-        "--llm-cache-path",
-        type=Path,
-        help="Reuse LLM replacements from this JSONL file instead of calling an API.",
-    )
     args = parser.parse_args()
 
-    master_records = load_jsonl(args.master_table)
-    candidate_records = load_jsonl(args.candidates)
-    if args.llm_cache_path is not None:
-        cache_records = load_jsonl(args.llm_cache_path)
-        llm_records = load_cached_predictions(candidate_records, cache_records)
-        print(
-            f"Reused {len(llm_records)} LLM outputs from {args.llm_cache_path}"
-        )
+    if os.getenv("PIPELINE_DATA_DIR") or args.model == MODEL:
+        data_dir = DATA_DIR
     else:
-        prompt_records = load_jsonl(args.prompts)
+        data_dir = build_run_data_dir(
+            LANGUAGE,
+            args.model,
+            DETECTOR_THRESHOLD,
+            ENTROPY_THRESHOLD,
+        )
+    paths = build_llm_paths(data_dir, LANGUAGE)
+
+    master_records = load_jsonl(paths["master_table"])
+    candidate_records = load_jsonl(paths["candidates"])
+    cache_path_value = os.getenv("PIPELINE_LLM_CACHE_PATH")
+    if cache_path_value:
+        cache_path = Path(cache_path_value)
+        cache_records = load_jsonl(cache_path)
+        llm_records = load_cached_predictions(candidate_records, cache_records)
+        print(f"Reused {len(llm_records)} LLM outputs from {cache_path}")
+    else:
+        prompt_records = load_jsonl(paths["prompts"])
         llm_records = run_inference(
             prompt_records,
             candidate_records,
             args.model,
         )
+
+        cache_output_value = os.getenv("PIPELINE_LLM_CACHE_OUTPUT_PATH")
+        if cache_output_value:
+            cache_output_path = Path(cache_output_value)
+            write_jsonl(llm_records, cache_output_path)
+            print(f"Wrote LLM cache to {cache_output_path}")
+
     merged_records = merge_llm_outputs(master_records, llm_records)
 
-    write_jsonl(llm_records, args.output)
-    write_jsonl(merged_records, args.master_output)
+    write_jsonl(llm_records, paths["output"])
+    write_jsonl(merged_records, paths["master_output"])
 
-    print(f"Wrote {len(llm_records)} LLM-applied records to {args.output}")
-    print(f"Wrote {len(merged_records)} Stage 3 master records to {args.master_output}")
+    print(f"Wrote {len(llm_records)} LLM-applied records to {paths['output']}")
+    print(
+        f"Wrote {len(merged_records)} Stage 3 master records "
+        f"to {paths['master_output']}"
+    )
 
 
 if __name__ == "__main__":

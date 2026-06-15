@@ -5,6 +5,8 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 
+from src.config import LANGUAGE, MODEL, build_threshold_data_dir
+
 
 def load_results(path):
     results = []
@@ -60,7 +62,8 @@ def main():
     parser = argparse.ArgumentParser(
         description="Plot entropy threshold against final ERR and F1."
     )
-    parser.add_argument("--language", default="en")
+    parser.add_argument("--language", default=LANGUAGE)
+    parser.add_argument("--model", default=MODEL)
     parser.add_argument("--input", type=Path)
     parser.add_argument(
         "--output",
@@ -76,7 +79,7 @@ def main():
     )
     args = parser.parse_args()
 
-    data_dir = Path("data") / f"{args.language}_thresholds"
+    data_dir = build_threshold_data_dir(args.language, args.model)
     input_path = (
         args.input
         if args.input is not None

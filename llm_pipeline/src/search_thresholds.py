@@ -3,9 +3,8 @@ import json
 import os
 import subprocess
 import sys
-from pathlib import Path
 
-from src.config import MODEL
+from src.config import MODEL, build_threshold_data_dir
 
 
 DEFAULT_DETECTOR_THRESHOLDS = [0.1, 0.3, 0.5, 0.7, 0.9]
@@ -105,6 +104,7 @@ def write_jsonl_record(record, path):
 def build_environment(
     language,
     data_dir,
+    model,
     detector_threshold=None,
     entropy_threshold=None,
 ):
@@ -112,6 +112,7 @@ def build_environment(
     env = os.environ.copy()
     env["PIPELINE_LANGUAGE"] = language
     env["PIPELINE_DATA_DIR"] = str(data_dir)
+    env["MODEL"] = model
     if detector_threshold is not None:
         env["PIPELINE_DETECTOR_THRESHOLD"] = str(detector_threshold)
     if entropy_threshold is not None:
@@ -119,8 +120,8 @@ def build_environment(
     return env
 
 
-def build_paths(language):
-    data_dir = Path("data") / f"{language}_thresholds"
+def build_paths(language, model):
+    data_dir = build_threshold_data_dir(language, model)
     return {
         "data_dir": data_dir,
         "summary": data_dir / f"evaluation_summary_{language}.json",
@@ -143,7 +144,7 @@ def prepare_caches(language, paths, check_cache, model):
     data_dir = paths["data_dir"]
 
     detector_output_path.parent.mkdir(parents=True, exist_ok=True)
-    base_env = build_environment(language, data_dir)
+    base_env = build_environment(language, data_dir, model)
 
     # Check cache
     reuse_detector = check_cache and detector_output_path.exists()
@@ -192,6 +193,7 @@ def prepare_caches(language, paths, check_cache, model):
         cache_env = build_environment(
             language,
             data_dir,
+            model,
             min(DEFAULT_DETECTOR_THRESHOLDS),
             min(DEFAULT_ENTROPY_THRESHOLDS),
         )
@@ -203,6 +205,7 @@ def prepare_caches(language, paths, check_cache, model):
             [sys.executable, "-m", "src.build_llm_prompts"],
             env=cache_env,
         )
+        cache_env["PIPELINE_LLM_CACHE_OUTPUT_PATH"] = str(cache_path)
         run_command(
             [
                 sys.executable,
@@ -210,8 +213,6 @@ def prepare_caches(language, paths, check_cache, model):
                 "src.run_llm",
                 "--model",
                 model,
-                "--output",
-                str(cache_path),
             ],
             env=cache_env,
         )
@@ -230,15 +231,18 @@ def build_combinations():
 def run_combination(
     language,
     paths,
+    model,
     detector_threshold,
     entropy_threshold,
 ):
     env = build_environment(
         language,
         paths["data_dir"],
+        model,
         detector_threshold,
         entropy_threshold,
     )
+    env["PIPELINE_LLM_CACHE_PATH"] = str(paths["llm_cache"])
     run_command(
         [
             sys.executable,
@@ -252,8 +256,8 @@ def run_combination(
             sys.executable,
             "-m",
             "src.run_llm",
-            "--llm-cache-path",
-            str(paths["llm_cache"]),
+            "--model",
+            model,
         ],
         env=env,
     )
@@ -275,7 +279,7 @@ def run_combination(
 
 def main():
     args = parse_args()
-    paths = build_paths(args.language)
+    paths = build_paths(args.language, args.model)
     paths["results"].parent.mkdir(parents=True, exist_ok=True)
     paths["results"].write_text("", encoding="utf-8")
 
@@ -294,6 +298,7 @@ def main():
         result = run_combination(
             args.language,
             paths,
+            args.model,
             detector_threshold,
             entropy_threshold,
         )

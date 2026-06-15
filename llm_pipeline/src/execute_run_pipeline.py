@@ -10,6 +10,7 @@ from src.config import (
     ENTROPY_THRESHOLD,
     LANGUAGE,
     MODEL,
+    build_run_data_dir,
 )
 
 
@@ -34,15 +35,22 @@ def main():
         type=float,
         default=ENTROPY_THRESHOLD,
     )
-    parser.add_argument(
-        "--llm-cache-path",
-        type=Path,
-        help="Reuse cached LLM outputs instead of calling an API.",
-    )
     parser.add_argument("--model", default=MODEL)
     args = parser.parse_args()
 
-    data_dir = f"data/{args.language}"
+    data_dir = Path(
+        os.getenv(
+            "PIPELINE_DATA_DIR",
+            str(
+                build_run_data_dir(
+                    args.language,
+                    args.model,
+                    args.detector_threshold,
+                    args.entropy_threshold,
+                )
+            ),
+        )
+    )
     detector_model_path = (
         f"models/machamp/detector_{args.language}_xlmr/model.pt"
     )
@@ -51,33 +59,38 @@ def main():
         f"detector_dev_{args.language}.tsv"
     )
     detector_confidence_path = (
-        f"{data_dir}/detector_output/"
-        f"detector_{args.language}.confidence.out"
+        data_dir
+        / "detector_output"
+        / f"detector_{args.language}.confidence.out"
     )
     dataset_name = f"detector_{args.language}"
 
     # Child modules read these values through src.config.
     env = os.environ.copy()
     env["PIPELINE_LANGUAGE"] = args.language
+    env["PIPELINE_DATA_DIR"] = str(data_dir)
     env["PIPELINE_DETECTOR_THRESHOLD"] = str(args.detector_threshold)
     env["PIPELINE_ENTROPY_THRESHOLD"] = str(args.entropy_threshold)
+    env["MODEL"] = args.model
 
     print(
         "Pipeline settings: "
         f"language={args.language}, "
         f"detector_threshold={args.detector_threshold}, "
-        f"entropy_threshold={args.entropy_threshold}"
+        f"entropy_threshold={args.entropy_threshold}, "
+        f"model={args.model}, "
+        f"output_dir={data_dir}"
     )
 
     # Run the 2026 LLM pipeline end to end after detector preparation.
-    os.makedirs(os.path.dirname(detector_confidence_path), exist_ok=True)
+    detector_confidence_path.parent.mkdir(parents=True, exist_ok=True)
     run_command(
         [
             sys.executable,
             "external/machamp/predict.py",
             detector_model_path,
             detector_dev_path,
-            detector_confidence_path,
+            str(detector_confidence_path),
             "--dataset",
             dataset_name,
             "--device",
@@ -97,11 +110,11 @@ def main():
         "--model",
         args.model,
     ]
-    if args.llm_cache_path is not None:
-        run_llm_command.extend(
-            ["--llm-cache-path", str(args.llm_cache_path)]
-        )
     run_command(run_llm_command, env)
+    run_command(
+        [sys.executable, "-m", "src.evaluate_pipeline"],
+        env,
+    )
 
 
 if __name__ == "__main__":
