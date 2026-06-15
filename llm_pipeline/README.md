@@ -51,7 +51,8 @@ DEV:
 - `src/run_llm.py`: run LLM inference and merge results.
 - `src/evaluate_pipeline.py`: evaluate final pipeline results.
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
-- `src/analyze_thresholds.py`: analyze detector and entropy thresholds from saved outputs.
+- `src/search_thresholds.py`: run a real detector and entropy threshold grid search with reusable caches.
+- `src/plot_threshold_results.py`: plot final ERR from threshold search results.
 
 ### Example data
 
@@ -96,6 +97,18 @@ ollama pull qwen3.5:9b
 ollama list
 ```
 
+### DeepSeek API
+
+Set the API key in the shell instead of storing it in the repository:
+
+```bash
+export DEEPSEEK_API_KEY="your-api-key"
+```
+
+The model is selected with the `MODEL` setting in `src/config.py` or the
+`--model` command-line option. Models whose names start with `deepseek-` use
+the DeepSeek API; all other model names use the local Ollama API.
+
 ## 2. Run
 
 ### Check Default Language and Thresholds
@@ -106,6 +119,7 @@ Open `config.py`:
 LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
 DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
 ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
+MODEL = os.getenv("MODEL", "qwen3.5:9b")
 
 ```
 
@@ -125,7 +139,18 @@ Run detector prediction, build dictionary, apply dictionary, build LLM prompts, 
 python -m src.execute_run_pipeline \
   --language en \
   --detector-threshold 0.5 \
-  --entropy-threshold 0.5
+  --entropy-threshold 0.5 \
+  --model qwen3.5:9b
+```
+
+To run the complete pipeline with DeepSeek:
+
+```bash
+python -m src.execute_run_pipeline \
+  --language en \
+  --detector-threshold 0.5 \
+  --entropy-threshold 0.5 \
+  --model deepseek-v4-pro
 ```
 
 ## 3. Evaluate
@@ -144,14 +169,36 @@ data/en/evaluation_summary_en.json
 
 ## 4. Analyze Thresholds
 
-Analyze saved detector probabilities and frozen LLM outputs:
+### Grid Search
+
+Run pipeline for threshold grid search (reuse cache including LLM):
 
 ```bash
-python -m src.analyze_thresholds \
- --language en \
- --detector-thresholds 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 \
- --entropy-thresholds 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 \
- --plot
+python -m src.search_thresholds \
+  --language en \
+  --model deepseek-v4-pro
+```
+
+This creates:
+
+```text
+data/en_thresholds/
+```
+
+### Plot Grid Search Results
+
+Plot entropy threshold against final ERR and F1, with one line per detector
+threshold in each figure:
+
+```bash
+python -m src.plot_threshold_results --language en
+```
+
+This creates:
+
+```text
+data/en_thresholds/threshold_entropy_err_en.png
+data/en_thresholds/threshold_entropy_f1_en.png
 ```
 
 # Appendix
@@ -241,8 +288,17 @@ data/en/llm_prompts_en.jsonl
 
 7. Run LLM inference
 
+With Ollama:
+
 ```bash
-python -m src.run_llm
+python -m src.run_llm --model qwen3.5:9b
+```
+
+With DeepSeek:
+
+```bash
+export DEEPSEEK_API_KEY="your-api-key"
+python -m src.run_llm --model deepseek-v4-pro
 ```
 
 This creates:
