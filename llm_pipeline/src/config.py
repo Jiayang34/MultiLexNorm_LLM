@@ -1,9 +1,55 @@
 import os
 from pathlib import Path
 
+
+def sanitize_model_name(model):
+    return model.replace("/", "__")
+
+
+# Run pipeline output dir
+def build_run_data_dir(
+    language,
+    model,
+    detector_threshold,
+    entropy_threshold,
+    data_root=Path("data"),
+):
+    run_name = (
+        f"{language}_{detector_threshold:g}_{entropy_threshold:g}"
+    )
+    return Path(data_root) / sanitize_model_name(model) / run_name
+
+
+# Search threshold output dir
+def build_threshold_data_dir(
+    language,
+    model,
+    data_root=Path("data"),
+):
+    return (
+        Path(data_root)
+        / sanitize_model_name(model)
+        / f"{language}_thresholds"
+    )
+
 # Change language
 LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
-DATA_DIR = Path(os.getenv("PIPELINE_DATA_DIR", str(Path("data") / LANGUAGE)))
+MODEL = os.getenv("MODEL", "qwen3.5:9b")
+DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
+ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
+DATA_DIR = Path(
+    os.getenv(
+        "PIPELINE_DATA_DIR",
+        str(
+            build_run_data_dir(
+                LANGUAGE,
+                MODEL,
+                DETECTOR_THRESHOLD,
+                ENTROPY_THRESHOLD,
+            )
+        ),
+    )
+)
 
 
 # All Data -> EN Training Data -> DEV_RATIO -> TRAIN Data (90%) & DEV Data (10%)
@@ -31,7 +77,6 @@ DETECTOR_DEVICE = "0"
 ### Detector ### Setup
 KEEP_LABEL = "O"
 NORM_LABEL = "NORM"
-DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
 DETECTOR_CONFIDENCE_PATH = (
     DATA_DIR / "detector_output" / f"detector_{LANGUAGE}.confidence.out"
 )
@@ -42,7 +87,6 @@ DEV_PATH = DATA_DIR / f"dev_raw_norm_{LANGUAGE}.jsonl"
 
 ### Dictionary ###
 DICTIONARY_PATH = DATA_DIR / f"dictionary_{LANGUAGE}.jsonl"
-ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
 STAGE2_OUTPUT_PATH = DATA_DIR / f"table_applied_dictionary_{LANGUAGE}.jsonl"
 STAGE3_LLM_CANDIDATES_PATH = DATA_DIR / f"llm_candidates_{LANGUAGE}.jsonl"
 
@@ -50,8 +94,6 @@ STAGE3_LLM_CANDIDATES_PATH = DATA_DIR / f"llm_candidates_{LANGUAGE}.jsonl"
 ### LLM inference ###
 STAGE3_LLM_PROMPTS_PATH = DATA_DIR / f"llm_prompts_{LANGUAGE}.jsonl"
 NUM_LLM_SHOTS = 8
-OLLAMA_MODEL = "qwen3.5:9b"
-OLLAMA_URL = "http://localhost:11434/api/chat"
 STAGE3_LLM_APPLIED_PATH = (
     DATA_DIR / f"llm_candidates_applied_llm_{LANGUAGE}.jsonl"
 )

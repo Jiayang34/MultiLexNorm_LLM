@@ -1,11 +1,15 @@
 import argparse
 import json
-from pathlib import Path
+import os
 
 from src.config import (
     DATA_DIR,
+    DETECTOR_THRESHOLD,
+    ENTROPY_THRESHOLD,
     LANGUAGE,
+    MODEL,
     NORM_LABEL,
+    build_run_data_dir,
 )
 
 NON_LLM_SOURCES = {"keep", "dictionary", "llm_pending"}
@@ -194,31 +198,31 @@ def main():
         description="Evaluate token-level MultiLexNorm pipeline outputs."
     )
     parser.add_argument("--language", default=LANGUAGE)
+    parser.add_argument("--model", default=MODEL)
     parser.add_argument(
-        "--final-table",
-        type=Path,
+        "--detector-threshold",
+        type=float,
+        default=DETECTOR_THRESHOLD,
     )
     parser.add_argument(
-        "--output",
-        type=Path,
+        "--entropy-threshold",
+        type=float,
+        default=ENTROPY_THRESHOLD,
     )
     args = parser.parse_args()
 
     data_dir = (
         DATA_DIR
-        if args.language == LANGUAGE
-        else Path("data") / args.language
+        if os.getenv("PIPELINE_DATA_DIR")
+        else build_run_data_dir(
+            args.language,
+            args.model,
+            args.detector_threshold,
+            args.entropy_threshold,
+        )
     )
-    final_table = (
-        args.final_table
-        if args.final_table is not None
-        else data_dir / f"table_applied_llm_{args.language}.jsonl"
-    )
-    output = (
-        args.output
-        if args.output is not None
-        else data_dir / f"evaluation_summary_{args.language}.json"
-    )
+    final_table = data_dir / f"table_applied_llm_{args.language}.jsonl"
+    output = data_dir / f"evaluation_summary_{args.language}.json"
 
     final_records = load_jsonl(final_table)
 
