@@ -1,0 +1,823 @@
+{"raw": "ん", "replacement": "の", "entropy": 1.427414323473604, "counts": {"の": 308, "ん": 300, "ん 。": 6, "ない の": 1, "ない": 15, "いる": 1, "": 7, "の は": 1, "もの": 1, "なかっ": 1, "のに": 1, "ので": 1, "の です か": 1, "いる の": 1}}
+{"raw": "ほんとに", "replacement": "本当に", "entropy": 0.0, "counts": {"本当に": 4}}
+{"raw": "コロナ", "replacement": "新型コロナウイルス感染症", "entropy": 0.24804724213013377, "counts": {"新型コロナウイルス感染症": 27, "新型コロナウイルス感染症 に 感染 する の が": 1}}
+{"raw": "…", "replacement": "… 。", "entropy": 1.0461012602403095, "counts": {"…": 199, "… 。": 247, "": 3}}
+{"raw": "ナーフ", "replacement": "下方修正 調整 による 弱体化", "entropy": 0.0, "counts": {"下方修正 調整 による 弱体化": 1}}
+{"raw": "てる", "replacement": "て いる", "entropy": 0.3298437212167258, "counts": {"て いる": 207, "て": 1, "いる": 2, "て い ます": 2, "てる": 2, "し て いる": 1}}
+{"raw": "って", "replacement": "は", "entropy": 2.7421030199789698, "counts": {"は": 70, "と": 70, "と いう": 4, "という の は": 11, "という": 44, "にんにく は": 1, "」 と": 1, "し て い": 1, "って": 5, "と は": 7, "って い": 1, "し て": 1, "と いっ て": 2, "だ と": 1, "": 3, "いう": 1, "し た という こと は": 1, "グリーン": 1, "の": 1, "が": 1, "という もの を": 1, "?」 と": 1}}
+{"raw": "コス", "replacement": "コスプレ", "entropy": 0.0, "counts": {"コスプレ": 8}}
+{"raw": "じゃ", "replacement": "で は", "entropy": 0.5567070386868778, "counts": {"で は": 47, "で": 2, "の で は": 1, "です か": 1}}
+{"raw": "でる", "replacement": "で いる", "entropy": 0.5411303456337294, "counts": {"で いる": 9, "で": 1}}
+{"raw": "和式", "replacement": "和式 トイレ", "entropy": 0.0, "counts": {"和式 トイレ": 1}}
+{"raw": "こー", "replacement": "こういう", "entropy": 0.0, "counts": {"こういう": 1}}
+{"raw": "ゆ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ー", "replacement": "", "entropy": 1.8976777678157268, "counts": {"": 13, "。": 7, "ー": 4, "です": 1, "に いる の です か": 1}}
+{"raw": "インフル", "replacement": "インフルエンザ", "entropy": 0.0, "counts": {"インフルエンザ": 2}}
+{"raw": "っ", "replacement": "", "entropy": 1.226949349627203, "counts": {"いっ": 1, "": 8, "っ": 2}}
+{"raw": "関", "replacement": "関西", "entropy": 1.1587450075359835, "counts": {"関西": 2, "関": 1}}
+{"raw": "カレ", "replacement": "学生 氷上 競技 選手権 大会", "entropy": 0.0, "counts": {"学生 氷上 競技 選手権 大会": 2}}
+{"raw": "男子", "replacement": "男子 が", "entropy": 1.360673760222241, "counts": {"男子 が": 1, "男子": 1}}
+{"raw": "阪大", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "大阪大学": 1}}
+{"raw": "長崎", "replacement": "長崎県", "entropy": 0.0, "counts": {"長崎県": 1}}
+{"raw": "〜", "replacement": "", "entropy": 1.843811321082666, "counts": {"です": 1, "": 29, "。": 9, "、": 2, "〜": 11, "と": 1}}
+{"raw": "しとっ", "replacement": "し て い", "entropy": 0.0, "counts": {"し て い": 1}}
+{"raw": "／♡", "replacement": "。", "entropy": 0.0, "counts": {"。": 4}}
+{"raw": "キャバ嬢", "replacement": "キャバクラ嬢", "entropy": 0.0, "counts": {"キャバクラ嬢": 7}}
+{"raw": "治り", "replacement": "直り", "entropy": 0.0, "counts": {"直り": 1}}
+{"raw": "ヤロー", "replacement": "野郎", "entropy": 0.0, "counts": {"野郎": 1}}
+{"raw": "流行り", "replacement": "流行 し", "entropy": 0.0, "counts": {"流行 し": 1}}
+{"raw": "観", "replacement": "見", "entropy": 0.7940628469318105, "counts": {"見": 8, "観": 2}}
+{"raw": "コロナウイルス", "replacement": "新型コロナウイルス感染症", "entropy": 0.0, "counts": {"新型コロナウイルス感染症": 1}}
+{"raw": "めっさ", "replacement": "めちゃくちゃ", "entropy": 0.0, "counts": {"めちゃくちゃ": 4}}
+{"raw": "やん", "replacement": "ね", "entropy": 2.534978352848808, "counts": {"ね": 3, "です": 2, "ます": 1, "やら": 2, "です ね": 2}}
+{"raw": "あけ", "replacement": "あけましておめでとうございます", "entropy": 0.0, "counts": {"あけましておめでとうございます": 1}}
+{"raw": "め", "replacement": "", "entropy": 1.6995970905087388, "counts": {"": 3, "め": 2, "めちゃくちゃ": 1}}
+{"raw": "とー", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "うに", "replacement": "ユニクロ", "entropy": 0.0, "counts": {"ユニクロ": 1}}
+{"raw": "くろ", "replacement": "、", "entropy": 0.0, "counts": {"、": 1}}
+{"raw": "551", "replacement": "551蓬莱 を", "entropy": 0.0, "counts": {"551蓬莱 を": 1}}
+{"raw": "マクド", "replacement": "マクドナルド", "entropy": 0.9916150045702532, "counts": {"マクドナルド": 3, "マックフライポテト": 1}}
+{"raw": "ポテト", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "ポテト": 1}}
+{"raw": "湯浅", "replacement": "湯浅将平 を", "entropy": 0.0, "counts": {"湯浅将平 を": 1}}
+{"raw": "推し", "replacement": "推し て いる ファン", "entropy": 0.0, "counts": {"推し て いる ファン": 1}}
+{"raw": "もん", "replacement": "もの", "entropy": 0.7654349043400627, "counts": {"もの": 19, "": 2, "もの 。": 1}}
+{"raw": "かしら", "replacement": "でしょ う か", "entropy": 2.1531550105828186, "counts": {"でしょ う か": 3, "か ね": 1, "か な": 1, "か": 1}}
+{"raw": "ティッシュ", "replacement": "ティッシュ ペーパー", "entropy": 1.1587450075359835, "counts": {"ティッシュ ペーパー": 2, "ティッシュ": 1}}
+{"raw": "食い", "replacement": "食べ", "entropy": 0.8661975989762587, "counts": {"食べ": 4, "食い": 1}}
+{"raw": "通信", "replacement": "通信速度", "entropy": 0.0, "counts": {"通信速度": 1}}
+{"raw": "たよう", "replacement": "い た よう", "entropy": 0.0, "counts": {"い た よう": 1}}
+{"raw": "メアド", "replacement": "メールアドレス", "entropy": 0.0, "counts": {"メールアドレス": 1}}
+{"raw": "パス", "replacement": "パスワード", "entropy": 1.360673760222241, "counts": {"パスワード": 1, "パス": 1}}
+{"raw": "けれど", "replacement": "が", "entropy": 1.1587450075359835, "counts": {"が": 2, "けれど": 1}}
+{"raw": "えらい", "replacement": "えらく", "entropy": 0.0, "counts": {"えらく": 1}}
+{"raw": "あんま", "replacement": "あまり", "entropy": 0.0, "counts": {"あまり": 1}}
+{"raw": "やっぱり", "replacement": "やはり", "entropy": 0.0, "counts": {"やはり": 29}}
+{"raw": "ツイッター", "replacement": "Twitter", "entropy": 0.0, "counts": {"Twitter": 9}}
+{"raw": "—", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "アレクサ", "replacement": "Alexa", "entropy": 0.0, "counts": {"Alexa": 1}}
+{"raw": "タイプ", "replacement": "好み", "entropy": 1.1587450075359835, "counts": {"好み": 2, "タイプ": 1}}
+{"raw": "けど", "replacement": "けれど", "entropy": 2.0335159325980543, "counts": {"けど": 4, "です が": 2, "が": 3, "けれど": 6}}
+{"raw": "なぁ", "replacement": "な", "entropy": 1.93062826686166, "counts": {"な": 9, "": 2, "です": 2, "ね": 1, "ます ね": 1}}
+{"raw": "論", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "なぁい", "replacement": "は", "entropy": 2.065860847684144, "counts": {"は": 1, "ない": 1, "なけれ": 1}}
+{"raw": "アカウンタビリティ", "replacement": "説明責任", "entropy": 0.0, "counts": {"説明責任": 2}}
+{"raw": "リア友", "replacement": "現実 の 友達", "entropy": 0.0, "counts": {"現実 の 友達": 1}}
+{"raw": "リプ", "replacement": "返信", "entropy": 0.0, "counts": {"返信": 3}}
+{"raw": "31", "replacement": "サーティワン", "entropy": 0.0, "counts": {"サーティワン": 1}}
+{"raw": "ワロタ", "replacement": "笑い まし た", "entropy": 0.0, "counts": {"笑い まし た": 1}}
+{"raw": "自作PC", "replacement": "自作パソコン", "entropy": 0.0, "counts": {"自作パソコン": 1}}
+{"raw": "臭", "replacement": "臭い に", "entropy": 0.0, "counts": {"臭い に": 1}}
+{"raw": "プレミアムエブリデイ", "replacement": "プレミアムエブリデー", "entropy": 0.0, "counts": {"プレミアムエブリデー": 1}}
+{"raw": "すかー", "replacement": "です か 。", "entropy": 0.0, "counts": {"です か 。": 1}}
+{"raw": "かー", "replacement": "か 。", "entropy": 1.0385204207952365, "counts": {"か 。": 4, "か": 2}}
+{"raw": "何やら", "replacement": "何 か を", "entropy": 0.0, "counts": {"何 か を": 1}}
+{"raw": "ニコ生", "replacement": "ニコニコ生放送", "entropy": 0.0, "counts": {"ニコニコ生放送": 1}}
+{"raw": "よって", "replacement": "て い て", "entropy": 0.0, "counts": {"て い て": 1}}
+{"raw": "ついったー", "replacement": "Twitter", "entropy": 0.0, "counts": {"Twitter": 1}}
+{"raw": "えっ", "replacement": "え", "entropy": 0.0, "counts": {"え": 4}}
+{"raw": "ワードプレス", "replacement": "WordPress", "entropy": 0.0, "counts": {"WordPress": 1}}
+{"raw": "八九", "replacement": "八九寺真宵", "entropy": 0.0, "counts": {"八九寺真宵": 1}}
+{"raw": "寺", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "真宵", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "クッソョンハァンデ", "replacement": "クッション ファンデーション", "entropy": 0.0, "counts": {"クッション ファンデーション": 1}}
+{"raw": "リキ", "replacement": "リキッドファンデーション", "entropy": 0.0, "counts": {"リキッドファンデーション": 2}}
+{"raw": "ファン", "replacement": "", "entropy": 1.1803368801111205, "counts": {"": 2, "ファン": 2}}
+{"raw": "なあ", "replacement": "な", "entropy": 1.3091604895186424, "counts": {"な": 9, "": 2, "ね": 2}}
+{"raw": "ぜ", "replacement": "ます", "entropy": 2.3547366071540514, "counts": {"ます": 2, "よ": 1, "": 1, "絶対": 1}}
+{"raw": "pixiv", "replacement": "Pixiv", "entropy": 0.0, "counts": {"Pixiv": 1}}
+{"raw": "ボラ", "replacement": "ボラティリティ", "entropy": 0.0, "counts": {"ボラティリティ": 2}}
+{"raw": "bfFX", "replacement": "bFFX", "entropy": 0.0, "counts": {"bFFX": 1}}
+{"raw": "る", "replacement": "", "entropy": 2.0817834446258137, "counts": {"が 生える": 1, "いる": 1, "": 3, "る": 3}}
+{"raw": "どん", "replacement": "どう", "entropy": 1.360673760222241, "counts": {"どう": 1, "どれ": 1}}
+{"raw": "あんまり", "replacement": "あまり", "entropy": 0.0, "counts": {"あまり": 7}}
+{"raw": "雛", "replacement": "鍵山雛", "entropy": 0.0, "counts": {"鍵山雛": 3}}
+{"raw": "ぼーく", "replacement": "僕", "entropy": 0.0, "counts": {"僕": 1}}
+{"raw": "キャラ", "replacement": "キャラクター", "entropy": 0.7702470083891011, "counts": {"キャラクター": 5, "": 1}}
+{"raw": "食っ", "replacement": "食べ", "entropy": 0.0, "counts": {"食べ": 4}}
+{"raw": "むっちゃ", "replacement": "めちゃくちゃ", "entropy": 0.0, "counts": {"めちゃくちゃ": 1}}
+{"raw": "くっ", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "くっ 。": 1}}
+{"raw": "ちゃ", "replacement": "", "entropy": 1.82541167420265, "counts": {"": 2, "ちゃ": 2, "て は": 2}}
+{"raw": "M1", "replacement": "M-1グランプリ", "entropy": 0.0, "counts": {"M-1グランプリ": 2}}
+{"raw": "ばーか", "replacement": "バカバカ", "entropy": 0.0, "counts": {"バカバカ": 1}}
+{"raw": "ばかばか", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ぐらい", "replacement": "くらい", "entropy": 0.9790995889625321, "counts": {"くらい": 11, "ぐらい": 6}}
+{"raw": "天", "replacement": "天ぷら", "entropy": 0.0, "counts": {"天ぷら": 1}}
+{"raw": "けして", "replacement": "決して", "entropy": 0.0, "counts": {"決して": 1}}
+{"raw": "セトリ", "replacement": "セットリスト", "entropy": 0.0, "counts": {"セットリスト": 1}}
+{"raw": "とけ", "replacement": "て おけ", "entropy": 1.1587450075359835, "counts": {"て おけ": 2, "て おき なさい": 1}}
+{"raw": "他県", "replacement": "他県ナンバー狩り", "entropy": 0.0, "counts": {"他県ナンバー狩り": 1}}
+{"raw": "ナンバー", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "狩", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "コスギ", "replacement": "小杉スケート", "entropy": 0.0, "counts": {"小杉スケート": 1}}
+{"raw": "ぐれ", "replacement": "くらい", "entropy": 0.0, "counts": {"くらい": 1}}
+{"raw": "大町", "replacement": "大町市", "entropy": 0.0, "counts": {"大町市": 1}}
+{"raw": "やっぱ", "replacement": "やはり", "entropy": 0.0, "counts": {"やはり": 18}}
+{"raw": "スマホ", "replacement": "スマートフォン", "entropy": 0.0, "counts": {"スマートフォン": 5}}
+{"raw": "おやすみなさい", "replacement": "おやすみなさい。", "entropy": 0.0, "counts": {"おやすみなさい。": 2}}
+{"raw": "さぁ", "replacement": "さあさあ", "entropy": 2.065860847684144, "counts": {"さあさあ": 1, "": 1, "さあ": 1}}
+{"raw": "まっ", "replacement": "まあ", "entropy": 0.0, "counts": {"まあ": 1}}
+{"raw": "ねぇ", "replacement": "ね", "entropy": 0.6337328832551566, "counts": {"ね": 7, "": 1}}
+{"raw": "オフ", "replacement": "オフ会", "entropy": 0.0, "counts": {"オフ会": 1}}
+{"raw": "とこ", "replacement": "ところ", "entropy": 0.40144916971772016, "counts": {"ところ": 14, "ところ が": 1}}
+{"raw": "茨城", "replacement": "茨城県", "entropy": 0.8661975989762587, "counts": {"茨城県": 4, "茨城": 1}}
+{"raw": "長野", "replacement": "長野県", "entropy": 1.1587450075359835, "counts": {"長野県": 2, "長野": 1}}
+{"raw": "紛れ", "replacement": "紛れ て", "entropy": 0.0, "counts": {"紛れ て": 1}}
+{"raw": "やぱ", "replacement": "やはり", "entropy": 0.0, "counts": {"やはり": 3}}
+{"raw": "プレモル", "replacement": "ザ・プレミアム・モルツ", "entropy": 0.0, "counts": {"ザ・プレミアム・モルツ": 1}}
+{"raw": "ねえ", "replacement": "ね", "entropy": 1.860673760222241, "counts": {"ませ ん": 1, "ね": 2, "ない": 1}}
+{"raw": "愚痴り", "replacement": "愚痴 を 言い", "entropy": 0.0, "counts": {"愚痴 を 言い": 1}}
+{"raw": "サブカル女", "replacement": "サブカルチャー 女子", "entropy": 0.0, "counts": {"サブカルチャー 女子": 1}}
+{"raw": "なー", "replacement": "ね", "entropy": 2.27896959427673, "counts": {"ね": 2, "何": 1, "な": 2, "ね 。": 1}}
+{"raw": "カッコ", "replacement": "格好", "entropy": 0.8661975989762587, "counts": {"格好いい": 1, "格好": 4}}
+{"raw": "ニンニク", "replacement": "。", "entropy": 0.0, "counts": {"。": 1}}
+{"raw": "罪深き", "replacement": "罪深い", "entropy": 0.0, "counts": {"罪深い": 2}}
+{"raw": "やろ", "replacement": "でしょ う", "entropy": 0.0, "counts": {"でしょ う": 4}}
+{"raw": "pt", "replacement": "ポイント", "entropy": 0.0, "counts": {"ポイント": 1}}
+{"raw": "ググっ", "replacement": "検索 し", "entropy": 0.0, "counts": {"検索 し": 1}}
+{"raw": "あか", "replacement": "いけ", "entropy": 0.0, "counts": {"いけ": 2}}
+{"raw": "んで", "replacement": "ので", "entropy": 0.0, "counts": {"ので": 21}}
+{"raw": "アニソン", "replacement": "アニメソング", "entropy": 0.0, "counts": {"アニメソング": 1}}
+{"raw": "わ", "replacement": "", "entropy": 2.4263760505457785, "counts": {"よ": 1, "": 6, "。": 1, "し": 1, "わ": 2, "わあ": 1}}
+{"raw": "ミスド", "replacement": "ミスタードーナツ", "entropy": 0.0, "counts": {"ミスタードーナツ": 2}}
+{"raw": "伊沢", "replacement": "伊沢拓司", "entropy": 0.0, "counts": {"伊沢拓司": 2}}
+{"raw": "やってく", "replacement": "やっ て いく", "entropy": 0.0, "counts": {"やっ て いく": 1}}
+{"raw": "率", "replacement": "確率", "entropy": 1.360673760222241, "counts": {"確率": 1, "率": 1}}
+{"raw": "どんだけ", "replacement": "どれ だけ", "entropy": 0.0, "counts": {"どれ だけ": 2}}
+{"raw": "じゃなくて", "replacement": "で は なく て", "entropy": 0.9970107120834929, "counts": {"では なく て": 1, "では": 1, "で は なく て": 9}}
+{"raw": "キャット", "replacement": "猫ちゃん", "entropy": 1.360673760222241, "counts": {"猫ちゃん": 1, "猫": 1}}
+{"raw": "陰キャ", "replacement": "引っ込み思案 で 内気", "entropy": 0.0, "counts": {"引っ込み思案 で 内気": 1}}
+{"raw": "しも", "replacement": "しまい まし", "entropy": 0.0, "counts": {"しまい まし": 1}}
+{"raw": "なきゃ", "replacement": "ない と", "entropy": 1.6661975989762585, "counts": {"ない と": 4, "なけれ ば": 4, "ない と いけ ない": 2}}
+{"raw": "ばっか", "replacement": "ばかり", "entropy": 0.0, "counts": {"ばかり": 3}}
+{"raw": "じゃん", "replacement": "です ね", "entropy": 1.9736467165338107, "counts": {"です ね": 4, "です よ ね": 1, "よ": 1, "です": 1}}
+{"raw": "カエンダケ", "replacement": "カエンタケ", "entropy": 0.0, "counts": {"カエンタケ": 1}}
+{"raw": "ググ", "replacement": "検索", "entropy": 0.0, "counts": {"検索": 1}}
+{"raw": "すげ", "replacement": "凄い", "entropy": 0.0, "counts": {"凄い": 1}}
+{"raw": "ぇ", "replacement": "", "entropy": 1.1587450075359835, "counts": {"": 2, "ぇ": 1}}
+{"raw": "女子大生", "replacement": "女子大学生", "entropy": 0.0, "counts": {"女子大学生": 1}}
+{"raw": "っぽい", "replacement": "みたい な", "entropy": 1.360673760222241, "counts": {"みたい な": 1, "よう な": 1}}
+{"raw": "bgm", "replacement": "BGM", "entropy": 0.0, "counts": {"BGM": 1}}
+{"raw": "めんどくさい", "replacement": "面倒くさい", "entropy": 1.1587450075359835, "counts": {"面倒くさい": 2, "めんどくさい": 1}}
+{"raw": "ちょい", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ヲタ", "replacement": "オタク", "entropy": 0.0, "counts": {"オタク": 1}}
+{"raw": "おら", "replacement": "い", "entropy": 1.1587450075359835, "counts": {"い": 2, "おら": 1}}
+{"raw": "まんま", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "そのまま": 1}}
+{"raw": "FF", "replacement": "最終回発情期", "entropy": 0.0, "counts": {"最終回発情期": 2}}
+{"raw": "除い", "replacement": "覗い", "entropy": 1.360673760222241, "counts": {"覗い": 1, "除い": 1}}
+{"raw": "ヨコ", "replacement": "横山裕", "entropy": 0.0, "counts": {"横山裕": 1}}
+{"raw": "オリックス", "replacement": "オリックス・バファローズ", "entropy": 0.0, "counts": {"オリックス・バファローズ": 3}}
+{"raw": "中日", "replacement": "中日ドラゴンズ", "entropy": 0.0, "counts": {"中日ドラゴンズ": 1}}
+{"raw": "月曜", "replacement": "月曜日", "entropy": 0.0, "counts": {"月曜日": 5}}
+{"raw": "ひ", "replacement": "ひい", "entropy": 1.360673760222241, "counts": {"ひい": 1, "ひ": 1}}
+{"raw": "ぃ", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "よ": 1}}
+{"raw": "吉村", "replacement": "吉村洋文", "entropy": 0.0, "counts": {"吉村洋文": 1}}
+{"raw": "石川", "replacement": "石川県", "entropy": 0.0, "counts": {"石川県": 1}}
+{"raw": "帰省", "replacement": "帰省 する", "entropy": 1.360673760222241, "counts": {"帰省 する": 1, "帰省": 1}}
+{"raw": "酒", "replacement": "お酒", "entropy": 1.360673760222241, "counts": {"お酒": 1, "酒": 1}}
+{"raw": "いんじゃ", "replacement": "いい の で は", "entropy": 0.0, "counts": {"いい の で は": 1}}
+{"raw": "♡」", "replacement": "♡。」", "entropy": 0.0, "counts": {"♡。」": 1}}
+{"raw": "言", "replacement": "言い", "entropy": 0.0, "counts": {"言い": 1}}
+{"raw": "練", "replacement": "練習", "entropy": 1.115220098543565, "counts": {"練習": 3, "": 2}}
+{"raw": "霊夢", "replacement": "博麗霊夢", "entropy": 0.0, "counts": {"博麗霊夢": 1}}
+{"raw": "筋トレ", "replacement": "筋力トレーニング", "entropy": 0.0, "counts": {"筋力トレーニング": 2}}
+{"raw": "重", "replacement": "たくさん", "entropy": 0.0, "counts": {"たくさん": 1}}
+{"raw": "ねー", "replacement": "ね 。", "entropy": 1.3668588196613294, "counts": {"ね 。": 8, "ね": 5, "か": 1}}
+{"raw": "ドレス", "replacement": "", "entropy": 1.1803368801111205, "counts": {"": 2, "ドレス": 2}}
+{"raw": "(?)", "replacement": "(?) し", "entropy": 0.0, "counts": {"(?) し": 1}}
+{"raw": "タクロウ", "replacement": "川上 拓朗", "entropy": 0.0, "counts": {"川上 拓朗": 1}}
+{"raw": "こいつ", "replacement": "これ", "entropy": 1.360673760222241, "counts": {"これ": 1, "こいつ": 1}}
+{"raw": "ぁ", "replacement": "は", "entropy": 0.0, "counts": {"は": 1}}
+{"raw": "マヒトゥザピーポー", "replacement": "マヒトゥ・ザ・ピーポー", "entropy": 0.0, "counts": {"マヒトゥ・ザ・ピーポー": 1}}
+{"raw": "たし", "replacement": "い まし た し", "entropy": 0.0, "counts": {"い まし た し": 1}}
+{"raw": "ほんと", "replacement": "本当に", "entropy": 1.360673760222241, "counts": {"本当に": 1, "本当": 1}}
+{"raw": "ファ", "replacement": "いいね", "entropy": 0.0, "counts": {"いいね": 1}}
+{"raw": "ボっ", "replacement": "した", "entropy": 0.0, "counts": {"した": 1}}
+{"raw": "た方", "replacement": "方", "entropy": 0.0, "counts": {"方": 1}}
+{"raw": "京都", "replacement": "京都府", "entropy": 0.7702470083891011, "counts": {"京都駅": 1, "京都府": 5}}
+{"raw": "伸びる", "replacement": "伸びる の", "entropy": 0.0, "counts": {"伸びる の": 1}}
+{"raw": "突破", "replacement": "突破 し ます", "entropy": 0.0, "counts": {"突破 し ます": 1}}
+{"raw": "こん", "replacement": "この", "entropy": 1.860673760222241, "counts": {"この": 2, "こ なく": 1, "この世": 1}}
+{"raw": "サイコー", "replacement": "最高", "entropy": 0.0, "counts": {"最高": 1}}
+{"raw": "テカ", "replacement": "と いう より も", "entropy": 0.0, "counts": {"と いう より も": 1}}
+{"raw": "チラッ", "replacement": "ちらちら", "entropy": 1.360673760222241, "counts": {"ちらちら": 1, "": 1}}
+{"raw": "メンテ", "replacement": "メンテナンス", "entropy": 0.0, "counts": {"メンテナンス": 1}}
+{"raw": "ちゃっ", "replacement": "て しまっ", "entropy": 0.6337328832551566, "counts": {"て しまっ": 7, "ちゃっ": 1}}
+{"raw": "もー", "replacement": "もう少し", "entropy": 1.360673760222241, "counts": {"もう少し": 1, "もう": 1}}
+{"raw": "酸っぱ", "replacement": "酸っぱく て", "entropy": 0.0, "counts": {"酸っぱく て": 1}}
+{"raw": "ファミマ", "replacement": "ファミリーマート", "entropy": 0.0, "counts": {"ファミリーマート": 2}}
+{"raw": "かっこ", "replacement": "格好", "entropy": 0.0, "counts": {"格好": 12}}
+{"raw": "かなっ", "replacement": "か", "entropy": 1.1587450075359835, "counts": {"か": 2, "か な": 1}}
+{"raw": "意", "replacement": "意思", "entropy": 1.360673760222241, "counts": {"意思": 1, "意": 1}}
+{"raw": "ヒイ", "replacement": "ヒイズミマサユ機", "entropy": 0.8661975989762587, "counts": {"ヒイ": 1, "ヒイズミマサユ機": 4}}
+{"raw": "捕らえ", "replacement": "捉え", "entropy": 0.0, "counts": {"捉え": 1}}
+{"raw": "ディスる", "replacement": "侮辱 する", "entropy": 0.0, "counts": {"侮辱 する": 1}}
+{"raw": "矛盾", "replacement": "矛盾 。", "entropy": 1.360673760222241, "counts": {"矛盾 。": 1, "矛盾": 1}}
+{"raw": "じゃう", "replacement": "で しまう", "entropy": 0.0, "counts": {"で しまう": 1}}
+{"raw": "ちまっ", "replacement": "て しまっ", "entropy": 0.0, "counts": {"て しまっ": 1}}
+{"raw": "キーパー", "replacement": "ゴールキーパー", "entropy": 0.0, "counts": {"ゴールキーパー": 2}}
+{"raw": "久保", "replacement": "久保建英", "entropy": 0.0, "counts": {"久保建英": 1}}
+{"raw": "リシ", "replacement": "リシ・ラマナサン", "entropy": 0.0, "counts": {"リシ・ラマナサン": 1}}
+{"raw": "かっこいい", "replacement": "格好いい", "entropy": 0.0, "counts": {"格好いい": 3}}
+{"raw": "そっか", "replacement": "そう か", "entropy": 0.0, "counts": {"そう か": 1}}
+{"raw": "わー", "replacement": "わあ", "entropy": 0.0, "counts": {"わあ": 2}}
+{"raw": "るし", "replacement": "い ます し", "entropy": 1.360673760222241, "counts": {"い ます し": 1, "ます": 1}}
+{"raw": "めんどく", "replacement": "面倒くさい", "entropy": 0.0, "counts": {"面倒くさい": 1}}
+{"raw": "ほんま", "replacement": "本当に", "entropy": 0.0, "counts": {"本当に": 2}}
+{"raw": "酔っ", "replacement": "酔う", "entropy": 0.0, "counts": {"酔う": 1}}
+{"raw": "..。", "replacement": "… 。", "entropy": 0.0, "counts": {"… 。": 1}}
+{"raw": "かじゃ", "replacement": "か で は", "entropy": 0.0, "counts": {"か で は": 1}}
+{"raw": "バファローズ", "replacement": "オリックス・バファローズ", "entropy": 0.0, "counts": {"オリックス・バファローズ": 1}}
+{"raw": "学祭", "replacement": "学園祭", "entropy": 0.0, "counts": {"学園祭": 4}}
+{"raw": "慶ちゃん", "replacement": "小山慶一郎 ちゃん", "entropy": 0.0, "counts": {"小山慶一郎 ちゃん": 3}}
+{"raw": "バッシュ", "replacement": "バスケットシューズ", "entropy": 0.0, "counts": {"バスケットシューズ": 1}}
+{"raw": "カード払い", "replacement": "クレジットカード 払い", "entropy": 0.0, "counts": {"クレジットカード 払い": 1}}
+{"raw": "よー", "replacement": "よ", "entropy": 2.2593610022480957, "counts": {"よ": 2, "です よ": 1, "よ 。": 2, "夜": 2}}
+{"raw": "グラサージュドリップケーキ", "replacement": "ドリップケーキ", "entropy": 0.0, "counts": {"ドリップケーキ": 1}}
+{"raw": "LV", "replacement": "ライブビューイング", "entropy": 0.0, "counts": {"ライブビューイング": 3}}
+{"raw": "ロゼリア", "replacement": "Roselia", "entropy": 0.0, "counts": {"Roselia": 1}}
+{"raw": "酒田", "replacement": "酒田市", "entropy": 0.0, "counts": {"酒田市": 1}}
+{"raw": "‥", "replacement": "…", "entropy": 0.9916150045702532, "counts": {"…": 3, "‥": 1}}
+{"raw": "！！！！！！！！！", "replacement": "！ ！", "entropy": 0.0, "counts": {"！ ！": 1}}
+{"raw": "ズミマセン", "replacement": "すみません", "entropy": 0.0, "counts": {"すみません": 1}}
+{"raw": "CA", "replacement": "客室乗務員", "entropy": 0.0, "counts": {"客室乗務員": 1}}
+{"raw": "あま", "replacement": "Amazonギフト券", "entropy": 0.0, "counts": {"Amazonギフト券": 1}}
+{"raw": "ぎふ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "オワコン", "replacement": "終わったコンテンツ", "entropy": 0.0, "counts": {"終わったコンテンツ": 1}}
+{"raw": "パナマ", "replacement": "パナマ 代表", "entropy": 0.0, "counts": {"パナマ 代表": 1}}
+{"raw": "森", "replacement": "森 。", "entropy": 1.360673760222241, "counts": {"森 。": 1, "森": 1}}
+{"raw": "関電", "replacement": "関西電力", "entropy": 0.0, "counts": {"関西電力": 1}}
+{"raw": "ヘイト", "replacement": "憎しみ", "entropy": 0.0, "counts": {"憎しみ": 1}}
+{"raw": "DM", "replacement": "個別 メッセージ", "entropy": 0.0, "counts": {"個別 メッセージ": 4}}
+{"raw": "うお", "replacement": "おお", "entropy": 0.0, "counts": {"おお": 1}}
+{"raw": "ヘビー", "replacement": "重い", "entropy": 0.0, "counts": {"重い": 1}}
+{"raw": "なんや", "replacement": "な の だ", "entropy": 1.360673760222241, "counts": {"な の だ": 1, "な の です": 1}}
+{"raw": "しゃあない", "replacement": "仕方がない", "entropy": 0.0, "counts": {"仕方がない": 1}}
+{"raw": "ばっかり", "replacement": "ばかり", "entropy": 0.0, "counts": {"ばかり": 5}}
+{"raw": "ないん", "replacement": "ない の", "entropy": 0.0, "counts": {"ない の": 1}}
+{"raw": "バイト", "replacement": "アルバイト", "entropy": 1.0446024429805252, "counts": {"バイト": 3, "アルバイト": 5}}
+{"raw": "うーん", "replacement": "ううん", "entropy": 0.0, "counts": {"ううん": 1}}
+{"raw": "よる", "replacement": "て いる", "entropy": 1.360673760222241, "counts": {"て いる": 1, "で いる": 1}}
+{"raw": "..", "replacement": "… F =", "entropy": 1.360673760222241, "counts": {"… F =": 1, "…": 1}}
+{"raw": "qvb", "replacement": "qvB", "entropy": 0.0, "counts": {"qvB": 1}}
+{"raw": "たわけ", "replacement": "い た わけ", "entropy": 0.0, "counts": {"い た わけ": 1}}
+{"raw": "FPS", "replacement": "フレームレート", "entropy": 0.0, "counts": {"フレームレート": 1}}
+{"raw": "おわっ", "replacement": "終わり まし", "entropy": 0.0, "counts": {"終わり まし": 1}}
+{"raw": "セ", "replacement": "セットリスト", "entropy": 0.0, "counts": {"セットリスト": 1}}
+{"raw": "トリ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "妹キャラ", "replacement": "妹 キャラクター", "entropy": 0.0, "counts": {"妹 キャラクター": 1}}
+{"raw": "ーーー", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "すーーー", "replacement": "", "entropy": 0.0, "counts": {"": 2}}
+{"raw": "ワイ", "replacement": "私", "entropy": 0.0, "counts": {"私": 2}}
+{"raw": "残ってる", "replacement": "残っ て いる", "entropy": 0.0, "counts": {"残っ て いる": 1}}
+{"raw": "印刷", "replacement": "印刷 する", "entropy": 0.0, "counts": {"印刷 する": 1}}
+{"raw": "あかっ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "なあい", "replacement": "ない", "entropy": 0.0, "counts": {"ない": 1}}
+{"raw": "閃光", "replacement": "閃光ライオット", "entropy": 0.0, "counts": {"閃光ライオット": 1}}
+{"raw": "コメダ", "replacement": "コメダ珈琲店", "entropy": 0.0, "counts": {"コメダ珈琲店": 2}}
+{"raw": "うわー", "replacement": "うわ あ", "entropy": 0.0, "counts": {"うわ あ": 2}}
+{"raw": "ヤフオク", "replacement": "Yahoo!オークション", "entropy": 0.0, "counts": {"Yahoo!オークション": 2}}
+{"raw": "一眼レフ", "replacement": "一眼レフカメラ", "entropy": 0.0, "counts": {"一眼レフカメラ": 2}}
+{"raw": "西宮", "replacement": "西宮 アイスアリーナ", "entropy": 1.6594896026324615, "counts": {"西宮 アイスアリーナ": 3, "西宮市": 1, "西宮": 1}}
+{"raw": "ホント", "replacement": "本当に", "entropy": 0.0, "counts": {"本当に": 4}}
+{"raw": "めんど", "replacement": "たち", "entropy": 0.0, "counts": {"たち": 1}}
+{"raw": "一色", "replacement": "一色いろは", "entropy": 0.0, "counts": {"一色いろは": 1}}
+{"raw": "八幡", "replacement": "比企谷八幡", "entropy": 0.0, "counts": {"比企谷八幡": 1}}
+{"raw": "キモ", "replacement": "気持ち 悪", "entropy": 1.1587450075359835, "counts": {"気持ち 悪": 2, "気持ち": 1}}
+{"raw": "@コスメ", "replacement": "アットコスメ", "entropy": 0.0, "counts": {"アットコスメ": 1}}
+{"raw": "ーーーー", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "っと", "replacement": "", "entropy": 2.065860847684144, "counts": {"": 1, "と": 1, "という": 1}}
+{"raw": "独房", "replacement": "独房 式", "entropy": 0.0, "counts": {"独房 式": 1}}
+{"raw": "トレ", "replacement": "トレーニング", "entropy": 0.0, "counts": {"トレーニング": 1}}
+{"raw": "ミステリ", "replacement": "ミステリー", "entropy": 0.0, "counts": {"ミステリー": 1}}
+{"raw": "TL", "replacement": "タイムライン", "entropy": 0.0, "counts": {"タイムライン": 2}}
+{"raw": "北高", "replacement": "北 高校", "entropy": 0.0, "counts": {"北 高校": 1}}
+{"raw": "た気", "replacement": "い た 気", "entropy": 0.0, "counts": {"い た 気": 1}}
+{"raw": "来場", "replacement": "来場者", "entropy": 0.0, "counts": {"来場者": 1}}
+{"raw": "ドロップ", "replacement": "脱落", "entropy": 0.0, "counts": {"脱落": 1}}
+{"raw": "てゆーか", "replacement": "と いう より も", "entropy": 0.0, "counts": {"と いう より も": 1}}
+{"raw": "かぶっ", "replacement": "被っ", "entropy": 0.0, "counts": {"被っ": 1}}
+{"raw": "ハース", "replacement": "ハースストーン", "entropy": 0.0, "counts": {"ハースストーン": 2}}
+{"raw": "とい", "replacement": "て おい", "entropy": 0.0, "counts": {"て おい": 3}}
+{"raw": "石崎", "replacement": "石崎 史郎", "entropy": 0.0, "counts": {"石崎 史郎": 1}}
+{"raw": "自己肯定", "replacement": "自己肯定感", "entropy": 0.0, "counts": {"自己肯定感": 1}}
+{"raw": "ね.", "replacement": "ね 。", "entropy": 0.0, "counts": {"ね 。": 1}}
+{"raw": "〆切", "replacement": "締め切り", "entropy": 0.0, "counts": {"締め切り": 3}}
+{"raw": "さぶ", "replacement": "サブスクリプション", "entropy": 0.0, "counts": {"サブスクリプション": 2}}
+{"raw": "すく", "replacement": "", "entropy": 0.0, "counts": {"": 2}}
+{"raw": "みれ", "replacement": "み られ", "entropy": 0.0, "counts": {"み られ": 1}}
+{"raw": "あん", "replacement": "ある", "entropy": 0.0, "counts": {"ある": 2}}
+{"raw": "女子高生", "replacement": "女子高校生", "entropy": 1.360673760222241, "counts": {"女子高校生": 1, "女子高生": 1}}
+{"raw": "←", "replacement": "。", "entropy": 0.0, "counts": {"。": 3}}
+{"raw": "分からん", "replacement": "わから ない", "entropy": 1.1587450075359835, "counts": {"わから ない": 2, "わかり ませ ん": 1}}
+{"raw": "進んで", "replacement": "進ん で い", "entropy": 0.0, "counts": {"進ん で い": 1}}
+{"raw": "一挙", "replacement": "一挙 放送", "entropy": 1.360673760222241, "counts": {"一挙 放送": 1, "一挙": 1}}
+{"raw": "尼崎", "replacement": "尼崎市", "entropy": 0.0, "counts": {"尼崎市": 2}}
+{"raw": "ツタヤ", "replacement": "TSUTAYA", "entropy": 0.0, "counts": {"TSUTAYA": 1}}
+{"raw": "ぎ", "replacement": "ぎ 。", "entropy": 0.0, "counts": {"ぎ 。": 1}}
+{"raw": "ニンニク臭", "replacement": "にんにく の 臭い", "entropy": 0.0, "counts": {"にんにく の 臭い": 1}}
+{"raw": "スチ", "replacement": "好き", "entropy": 0.0, "counts": {"好き": 1}}
+{"raw": "維新", "replacement": "日本維新の会", "entropy": 0.0, "counts": {"日本維新の会": 1}}
+{"raw": "みら", "replacement": "みらいレコーズ", "entropy": 0.0, "counts": {"みらいレコーズ": 1}}
+{"raw": "レコ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "降り", "replacement": "下り", "entropy": 1.360673760222241, "counts": {"下り": 1, "降り": 1}}
+{"raw": "なぞ", "replacement": "なんて", "entropy": 0.0, "counts": {"なんて": 1}}
+{"raw": "ツイ", "replacement": "ツイート", "entropy": 0.0, "counts": {"ツイート": 2}}
+{"raw": "おもろい", "replacement": "面白い です", "entropy": 1.1803368801111205, "counts": {"面白い です": 2, "面白い": 2}}
+{"raw": "っていう", "replacement": "という", "entropy": 0.0, "counts": {"という": 16}}
+{"raw": "エヴァ", "replacement": "エヴァンゲリオン", "entropy": 0.0, "counts": {"エヴァンゲリオン": 2}}
+{"raw": "とっても", "replacement": "とても", "entropy": 0.0, "counts": {"とても": 4}}
+{"raw": "谷本", "replacement": "谷本道哉", "entropy": 0.0, "counts": {"谷本道哉": 1}}
+{"raw": "やな", "replacement": "嫌 な", "entropy": 0.0, "counts": {"嫌 な": 1}}
+{"raw": "きわみ", "replacement": "極み", "entropy": 0.0, "counts": {"極み": 1}}
+{"raw": "あー", "replacement": "ああ", "entropy": 1.5848827850417415, "counts": {"": 2, "ああ": 4, "あっ": 1}}
+{"raw": "徳島", "replacement": "徳島県", "entropy": 0.0, "counts": {"徳島県": 1}}
+{"raw": "オタ活", "replacement": "オタク 活動", "entropy": 0.0, "counts": {"オタク 活動": 1}}
+{"raw": "よーく", "replacement": "よく", "entropy": 0.0, "counts": {"よく": 2}}
+{"raw": "トーカイ", "replacement": "クラフトハートトーカイ", "entropy": 0.0, "counts": {"クラフトハートトーカイ": 1}}
+{"raw": "スピループス", "replacement": "SPILOOPS", "entropy": 0.0, "counts": {"SPILOOPS": 1}}
+{"raw": "岩手", "replacement": "岩手県", "entropy": 0.0, "counts": {"岩手県": 2}}
+{"raw": "・", "replacement": "", "entropy": 1.60705428633576, "counts": {"・": 5, "…": 4, "": 8}}
+{"raw": "てれ", "replacement": "て いれ", "entropy": 0.0, "counts": {"て いれ": 1}}
+{"raw": "欲", "replacement": "欲望", "entropy": 1.360673760222241, "counts": {"欲望": 1, "欲": 1}}
+{"raw": "リピ", "replacement": "再 注文", "entropy": 0.0, "counts": {"再 注文": 1}}
+{"raw": "かわゆい", "replacement": "可愛い です", "entropy": 0.0, "counts": {"可愛い です": 1}}
+{"raw": "バリ", "replacement": "バリ島", "entropy": 0.0, "counts": {"バリ島": 1}}
+{"raw": "っす", "replacement": "です", "entropy": 0.9916150045702532, "counts": {"です": 3, "ます": 1}}
+{"raw": "ダビットソン", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "日曜", "replacement": "日曜日", "entropy": 0.0, "counts": {"日曜日": 1}}
+{"raw": "もぉ", "replacement": "もう", "entropy": 0.0, "counts": {"もう": 1}}
+{"raw": "土日", "replacement": "土曜日 と 日曜日", "entropy": 0.0, "counts": {"土曜日 と 日曜日": 4}}
+{"raw": "たらしい", "replacement": "い た らしい", "entropy": 0.0, "counts": {"い た らしい": 1}}
+{"raw": "コミケ", "replacement": "コミックマーケット", "entropy": 0.0, "counts": {"コミックマーケット": 2}}
+{"raw": "マスコット", "replacement": "マスコットキャラクター", "entropy": 0.0, "counts": {"マスコットキャラクター": 1}}
+{"raw": "なう", "replacement": "を し て い ます", "entropy": 1.360673760222241, "counts": {"を し て い ます": 1, "し て い ます": 1}}
+{"raw": "すぎや", "replacement": "すぎ", "entropy": 0.0, "counts": {"すぎ": 1}}
+{"raw": "ろ", "replacement": "でしょ う", "entropy": 0.0, "counts": {"でしょ う": 1}}
+{"raw": "活", "replacement": "活 。", "entropy": 0.0, "counts": {"活 。": 1}}
+{"raw": "アドレス", "replacement": "メールアドレス", "entropy": 0.0, "counts": {"メールアドレス": 4}}
+{"raw": "岡本", "replacement": "岡本和真", "entropy": 0.0, "counts": {"岡本和真": 1}}
+{"raw": "すっごい", "replacement": "凄く", "entropy": 0.0, "counts": {"凄く": 1}}
+{"raw": "横並び", "replacement": "横並び 。", "entropy": 0.0, "counts": {"横並び 。": 1}}
+{"raw": "ニーハイ", "replacement": "ニーハイソックス", "entropy": 0.0, "counts": {"ニーハイソックス": 1}}
+{"raw": "btc", "replacement": "ビットコイン", "entropy": 0.0, "counts": {"ビットコイン": 2}}
+{"raw": "MAX", "replacement": "最大 に なる", "entropy": 0.0, "counts": {"最大 に なる": 1}}
+{"raw": "100均", "replacement": "百円 均一 ショップ", "entropy": 0.0, "counts": {"百円 均一 ショップ": 1}}
+{"raw": "糸ノコ", "replacement": "糸ノコ ギリ", "entropy": 0.0, "counts": {"糸ノコ ギリ": 1}}
+{"raw": "てん", "replacement": "て いる", "entropy": 0.0, "counts": {"て いる": 3}}
+{"raw": "まぁ", "replacement": "まあ", "entropy": 0.0, "counts": {"まあ": 4}}
+{"raw": "ANN", "replacement": "オールナイトニッポン", "entropy": 0.0, "counts": {"オールナイトニッポン": 1}}
+{"raw": "ふっと", "replacement": "ふと", "entropy": 0.0, "counts": {"ふと": 1}}
+{"raw": "熊本", "replacement": "熊本県", "entropy": 1.360673760222241, "counts": {"熊本県": 1, "熊本": 1}}
+{"raw": "す", "replacement": "する", "entropy": 2.27896959427673, "counts": {"する": 2, "": 1, "す": 2, "し": 1}}
+{"raw": "ノート", "replacement": "ノートパソコン", "entropy": 0.0, "counts": {"ノートパソコン": 2}}
+{"raw": "PC", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "卒制", "replacement": "卒業制作", "entropy": 0.0, "counts": {"卒業制作": 1}}
+{"raw": "GW", "replacement": "ゴールデンウイーク", "entropy": 1.1587450075359835, "counts": {"ゴールデンウイーク": 2, "ゴールデンウィーク": 1}}
+{"raw": "見れ", "replacement": "見 られ", "entropy": 1.115220098543565, "counts": {"見 られ": 3, "見れ": 2}}
+{"raw": "アクシデント", "replacement": "思いがけない 出来事", "entropy": 0.0, "counts": {"思いがけない 出来事": 1}}
+{"raw": "よっ", "replacement": "て い まし", "entropy": 0.0, "counts": {"て い まし": 1}}
+{"raw": "とる", "replacement": "て いる", "entropy": 1.860673760222241, "counts": {"て いる": 2, "て い ます": 1, "とる": 1}}
+{"raw": "宮崎", "replacement": "宮崎県", "entropy": 0.0, "counts": {"宮崎県": 2}}
+{"raw": "醒め", "replacement": "覚め", "entropy": 0.0, "counts": {"覚め": 1}}
+{"raw": "アムス", "replacement": "アムステルダム", "entropy": 0.0, "counts": {"アムステルダム": 1}}
+{"raw": "ユース", "replacement": "ユースホステル", "entropy": 0.0, "counts": {"ユースホステル": 2}}
+{"raw": "ぽい", "replacement": "の よう な", "entropy": 0.0, "counts": {"の よう な": 2}}
+{"raw": "曲っ", "replacement": "曲", "entropy": 0.0, "counts": {"曲": 1}}
+{"raw": "において", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "スタメン", "replacement": "スターティングメンバー", "entropy": 0.0, "counts": {"スターティングメンバー": 2}}
+{"raw": "鴨", "replacement": "鴨 。", "entropy": 1.360673760222241, "counts": {"鴨 。": 1, "鴨": 1}}
+{"raw": "N", "replacement": "NHK", "entropy": 0.0, "counts": {"NHK": 1}}
+{"raw": "__", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "K", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "K": 1}}
+{"raw": "光っ", "replacement": "光", "entropy": 0.0, "counts": {"光": 1}}
+{"raw": "げっ", "replacement": "ゲッターズ飯田", "entropy": 0.0, "counts": {"ゲッターズ飯田": 1}}
+{"raw": "○", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "あったかく", "replacement": "温かく", "entropy": 0.0, "counts": {"温かく": 1}}
+{"raw": "まーじ", "replacement": "本当", "entropy": 0.0, "counts": {"本当": 1}}
+{"raw": "よしっ", "replacement": "よし", "entropy": 0.0, "counts": {"よし": 1}}
+{"raw": "レオレオニ", "replacement": "レオ・レオニ", "entropy": 0.0, "counts": {"レオ・レオニ": 1}}
+{"raw": "デジカメ", "replacement": "デジタルカメラ", "entropy": 0.0, "counts": {"デジタルカメラ": 1}}
+{"raw": "logicool", "replacement": "Logicool", "entropy": 0.0, "counts": {"Logicool": 1}}
+{"raw": "beachwoods", "replacement": "Beachwoods", "entropy": 0.0, "counts": {"Beachwoods": 1}}
+{"raw": "HP", "replacement": "ホームページ", "entropy": 0.0, "counts": {"ホームページ": 1}}
+{"raw": "トコ", "replacement": "ところ", "entropy": 0.0, "counts": {"ところ": 2}}
+{"raw": "グリコ", "replacement": "江崎グリコ", "entropy": 0.0, "counts": {"江崎グリコ": 1}}
+{"raw": "ヤダ", "replacement": "嫌", "entropy": 0.0, "counts": {"嫌": 1}}
+{"raw": "gdgd", "replacement": "グダグダ", "entropy": 0.0, "counts": {"グダグダ": 1}}
+{"raw": "ゲー", "replacement": "ゲーム", "entropy": 0.0, "counts": {"ゲーム": 1}}
+{"raw": "ゲーコーナー", "replacement": "ゲーム コーナー", "entropy": 0.0, "counts": {"ゲーム コーナー": 1}}
+{"raw": "or", "replacement": "か", "entropy": 0.0, "counts": {"か": 1}}
+{"raw": "テレワーク", "replacement": "在宅ワーク", "entropy": 1.1587450075359835, "counts": {"在宅ワーク": 2, "在宅ワーク を": 1}}
+{"raw": "就活", "replacement": "就職活動", "entropy": 1.115220098543565, "counts": {"就活": 2, "就職活動": 3}}
+{"raw": "ダウン", "replacement": "ダウン スタイル", "entropy": 0.0, "counts": {"ダウン スタイル": 1}}
+{"raw": "岡田", "replacement": "岡田准一", "entropy": 0.0, "counts": {"岡田准一": 2}}
+{"raw": "山中", "replacement": "山中伸弥", "entropy": 0.0, "counts": {"山中伸弥": 1}}
+{"raw": "アキバ", "replacement": "秋葉原", "entropy": 0.0, "counts": {"秋葉原": 1}}
+{"raw": "サンタ", "replacement": "サンタクロース", "entropy": 0.0, "counts": {"サンタクロース": 1}}
+{"raw": "健一", "replacement": "黒沢健一", "entropy": 0.0, "counts": {"黒沢健一": 1}}
+{"raw": "ホアンディシャン", "replacement": "ファンデーション", "entropy": 0.0, "counts": {"ファンデーション": 2}}
+{"raw": "じょ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "はほん", "replacement": "は", "entropy": 0.0, "counts": {"は": 1}}
+{"raw": "スゴス", "replacement": "凄い です 。", "entropy": 0.0, "counts": {"凄い です 。": 1}}
+{"raw": "た人", "replacement": "い た 人", "entropy": 0.0, "counts": {"い た 人": 1}}
+{"raw": "クッソョンハハァンデ", "replacement": "クッション ファンデーション", "entropy": 0.0, "counts": {"クッション ファンデーション": 1}}
+{"raw": "乃木坂", "replacement": "乃木坂46", "entropy": 0.0, "counts": {"乃木坂46": 1}}
+{"raw": "スネア", "replacement": "スネアドラム", "entropy": 0.0, "counts": {"スネアドラム": 1}}
+{"raw": "ほっと", "replacement": "ほとんど", "entropy": 0.0, "counts": {"ほとんど": 1}}
+{"raw": "ど", "replacement": "", "entropy": 2.065860847684144, "counts": {"": 1, "よ": 1, "ど": 1}}
+{"raw": "ビッグサイト", "replacement": "東京ビッグサイト", "entropy": 0.0, "counts": {"東京ビッグサイト": 1}}
+{"raw": "卒論", "replacement": "卒業論文", "entropy": 0.0, "counts": {"卒業論文": 3}}
+{"raw": "key", "replacement": "Key", "entropy": 0.0, "counts": {"Key": 1}}
+{"raw": "セブン", "replacement": "セブンイレブン", "entropy": 0.0, "counts": {"セブンイレブン": 3}}
+{"raw": "ジョンソンアンドジョンソン", "replacement": "ジョンソン・エンド・ジョンソン", "entropy": 0.0, "counts": {"ジョンソン・エンド・ジョンソン": 1}}
+{"raw": "マネー", "replacement": "お金", "entropy": 0.0, "counts": {"お金": 1}}
+{"raw": "こうか", "replacement": "いこ う か", "entropy": 0.0, "counts": {"いこ う か": 1}}
+{"raw": "スキャ", "replacement": "スキャルピング", "entropy": 0.0, "counts": {"スキャルピング": 2}}
+{"raw": "リスペクト", "replacement": "尊敬 する こと", "entropy": 0.0, "counts": {"尊敬 する こと": 1}}
+{"raw": "マック", "replacement": "マクドナルド", "entropy": 0.0, "counts": {"マクドナルド": 2}}
+{"raw": "下関", "replacement": "下関市", "entropy": 0.0, "counts": {"下関市": 1}}
+{"raw": "損傷", "replacement": "損傷 する こと", "entropy": 0.0, "counts": {"損傷 する こと": 1}}
+{"raw": "じゃっ", "replacement": "で しまっ", "entropy": 0.0, "counts": {"で しまっ": 1}}
+{"raw": "かっ", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "かっ": 1}}
+{"raw": "右手", "replacement": "右手 用", "entropy": 0.0, "counts": {"右手 用": 1}}
+{"raw": "デジ", "replacement": "デジタル", "entropy": 0.0, "counts": {"デジタル": 1}}
+{"raw": "ソフト", "replacement": "ソフトクリーム", "entropy": 0.0, "counts": {"ソフトクリーム": 1}}
+{"raw": "こうちゃ", "replacement": "こうちゃん", "entropy": 0.0, "counts": {"こうちゃん": 1}}
+{"raw": "ぐたざい゛", "replacement": "ください", "entropy": 0.0, "counts": {"ください": 1}}
+{"raw": "サバゲ", "replacement": "サバイバルゲーム", "entropy": 0.0, "counts": {"サバイバルゲーム": 1}}
+{"raw": "―", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "pH", "replacement": "水素イオン指数", "entropy": 0.0, "counts": {"水素イオン指数": 1}}
+{"raw": "追いかける", "replacement": "追いかけ", "entropy": 0.0, "counts": {"追いかけ": 1}}
+{"raw": "にも", "replacement": "て も", "entropy": 1.360673760222241, "counts": {"て も": 1, "にも": 1}}
+{"raw": "twitter", "replacement": "Twitter", "entropy": 0.0, "counts": {"Twitter": 3}}
+{"raw": "facebook", "replacement": "Facebook", "entropy": 0.0, "counts": {"Facebook": 1}}
+{"raw": "レバ", "replacement": "レバレッジ", "entropy": 0.0, "counts": {"レバレッジ": 2}}
+{"raw": "ぞ", "replacement": "よ", "entropy": 1.1803368801111205, "counts": {"よ": 2, "ぞ": 2}}
+{"raw": "襷", "replacement": "欅坂46", "entropy": 0.0, "counts": {"欅坂46": 1}}
+{"raw": "探さ", "replacement": "探ら", "entropy": 0.0, "counts": {"探ら": 1}}
+{"raw": "スプ", "replacement": "スプレッド", "entropy": 0.0, "counts": {"スプレッド": 2}}
+{"raw": "すし", "replacement": "すしらーめん《りく》", "entropy": 0.0, "counts": {"すしらーめん《りく》": 1}}
+{"raw": "思", "replacement": "思い", "entropy": 1.360673760222241, "counts": {"思い": 1, "思っ": 1}}
+{"raw": "発達", "replacement": "発達障害", "entropy": 1.360673760222241, "counts": {"発達障害": 1, "発達": 1}}
+{"raw": "特異", "replacement": "得意", "entropy": 1.360673760222241, "counts": {"得意": 1, "": 1}}
+{"raw": "不", "replacement": "不得意", "entropy": 0.0, "counts": {"不得意": 1}}
+{"raw": "片隅", "replacement": "片隅 に ある の です か", "entropy": 0.0, "counts": {"片隅 に ある の です か": 1}}
+{"raw": "ゆき", "replacement": "いき", "entropy": 0.0, "counts": {"いき": 1}}
+{"raw": "月次", "replacement": "月次 損益", "entropy": 0.0, "counts": {"月次 損益": 1}}
+{"raw": "ぽく", "replacement": "僕", "entropy": 0.0, "counts": {"僕": 1}}
+{"raw": "ゲートウェイ", "replacement": "ゲートウェイ 。", "entropy": 0.0, "counts": {"ゲートウェイ 。": 1}}
+{"raw": "せもん", "replacement": "の", "entropy": 0.0, "counts": {"の": 1}}
+{"raw": "あぁ", "replacement": "ああ", "entropy": 0.0, "counts": {"ああ": 2}}
+{"raw": "穂", "replacement": "穂子", "entropy": 0.0, "counts": {"穂子": 1}}
+{"raw": "ところが", "replacement": "ところ が", "entropy": 0.0, "counts": {"ところ が": 1}}
+{"raw": "ノイアー", "replacement": "マヌエル・ノイアー", "entropy": 0.0, "counts": {"マヌエル・ノイアー": 1}}
+{"raw": "八つ橋", "replacement": "八ツ 橋", "entropy": 2.065860847684144, "counts": {"八ツ 橋": 1, "": 1, "八ツ橋": 1}}
+{"raw": "生", "replacement": "生八ツ橋", "entropy": 1.360673760222241, "counts": {"生八ツ橋": 1, "生": 1}}
+{"raw": "あぶ", "replacement": "危ない", "entropy": 0.0, "counts": {"危ない": 1}}
+{"raw": "ミ", "replacement": "失敗", "entropy": 1.360673760222241, "counts": {"失敗": 1, "間違え": 1}}
+{"raw": "スっ", "replacement": "する", "entropy": 1.360673760222241, "counts": {"する": 1, "": 1}}
+{"raw": "食う", "replacement": "食べる", "entropy": 0.0, "counts": {"食べる": 1}}
+{"raw": "どー", "replacement": "どう", "entropy": 0.0, "counts": {"どう": 1}}
+{"raw": "chara", "replacement": "Chara", "entropy": 0.0, "counts": {"Chara": 1}}
+{"raw": "タリーズ", "replacement": "タリーズコーヒー", "entropy": 0.0, "counts": {"タリーズコーヒー": 1}}
+{"raw": "思いっきり", "replacement": "思い切り", "entropy": 0.0, "counts": {"思い切り": 4}}
+{"raw": "リュック", "replacement": "リュックサック", "entropy": 0.0, "counts": {"リュックサック": 1}}
+{"raw": "ドイツ", "replacement": "ドイツ代表", "entropy": 0.0, "counts": {"ドイツ代表": 1}}
+{"raw": "ブル", "replacement": "ブルーベース", "entropy": 0.0, "counts": {"ブルーベース": 1}}
+{"raw": "イエベ", "replacement": "イエローベース", "entropy": 0.0, "counts": {"イエローベース": 1}}
+{"raw": "いでー", "replacement": "です", "entropy": 0.0, "counts": {"です": 1}}
+{"raw": "ごし", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "トイプ", "replacement": "トイプードル", "entropy": 0.0, "counts": {"トイプードル": 1}}
+{"raw": "MEX", "replacement": "BitMEX", "entropy": 0.0, "counts": {"BitMEX": 1}}
+{"raw": "ペンタブ", "replacement": "ペンタブレット", "entropy": 0.0, "counts": {"ペンタブレット": 2}}
+{"raw": "大手", "replacement": "大手企業", "entropy": 1.360673760222241, "counts": {"大手企業": 1, "大手": 1}}
+{"raw": "リモート", "replacement": "在宅ワーク", "entropy": 0.0, "counts": {"在宅ワーク": 2}}
+{"raw": "豊橋", "replacement": "豊橋市", "entropy": 0.0, "counts": {"豊橋市": 1}}
+{"raw": "諏訪", "replacement": "諏訪市", "entropy": 0.0, "counts": {"諏訪市": 1}}
+{"raw": "松本", "replacement": "松本市", "entropy": 0.0, "counts": {"松本市": 1}}
+{"raw": "南山", "replacement": "南山大学", "entropy": 0.0, "counts": {"南山大学": 1}}
+{"raw": "ドル", "replacement": "アイドル", "entropy": 0.0, "counts": {"アイドル": 1}}
+{"raw": "研", "replacement": "研究会", "entropy": 0.0, "counts": {"研究会": 1}}
+{"raw": "ニコ", "replacement": "ニコチン", "entropy": 0.0, "counts": {"ニコチン": 2}}
+{"raw": "だー", "replacement": "です ね", "entropy": 1.360673760222241, "counts": {"です ね": 1, "です": 1}}
+{"raw": "影", "replacement": "影山 ヒロノブ", "entropy": 0.0, "counts": {"影山 ヒロノブ": 1}}
+{"raw": "インスタ", "replacement": "Instagram", "entropy": 0.0, "counts": {"Instagram": 2}}
+{"raw": "さむい", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "すん", "replacement": "凄く", "entropy": 1.1587450075359835, "counts": {"凄く": 2, "する の": 1}}
+{"raw": "ごい", "replacement": "", "entropy": 0.0, "counts": {"": 2}}
+{"raw": "沼津", "replacement": "沼津市", "entropy": 0.0, "counts": {"沼津市": 1}}
+{"raw": "そうですね", "replacement": "そう です ね 。", "entropy": 0.0, "counts": {"そう です ね 。": 1}}
+{"raw": "しゃれおつ", "replacement": "おしゃれ", "entropy": 0.0, "counts": {"おしゃれ": 1}}
+{"raw": "いっす", "replacement": "い ます", "entropy": 0.0, "counts": {"い ます": 1}}
+{"raw": "ラノベ", "replacement": "ライトノベル", "entropy": 0.0, "counts": {"ライトノベル": 1}}
+{"raw": "静岡", "replacement": "静岡県", "entropy": 1.1587450075359835, "counts": {"静岡": 1, "静岡県": 2}}
+{"raw": "火曜", "replacement": "火曜日", "entropy": 0.0, "counts": {"火曜日": 1}}
+{"raw": "ささやき", "replacement": "ささやき声", "entropy": 0.0, "counts": {"ささやき声": 1}}
+{"raw": "真央ちゃん", "replacement": "浅田真央 ちゃん", "entropy": 0.0, "counts": {"浅田真央 ちゃん": 1}}
+{"raw": "ビビっ", "replacement": "びっくり し", "entropy": 0.0, "counts": {"びっくり し": 1}}
+{"raw": "新型コロナウイルス", "replacement": "新型コロナウイルス感染症", "entropy": 0.0, "counts": {"新型コロナウイルス感染症": 1}}
+{"raw": "メカトロ", "replacement": "メカトロニクス", "entropy": 0.0, "counts": {"メカトロニクス": 1}}
+{"raw": "てか", "replacement": "と いう より も", "entropy": 0.0, "counts": {"と いう より も": 2}}
+{"raw": "全日", "replacement": "全日本フィギュアスケート選手権大会", "entropy": 0.0, "counts": {"全日本フィギュアスケート選手権大会": 2}}
+{"raw": "わからん", "replacement": "わから ない", "entropy": 1.1803368801111205, "counts": {"わから ない": 2, "わから": 2}}
+{"raw": "募集", "replacement": "募集 し ます", "entropy": 0.0, "counts": {"募集 し ます": 1}}
+{"raw": "デモ", "replacement": "デーモン", "entropy": 0.0, "counts": {"デーモン": 3}}
+{"raw": "ハン", "replacement": "ハンター", "entropy": 0.0, "counts": {"ハンター": 3}}
+{"raw": "戦", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ソフバン", "replacement": "ソフトバンク", "entropy": 0.0, "counts": {"ソフトバンク": 1}}
+{"raw": "宇治", "replacement": "宇治市", "entropy": 0.0, "counts": {"宇治市": 1}}
+{"raw": "ござる", "replacement": "", "entropy": 0.0, "counts": {"": 2}}
+{"raw": "キツイ", "replacement": "きつい", "entropy": 0.0, "counts": {"きつい": 1}}
+{"raw": "えー", "replacement": "え", "entropy": 0.0, "counts": {"え": 1}}
+{"raw": "違", "replacement": "違う", "entropy": 0.0, "counts": {"違う": 1}}
+{"raw": "ワイルドレジェ", "replacement": "ワイルド の レジェンド", "entropy": 0.0, "counts": {"ワイルド の レジェンド": 1}}
+{"raw": "事実", "replacement": "事実 。", "entropy": 1.360673760222241, "counts": {"事実 。": 1, "事実": 1}}
+{"raw": "なぁっ", "replacement": "なっ", "entropy": 0.0, "counts": {"なっ": 1}}
+{"raw": "あらー", "replacement": "あら 。", "entropy": 0.0, "counts": {"あら 。": 1}}
+{"raw": "サー", "replacement": "課外活動", "entropy": 0.0, "counts": {"課外活動": 1}}
+{"raw": "オリ", "replacement": "オリエンテーション", "entropy": 0.0, "counts": {"オリエンテーション": 1}}
+{"raw": "垢", "replacement": "アカウント", "entropy": 0.0, "counts": {"アカウント": 1}}
+{"raw": "のこっ", "replacement": "の", "entropy": 0.0, "counts": {"の": 1}}
+{"raw": "せっせ", "replacement": "せっせと", "entropy": 0.0, "counts": {"せっせと": 1}}
+{"raw": "バッサバサ", "replacement": "バサバサ", "entropy": 0.0, "counts": {"バサバサ": 1}}
+{"raw": "昼夜逆転生活", "replacement": "昼夜逆転 した 生活", "entropy": 0.0, "counts": {"昼夜逆転 した 生活": 1}}
+{"raw": "求", "replacement": "募集", "entropy": 0.0, "counts": {"募集": 1}}
+{"raw": "ム", "replacement": "し ます", "entropy": 0.0, "counts": {"し ます": 1}}
+{"raw": "淋しい", "replacement": "寂しい", "entropy": 0.0, "counts": {"寂しい": 1}}
+{"raw": "あくまで", "replacement": "あくまでも", "entropy": 0.0, "counts": {"あくまでも": 1}}
+{"raw": "丸亀", "replacement": "丸亀製麺", "entropy": 0.0, "counts": {"丸亀製麺": 2}}
+{"raw": "丼", "replacement": "牛丼", "entropy": 0.0, "counts": {"牛丼": 1}}
+{"raw": "かいな", "replacement": "です か ね", "entropy": 0.0, "counts": {"です か ね": 1}}
+{"raw": "両", "replacement": "両思い", "entropy": 0.0, "counts": {"両思い": 1}}
+{"raw": "想い", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "たって", "replacement": "た として も", "entropy": 1.360673760222241, "counts": {"た として も": 1, "も": 1}}
+{"raw": "どっぽ", "replacement": "観音坂独歩", "entropy": 0.0, "counts": {"観音坂独歩": 1}}
+{"raw": "＼", "replacement": "。", "entropy": 0.0, "counts": {"。": 3}}
+{"raw": "まいどくん", "replacement": "まいどくん 。", "entropy": 0.0, "counts": {"まいどくん 。": 1}}
+{"raw": "コンペ", "replacement": "コンペティション", "entropy": 0.0, "counts": {"コンペティション": 1}}
+{"raw": "ぴえん", "replacement": "ぴえん 。", "entropy": 0.0, "counts": {"ぴえん 。": 3}}
+{"raw": "福岡", "replacement": "福岡県", "entropy": 1.360673760222241, "counts": {"福岡県": 1, "福岡": 1}}
+{"raw": "ググッ", "replacement": "検索", "entropy": 0.0, "counts": {"検索": 1}}
+{"raw": "タラ", "replacement": "し", "entropy": 0.0, "counts": {"し": 1}}
+{"raw": "沖縄", "replacement": "たら 沖縄県", "entropy": 0.0, "counts": {"たら 沖縄県": 1}}
+{"raw": "接近", "replacement": "接近 する", "entropy": 0.0, "counts": {"接近 する": 1}}
+{"raw": "ソシャゲ", "replacement": "ソーシャルゲーム", "entropy": 0.0, "counts": {"ソーシャルゲーム": 2}}
+{"raw": "延期", "replacement": "延期 する", "entropy": 1.360673760222241, "counts": {"延期 する": 1, "延期": 1}}
+{"raw": "松北", "replacement": "松山 北高等学校", "entropy": 0.0, "counts": {"松山 北高等学校": 1}}
+{"raw": "帝京", "replacement": "帝京第五高等学校", "entropy": 0.0, "counts": {"帝京第五高等学校": 1}}
+{"raw": "枠内", "replacement": "放送枠 内", "entropy": 0.0, "counts": {"放送枠 内": 1}}
+{"raw": "ぴゃあああ", "replacement": "ぴゃあ 。", "entropy": 0.0, "counts": {"ぴゃあ 。": 1}}
+{"raw": "ああああ", "replacement": "あ", "entropy": 0.0, "counts": {"あ": 1}}
+{"raw": "ホワイトチョコ", "replacement": "ホワイトチョコレート", "entropy": 0.0, "counts": {"ホワイトチョコレート": 1}}
+{"raw": "聖恵", "replacement": "吉岡聖恵", "entropy": 1.360673760222241, "counts": {"吉岡聖恵": 1, "聖恵": 1}}
+{"raw": "ものすごい", "replacement": "ものすごく", "entropy": 0.0, "counts": {"ものすごく": 1}}
+{"raw": "各社", "replacement": "各 会社", "entropy": 0.0, "counts": {"各 会社": 1}}
+{"raw": "かけよ", "replacement": "かけ", "entropy": 0.0, "counts": {"かけ": 1}}
+{"raw": "とりま", "replacement": "とりあえず 、 まあ", "entropy": 0.0, "counts": {"とりあえず 、 まあ": 3}}
+{"raw": "Ｋ", "replacement": "K", "entropy": 0.0, "counts": {"K": 1}}
+{"raw": "スカパラ", "replacement": "東京スカパラダイスオーケストラ", "entropy": 0.0, "counts": {"東京スカパラダイスオーケストラ": 1}}
+{"raw": "届", "replacement": "届か", "entropy": 0.0, "counts": {"届か": 1}}
+{"raw": "ないー", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ほわ", "replacement": "はあ", "entropy": 0.0, "counts": {"はあ": 1}}
+{"raw": "愛環", "replacement": "愛知環状鉄道", "entropy": 0.0, "counts": {"愛知環状鉄道": 1}}
+{"raw": "ユニバ", "replacement": "USJ", "entropy": 0.0, "counts": {"USJ": 1}}
+{"raw": "てきな", "replacement": "て", "entropy": 0.0, "counts": {"て": 1}}
+{"raw": "いって", "replacement": "なさい という", "entropy": 1.360673760222241, "counts": {"なさい という": 1, "と": 1}}
+{"raw": "秀吉", "replacement": "豊臣秀吉", "entropy": 0.0, "counts": {"豊臣秀吉": 1}}
+{"raw": "どっか", "replacement": "どこか", "entropy": 0.0, "counts": {"どこか": 4}}
+{"raw": "だーー", "replacement": "です", "entropy": 0.0, "counts": {"です": 1}}
+{"raw": "とーっても", "replacement": "とても", "entropy": 0.0, "counts": {"とても": 1}}
+{"raw": "ラッキー", "replacement": "ラッキー 。", "entropy": 0.0, "counts": {"ラッキー 。": 1}}
+{"raw": "学", "replacement": "学生", "entropy": 0.0, "counts": {"学生": 1}}
+{"raw": "連", "replacement": "氷上 競技連盟", "entropy": 0.0, "counts": {"氷上 競技連盟": 1}}
+{"raw": "朝晩", "replacement": "朝 と 晩", "entropy": 0.0, "counts": {"朝 と 晩": 1}}
+{"raw": "歌え", "replacement": "歌える よう に なっ", "entropy": 0.0, "counts": {"歌える よう に なっ": 1}}
+{"raw": "ふぇぇ", "replacement": "ふえ え", "entropy": 0.0, "counts": {"ふえ え": 1}}
+{"raw": "和歌山", "replacement": "和歌山県", "entropy": 1.1587450075359835, "counts": {"和歌山": 1, "和歌山県": 2}}
+{"raw": "徹底", "replacement": "徹底 し て", "entropy": 0.0, "counts": {"徹底 し て": 1}}
+{"raw": "あんまし", "replacement": "あまり", "entropy": 0.0, "counts": {"あまり": 1}}
+{"raw": "コミュ力", "replacement": "コミュニケーション能力", "entropy": 0.0, "counts": {"コミュニケーション能力": 1}}
+{"raw": "掛川", "replacement": "掛川市", "entropy": 0.0, "counts": {"掛川市": 1}}
+{"raw": "複線", "replacement": "伏線", "entropy": 0.0, "counts": {"伏線": 1}}
+{"raw": "プラ転", "replacement": "プラス 転換", "entropy": 0.0, "counts": {"プラス 転換": 1}}
+{"raw": "中島", "replacement": "中島翔哉", "entropy": 0.0, "counts": {"中島翔哉": 1}}
+{"raw": "契約", "replacement": "契約 する", "entropy": 0.0, "counts": {"契約 する": 1}}
+{"raw": "指値", "replacement": "指値 注文", "entropy": 0.0, "counts": {"指値 注文": 1}}
+{"raw": "bf", "replacement": "bitFlyer", "entropy": 0.0, "counts": {"bitFlyer": 2}}
+{"raw": "アバウト", "replacement": "大まか", "entropy": 0.0, "counts": {"大まか": 1}}
+{"raw": "持ち直せ", "replacement": "持ち 直せ", "entropy": 0.0, "counts": {"持ち 直せ": 1}}
+{"raw": "いじられキャラ", "replacement": "いじられキャラ です", "entropy": 0.0, "counts": {"いじられキャラ です": 1}}
+{"raw": "イラレ", "replacement": "Illustrator", "entropy": 0.0, "counts": {"Illustrator": 1}}
+{"raw": "フォトショ", "replacement": "Photoshop を", "entropy": 0.0, "counts": {"Photoshop を": 1}}
+{"raw": "ふつー", "replacement": "普通", "entropy": 0.0, "counts": {"普通": 1}}
+{"raw": "_", "replacement": "、", "entropy": 0.0, "counts": {"、": 2}}
+{"raw": "ウィルス", "replacement": "ウイルス", "entropy": 0.0, "counts": {"ウイルス": 1}}
+{"raw": "やろー", "replacement": "でしょ う", "entropy": 0.0, "counts": {"でしょ う": 1}}
+{"raw": "音ゲー", "replacement": "音楽ゲーム", "entropy": 0.0, "counts": {"音楽ゲーム": 1}}
+{"raw": "クリスマスイヴ", "replacement": "クリスマスイブ", "entropy": 0.0, "counts": {"クリスマスイブ": 1}}
+{"raw": "園", "replacement": "保育園", "entropy": 1.360673760222241, "counts": {"保育園": 1, "園": 1}}
+{"raw": "辻ちゃん", "replacement": "辻希美 ちゃん", "entropy": 0.0, "counts": {"辻希美 ちゃん": 1}}
+{"raw": "けども", "replacement": "が", "entropy": 0.0, "counts": {"が": 6}}
+{"raw": "卵かけご飯", "replacement": "卵かけご飯 。", "entropy": 0.0, "counts": {"卵かけご飯 。": 1}}
+{"raw": "け", "replacement": "ね", "entropy": 2.065860847684144, "counts": {"ね": 1, "いけ": 1, "ので": 1}}
+{"raw": "ちの", "replacement": "が いる お うち の", "entropy": 0.0, "counts": {"が いる お うち の": 2}}
+{"raw": "札幌", "replacement": "札幌市", "entropy": 0.0, "counts": {"札幌市": 1}}
+{"raw": "＜", "replacement": "。", "entropy": 1.360673760222241, "counts": {"。": 1, "": 1}}
+{"raw": "コロナ感染者", "replacement": "新型コロナウイルス感染症 の 感染者", "entropy": 0.0, "counts": {"新型コロナウイルス感染症 の 感染者": 1}}
+{"raw": "愛ちゃん", "replacement": "宮下 愛 ちゃん", "entropy": 0.0, "counts": {"宮下 愛 ちゃん": 1}}
+{"raw": "果林", "replacement": "朝香果林", "entropy": 0.0, "counts": {"朝香果林": 1}}
+{"raw": "ちょ", "replacement": "とても", "entropy": 0.0, "counts": {"とても": 1}}
+{"raw": "オルデコ", "replacement": "OLDCODEX", "entropy": 0.0, "counts": {"OLDCODEX": 1}}
+{"raw": "がーん", "replacement": "があん", "entropy": 0.0, "counts": {"があん": 1}}
+{"raw": "そん", "replacement": "そして", "entropy": 0.0, "counts": {"そして": 1}}
+{"raw": "オシャンティヤナ", "replacement": "おしゃれ です ね", "entropy": 0.0, "counts": {"おしゃれ です ね": 1}}
+{"raw": "開設", "replacement": "開設 でき まし た", "entropy": 1.360673760222241, "counts": {"開設 でき まし た": 1, "開設": 1}}
+{"raw": "ネカフェ", "replacement": "ネットカフェ", "entropy": 0.0, "counts": {"ネットカフェ": 1}}
+{"raw": "ガン無視", "replacement": "無視", "entropy": 0.0, "counts": {"無視": 1}}
+{"raw": "カコグリ", "replacement": "カコ", "entropy": 0.0, "counts": {"カコ": 1}}
+{"raw": "使い込ん", "replacement": "は", "entropy": 0.0, "counts": {"は": 1}}
+{"raw": "サラ", "replacement": "と", "entropy": 1.360673760222241, "counts": {"と": 1, "サラサラ": 1}}
+{"raw": "狩野", "replacement": "狩野 都", "entropy": 0.0, "counts": {"狩野 都": 1}}
+{"raw": "いたん", "replacement": "い た の です", "entropy": 0.0, "counts": {"い た の です": 1}}
+{"raw": "鯖", "replacement": "サーバー", "entropy": 1.360673760222241, "counts": {"サーバー": 1, "鯖": 1}}
+{"raw": "とある", "replacement": "あるとき", "entropy": 0.0, "counts": {"あるとき": 1}}
+{"raw": "せる", "replacement": "せ られる", "entropy": 0.0, "counts": {"せ られる": 1}}
+{"raw": "自主", "replacement": "自主練習", "entropy": 0.0, "counts": {"自主練習": 2}}
+{"raw": "マイクロソフト", "replacement": "Microsoft", "entropy": 0.0, "counts": {"Microsoft": 1}}
+{"raw": "ワード", "replacement": "Word", "entropy": 0.0, "counts": {"Word": 1}}
+{"raw": "すっごく", "replacement": "凄く", "entropy": 0.0, "counts": {"凄く": 1}}
+{"raw": "金曜", "replacement": "金曜日", "entropy": 0.0, "counts": {"金曜日": 1}}
+{"raw": "ウェーブ", "replacement": "波", "entropy": 0.0, "counts": {"波": 1}}
+{"raw": "そういや", "replacement": "そう いえ ば", "entropy": 0.0, "counts": {"そう いえ ば": 3}}
+{"raw": "ガクガクブルブル", "replacement": "ガクガクブルブル 。", "entropy": 0.0, "counts": {"ガクガクブルブル 。": 1}}
+{"raw": "アップル", "replacement": "Apple", "entropy": 0.0, "counts": {"Apple": 1}}
+{"raw": "っきり", "replacement": "きり", "entropy": 0.0, "counts": {"きり": 1}}
+{"raw": "おさ", "replacement": "おしゃれ", "entropy": 0.0, "counts": {"おしゃれ": 1}}
+{"raw": "無印", "replacement": "無印良品", "entropy": 0.0, "counts": {"無印良品": 1}}
+{"raw": "陽射し", "replacement": "日差し", "entropy": 0.0, "counts": {"日差し": 1}}
+{"raw": "話して", "replacement": "話し て い", "entropy": 0.0, "counts": {"話し て い": 1}}
+{"raw": "嬉", "replacement": "嬉し", "entropy": 1.360673760222241, "counts": {"嬉し": 1, "嬉": 1}}
+{"raw": "さみしい〜", "replacement": "寂しい", "entropy": 0.0, "counts": {"寂しい": 1}}
+{"raw": "よお", "replacement": "よし", "entropy": 0.0, "counts": {"よし": 1}}
+{"raw": "ぶちっ", "replacement": "ブチッ", "entropy": 0.0, "counts": {"ブチッ": 1}}
+{"raw": "わたしゃ", "replacement": "私 は", "entropy": 0.0, "counts": {"私 は": 1}}
+{"raw": "PS5", "replacement": "PS5 。", "entropy": 0.0, "counts": {"PS5 。": 1}}
+{"raw": "コメ", "replacement": "コメント", "entropy": 0.0, "counts": {"コメント": 1}}
+{"raw": "モチベ", "replacement": "モチベーション", "entropy": 0.0, "counts": {"モチベーション": 1}}
+{"raw": "ディカプリオ", "replacement": "レオナルド・ディカプリオ", "entropy": 0.0, "counts": {"レオナルド・ディカプリオ": 1}}
+{"raw": "バジテ", "replacement": "バッジテスト", "entropy": 0.0, "counts": {"バッジテスト": 2}}
+{"raw": "エンドレス", "replacement": "ずっと", "entropy": 0.0, "counts": {"ずっと": 1}}
+{"raw": "かっこよか", "replacement": "格好 良かっ", "entropy": 0.0, "counts": {"格好 良かっ": 1}}
+{"raw": "ふやけ", "replacement": "眠く なっ", "entropy": 0.0, "counts": {"眠く なっ": 1}}
+{"raw": "上田", "replacement": "上田綺世", "entropy": 0.0, "counts": {"上田綺世": 1}}
+{"raw": "すー", "replacement": "", "entropy": 0.0, "counts": {"": 2}}
+{"raw": "名古屋", "replacement": "名古屋市", "entropy": 1.360673760222241, "counts": {"名古屋市": 1, "名古屋": 1}}
+{"raw": "はーい", "replacement": "はいはい", "entropy": 1.360673760222241, "counts": {"はいはい": 1, "": 1}}
+{"raw": "出逢う", "replacement": "出会う", "entropy": 0.0, "counts": {"出会う": 1}}
+{"raw": "高橋さん", "replacement": "高橋文樹 さん", "entropy": 0.0, "counts": {"高橋文樹 さん": 1}}
+{"raw": "ゆれ", "replacement": "ゆれ 。", "entropy": 0.0, "counts": {"ゆれ 。": 1}}
+{"raw": "メルマガ", "replacement": "メールマガジン", "entropy": 0.0, "counts": {"メールマガジン": 1}}
+{"raw": "ハッピー", "replacement": "幸せ", "entropy": 0.0, "counts": {"幸せ": 1}}
+{"raw": "スパルタ", "replacement": "スパルタ教育", "entropy": 0.0, "counts": {"スパルタ教育": 1}}
+{"raw": "おわ", "replacement": "終わっ", "entropy": 0.0, "counts": {"終わっ": 1}}
+{"raw": "デフォ", "replacement": "デフォルト", "entropy": 0.0, "counts": {"デフォルト": 1}}
+{"raw": "ちゃう", "replacement": "で は ない", "entropy": 0.0, "counts": {"で は ない": 1}}
+{"raw": "fhana", "replacement": "fhána", "entropy": 0.0, "counts": {"fhána": 1}}
+{"raw": "神奈川", "replacement": "神奈川県", "entropy": 0.0, "counts": {"神奈川県": 1}}
+{"raw": "アップ", "replacement": "アップロード", "entropy": 0.0, "counts": {"アップロード": 1}}
+{"raw": "カコ", "replacement": "格好", "entropy": 0.0, "counts": {"格好": 1}}
+{"raw": "とん", "replacement": "て いる", "entropy": 0.0, "counts": {"て いる": 1}}
+{"raw": "語彙", "replacement": "語彙力", "entropy": 0.0, "counts": {"語彙力": 1}}
+{"raw": "amazon", "replacement": "Amazon", "entropy": 0.0, "counts": {"Amazon": 1}}
+{"raw": "paypay", "replacement": "PayPay", "entropy": 0.0, "counts": {"PayPay": 2}}
+{"raw": "ビッカメ", "replacement": "ビックカメラ", "entropy": 0.0, "counts": {"ビックカメラ": 1}}
+{"raw": "office", "replacement": "Office", "entropy": 0.0, "counts": {"Office": 1}}
+{"raw": "OP", "replacement": "オープニング", "entropy": 0.0, "counts": {"オープニング": 1}}
+{"raw": "おのD", "replacement": "小野大輔", "entropy": 0.0, "counts": {"小野大輔": 1}}
+{"raw": "イメソン", "replacement": "イメージソング", "entropy": 0.0, "counts": {"イメージソング": 1}}
+{"raw": "キャラソン", "replacement": "キャラクターソング", "entropy": 0.0, "counts": {"キャラクターソング": 1}}
+{"raw": "常磐線快速", "replacement": "常磐 線 の 快速 電車", "entropy": 0.0, "counts": {"常磐 線 の 快速 電車": 1}}
+{"raw": "バッキバキ", "replacement": "バキバキ", "entropy": 0.0, "counts": {"バキバキ": 1}}
+{"raw": "わぁ", "replacement": "あ", "entropy": 0.0, "counts": {"あ": 1}}
+{"raw": "てえ", "replacement": "たい", "entropy": 0.0, "counts": {"たい": 1}}
+{"raw": "イケてる", "replacement": "イケ て いる", "entropy": 0.0, "counts": {"イケ て いる": 1}}
+{"raw": "ナー", "replacement": "な", "entropy": 1.1587450075359835, "counts": {"な": 2, "": 1}}
+{"raw": "伊勢谷", "replacement": "伊勢谷友介", "entropy": 0.0, "counts": {"伊勢谷友介": 1}}
+{"raw": "◯", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "介", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "こないだ", "replacement": "この間", "entropy": 0.0, "counts": {"この間": 1}}
+{"raw": "ナイキ", "replacement": "Nike", "entropy": 0.0, "counts": {"Nike": 1}}
+{"raw": "いて", "replacement": "い", "entropy": 0.0, "counts": {"い": 1}}
+{"raw": "デモハンデッキ", "replacement": "デーモン ハンター の デッキ", "entropy": 0.0, "counts": {"デーモン ハンター の デッキ": 1}}
+{"raw": "アプデ", "replacement": "更新", "entropy": 0.0, "counts": {"更新": 1}}
+{"raw": "うふふ", "replacement": "うふふ 。", "entropy": 0.0, "counts": {"うふふ 。": 1}}
+{"raw": "たそう", "replacement": "い た そう", "entropy": 0.0, "counts": {"い た そう": 1}}
+{"raw": "そしたら", "replacement": "そうしたら", "entropy": 0.0, "counts": {"そうしたら": 2}}
+{"raw": "ヨドバシ", "replacement": "ヨドバシカメラ", "entropy": 0.0, "counts": {"ヨドバシカメラ": 1}}
+{"raw": "該当", "replacement": "該当 する", "entropy": 0.0, "counts": {"該当 する": 1}}
+{"raw": "最寄", "replacement": "最寄り", "entropy": 0.0, "counts": {"最寄り": 1}}
+{"raw": "..?」", "replacement": "…", "entropy": 0.0, "counts": {"…": 1}}
+{"raw": "イヴ", "replacement": "クリスマスイブ", "entropy": 0.0, "counts": {"クリスマスイブ": 1}}
+{"raw": "SAO", "replacement": "ソードアート・オンライン", "entropy": 0.0, "counts": {"ソードアート・オンライン": 1}}
+{"raw": "税", "replacement": "税金", "entropy": 0.0, "counts": {"税金": 1}}
+{"raw": "ソング", "replacement": "テーマソング", "entropy": 0.0, "counts": {"テーマソング": 1}}
+{"raw": "初音ミク", "replacement": "初音ミク の 曲", "entropy": 0.0, "counts": {"初音ミク の 曲": 1}}
+{"raw": "めんどい", "replacement": "面倒くさい", "entropy": 0.0, "counts": {"面倒くさい": 1}}
+{"raw": "そりゃ", "replacement": "それ は", "entropy": 0.0, "counts": {"それ は": 1}}
+{"raw": "二郎", "replacement": "ラーメン二郎", "entropy": 0.0, "counts": {"ラーメン二郎": 1}}
+{"raw": "ファファファファファファ", "replacement": "ファファファファ", "entropy": 0.0, "counts": {"ファファファファ": 1}}
+{"raw": ".(", "replacement": "(", "entropy": 0.0, "counts": {"(": 1}}
+{"raw": "まう", "replacement": "しまう", "entropy": 0.0, "counts": {"しまう": 1}}
+{"raw": "伊野尾", "replacement": "伊野尾慧", "entropy": 0.0, "counts": {"伊野尾慧": 1}}
+{"raw": "インスト", "replacement": "インストゥルメンタル", "entropy": 0.0, "counts": {"インストゥルメンタル": 1}}
+{"raw": "浦和", "replacement": "浦和レッドダイヤモンズ", "entropy": 0.0, "counts": {"浦和レッドダイヤモンズ": 1}}
+{"raw": "バロメーター", "replacement": "基準", "entropy": 0.0, "counts": {"基準": 1}}
+{"raw": "第九", "replacement": "交響曲第9番", "entropy": 0.0, "counts": {"交響曲第9番": 1}}
+{"raw": "サムネ", "replacement": "サムネイル", "entropy": 0.0, "counts": {"サムネイル": 1}}
+{"raw": "なくっ", "replacement": "なく", "entropy": 0.0, "counts": {"なく": 1}}
+{"raw": "ないっ", "replacement": "ない", "entropy": 0.0, "counts": {"ない": 2}}
+{"raw": "ザギトワ", "replacement": "アリーナ・ザギトワ", "entropy": 0.0, "counts": {"アリーナ・ザギトワ": 1}}
+{"raw": "日本戦", "replacement": "サッカー日本代表 戦", "entropy": 0.0, "counts": {"サッカー日本代表 戦": 1}}
+{"raw": "パク", "replacement": "真似", "entropy": 0.0, "counts": {"真似": 1}}
+{"raw": "ろう", "replacement": "しよ う", "entropy": 0.0, "counts": {"しよ う": 1}}
+{"raw": "チュソク", "replacement": "秋夕", "entropy": 0.0, "counts": {"秋夕": 1}}
+{"raw": "鳥取", "replacement": "鳥取県", "entropy": 0.0, "counts": {"鳥取県": 1}}
+{"raw": ".」", "replacement": "」", "entropy": 0.0, "counts": {"」": 1}}
+{"raw": "直球", "replacement": "直球 さ", "entropy": 0.0, "counts": {"直球 さ": 1}}
+{"raw": "たまら", "replacement": "堪ら", "entropy": 0.0, "counts": {"堪ら": 1}}
+{"raw": "チケ", "replacement": "チケット", "entropy": 0.0, "counts": {"チケット": 2}}
+{"raw": "入学", "replacement": "入学 する", "entropy": 0.0, "counts": {"入学 する": 1}}
+{"raw": "増税", "replacement": "増税 する", "entropy": 0.0, "counts": {"増税 する": 1}}
+{"raw": "リバ", "replacement": "リバウンド", "entropy": 0.0, "counts": {"リバウンド": 1}}
+{"raw": "いん", "replacement": "いの", "entropy": 0.0, "counts": {"いの": 1}}
+{"raw": "先行", "replacement": "先行販売", "entropy": 0.0, "counts": {"先行販売": 1}}
+{"raw": "じ", "replacement": "まい", "entropy": 0.0, "counts": {"まい": 1}}
+{"raw": "キーーッ", "replacement": "キーーッと", "entropy": 0.0, "counts": {"キーーッと": 1}}
+{"raw": "プロデュース", "replacement": "プロデュース し た", "entropy": 0.0, "counts": {"プロデュース し た": 1}}
+{"raw": "しのぶ", "replacement": "胡蝶しのぶ", "entropy": 0.0, "counts": {"胡蝶しのぶ": 1}}
+{"raw": "うーむ", "replacement": "ううん", "entropy": 0.0, "counts": {"ううん": 1}}
+{"raw": "城島リーダー", "replacement": "城島茂 リーダー", "entropy": 0.0, "counts": {"城島茂 リーダー": 1}}
+{"raw": "大石", "replacement": "大石蔵人", "entropy": 0.0, "counts": {"大石蔵人": 1}}
+{"raw": "三成", "replacement": "石田三成", "entropy": 0.0, "counts": {"石田三成": 1}}
+{"raw": "〜♪", "replacement": "です 。", "entropy": 0.0, "counts": {"です 。": 1}}
+{"raw": "手作り", "replacement": "手作り する", "entropy": 0.0, "counts": {"手作り する": 1}}
+{"raw": "そうじゃない", "replacement": "そう で は ない", "entropy": 0.0, "counts": {"そう で は ない": 1}}
+{"raw": "スポ根", "replacement": "スポーツ 根性", "entropy": 0.0, "counts": {"スポーツ 根性": 1}}
+{"raw": "しょんぼり", "replacement": "しょんぼり 。", "entropy": 1.360673760222241, "counts": {"しょんぼり 。": 1, "しょんぼり": 1}}
+{"raw": "仕上げよ", "replacement": "仕上げ ましょ", "entropy": 0.0, "counts": {"仕上げ ましょ": 1}}
+{"raw": "アイフォーン", "replacement": "iPhone", "entropy": 0.0, "counts": {"iPhone": 1}}
+{"raw": "ポテトチップス", "replacement": "ポテトチップチョコレート", "entropy": 0.0, "counts": {"ポテトチップチョコレート": 1}}
+{"raw": "できん", "replacement": "でき なく", "entropy": 0.0, "counts": {"でき なく": 1}}
+{"raw": "サリースコット", "replacement": "サリー・スコット", "entropy": 0.0, "counts": {"サリー・スコット": 1}}
+{"raw": "くいっ", "replacement": "くいっと", "entropy": 0.0, "counts": {"くいっと": 1}}
+{"raw": "ラウ", "replacement": "ラウンドワン", "entropy": 0.0, "counts": {"ラウンドワン": 1}}
+{"raw": "ワン", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "めんどくさ", "replacement": "面倒くさ", "entropy": 0.0, "counts": {"面倒くさ": 1}}
+{"raw": "Rt", "replacement": "リツイート", "entropy": 0.0, "counts": {"リツイート": 1}}
+{"raw": "ナンジャ", "replacement": "ナンジャタウン", "entropy": 0.0, "counts": {"ナンジャタウン": 1}}
+{"raw": "人込み", "replacement": "人混み", "entropy": 0.0, "counts": {"人混み": 1}}
+{"raw": "ょ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "動けん", "replacement": "動け なく", "entropy": 0.0, "counts": {"動け なく": 1}}
+{"raw": "ありあり", "replacement": "あり ます", "entropy": 0.0, "counts": {"あり ます": 1}}
+{"raw": "弾い", "replacement": "引い", "entropy": 0.0, "counts": {"引い": 1}}
+{"raw": "イケオジ", "replacement": "イケメン な おじさん", "entropy": 0.0, "counts": {"イケメン な おじさん": 1}}
+{"raw": "イデア", "replacement": "真実", "entropy": 0.0, "counts": {"真実": 1}}
+{"raw": "Lo", "replacement": "ループジャンプ", "entropy": 0.0, "counts": {"ループジャンプ": 1}}
+{"raw": "便", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "オッケー", "replacement": "OK", "entropy": 0.0, "counts": {"OK": 1}}
+{"raw": "思は", "replacement": "思わ", "entropy": 0.0, "counts": {"思わ": 1}}
+{"raw": "原作厨", "replacement": "原作 に こだわる 人", "entropy": 0.0, "counts": {"原作 に こだわる 人": 1}}
+{"raw": "初", "replacement": "初めて", "entropy": 0.0, "counts": {"初めて": 1}}
+{"raw": "とんこつ", "replacement": "とんこつラーメン", "entropy": 0.0, "counts": {"とんこつラーメン": 1}}
+{"raw": "おもろかっ", "replacement": "面白かっ", "entropy": 0.0, "counts": {"面白かっ": 1}}
+{"raw": "コロチキ", "replacement": "コロコロチキチキペッパーズ", "entropy": 0.0, "counts": {"コロコロチキチキペッパーズ": 1}}
+{"raw": "成行", "replacement": "成行 注文", "entropy": 0.0, "counts": {"成行 注文": 1}}
+{"raw": "こっ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ひっと", "replacement": "ひとつ", "entropy": 0.0, "counts": {"ひとつ": 1}}
+{"raw": "委ね", "replacement": "委ねる", "entropy": 0.0, "counts": {"委ねる": 1}}
+{"raw": "ワンピ", "replacement": "ワンピース", "entropy": 0.0, "counts": {"ワンピース": 1}}
+{"raw": "っぽく", "replacement": "みたい に", "entropy": 0.0, "counts": {"みたい に": 1}}
+{"raw": "革ジャン", "replacement": "革 ジャンパー", "entropy": 0.0, "counts": {"革 ジャンパー": 1}}
+{"raw": "ワーカーホリック", "replacement": "仕事中毒", "entropy": 0.0, "counts": {"仕事中毒": 1}}
+{"raw": "ドラフト", "replacement": "ドラフト会議", "entropy": 0.0, "counts": {"ドラフト会議": 1}}
+{"raw": "べし", "replacement": "なさい", "entropy": 0.0, "counts": {"なさい": 1}}
+{"raw": "セブイレ", "replacement": "セブンイレブン", "entropy": 0.0, "counts": {"セブンイレブン": 1}}
+{"raw": "ＯＫ", "replacement": "OK", "entropy": 0.0, "counts": {"OK": 1}}
+{"raw": "RT", "replacement": "リツイート", "entropy": 0.0, "counts": {"リツイート": 4}}
+{"raw": "TX", "replacement": "つくばエクスプレス", "entropy": 0.0, "counts": {"つくばエクスプレス": 1}}
+{"raw": "奈良", "replacement": "奈良県", "entropy": 0.0, "counts": {"奈良県": 1}}
+{"raw": "剥き", "replacement": "むき", "entropy": 0.0, "counts": {"むき": 1}}
+{"raw": "中高生", "replacement": "中学生 と 高校生", "entropy": 0.0, "counts": {"中学生 と 高校生": 1}}
+{"raw": "仙台", "replacement": "仙台市", "entropy": 0.0, "counts": {"仙台市": 1}}
+{"raw": "リーマン", "replacement": "サラリーマン", "entropy": 0.0, "counts": {"サラリーマン": 1}}
+{"raw": "ベルギー", "replacement": "ベルギー代表 対", "entropy": 0.0, "counts": {"ベルギー代表 対": 1}}
+{"raw": "チュニジア", "replacement": "チュニジア代表", "entropy": 0.0, "counts": {"チュニジア代表": 1}}
+{"raw": "ムラカミ", "replacement": "村上", "entropy": 0.0, "counts": {"村上": 1}}
+{"raw": "゛", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "ィ", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "たっ", "replacement": "いって", "entropy": 0.0, "counts": {"いって": 1}}
+{"raw": "マツエク", "replacement": "まつ毛エクステンション", "entropy": 0.0, "counts": {"まつ毛エクステンション": 1}}
+{"raw": "ファック", "replacement": "ファック 。", "entropy": 0.0, "counts": {"ファック 。": 1}}
+{"raw": "シクレ", "replacement": "シークレット ゲスト", "entropy": 0.0, "counts": {"シークレット ゲスト": 1}}
+{"raw": "たらしく", "replacement": "い た らしく", "entropy": 0.0, "counts": {"い た らしく": 1}}
+{"raw": "わい", "replacement": "私", "entropy": 0.0, "counts": {"私": 1}}

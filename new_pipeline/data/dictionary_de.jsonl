@@ -1,0 +1,1144 @@
+{"raw": "tja", "replacement": "Tja", "entropy": 0.0, "counts": {"Tja": 3}}
+{"raw": "biin", "replacement": "bin", "entropy": 0.0, "counts": {"bin": 2}}
+{"raw": "cih", "replacement": "ich", "entropy": 0.0, "counts": {"ich": 1}}
+{"raw": "werd", "replacement": "werde", "entropy": 0.47392914367400724, "counts": {"werde": 11, "Werde": 1}}
+{"raw": "wär", "replacement": "wäre", "entropy": 0.40144916971772016, "counts": {"wäre": 14, "Wäre": 1}}
+{"raw": "musiker", "replacement": "Musiker", "entropy": 0.0, "counts": {"Musiker": 1}}
+{"raw": "frauen", "replacement": "Frauen", "entropy": 0.0, "counts": {"Frauen": 1}}
+{"raw": "grad", "replacement": "gerade", "entropy": 0.0, "counts": {"gerade": 35}}
+{"raw": "gibts", "replacement": "gibt es", "entropy": 0.0, "counts": {"gibt es": 15}}
+{"raw": "bier", "replacement": "Bier", "entropy": 0.0, "counts": {"Bier": 1}}
+{"raw": "Spontant", "replacement": "Spontan", "entropy": 0.0, "counts": {"Spontan": 1}}
+{"raw": "guenstig", "replacement": "günstig", "entropy": 0.0, "counts": {"günstig": 1}}
+{"raw": "therme", "replacement": "Therme", "entropy": 0.0, "counts": {"Therme": 1}}
+{"raw": "nich", "replacement": "nicht", "entropy": 0.5398869918378314, "counts": {"nicht": 23, "Nicht": 1, "mich": 1}}
+{"raw": "morgens", "replacement": "Morgens", "entropy": 0.0, "counts": {"Morgens": 1}}
+{"raw": "aufräumaktion", "replacement": "Aufräumaktion", "entropy": 0.0, "counts": {"Aufräumaktion": 1}}
+{"raw": "kopf", "replacement": "Kopf", "entropy": 0.0, "counts": {"Kopf": 2}}
+{"raw": "habs", "replacement": "habe es", "entropy": 0.9916150045702532, "counts": {"habe es": 3, "Habe es": 1}}
+{"raw": "nem", "replacement": "einem", "entropy": 0.0, "counts": {"einem": 14}}
+{"raw": "seh", "replacement": "sehe", "entropy": 0.9916150045702532, "counts": {"sehe": 3, "Sehe": 1}}
+{"raw": "St", "replacement": "St.", "entropy": 0.0, "counts": {"St.": 1}}
+{"raw": "lad", "replacement": "lade", "entropy": 0.0, "counts": {"lade": 1}}
+{"raw": "ach", "replacement": "Ach", "entropy": 0.0, "counts": {"Ach": 6}}
+{"raw": "moni", "replacement": "Morgen", "entropy": 0.0, "counts": {"Morgen": 1}}
+{"raw": "früehner", "replacement": "früher", "entropy": 0.0, "counts": {"früher": 1}}
+{"raw": "ufstoh", "replacement": "aufstehen", "entropy": 0.0, "counts": {"aufstehen": 1}}
+{"raw": "net", "replacement": "nicht", "entropy": 0.5411303456337294, "counts": {"ned": 1, "nicht": 9}}
+{"raw": "kingt", "replacement": "Klingt", "entropy": 0.0, "counts": {"Klingt": 1}}
+{"raw": "garnicht", "replacement": "gar nicht", "entropy": 0.0, "counts": {"gar nicht": 4}}
+{"raw": "bekomm", "replacement": "bekomme", "entropy": 0.0, "counts": {"bekomme": 4}}
+{"raw": "heut", "replacement": "heute", "entropy": 0.47392914367400724, "counts": {"heute": 11, "Heute": 1}}
+{"raw": "w\\u00E4r", "replacement": "Wäre", "entropy": 0.0, "counts": {"Wäre": 1}}
+{"raw": "mach", "replacement": "mache", "entropy": 2.06284360080436, "counts": {"mach": 3, "mache": 4, "Mache": 1, "Mach": 2}}
+{"raw": "draus", "replacement": "daraus", "entropy": 0.0, "counts": {"daraus": 2}}
+{"raw": "zin", "replacement": "sind", "entropy": 0.0, "counts": {"sind": 1}}
+{"raw": "met", "replacement": "mit", "entropy": 1.1587450075359835, "counts": {"mit": 2, "met": 1}}
+{"raw": "unternehmer", "replacement": "Unternehmer", "entropy": 0.0, "counts": {"Unternehmer": 1}}
+{"raw": "dennen", "replacement": "denen", "entropy": 0.0, "counts": {"denen": 2}}
+{"raw": "stress", "replacement": "Stress", "entropy": 0.0, "counts": {"Stress": 1}}
+{"raw": "hab", "replacement": "habe", "entropy": 1.5596980752123244, "counts": {"habe": 27, "hab": 10, "Habe": 6, "Hab": 2}}
+{"raw": "mulu", "replacement": "Mulu", "entropy": 0.0, "counts": {"Mulu": 1}}
+{"raw": "bastel", "replacement": "bastele", "entropy": 0.0, "counts": {"bastele": 1}}
+{"raw": "schule", "replacement": "Schule", "entropy": 1.1587450075359835, "counts": {"Schule": 2, "schule": 1}}
+{"raw": "handy", "replacement": "Handy", "entropy": 0.0, "counts": {"Handy": 4}}
+{"raw": "rum", "replacement": "herum", "entropy": 0.0, "counts": {"herum": 6}}
+{"raw": "Ga", "replacement": "Geh", "entropy": 0.0, "counts": {"Geh": 2}}
+{"raw": "gehts", "replacement": "geht es", "entropy": 0.0, "counts": {"geht es": 15}}
+{"raw": "de", "replacement": "denn", "entropy": 1.360673760222241, "counts": {"denn": 1, "de": 1}}
+{"raw": "find", "replacement": "finde", "entropy": 0.0, "counts": {"finde": 13}}
+{"raw": "'s", "replacement": "es", "entropy": 0.9192114372551928, "counts": {"es": 14, "das": 2, "'s": 1}}
+{"raw": "kacke", "replacement": "Kacke", "entropy": 0.0, "counts": {"Kacke": 1}}
+{"raw": "Zuviel", "replacement": "zu viel", "entropy": 1.360673760222241, "counts": {"zu viel": 1, "Zu viel": 1}}
+{"raw": "ne", "replacement": "eine", "entropy": 0.8783741949329988, "counts": {"Nein": 3, "eine": 50, "nein": 3, "Eine": 1, "Na": 1}}
+{"raw": "dr", "replacement": "drei", "entropy": 1.860673760222241, "counts": {"drei": 2, "dir": 1, "der": 1}}
+{"raw": "park", "replacement": "Park", "entropy": 0.0, "counts": {"Park": 2}}
+{"raw": "geschuetzte", "replacement": "geschützte", "entropy": 0.0, "counts": {"geschützte": 1}}
+{"raw": "weis", "replacement": "weiss", "entropy": 0.0, "counts": {"weiss": 1}}
+{"raw": "slafen", "replacement": "schlafen", "entropy": 0.0, "counts": {"schlafen": 1}}
+{"raw": "hälfte", "replacement": "Hälfte", "entropy": 0.0, "counts": {"Hälfte": 1}}
+{"raw": "ned", "replacement": "nicht", "entropy": 0.7702470083891011, "counts": {"Nicht": 1, "nicht": 5}}
+{"raw": "nacht", "replacement": "Nacht", "entropy": 0.0, "counts": {"Nacht": 6}}
+{"raw": "braust", "replacement": "brauchst", "entropy": 0.0, "counts": {"brauchst": 1}}
+{"raw": "daa", "replacement": "das", "entropy": 0.0, "counts": {"das": 1}}
+{"raw": "niall", "replacement": "Niall", "entropy": 0.0, "counts": {"Niall": 1}}
+{"raw": "n", "replacement": "einen", "entropy": 2.3547366071540514, "counts": {"Ein": 1, "einen": 2, "ein": 1, "n": 1}}
+{"raw": "kannste", "replacement": "kannst du", "entropy": 0.0, "counts": {"kannst du": 2}}
+{"raw": "jtz", "replacement": "Jetzt", "entropy": 0.0, "counts": {"Jetzt": 1}}
+{"raw": "oh", "replacement": "Oh", "entropy": 1.115220098543565, "counts": {"oh": 2, "Oh": 3}}
+{"raw": "ogäj", "replacement": "Okay", "entropy": 0.0, "counts": {"Okay": 1}}
+{"raw": "muesst", "replacement": "müsst", "entropy": 0.0, "counts": {"müsst": 1}}
+{"raw": "gute", "replacement": "Gute", "entropy": 1.115220098543565, "counts": {"gute": 2, "Gute": 3}}
+{"raw": "Achso", "replacement": "Ach so", "entropy": 0.0, "counts": {"Ach so": 5}}
+{"raw": "Naja", "replacement": "Na ja", "entropy": 0.0, "counts": {"Na ja": 4}}
+{"raw": "meld", "replacement": "Melde", "entropy": 0.0, "counts": {"Melde": 1}}
+{"raw": "frueh", "replacement": "früh", "entropy": 0.0, "counts": {"früh": 1}}
+{"raw": "is", "replacement": "ist", "entropy": 0.6074242214942468, "counts": {"ist": 19, "Ist": 3}}
+{"raw": "tag", "replacement": "Tag", "entropy": 0.0, "counts": {"Tag": 1}}
+{"raw": "fck", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "ic", "replacement": "ich", "entropy": 0.0, "counts": {"ich": 2}}
+{"raw": "nehm", "replacement": "nehme", "entropy": 0.0, "counts": {"nehme": 1}}
+{"raw": "dasn", "replacement": "das ist ein", "entropy": 0.0, "counts": {"das ist ein": 1}}
+{"raw": "grundrecht", "replacement": "Grundrecht", "entropy": 0.0, "counts": {"Grundrecht": 1}}
+{"raw": "schlaf", "replacement": "schlafe", "entropy": 1.1587450075359835, "counts": {"Schlafe": 1, "schlafe": 2}}
+{"raw": "träum", "replacement": "träume", "entropy": 0.0, "counts": {"träume": 2}}
+{"raw": "bad", "replacement": "Bad", "entropy": 0.0, "counts": {"Bad": 1}}
+{"raw": "boy", "replacement": "Boy", "entropy": 0.0, "counts": {"Boy": 1}}
+{"raw": "ran", "replacement": "herannimmt", "entropy": 0.0, "counts": {"herannimmt": 1}}
+{"raw": "nimmt", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "alls", "replacement": "alles", "entropy": 0.0, "counts": {"alles": 2}}
+{"raw": "vor'm", "replacement": "vor dem", "entropy": 0.0, "counts": {"vor dem": 1}}
+{"raw": "geklekkert", "replacement": "gekleckert", "entropy": 0.0, "counts": {"gekleckert": 1}}
+{"raw": "backbord", "replacement": "Backbord", "entropy": 0.0, "counts": {"Backbord": 1}}
+{"raw": "bedin", "replacement": "bedingungsloses", "entropy": 0.0, "counts": {"bedingungsloses": 1}}
+{"raw": "ehy", "replacement": "hey", "entropy": 0.0, "counts": {"hey": 1}}
+{"raw": "kind", "replacement": "Kind", "entropy": 0.0, "counts": {"Kind": 1}}
+{"raw": "pille", "replacement": "Pille", "entropy": 0.0, "counts": {"Pille": 1}}
+{"raw": "verfolgungtour", "replacement": "Verfolgungstour", "entropy": 0.0, "counts": {"Verfolgungstour": 1}}
+{"raw": "fine", "replacement": "finde", "entropy": 0.0, "counts": {"finde": 1}}
+{"raw": "chrismas", "replacement": "Christmas", "entropy": 0.0, "counts": {"Christmas": 1}}
+{"raw": "nu", "replacement": "nur", "entropy": 2.065860847684144, "counts": {"nur": 1, "Nun": 1, "nun": 1}}
+{"raw": "uber", "replacement": "über", "entropy": 0.0, "counts": {"über": 2}}
+{"raw": "di", "replacement": "die", "entropy": 1.360673760222241, "counts": {"die": 1, "di": 1}}
+{"raw": "fur", "replacement": "für", "entropy": 0.0, "counts": {"für": 4}}
+{"raw": "daaankeschön", "replacement": "Danke schön", "entropy": 0.0, "counts": {"Danke schön": 1}}
+{"raw": "buch", "replacement": "Buch", "entropy": 0.0, "counts": {"Buch": 1}}
+{"raw": "wenns", "replacement": "wenn es", "entropy": 0.9916150045702532, "counts": {"wenn es": 3, "Wenn es": 1}}
+{"raw": "quälerei", "replacement": "Quälerei", "entropy": 0.0, "counts": {"Quälerei": 1}}
+{"raw": "Jaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 4}}
+{"raw": "sag", "replacement": "Sag", "entropy": 1.8104671030651547, "counts": {"Sag": 2, "sag": 2, "Sage": 1}}
+{"raw": "nachrichten", "replacement": "Nachrichten", "entropy": 0.0, "counts": {"Nachrichten": 1}}
+{"raw": "block", "replacement": "blocke", "entropy": 0.0, "counts": {"blocke": 1}}
+{"raw": "se", "replacement": "sie", "entropy": 0.0, "counts": {"sie": 1}}
+{"raw": "Jaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "ok", "replacement": "Ok", "entropy": 0.9661702143444141, "counts": {"ok": 2, "Ok": 5}}
+{"raw": "sendung", "replacement": "Sendung", "entropy": 1.1587450075359835, "counts": {"sendung": 1, "Sendung": 2}}
+{"raw": "MUSIK", "replacement": "Musik", "entropy": 0.0, "counts": {"Musik": 1}}
+{"raw": "solls", "replacement": "soll es", "entropy": 0.0, "counts": {"soll es": 1}}
+{"raw": "setz", "replacement": "setze", "entropy": 0.0, "counts": {"setze": 1}}
+{"raw": "naja", "replacement": "Na ja", "entropy": 1.115220098543565, "counts": {"Na ja": 3, "na ja": 2}}
+{"raw": "internalisierung", "replacement": "Internalisierung", "entropy": 0.0, "counts": {"Internalisierung": 1}}
+{"raw": "kosten", "replacement": "Kosten", "entropy": 0.0, "counts": {"Kosten": 1}}
+{"raw": "fuer", "replacement": "für", "entropy": 0.0, "counts": {"für": 18}}
+{"raw": "verkehrsarten", "replacement": "Verkehrsarten", "entropy": 0.0, "counts": {"Verkehrsarten": 1}}
+{"raw": "auto", "replacement": "Auto", "entropy": 0.0, "counts": {"Auto": 1}}
+{"raw": "klimawandel", "replacement": "Klimawandel", "entropy": 0.0, "counts": {"Klimawandel": 1}}
+{"raw": "ehm", "replacement": "Ehm", "entropy": 0.0, "counts": {"Ehm": 3}}
+{"raw": "dun", "replacement": "dann", "entropy": 0.0, "counts": {"dann": 2}}
+{"raw": "keksteich", "replacement": "Keksteich", "entropy": 0.0, "counts": {"Keksteich": 1}}
+{"raw": "Naturgeil", "replacement": "naturgeil", "entropy": 0.0, "counts": {"naturgeil": 1}}
+{"raw": "verrückt", "replacement": "Verrückt", "entropy": 0.0, "counts": {"Verrückt": 1}}
+{"raw": "goettingen", "replacement": "Göttingen", "entropy": 0.0, "counts": {"Göttingen": 2}}
+{"raw": "wäääääääh", "replacement": "wäh", "entropy": 0.0, "counts": {"wäh": 1}}
+{"raw": "renn", "replacement": "renne", "entropy": 1.360673760222241, "counts": {"renne": 1, "rennen": 1}}
+{"raw": "gleeich", "replacement": "gleich", "entropy": 0.0, "counts": {"gleich": 1}}
+{"raw": "weeg", "replacement": "weg", "entropy": 0.0, "counts": {"weg": 1}}
+{"raw": "do", "replacement": "doch", "entropy": 0.0, "counts": {"doch": 1}}
+{"raw": "eh", "replacement": "eher", "entropy": 0.0, "counts": {"eher": 7}}
+{"raw": "nen", "replacement": "einen", "entropy": 0.804279368755536, "counts": {"einen": 14, "ein": 4}}
+{"raw": "Fak", "replacement": "Fake", "entropy": 0.0, "counts": {"Fake": 1}}
+{"raw": "hätt", "replacement": "hätte", "entropy": 0.0, "counts": {"hätte": 3}}
+{"raw": "lust", "replacement": "Lust", "entropy": 0.0, "counts": {"Lust": 2}}
+{"raw": "film", "replacement": "Film", "entropy": 0.0, "counts": {"Film": 2}}
+{"raw": "aufrechenen", "replacement": "aufrechnen", "entropy": 0.0, "counts": {"aufrechnen": 1}}
+{"raw": "würd", "replacement": "würde", "entropy": 0.0, "counts": {"würde": 11}}
+{"raw": "Freu", "replacement": "Freue", "entropy": 0.0, "counts": {"Freue": 3}}
+{"raw": "drauf", "replacement": "darauf", "entropy": 0.8661975989762587, "counts": {"darauf": 4, "drauf": 1}}
+{"raw": "seriö", "replacement": "seriöse", "entropy": 0.0, "counts": {"seriöse": 1}}
+{"raw": "solche", "replacement": "Solche", "entropy": 1.360673760222241, "counts": {"Solche": 1, "solche": 1}}
+{"raw": "videos", "replacement": "Videos", "entropy": 0.0, "counts": {"Videos": 2}}
+{"raw": "zeit", "replacement": "Zeit", "entropy": 1.115220098543565, "counts": {"Zeit": 3, "zeit": 2}}
+{"raw": "Nix", "replacement": "Nichts", "entropy": 0.0, "counts": {"Nichts": 1}}
+{"raw": "8l", "replacement": "8 l", "entropy": 0.0, "counts": {"8 l": 1}}
+{"raw": "Biete", "replacement": "biete", "entropy": 1.360673760222241, "counts": {"biete": 1, "Biete": 1}}
+{"raw": "junge", "replacement": "Junge", "entropy": 0.0, "counts": {"Junge": 1}}
+{"raw": "w", "replacement": "W", "entropy": 0.0, "counts": {"W": 2}}
+{"raw": "Jung", "replacement": "jung", "entropy": 0.0, "counts": {"jung": 1}}
+{"raw": "obe", "replacement": "Oberweite", "entropy": 0.0, "counts": {"Oberweite": 1}}
+{"raw": "Bier", "replacement": "Bierbechern", "entropy": 0.0, "counts": {"Bierbechern": 1}}
+{"raw": "Bechern", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "claire", "replacement": "Claire", "entropy": 0.0, "counts": {"Claire": 1}}
+{"raw": "tage", "replacement": "Tage", "entropy": 0.0, "counts": {"Tage": 2}}
+{"raw": "lebens", "replacement": "Lebens", "entropy": 0.0, "counts": {"Lebens": 1}}
+{"raw": "Lischen", "replacement": "Lieschen", "entropy": 0.0, "counts": {"Lieschen": 1}}
+{"raw": "seeeehr", "replacement": "sehr", "entropy": 0.0, "counts": {"sehr": 2}}
+{"raw": "sitzordnung", "replacement": "Sitzordnung", "entropy": 0.0, "counts": {"Sitzordnung": 1}}
+{"raw": "wunsch", "replacement": "Wunsch", "entropy": 0.0, "counts": {"Wunsch": 1}}
+{"raw": "frieden", "replacement": "Frieden", "entropy": 0.0, "counts": {"Frieden": 1}}
+{"raw": "welt", "replacement": "Welt", "entropy": 0.0, "counts": {"Welt": 3}}
+{"raw": "bild", "replacement": "Bild", "entropy": 0.0, "counts": {"Bild": 2}}
+{"raw": "ess", "replacement": "esse", "entropy": 0.0, "counts": {"esse": 2}}
+{"raw": "kenn", "replacement": "kenne", "entropy": 0.5411303456337294, "counts": {"kenne": 9, "Kenne": 1}}
+{"raw": "rufen", "replacement": "Rufen", "entropy": 0.0, "counts": {"Rufen": 1}}
+{"raw": "Kanns", "replacement": "Kann es", "entropy": 0.0, "counts": {"Kann es": 1}}
+{"raw": "Ohoh", "replacement": "Oh", "entropy": 0.0, "counts": {"Oh": 1}}
+{"raw": "Werd", "replacement": "Werde", "entropy": 0.0, "counts": {"Werde": 3}}
+{"raw": "brauch", "replacement": "brauche", "entropy": 0.0, "counts": {"brauche": 1}}
+{"raw": "Hab", "replacement": "Habe", "entropy": 1.3549341458364828, "counts": {"Hab": 1, "Habe": 5, "habe": 1}}
+{"raw": "nix", "replacement": "nichts", "entropy": 0.2995535114595934, "counts": {"nichts": 21, "Nichts": 1}}
+{"raw": "besonder", "replacement": "besondere", "entropy": 0.0, "counts": {"besondere": 1}}
+{"raw": "vlt", "replacement": "vielleicht", "entropy": 0.0, "counts": {"vielleicht": 1}}
+{"raw": "dacht", "replacement": "dachte", "entropy": 1.360673760222241, "counts": {"dachte": 1, "Dachte": 1}}
+{"raw": "achso", "replacement": "Ach so", "entropy": 0.0, "counts": {"Ach so": 3}}
+{"raw": "na", "replacement": "Na", "entropy": 1.115220098543565, "counts": {"Na": 3, "na": 2}}
+{"raw": "leida", "replacement": "leider", "entropy": 0.0, "counts": {"leider": 1}}
+{"raw": "neujahr", "replacement": "Neujahr", "entropy": 0.0, "counts": {"Neujahr": 1}}
+{"raw": "könnts", "replacement": "könnte es", "entropy": 0.0, "counts": {"könnte es": 1}}
+{"raw": "wettendass", "replacement": "Wetten, dass", "entropy": 0.4227571495297672, "counts": {"Wetten, dass": 13, "Wetten, dass?": 1}}
+{"raw": "wcwette", "replacement": "WC Wette", "entropy": 0.0, "counts": {"WC Wette": 1}}
+{"raw": "zuhause", "replacement": "zu Hause", "entropy": 0.0, "counts": {"zu Hause": 10}}
+{"raw": "awaaaaaaar", "replacement": "awar", "entropy": 0.0, "counts": {"awar": 1}}
+{"raw": "dankee", "replacement": "danke", "entropy": 0.0, "counts": {"danke": 1}}
+{"raw": "fenster", "replacement": "Fenster", "entropy": 0.0, "counts": {"Fenster": 1}}
+{"raw": "moechte", "replacement": "möchte", "entropy": 0.8661975989762587, "counts": {"möchte": 4, "Möchte": 1}}
+{"raw": "sies", "replacement": "sie es", "entropy": 1.360673760222241, "counts": {"sie es": 1, "sieh es": 1}}
+{"raw": "klasse", "replacement": "Klasse", "entropy": 1.360673760222241, "counts": {"Klasse": 1, "klasse": 1}}
+{"raw": "Tätigkeits-Schwerpunkt", "replacement": "Tätigkeit-Schwerpunkt", "entropy": 0.0, "counts": {"Tätigkeit-Schwerpunkt": 1}}
+{"raw": "SPORT", "replacement": "Sport", "entropy": 0.0, "counts": {"Sport": 1}}
+{"raw": "verzeitung", "replacement": "Verzeihung", "entropy": 0.0, "counts": {"Verzeihung": 1}}
+{"raw": "jungs", "replacement": "Jungs", "entropy": 0.0, "counts": {"Jungs": 1}}
+{"raw": "muenchen", "replacement": "München", "entropy": 0.0, "counts": {"München": 1}}
+{"raw": "koenn", "replacement": "können", "entropy": 0.0, "counts": {"können": 1}}
+{"raw": "lichtnberg", "replacement": "Lichtenberg", "entropy": 0.0, "counts": {"Lichtenberg": 1}}
+{"raw": "treffn", "replacement": "treffen", "entropy": 0.0, "counts": {"treffen": 1}}
+{"raw": "zusamm", "replacement": "zusammen", "entropy": 0.0, "counts": {"zusammen": 1}}
+{"raw": "fahrn", "replacement": "fahren", "entropy": 0.0, "counts": {"fahren": 1}}
+{"raw": "iwie", "replacement": "irgendwie", "entropy": 0.0, "counts": {"irgendwie": 5}}
+{"raw": "bock", "replacement": "Bock", "entropy": 0.0, "counts": {"Bock": 2}}
+{"raw": "primark", "replacement": "Primark", "entropy": 0.0, "counts": {"Primark": 1}}
+{"raw": "sidn", "replacement": "Sind", "entropy": 1.360673760222241, "counts": {"Sind": 1, "sind": 1}}
+{"raw": "schöön", "replacement": "schön", "entropy": 0.0, "counts": {"schön": 1}}
+{"raw": "EROODISCH", "replacement": "erotisch", "entropy": 0.0, "counts": {"erotisch": 1}}
+{"raw": "Lookslikelink", "replacement": "Looks like link", "entropy": 0.0, "counts": {"Looks like link": 2}}
+{"raw": "wegn", "replacement": "wegen", "entropy": 0.0, "counts": {"wegen": 1}}
+{"raw": "gwordn", "replacement": "geworden", "entropy": 0.0, "counts": {"geworden": 1}}
+{"raw": "geschütz", "replacement": "geschützt", "entropy": 0.0, "counts": {"geschützt": 1}}
+{"raw": "stunden", "replacement": "Stunden", "entropy": 1.1587450075359835, "counts": {"Stunden": 2, "stunden": 1}}
+{"raw": "Karl", "replacement": "Karl-Theodor", "entropy": 0.0, "counts": {"Karl-Theodor": 1}}
+{"raw": "blie", "replacement": "blieb", "entropy": 0.0, "counts": {"blieb": 1}}
+{"raw": "grade", "replacement": "gerade", "entropy": 0.44673183443267733, "counts": {"gerade": 12, "Gerade": 1}}
+{"raw": "tzd", "replacement": "trotzdem", "entropy": 0.0, "counts": {"trotzdem": 1}}
+{"raw": "zuviele", "replacement": "zu viele", "entropy": 0.0, "counts": {"zu viele": 2}}
+{"raw": "liebst", "replacement": "liebsten", "entropy": 0.0, "counts": {"liebsten": 1}}
+{"raw": "nd", "replacement": "Bund", "entropy": 0.0, "counts": {"Bund": 1}}
+{"raw": "u", "replacement": "und", "entropy": 2.3547366071540514, "counts": {"": 1, "du": 1, "und": 2, "u": 1}}
+{"raw": "stellst", "replacement": "Stellst", "entropy": 0.0, "counts": {"Stellst": 1}}
+{"raw": "rein", "replacement": "herein", "entropy": 0.0, "counts": {"herein": 3}}
+{"raw": "i-wie", "replacement": "irgendwie", "entropy": 1.360673760222241, "counts": {"irgendwie": 1, "igrendwie": 1}}
+{"raw": "glaub", "replacement": "glaube", "entropy": 1.3846938943936486, "counts": {"glaube": 6, "Glaube": 2, "glaube ich": 1}}
+{"raw": "aba", "replacement": "aber", "entropy": 0.0, "counts": {"aber": 1}}
+{"raw": "hör", "replacement": "höre", "entropy": 1.360673760222241, "counts": {"höre": 1, "Hör": 1}}
+{"raw": "UND", "replacement": "und", "entropy": 0.0, "counts": {"und": 1}}
+{"raw": "SIE", "replacement": "sie", "entropy": 0.0, "counts": {"sie": 1}}
+{"raw": "WEISS", "replacement": "weiss", "entropy": 0.0, "counts": {"weiss": 1}}
+{"raw": "NICHT", "replacement": "nicht", "entropy": 1.1803368801111205, "counts": {"nicht": 2, "NICHT": 2}}
+{"raw": "MAL", "replacement": "mal", "entropy": 0.0, "counts": {"mal": 1}}
+{"raw": "UM", "replacement": "um", "entropy": 0.0, "counts": {"um": 1}}
+{"raw": "WAS", "replacement": "was", "entropy": 0.0, "counts": {"was": 1}}
+{"raw": "ES", "replacement": "es", "entropy": 0.0, "counts": {"es": 1}}
+{"raw": "GEHT", "replacement": "geht", "entropy": 0.0, "counts": {"geht": 1}}
+{"raw": "hilfe", "replacement": "Hilfe", "entropy": 0.0, "counts": {"Hilfe": 2}}
+{"raw": "okee", "replacement": "Okee", "entropy": 0.0, "counts": {"Okee": 1}}
+{"raw": "weils", "replacement": "weil es", "entropy": 0.0, "counts": {"weil es": 2}}
+{"raw": "nichtganzernstgemeint", "replacement": "nicht ganz ernst gemeint", "entropy": 0.0, "counts": {"nicht ganz ernst gemeint": 1}}
+{"raw": "email", "replacement": "Email", "entropy": 0.0, "counts": {"Email": 1}}
+{"raw": "soo", "replacement": "so", "entropy": 0.9916150045702532, "counts": {"so": 3, "So": 1}}
+{"raw": "guck", "replacement": "gucke", "entropy": 1.360673760222241, "counts": {"gucke": 1, "guck": 1}}
+{"raw": "vid", "replacement": "Video", "entropy": 0.0, "counts": {"Video": 1}}
+{"raw": "geb", "replacement": "gebe", "entropy": 0.0, "counts": {"gebe": 1}}
+{"raw": "sooooo", "replacement": "So", "entropy": 0.0, "counts": {"So": 1}}
+{"raw": "über-all", "replacement": "überall", "entropy": 0.0, "counts": {"überall": 1}}
+{"raw": "ab-geht", "replacement": "abgeht", "entropy": 0.0, "counts": {"abgeht": 1}}
+{"raw": "jepp", "replacement": "Jepp", "entropy": 0.0, "counts": {"Jepp": 1}}
+{"raw": "sooo", "replacement": "so", "entropy": 0.0, "counts": {"so": 3}}
+{"raw": "inner", "replacement": "in der", "entropy": 0.0, "counts": {"in der": 1}}
+{"raw": "übung", "replacement": "Übung", "entropy": 0.0, "counts": {"Übung": 1}}
+{"raw": "vergess", "replacement": "vergesse", "entropy": 0.0, "counts": {"vergesse": 2}}
+{"raw": "musik", "replacement": "Musik", "entropy": 0.0, "counts": {"Musik": 2}}
+{"raw": "MORGEN", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "landesmeisterschsften", "replacement": "Landesmeisterschaften", "entropy": 0.0, "counts": {"Landesmeisterschaften": 1}}
+{"raw": "langjhrigen", "replacement": "langjährige", "entropy": 0.0, "counts": {"langjährige": 1}}
+{"raw": "knnen", "replacement": "können", "entropy": 0.0, "counts": {"können": 1}}
+{"raw": "Deutsches", "replacement": "Deutschem", "entropy": 0.0, "counts": {"Deutschem": 1}}
+{"raw": "why", "replacement": "Why", "entropy": 0.0, "counts": {"Why": 1}}
+{"raw": "abend", "replacement": "Abend", "entropy": 0.0, "counts": {"Abend": 2}}
+{"raw": "seehr", "replacement": "sehr", "entropy": 0.0, "counts": {"sehr": 1}}
+{"raw": "glü", "replacement": "glücklich", "entropy": 0.0, "counts": {"glücklich": 1}}
+{"raw": "laptop", "replacement": "Laptop", "entropy": 1.360673760222241, "counts": {"Laptop": 1, "laptop": 1}}
+{"raw": "'n", "replacement": "einen", "entropy": 1.360673760222241, "counts": {"einen": 1, "ein": 1}}
+{"raw": "figürchen", "replacement": "Figürchen", "entropy": 0.0, "counts": {"Figürchen": 1}}
+{"raw": "pc", "replacement": "PC", "entropy": 0.0, "counts": {"PC": 1}}
+{"raw": "Weg", "replacement": "weggeschnappt", "entropy": 0.0, "counts": {"weggeschnappt": 1}}
+{"raw": "geschnappt", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "drum", "replacement": "darum", "entropy": 0.0, "counts": {"darum": 1}}
+{"raw": "gründen", "replacement": "Gründen", "entropy": 1.360673760222241, "counts": {"Gründen": 1, "gründen": 1}}
+{"raw": "Ick", "replacement": "Ich", "entropy": 0.0, "counts": {"Ich": 5}}
+{"raw": "Dikka", "replacement": "Dicker", "entropy": 0.0, "counts": {"Dicker": 2}}
+{"raw": "Find", "replacement": "Finde", "entropy": 0.0, "counts": {"Finde": 5}}
+{"raw": "Gedaechtnis", "replacement": "Gedächtnis", "entropy": 0.0, "counts": {"Gedächtnis": 1}}
+{"raw": "Bercht", "replacement": "Bericht", "entropy": 0.0, "counts": {"Bericht": 1}}
+{"raw": "Uber", "replacement": "über", "entropy": 1.360673760222241, "counts": {"über": 1, "Über": 1}}
+{"raw": "gradlust", "replacement": "gerade Lust", "entropy": 0.0, "counts": {"gerade Lust": 1}}
+{"raw": "schreib", "replacement": "schreibe", "entropy": 0.0, "counts": {"schreibe": 1}}
+{"raw": "glei", "replacement": "gleich", "entropy": 0.0, "counts": {"gleich": 1}}
+{"raw": "wars", "replacement": "war es", "entropy": 0.0, "counts": {"war es": 4}}
+{"raw": "siehste", "replacement": "siehst du", "entropy": 0.0, "counts": {"siehst du": 1}}
+{"raw": "beschä", "replacement": "beschäftigt", "entropy": 0.0, "counts": {"beschäftigt": 1}}
+{"raw": "Editio", "replacement": "Edition", "entropy": 0.0, "counts": {"Edition": 1}}
+{"raw": "Gerat", "replacement": "Gerät", "entropy": 0.0, "counts": {"Gerät": 1}}
+{"raw": "ve", "replacement": "verstehe", "entropy": 0.0, "counts": {"verstehe": 2}}
+{"raw": "cake", "replacement": "Cake", "entropy": 0.0, "counts": {"Cake": 1}}
+{"raw": "friends", "replacement": "Friends", "entropy": 0.0, "counts": {"Friends": 1}}
+{"raw": "tippen", "replacement": "Tippen", "entropy": 0.0, "counts": {"Tippen": 1}}
+{"raw": "frühstück", "replacement": "Frühstück", "entropy": 0.0, "counts": {"Frühstück": 1}}
+{"raw": "weisste", "replacement": "weisst du", "entropy": 1.360673760222241, "counts": {"weisst du": 1, "Weisst du": 1}}
+{"raw": "un", "replacement": "und", "entropy": 0.0, "counts": {"und": 4}}
+{"raw": "Hoerbuch", "replacement": "Hörbuch", "entropy": 0.0, "counts": {"Hörbuch": 1}}
+{"raw": "einloesen", "replacement": "einlösen", "entropy": 0.0, "counts": {"einlösen": 1}}
+{"raw": "aaron", "replacement": "Aaron", "entropy": 0.0, "counts": {"Aaron": 1}}
+{"raw": "bisexuel", "replacement": "bisexuell", "entropy": 0.0, "counts": {"bisexuell": 1}}
+{"raw": "falls", "replacement": "Falls", "entropy": 0.0, "counts": {"Falls": 1}}
+{"raw": "dochmal", "replacement": "doch mal", "entropy": 0.0, "counts": {"doch mal": 1}}
+{"raw": "thx", "replacement": "thanks", "entropy": 0.0, "counts": {"thanks": 1}}
+{"raw": "Zeit-Abo", "replacement": "Zeit-Abonnement", "entropy": 0.0, "counts": {"Zeit-Abonnement": 1}}
+{"raw": "Ski-", "replacement": "Ski-Bekleidung", "entropy": 0.0, "counts": {"Ski-Bekleidung": 1}}
+{"raw": "Bekleidung", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "riiiiiiiiieeeeeeesiiiiiiig", "replacement": "riesig", "entropy": 0.0, "counts": {"riesig": 1}}
+{"raw": "aufm", "replacement": "auf dem", "entropy": 0.0, "counts": {"auf dem": 4}}
+{"raw": "sport", "replacement": "Sport", "entropy": 0.0, "counts": {"Sport": 1}}
+{"raw": "wa", "replacement": "wir", "entropy": 1.0385204207952365, "counts": {"wir": 4, "war": 2}}
+{"raw": "päckchen", "replacement": "Päckchen", "entropy": 0.0, "counts": {"Päckchen": 1}}
+{"raw": "gaaaanz", "replacement": "ganz", "entropy": 0.0, "counts": {"ganz": 3}}
+{"raw": "besonderes", "replacement": "Besonderes", "entropy": 0.0, "counts": {"Besonderes": 2}}
+{"raw": "glück", "replacement": "Glück", "entropy": 0.0, "counts": {"Glück": 2}}
+{"raw": "vllt", "replacement": "vielleicht", "entropy": 0.7702470083891011, "counts": {"vielleicht": 5, "Vielleicht": 1}}
+{"raw": "sol", "replacement": "solche", "entropy": 0.0, "counts": {"solche": 2}}
+{"raw": "fuck", "replacement": "Fuck", "entropy": 0.0, "counts": {"Fuck": 1}}
+{"raw": "kandidat", "replacement": "Kandidat", "entropy": 0.0, "counts": {"Kandidat": 1}}
+{"raw": "hats", "replacement": "hat es", "entropy": 1.360673760222241, "counts": {"hat es": 1, "Hat es": 1}}
+{"raw": "freu", "replacement": "freue", "entropy": 0.5411303456337294, "counts": {"freue": 9, "Freue": 1}}
+{"raw": "Dope", "replacement": "Doping", "entropy": 0.0, "counts": {"Doping": 1}}
+{"raw": "I", "replacement": "Ich", "entropy": 1.1587450075359835, "counts": {"Ich": 2, "I": 1}}
+{"raw": "deko", "replacement": "Deko", "entropy": 0.0, "counts": {"Deko": 1}}
+{"raw": "schmetterlinge", "replacement": "Schmetterlinge", "entropy": 0.0, "counts": {"Schmetterlinge": 1}}
+{"raw": "regalen", "replacement": "Regalen", "entropy": 0.0, "counts": {"Regalen": 1}}
+{"raw": "befesti", "replacement": "befestigen", "entropy": 0.0, "counts": {"befestigen": 1}}
+{"raw": "schoen", "replacement": "schön", "entropy": 0.0, "counts": {"schön": 1}}
+{"raw": "mensch", "replacement": "Menschen", "entropy": 1.360673760222241, "counts": {"Menschen": 1, "Mensch": 1}}
+{"raw": "schranken", "replacement": "Schranken", "entropy": 0.0, "counts": {"Schranken": 1}}
+{"raw": "Nikoaus", "replacement": "Nikolaus", "entropy": 0.0, "counts": {"Nikolaus": 1}}
+{"raw": "nee", "replacement": "Nein", "entropy": 1.1587450075359835, "counts": {"Nein": 2, "nein": 1}}
+{"raw": "awww", "replacement": "Aw", "entropy": 1.360673760222241, "counts": {"Aw": 1, "Awww": 1}}
+{"raw": "sitz", "replacement": "sitze", "entropy": 1.1587450075359835, "counts": {"sitze": 2, "sitzt": 1}}
+{"raw": "schau", "replacement": "schaue", "entropy": 0.0, "counts": {"schaue": 3}}
+{"raw": "vids", "replacement": "videos", "entropy": 0.0, "counts": {"videos": 1}}
+{"raw": "Kons", "replacement": "Konsequenzen", "entropy": 0.0, "counts": {"Konsequenzen": 1}}
+{"raw": "Mano", "replacement": "Mann", "entropy": 0.0, "counts": {"Mann": 1}}
+{"raw": "dallas", "replacement": "Dallas", "entropy": 0.0, "counts": {"Dallas": 2}}
+{"raw": "mann", "replacement": "Mann", "entropy": 0.0, "counts": {"Mann": 1}}
+{"raw": "typ", "replacement": "Typ", "entropy": 0.0, "counts": {"Typ": 2}}
+{"raw": "übels", "replacement": "übel", "entropy": 0.0, "counts": {"übel": 1}}
+{"raw": "hotog", "replacement": "Hotdog", "entropy": 0.0, "counts": {"Hotdog": 1}}
+{"raw": "raus", "replacement": "herauskommt", "entropy": 1.360673760222241, "counts": {"herauskommt": 1, "heraus": 1}}
+{"raw": "komt", "replacement": "", "entropy": 1.360673760222241, "counts": {"": 1, "kommt": 1}}
+{"raw": "JA", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 3}}
+{"raw": "DORT", "replacement": "dort", "entropy": 0.0, "counts": {"dort": 1}}
+{"raw": "Ne", "replacement": "Nein", "entropy": 0.0, "counts": {"Nein": 4}}
+{"raw": "Brüderle", "replacement": "Brüder", "entropy": 0.0, "counts": {"Brüder": 1}}
+{"raw": "rot", "replacement": "rot-grünen", "entropy": 0.0, "counts": {"rot-grünen": 1}}
+{"raw": "grünen", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "Derierung", "replacement": "Regierung", "entropy": 0.0, "counts": {"Regierung": 1}}
+{"raw": "ner", "replacement": "einer", "entropy": 0.8661975989762587, "counts": {"einer": 4, "ner": 1}}
+{"raw": "Wintertr", "replacement": "Wintertrainings", "entropy": 0.0, "counts": {"Wintertrainings": 1}}
+{"raw": "ums", "replacement": "Um es", "entropy": 0.0, "counts": {"Um es": 1}}
+{"raw": "talea", "replacement": "Talea", "entropy": 0.0, "counts": {"Talea": 1}}
+{"raw": "fehler", "replacement": "Fehler", "entropy": 0.0, "counts": {"Fehler": 1}}
+{"raw": "n8", "replacement": "Nacht", "entropy": 0.0, "counts": {"Nacht": 3}}
+{"raw": "willste", "replacement": "willst du", "entropy": 0.0, "counts": {"willst du": 1}}
+{"raw": "Probier", "replacement": "probiere", "entropy": 0.0, "counts": {"probiere": 1}}
+{"raw": "raffs", "replacement": "raffe es", "entropy": 0.0, "counts": {"raffe es": 1}}
+{"raw": "les", "replacement": "lese", "entropy": 0.0, "counts": {"lese": 4}}
+{"raw": "wiede", "replacement": "wieder", "entropy": 0.0, "counts": {"wieder": 1}}
+{"raw": "namlich", "replacement": "nämlich", "entropy": 0.0, "counts": {"nämlich": 1}}
+{"raw": "ma", "replacement": "mal", "entropy": 0.8661975989762587, "counts": {"Mal": 1, "mal": 4}}
+{"raw": "tl", "replacement": "Timeline", "entropy": 0.0, "counts": {"Timeline": 1}}
+{"raw": "irgendne", "replacement": "Irgendeine", "entropy": 0.0, "counts": {"Irgendeine": 1}}
+{"raw": "montana", "replacement": "Montana", "entropy": 0.0, "counts": {"Montana": 1}}
+{"raw": "neuaufnahme", "replacement": "Neuaufnahme", "entropy": 0.0, "counts": {"Neuaufnahme": 1}}
+{"raw": "aufgabe", "replacement": "Aufgabe", "entropy": 0.0, "counts": {"Aufgabe": 1}}
+{"raw": "jedward", "replacement": "Jedward", "entropy": 0.0, "counts": {"Jedward": 1}}
+{"raw": "spiel", "replacement": "Spiel", "entropy": 0.0, "counts": {"Spiel": 1}}
+{"raw": "Mängisch", "replacement": "Manchmal", "entropy": 0.0, "counts": {"Manchmal": 1}}
+{"raw": "lueg", "replacement": "lüge", "entropy": 0.0, "counts": {"lüge": 1}}
+{"raw": "ebe", "replacement": "eben", "entropy": 0.0, "counts": {"eben": 1}}
+{"raw": "au", "replacement": "auch", "entropy": 0.0, "counts": {"auch": 1}}
+{"raw": "ine", "replacement": "einen", "entropy": 0.0, "counts": {"einen": 1}}
+{"raw": "egge", "replacement": "Unsinn", "entropy": 0.0, "counts": {"Unsinn": 1}}
+{"raw": "ufe", "replacement": "auf", "entropy": 0.0, "counts": {"auf": 1}}
+{"raw": "mer", "replacement": "mir", "entropy": 1.360673760222241, "counts": {"mir": 1, "man": 1}}
+{"raw": "sachene", "replacement": "Sachen", "entropy": 0.0, "counts": {"Sachen": 1}}
+{"raw": "Irwie", "replacement": "Irgendiwe", "entropy": 1.360673760222241, "counts": {"Irgendiwe": 1, "irgendiwe": 1}}
+{"raw": "ver", "replacement": "wer", "entropy": 0.0, "counts": {"wer": 1}}
+{"raw": "schnart", "replacement": "schnarcht", "entropy": 0.0, "counts": {"schnarcht": 1}}
+{"raw": "vie", "replacement": "als", "entropy": 0.0, "counts": {"als": 1}}
+{"raw": "scheisse", "replacement": "Scheisse", "entropy": 1.1587450075359835, "counts": {"scheisse": 1, "Scheisse": 2}}
+{"raw": "sorry", "replacement": "Sorry", "entropy": 1.360673760222241, "counts": {"Sorry": 1, "sorry": 1}}
+{"raw": "dad", "replacement": "Dad", "entropy": 0.0, "counts": {"Dad": 2}}
+{"raw": "FAIL", "replacement": "Fail", "entropy": 0.0, "counts": {"Fail": 1}}
+{"raw": "fb", "replacement": "FB", "entropy": 0.0, "counts": {"FB": 1}}
+{"raw": "twitter", "replacement": "Twitter", "entropy": 0.9916150045702532, "counts": {"Twitter": 3, "twitter": 1}}
+{"raw": "uni", "replacement": "Uni", "entropy": 0.0, "counts": {"Uni": 1}}
+{"raw": "Diesesmal", "replacement": "Dieses Mal", "entropy": 0.0, "counts": {"Dieses Mal": 1}}
+{"raw": "erinnerungen", "replacement": "Erinnerungen", "entropy": 0.0, "counts": {"Erinnerungen": 2}}
+{"raw": "vi", "replacement": "viel", "entropy": 1.360673760222241, "counts": {"viel": 1, "vielleicht": 1}}
+{"raw": "geh", "replacement": "gehe", "entropy": 0.0, "counts": {"gehe": 7}}
+{"raw": "rauf", "replacement": "herauf", "entropy": 0.0, "counts": {"herauf": 3}}
+{"raw": "runter", "replacement": "herunter", "entropy": 1.360673760222241, "counts": {"herunter": 1, "runter": 1}}
+{"raw": "le", "replacement": "leichten", "entropy": 1.360673760222241, "counts": {"leichten": 1, "le": 1}}
+{"raw": "Zahle", "replacement": "zahle", "entropy": 0.0, "counts": {"zahle": 1}}
+{"raw": "drüber", "replacement": "darüber", "entropy": 0.0, "counts": {"darüber": 4}}
+{"raw": "neiin", "replacement": "Nein", "entropy": 0.0, "counts": {"Nein": 1}}
+{"raw": "süś", "replacement": "süss", "entropy": 0.0, "counts": {"süss": 1}}
+{"raw": "Dän", "replacement": "Dänemark", "entropy": 0.0, "counts": {"Dänemark": 1}}
+{"raw": "wollt", "replacement": "wollte", "entropy": 0.0, "counts": {"wollte": 1}}
+{"raw": "neee", "replacement": "nein", "entropy": 0.0, "counts": {"nein": 1}}
+{"raw": "flasche", "replacement": "Flasche", "entropy": 0.0, "counts": {"Flasche": 1}}
+{"raw": "jack", "replacement": "Jack", "entropy": 0.0, "counts": {"Jack": 1}}
+{"raw": "daniels", "replacement": "Daniels", "entropy": 0.0, "counts": {"Daniels": 1}}
+{"raw": "nervensäge", "replacement": "Nervensäge", "entropy": 0.0, "counts": {"Nervensäge": 1}}
+{"raw": "jaaa", "replacement": "ja", "entropy": 0.0, "counts": {"ja": 1}}
+{"raw": "übliche", "replacement": "Übliche", "entropy": 0.0, "counts": {"Übliche": 1}}
+{"raw": "ubahn", "replacement": "U-Bahn", "entropy": 0.0, "counts": {"U-Bahn": 1}}
+{"raw": "frankfurter", "replacement": "Frankfurter", "entropy": 0.0, "counts": {"Frankfurter": 1}}
+{"raw": "allee", "replacement": "Allee", "entropy": 0.0, "counts": {"Allee": 1}}
+{"raw": "böse", "replacement": "Böse", "entropy": 1.1803368801111205, "counts": {"Böse": 2, "böse": 2}}
+{"raw": "Immobilien", "replacement": "Immobiliengeschäft", "entropy": 0.0, "counts": {"Immobiliengeschäft": 1}}
+{"raw": "iengeschlafen", "replacement": "eingeschlafen", "entropy": 0.0, "counts": {"eingeschlafen": 1}}
+{"raw": "Hoooot", "replacement": "Hot", "entropy": 0.0, "counts": {"Hot": 1}}
+{"raw": "liiike", "replacement": "like", "entropy": 0.0, "counts": {"like": 1}}
+{"raw": "Kommi", "replacement": "Komm", "entropy": 0.0, "counts": {"Komm": 1}}
+{"raw": "spass", "replacement": "Spass", "entropy": 0.0, "counts": {"Spass": 1}}
+{"raw": "kawaii-pics", "replacement": "Kawaii-pics", "entropy": 0.0, "counts": {"Kawaii-pics": 1}}
+{"raw": "tv", "replacement": "TV", "entropy": 0.0, "counts": {"TV": 1}}
+{"raw": "daaa", "replacement": "da", "entropy": 0.0, "counts": {"da": 1}}
+{"raw": "schwer", "replacement": "Schwer", "entropy": 0.0, "counts": {"Schwer": 1}}
+{"raw": "schreibn", "replacement": "schreiben", "entropy": 0.0, "counts": {"schreiben": 1}}
+{"raw": "fan", "replacement": "Fan", "entropy": 0.0, "counts": {"Fan": 2}}
+{"raw": "mannschaft", "replacement": "Mannschaft", "entropy": 0.0, "counts": {"Mannschaft": 1}}
+{"raw": "meister", "replacement": "Meister", "entropy": 0.0, "counts": {"Meister": 1}}
+{"raw": "pauscha", "replacement": "pauschal", "entropy": 0.0, "counts": {"pauschal": 1}}
+{"raw": "platten", "replacement": "Platten", "entropy": 0.0, "counts": {"Platten": 1}}
+{"raw": "wahnsinn", "replacement": "Wahnsinn", "entropy": 0.0, "counts": {"Wahnsinn": 1}}
+{"raw": "allan", "replacement": "Allein", "entropy": 0.0, "counts": {"Allein": 1}}
+{"raw": "mitn", "replacement": "mit einem", "entropy": 0.0, "counts": {"mit einem": 1}}
+{"raw": "deshalp", "replacement": "Deshalb", "entropy": 0.0, "counts": {"Deshalb": 1}}
+{"raw": "tante", "replacement": "Tante", "entropy": 0.0, "counts": {"Tante": 1}}
+{"raw": "forhin", "replacement": "vorhin", "entropy": 0.0, "counts": {"vorhin": 1}}
+{"raw": "kluke", "replacement": "Kluge", "entropy": 0.0, "counts": {"Kluge": 1}}
+{"raw": "ichs", "replacement": "ich es", "entropy": 0.0, "counts": {"ich es": 3}}
+{"raw": "Grundstueck", "replacement": "Grundstück", "entropy": 0.0, "counts": {"Grundstück": 1}}
+{"raw": "NO", "replacement": "No", "entropy": 0.0, "counts": {"No": 1}}
+{"raw": "HOBBYS", "replacement": "Hobbys", "entropy": 0.0, "counts": {"Hobbys": 1}}
+{"raw": "nocht", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "ARZT", "replacement": "Arzt", "entropy": 0.0, "counts": {"Arzt": 1}}
+{"raw": "nerdtum", "replacement": "Nerdtum", "entropy": 0.0, "counts": {"Nerdtum": 1}}
+{"raw": "auffm", "replacement": "auf dem", "entropy": 0.0, "counts": {"auf dem": 1}}
+{"raw": "Kopp", "replacement": "Kopf", "entropy": 0.0, "counts": {"Kopf": 1}}
+{"raw": "Aaaaaani", "replacement": "Ani", "entropy": 0.0, "counts": {"Ani": 1}}
+{"raw": "baustelle", "replacement": "Baustelle", "entropy": 0.0, "counts": {"Baustelle": 1}}
+{"raw": "be", "replacement": "betrinken", "entropy": 0.0, "counts": {"betrinken": 1}}
+{"raw": "uuh", "replacement": "Uuh", "entropy": 0.0, "counts": {"Uuh": 1}}
+{"raw": "romantisches", "replacement": "Romantisches", "entropy": 0.0, "counts": {"Romantisches": 1}}
+{"raw": "20", "replacement": "20-jährigen", "entropy": 1.360673760222241, "counts": {"20-jährigen": 1, "20": 1}}
+{"raw": "jährigen", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "habn", "replacement": "haben", "entropy": 0.0, "counts": {"haben": 3}}
+{"raw": "schiss", "replacement": "Schiss", "entropy": 0.0, "counts": {"Schiss": 1}}
+{"raw": "musste", "replacement": "Musste", "entropy": 1.360673760222241, "counts": {"Musste": 1, "musste": 1}}
+{"raw": "naturgeile", "replacement": "Naturgeile", "entropy": 0.0, "counts": {"Naturgeile": 1}}
+{"raw": "Schoenheit", "replacement": "Schönheit", "entropy": 0.0, "counts": {"Schönheit": 1}}
+{"raw": "zuviel", "replacement": "zu viel", "entropy": 0.0, "counts": {"zu viel": 1}}
+{"raw": "babyzimmer", "replacement": "Babyzimmer", "entropy": 0.0, "counts": {"Babyzimmer": 1}}
+{"raw": "has", "replacement": "Hast du", "entropy": 0.0, "counts": {"Hast du": 1}}
+{"raw": "gseh", "replacement": "gesehen", "entropy": 0.0, "counts": {"gesehen": 1}}
+{"raw": "isch", "replacement": "ist", "entropy": 1.1587450075359835, "counts": {"ist": 2, "Ich": 1}}
+{"raw": "wüescht", "replacement": "hässlich", "entropy": 0.0, "counts": {"hässlich": 1}}
+{"raw": "cam", "replacement": "Cam", "entropy": 0.0, "counts": {"Cam": 1}}
+{"raw": "Seid", "replacement": "Seit", "entropy": 0.0, "counts": {"Seit": 1}}
+{"raw": "interresiert", "replacement": "interessiert", "entropy": 0.0, "counts": {"interessiert": 1}}
+{"raw": "gerad", "replacement": "gerade", "entropy": 0.0, "counts": {"gerade": 2}}
+{"raw": "bifi", "replacement": "Bifi", "entropy": 0.0, "counts": {"Bifi": 1}}
+{"raw": "pföötchen", "replacement": "Pfötchen", "entropy": 0.0, "counts": {"Pfötchen": 1}}
+{"raw": "Gammel", "replacement": "Gammeltag", "entropy": 0.0, "counts": {"Gammeltag": 1}}
+{"raw": "änder", "replacement": "ändern", "entropy": 0.0, "counts": {"ändern": 1}}
+{"raw": "schonwieder", "replacement": "schon wieder", "entropy": 0.0, "counts": {"schon wieder": 1}}
+{"raw": "chili", "replacement": "Chili", "entropy": 0.0, "counts": {"Chili": 1}}
+{"raw": "cheese", "replacement": "Cheese", "entropy": 0.0, "counts": {"Cheese": 1}}
+{"raw": "oda", "replacement": "oder", "entropy": 0.0, "counts": {"oder": 2}}
+{"raw": "Mwahahaha", "replacement": "Mwahaha", "entropy": 0.0, "counts": {"Mwahaha": 1}}
+{"raw": "wuenschte", "replacement": "wünschte", "entropy": 0.0, "counts": {"wünschte": 1}}
+{"raw": "waere", "replacement": "wäre", "entropy": 0.0, "counts": {"wäre": 3}}
+{"raw": "sobs", "replacement": "SOBS", "entropy": 0.0, "counts": {"SOBS": 1}}
+{"raw": "jedesmal", "replacement": "jedes Mal", "entropy": 0.0, "counts": {"jedes Mal": 1}}
+{"raw": "riesenehre", "replacement": "Riesenehre", "entropy": 0.0, "counts": {"Riesenehre": 2}}
+{"raw": "tommys", "replacement": "Tommys", "entropy": 0.0, "counts": {"Tommys": 2}}
+{"raw": "duerfen", "replacement": "dürfen", "entropy": 0.0, "counts": {"dürfen": 2}}
+{"raw": "besseres", "replacement": "Besseres", "entropy": 0.0, "counts": {"Besseres": 1}}
+{"raw": "scho", "replacement": "schon", "entropy": 0.0, "counts": {"schon": 3}}
+{"raw": "uuund", "replacement": "und", "entropy": 0.0, "counts": {"und": 1}}
+{"raw": "dat", "replacement": "das", "entropy": 0.0, "counts": {"das": 1}}
+{"raw": "stunde", "replacement": "Stunde", "entropy": 0.0, "counts": {"Stunde": 2}}
+{"raw": "bahn", "replacement": "Bahn", "entropy": 0.0, "counts": {"Bahn": 1}}
+{"raw": "schnäppchen", "replacement": "Schnäppchen", "entropy": 0.0, "counts": {"Schnäppchen": 1}}
+{"raw": "heu", "replacement": "heute", "entropy": 0.0, "counts": {"heute": 1}}
+{"raw": "sost", "replacement": "sonst", "entropy": 0.0, "counts": {"sonst": 1}}
+{"raw": "ejtzt", "replacement": "jetzt", "entropy": 0.0, "counts": {"jetzt": 1}}
+{"raw": "trag", "replacement": "trage", "entropy": 0.0, "counts": {"trage": 1}}
+{"raw": "hüfthosen", "replacement": "Hüfthosen", "entropy": 0.0, "counts": {"Hüfthosen": 1}}
+{"raw": "shirts", "replacement": "Shirts", "entropy": 0.0, "counts": {"Shirts": 1}}
+{"raw": "pullis", "replacement": "Pullis", "entropy": 0.0, "counts": {"Pullis": 1}}
+{"raw": "Rolladengurt", "replacement": "Rollladengurt", "entropy": 0.0, "counts": {"Rollladengurt": 1}}
+{"raw": "gröhlchen", "replacement": "Gröhlchen", "entropy": 0.0, "counts": {"Gröhlchen": 1}}
+{"raw": "Grad", "replacement": "Gerade", "entropy": 0.0, "counts": {"Gerade": 1}}
+{"raw": "nyc", "replacement": "NYC", "entropy": 0.0, "counts": {"NYC": 1}}
+{"raw": "gefahr", "replacement": "gefahren", "entropy": 0.0, "counts": {"gefahren": 1}}
+{"raw": "muessen", "replacement": "müssen", "entropy": 0.0, "counts": {"müssen": 1}}
+{"raw": "sowas", "replacement": "so etwas", "entropy": 1.360673760222241, "counts": {"so etwas": 1, "so was": 1}}
+{"raw": "raus'gschmissen", "replacement": "herausgeschmissen", "entropy": 0.0, "counts": {"herausgeschmissen": 1}}
+{"raw": "Heutemittag", "replacement": "heute Mittag", "entropy": 0.0, "counts": {"heute Mittag": 1}}
+{"raw": "hause", "replacement": "Hause", "entropy": 1.360673760222241, "counts": {"Hause": 1, "hause": 1}}
+{"raw": "ausflüge", "replacement": "Ausflüge", "entropy": 0.0, "counts": {"Ausflüge": 1}}
+{"raw": "Waaaaas", "replacement": "Was", "entropy": 0.0, "counts": {"Was": 1}}
+{"raw": "danke", "replacement": "Danke", "entropy": 0.0, "counts": {"Danke": 3}}
+{"raw": "Scheiss", "replacement": "Scheisse", "entropy": 0.0, "counts": {"Scheisse": 4}}
+{"raw": "jeden", "replacement": "Jeden", "entropy": 1.360673760222241, "counts": {"Jeden": 1, "jeden": 1}}
+{"raw": "jaaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 4}}
+{"raw": "schaun", "replacement": "schauen", "entropy": 0.8661975989762587, "counts": {"schauen": 4, "": 1}}
+{"raw": "Käpt'n", "replacement": "Kapitän", "entropy": 0.0, "counts": {"Kapitän": 1}}
+{"raw": "werds", "replacement": "Werde es", "entropy": 0.0, "counts": {"Werde es": 1}}
+{"raw": "engel", "replacement": "Engel", "entropy": 0.0, "counts": {"Engel": 1}}
+{"raw": "Haste", "replacement": "Hast du", "entropy": 0.0, "counts": {"Hast du": 1}}
+{"raw": "news", "replacement": "News", "entropy": 0.0, "counts": {"News": 1}}
+{"raw": "ke", "replacement": "keinen", "entropy": 0.0, "counts": {"keinen": 1}}
+{"raw": "stecher", "replacement": "Stecher", "entropy": 0.0, "counts": {"Stecher": 1}}
+{"raw": "fang", "replacement": "fange", "entropy": 0.0, "counts": {"fange": 1}}
+{"raw": "TL", "replacement": "Timeline", "entropy": 0.0, "counts": {"Timeline": 1}}
+{"raw": "weinachtslieder", "replacement": "Weihnachtslieder", "entropy": 0.0, "counts": {"Weihnachtslieder": 1}}
+{"raw": "hätts", "replacement": "hätte es", "entropy": 0.0, "counts": {"hätte es": 2}}
+{"raw": "wärs", "replacement": "wäre es", "entropy": 0.0, "counts": {"wäre es": 2}}
+{"raw": "wasch", "replacement": "wasche", "entropy": 0.0, "counts": {"wasche": 1}}
+{"raw": "haare", "replacement": "Haare", "entropy": 0.0, "counts": {"Haare": 1}}
+{"raw": "zeug", "replacement": "Zeug", "entropy": 0.0, "counts": {"Zeug": 1}}
+{"raw": "Deu", "replacement": "Deutsch", "entropy": 0.0, "counts": {"Deutsch": 1}}
+{"raw": "Wenns", "replacement": "Wenn es", "entropy": 0.0, "counts": {"Wenn es": 1}}
+{"raw": "Wissenschafter", "replacement": "Wissenschaftler", "entropy": 0.0, "counts": {"Wissenschaftler": 2}}
+{"raw": "Forsc", "replacement": "Forscher", "entropy": 0.0, "counts": {"Forscher": 2}}
+{"raw": "befreuntet", "replacement": "befreundet", "entropy": 0.0, "counts": {"befreundet": 1}}
+{"raw": "sry", "replacement": "Sorry", "entropy": 1.0385204207952365, "counts": {"Sorry": 4, "sorry": 2}}
+{"raw": "zjhause", "replacement": "zuhause", "entropy": 0.0, "counts": {"zuhause": 1}}
+{"raw": "ham", "replacement": "haben", "entropy": 0.0, "counts": {"haben": 2}}
+{"raw": "Träufel", "replacement": "Träufele", "entropy": 0.0, "counts": {"Träufele": 1}}
+{"raw": "zitronensaft", "replacement": "Zitronensaft", "entropy": 0.0, "counts": {"Zitronensaft": 1}}
+{"raw": "tisch", "replacement": "Tisch", "entropy": 0.0, "counts": {"Tisch": 2}}
+{"raw": "gemisch", "replacement": "Gemisch", "entropy": 0.0, "counts": {"Gemisch": 1}}
+{"raw": "tequila", "replacement": "Tequila", "entropy": 0.0, "counts": {"Tequila": 1}}
+{"raw": "schliess", "replacement": "schliesse", "entropy": 0.0, "counts": {"schliesse": 2}}
+{"raw": "umbauen", "replacement": "Umbauen", "entropy": 0.0, "counts": {"Umbauen": 1}}
+{"raw": "englisch", "replacement": "Englisch", "entropy": 0.0, "counts": {"Englisch": 1}}
+{"raw": "account", "replacement": "Account", "entropy": 0.0, "counts": {"Account": 1}}
+{"raw": "Burosortierdienst", "replacement": "Bürosortierdienst", "entropy": 0.0, "counts": {"Bürosortierdienst": 1}}
+{"raw": "deutschlandweiter", "replacement": "deutschlandweite", "entropy": 0.0, "counts": {"deutschlandweite": 1}}
+{"raw": "Dienstleist", "replacement": "Dienstleistungen", "entropy": 0.0, "counts": {"Dienstleistungen": 1}}
+{"raw": "valla", "replacement": "Valla", "entropy": 0.0, "counts": {"Valla": 1}}
+{"raw": "fü", "replacement": "für", "entropy": 0.0, "counts": {"für": 2}}
+{"raw": "schade", "replacement": "Schade", "entropy": 1.360673760222241, "counts": {"Schade": 1, "schade": 1}}
+{"raw": "spingst", "replacement": "spinnst", "entropy": 0.0, "counts": {"spinnst": 1}}
+{"raw": "schn", "replacement": "schnellstens", "entropy": 0.0, "counts": {"schnellstens": 1}}
+{"raw": "lern", "replacement": "lerne", "entropy": 0.0, "counts": {"lerne": 1}}
+{"raw": "kanns", "replacement": "kann es", "entropy": 0.0, "counts": {"kann es": 2}}
+{"raw": "guckn", "replacement": "gucken", "entropy": 0.0, "counts": {"gucken": 1}}
+{"raw": "Weinachten", "replacement": "Weihnachten", "entropy": 0.0, "counts": {"Weihnachten": 1}}
+{"raw": "gabe", "replacement": "gäbe", "entropy": 0.0, "counts": {"gäbe": 1}}
+{"raw": "nerv", "replacement": "nerve", "entropy": 0.0, "counts": {"nerve": 1}}
+{"raw": "Wirklichkeitsfrom", "replacement": "Wirklichkeitsform", "entropy": 0.0, "counts": {"Wirklichkeitsform": 1}}
+{"raw": "Mir", "replacement": "Wir", "entropy": 1.360673760222241, "counts": {"Wir": 1, "Mir": 1}}
+{"raw": "heint", "replacement": "heute", "entropy": 0.0, "counts": {"heute": 1}}
+{"raw": "tietela", "replacement": "Tietela", "entropy": 0.0, "counts": {"Tietela": 1}}
+{"raw": "mocht", "replacement": "gemacht", "entropy": 0.0, "counts": {"gemacht": 1}}
+{"raw": "Spaetere", "replacement": "Spätere", "entropy": 0.0, "counts": {"Spätere": 1}}
+{"raw": "dankesrede", "replacement": "Dankesrede", "entropy": 0.0, "counts": {"Dankesrede": 1}}
+{"raw": "bundestag", "replacement": "Bundestag", "entropy": 0.0, "counts": {"Bundestag": 1}}
+{"raw": "unterstuetzung", "replacement": "Unterstützung", "entropy": 0.0, "counts": {"Unterstützung": 1}}
+{"raw": "kanzler", "replacement": "Kanzler", "entropy": 0.0, "counts": {"Kanzler": 1}}
+{"raw": "englishlehrerin", "replacement": "Englischlehrerin", "entropy": 0.0, "counts": {"Englischlehrerin": 1}}
+{"raw": "gross", "replacement": "Gross-", "entropy": 0.0, "counts": {"Gross-": 1}}
+{"raw": "kleinschreibung", "replacement": "Kleinschreibung", "entropy": 0.0, "counts": {"Kleinschreibung": 1}}
+{"raw": "killn", "replacement": "killen", "entropy": 0.0, "counts": {"killen": 1}}
+{"raw": "moiii", "replacement": "Moin", "entropy": 0.0, "counts": {"Moin": 1}}
+{"raw": "sagn", "replacement": "sagen", "entropy": 0.0, "counts": {"sagen": 1}}
+{"raw": "machsch", "replacement": "machst", "entropy": 0.0, "counts": {"machst": 1}}
+{"raw": "kakao", "replacement": "Kakao", "entropy": 0.0, "counts": {"Kakao": 1}}
+{"raw": "jared", "replacement": "Jared", "entropy": 0.0, "counts": {"Jared": 1}}
+{"raw": "schesse", "replacement": "Scheisse", "entropy": 0.0, "counts": {"Scheisse": 1}}
+{"raw": "rätzeln", "replacement": "rätseln", "entropy": 0.0, "counts": {"rätseln": 1}}
+{"raw": "spast", "replacement": "spasst", "entropy": 0.0, "counts": {"spasst": 2}}
+{"raw": "wolke", "replacement": "Wolke", "entropy": 1.360673760222241, "counts": {"Wolke": 1, "wolke": 1}}
+{"raw": "WettenDass", "replacement": "Wetten, dass", "entropy": 0.0, "counts": {"Wetten, dass": 1}}
+{"raw": "herrschaft", "replacement": "Herrschaft", "entropy": 0.0, "counts": {"Herrschaft": 1}}
+{"raw": "manno", "replacement": "Mann", "entropy": 0.0, "counts": {"Mann": 1}}
+{"raw": "genaues", "replacement": "Genaues", "entropy": 0.0, "counts": {"Genaues": 1}}
+{"raw": "elefant", "replacement": "Elefant", "entropy": 0.0, "counts": {"Elefant": 1}}
+{"raw": "kamel", "replacement": "Kamel", "entropy": 0.0, "counts": {"Kamel": 2}}
+{"raw": "warum", "replacement": "Warum", "entropy": 1.1803368801111205, "counts": {"Warum": 2, "warum": 2}}
+{"raw": "busen", "replacement": "Busen", "entropy": 0.0, "counts": {"Busen": 1}}
+{"raw": "rücken", "replacement": "Rücken", "entropy": 0.0, "counts": {"Rücken": 1}}
+{"raw": "aso", "replacement": "Also", "entropy": 0.0, "counts": {"Also": 3}}
+{"raw": "Adventsk", "replacement": "Adventskalender", "entropy": 0.0, "counts": {"Adventskalender": 2}}
+{"raw": "befind", "replacement": "befindet", "entropy": 0.0, "counts": {"befindet": 1}}
+{"raw": "gästen", "replacement": "Gästen", "entropy": 0.0, "counts": {"Gästen": 1}}
+{"raw": "rumgetrolle", "replacement": "Herumgetrolle", "entropy": 0.0, "counts": {"Herumgetrolle": 1}}
+{"raw": "böses", "replacement": "Böses", "entropy": 0.0, "counts": {"Böses": 1}}
+{"raw": "c&a", "replacement": "C&A", "entropy": 0.0, "counts": {"C&A": 1}}
+{"raw": "bilder", "replacement": "Bilder", "entropy": 0.0, "counts": {"Bilder": 1}}
+{"raw": "Fuer", "replacement": "Für", "entropy": 0.0, "counts": {"Für": 1}}
+{"raw": "u.", "replacement": "und", "entropy": 0.0, "counts": {"und": 2}}
+{"raw": "problem", "replacement": "Problem", "entropy": 1.360673760222241, "counts": {"Problem": 1, "problem": 1}}
+{"raw": "IMMER", "replacement": "Immer", "entropy": 0.0, "counts": {"Immer": 1}}
+{"raw": "japp", "replacement": "Japp", "entropy": 0.0, "counts": {"Japp": 1}}
+{"raw": "profil-pic", "replacement": "Profil-Pic", "entropy": 0.0, "counts": {"Profil-Pic": 1}}
+{"raw": "latte", "replacement": "Latte", "entropy": 0.0, "counts": {"Latte": 1}}
+{"raw": "Rav", "replacement": "Ravensburger", "entropy": 0.0, "counts": {"Ravensburger": 1}}
+{"raw": "hübschfindest", "replacement": "hübsch findest", "entropy": 0.0, "counts": {"hübsch findest": 1}}
+{"raw": "Pozilei", "replacement": "Polizei", "entropy": 0.0, "counts": {"Polizei": 1}}
+{"raw": "Heut", "replacement": "Heute", "entropy": 0.0, "counts": {"Heute": 1}}
+{"raw": "yeah", "replacement": "Yeah", "entropy": 0.0, "counts": {"Yeah": 1}}
+{"raw": "name", "replacement": "Name", "entropy": 1.360673760222241, "counts": {"Name": 1, "name": 1}}
+{"raw": "ginanda", "replacement": "Ginanda", "entropy": 0.0, "counts": {"Ginanda": 1}}
+{"raw": "mahsa", "replacement": "Mahsa", "entropy": 0.0, "counts": {"Mahsa": 1}}
+{"raw": "heist", "replacement": "heisst", "entropy": 0.0, "counts": {"heisst": 1}}
+{"raw": "laeuft", "replacement": "läuft", "entropy": 0.0, "counts": {"läuft": 2}}
+{"raw": "fussball", "replacement": "Fussball", "entropy": 0.0, "counts": {"Fussball": 3}}
+{"raw": "Wundesschöner", "replacement": "wunderschöner", "entropy": 0.0, "counts": {"wunderschöner": 1}}
+{"raw": "hä", "replacement": "Hä", "entropy": 0.0, "counts": {"Hä": 1}}
+{"raw": "ni", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "Wissen", "replacement": "wissen", "entropy": 1.360673760222241, "counts": {"wissen": 1, "Wissen": 1}}
+{"raw": "mathe", "replacement": "Mathe", "entropy": 0.0, "counts": {"Mathe": 1}}
+{"raw": "g-punkt", "replacement": "G-Punkt", "entropy": 0.0, "counts": {"G-Punkt": 1}}
+{"raw": "scheitelpunkte", "replacement": "Scheitelpunkte", "entropy": 0.0, "counts": {"Scheitelpunkte": 1}}
+{"raw": "kos", "replacement": "Kos", "entropy": 0.0, "counts": {"Kos": 1}}
+{"raw": "duuuuuuuuuuurch", "replacement": "durch", "entropy": 0.0, "counts": {"durch": 1}}
+{"raw": "immernoch", "replacement": "immer noch", "entropy": 0.0, "counts": {"immer noch": 2}}
+{"raw": "Whg", "replacement": "Wohnung", "entropy": 0.0, "counts": {"Wohnung": 1}}
+{"raw": "wirds", "replacement": "wird es", "entropy": 0.0, "counts": {"wird es": 1}}
+{"raw": "huahahaha", "replacement": "huahaha", "entropy": 0.0, "counts": {"huahaha": 1}}
+{"raw": "spaeter", "replacement": "später", "entropy": 0.0, "counts": {"später": 2}}
+{"raw": "Maedel", "replacement": "Mädel", "entropy": 0.0, "counts": {"Mädel": 1}}
+{"raw": "BJ", "replacement": "Blowjob", "entropy": 0.0, "counts": {"Blowjob": 1}}
+{"raw": "TG", "replacement": "Taschengeld", "entropy": 0.0, "counts": {"Taschengeld": 1}}
+{"raw": "ga", "replacement": "geh", "entropy": 0.0, "counts": {"geh": 1}}
+{"raw": "regen", "replacement": "Regen", "entropy": 0.0, "counts": {"Regen": 1}}
+{"raw": "schwanken", "replacement": "Schwanken", "entropy": 0.0, "counts": {"Schwanken": 1}}
+{"raw": "bruder", "replacement": "Bruder", "entropy": 0.0, "counts": {"Bruder": 1}}
+{"raw": "körperverletzung", "replacement": "Körperverletzung", "entropy": 0.0, "counts": {"Körperverletzung": 1}}
+{"raw": "ertränk", "replacement": "ertränke", "entropy": 0.0, "counts": {"ertränke": 1}}
+{"raw": "Put", "replacement": "Putin", "entropy": 0.0, "counts": {"Putin": 2}}
+{"raw": "überleg", "replacement": "überlege", "entropy": 0.0, "counts": {"überlege": 1}}
+{"raw": "voodka", "replacement": "Wodka", "entropy": 0.0, "counts": {"Wodka": 1}}
+{"raw": "SEH", "replacement": "THE", "entropy": 0.0, "counts": {"THE": 2}}
+{"raw": "WÖÖÖRLD", "replacement": "WORLD", "entropy": 0.0, "counts": {"WORLD": 1}}
+{"raw": "patronen", "replacement": "Patronen", "entropy": 0.0, "counts": {"Patronen": 1}}
+{"raw": "midm", "replacement": "mit dem", "entropy": 0.0, "counts": {"mit dem": 1}}
+{"raw": "audoo", "replacement": "Audi", "entropy": 0.0, "counts": {"Audi": 1}}
+{"raw": "underweks", "replacement": "unterwegs", "entropy": 0.0, "counts": {"unterwegs": 1}}
+{"raw": "ang", "replacement": "angekündigt", "entropy": 1.1587450075359835, "counts": {"angekündigten": 1, "angekündigt": 2}}
+{"raw": "jaa", "replacement": "Ja", "entropy": 1.1803368801111205, "counts": {"Ja": 2, "ja": 2}}
+{"raw": "süsse", "replacement": "Süsse", "entropy": 0.0, "counts": {"Süsse": 1}}
+{"raw": "der/die/das", "replacement": "Der/die/das", "entropy": 0.0, "counts": {"Der/die/das": 1}}
+{"raw": "mäuschen", "replacement": "Mäuschen", "entropy": 0.0, "counts": {"Mäuschen": 1}}
+{"raw": "wlan", "replacement": "Wlan", "entropy": 0.0, "counts": {"Wlan": 1}}
+{"raw": "nurnoch", "replacement": "nur noch", "entropy": 0.0, "counts": {"nur noch": 2}}
+{"raw": "schwester", "replacement": "Schwester", "entropy": 0.0, "counts": {"Schwester": 1}}
+{"raw": "depri", "replacement": "deprimiert", "entropy": 0.0, "counts": {"deprimiert": 1}}
+{"raw": "gehn", "replacement": "gehen", "entropy": 0.0, "counts": {"gehen": 1}}
+{"raw": "Silbertren-nung", "replacement": "Silbertrennung", "entropy": 0.0, "counts": {"Silbertrennung": 1}}
+{"raw": "scheiss", "replacement": "Scheisse", "entropy": 0.0, "counts": {"Scheisse": 4}}
+{"raw": "frage", "replacement": "Frage", "entropy": 0.0, "counts": {"Frage": 1}}
+{"raw": "schwanz", "replacement": "Schwanz", "entropy": 0.0, "counts": {"Schwanz": 1}}
+{"raw": "gesicht", "replacement": "Gesicht", "entropy": 0.0, "counts": {"Gesicht": 1}}
+{"raw": "nuhr", "replacement": "nur", "entropy": 0.0, "counts": {"nur": 1}}
+{"raw": "Zuchter", "replacement": "Züchter", "entropy": 0.0, "counts": {"Züchter": 1}}
+{"raw": "Backlinkpfli", "replacement": "Backlinkpflicht", "entropy": 0.0, "counts": {"Backlinkpflicht": 1}}
+{"raw": "zayn", "replacement": "Zayn", "entropy": 0.0, "counts": {"Zayn": 1}}
+{"raw": "weichweizengrie\\u00DF", "replacement": "Weichweizengriess", "entropy": 0.0, "counts": {"Weichweizengriess": 1}}
+{"raw": "hartweizengrie\\u00DF", "replacement": "Hartweizengriess", "entropy": 0.0, "counts": {"Hartweizengriess": 1}}
+{"raw": "marl", "replacement": "Marl", "entropy": 0.0, "counts": {"Marl": 1}}
+{"raw": "party", "replacement": "Party", "entropy": 0.0, "counts": {"Party": 1}}
+{"raw": "rüber", "replacement": "herüber", "entropy": 0.0, "counts": {"herüber": 1}}
+{"raw": "Freu'", "replacement": "Freue", "entropy": 0.0, "counts": {"Freue": 1}}
+{"raw": "FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU", "replacement": "fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu", "entropy": 0.0, "counts": {"fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu": 1}}
+{"raw": "youtube", "replacement": "Youtube", "entropy": 0.0, "counts": {"Youtube": 1}}
+{"raw": "Hoffnu", "replacement": "Hoffnung", "entropy": 0.0, "counts": {"Hoffnung": 1}}
+{"raw": "geschlafn", "replacement": "geschlafen", "entropy": 0.0, "counts": {"geschlafen": 1}}
+{"raw": "dran", "replacement": "daran", "entropy": 0.0, "counts": {"daran": 2}}
+{"raw": "wärt", "replacement": "wäret", "entropy": 0.0, "counts": {"wäret": 1}}
+{"raw": "gib", "replacement": "Gib", "entropy": 0.0, "counts": {"Gib": 1}}
+{"raw": "bescheid", "replacement": "Bescheid", "entropy": 0.0, "counts": {"Bescheid": 1}}
+{"raw": "ikea", "replacement": "Ikea", "entropy": 0.0, "counts": {"Ikea": 1}}
+{"raw": "duu", "replacement": "du", "entropy": 0.0, "counts": {"du": 1}}
+{"raw": "bundesligaherren", "replacement": "Bundesligaherren", "entropy": 0.0, "counts": {"Bundesligaherren": 1}}
+{"raw": "basketballbundesliga", "replacement": "Basketballbundesliga", "entropy": 0.0, "counts": {"Basketballbundesliga": 1}}
+{"raw": "bbcbayreuth", "replacement": "BBCBayreuth", "entropy": 0.0, "counts": {"BBCBayreuth": 1}}
+{"raw": "lw^^", "replacement": "langweilig", "entropy": 0.0, "counts": {"langweilig": 1}}
+{"raw": "versteh", "replacement": "verstehe", "entropy": 0.0, "counts": {"verstehe": 1}}
+{"raw": "pahh", "replacement": "Pah", "entropy": 0.0, "counts": {"Pah": 1}}
+{"raw": "hals", "replacement": "Hals", "entropy": 0.0, "counts": {"Hals": 1}}
+{"raw": "tagen", "replacement": "Tagen", "entropy": 0.0, "counts": {"Tagen": 2}}
+{"raw": "Suesser", "replacement": "Süsser", "entropy": 0.0, "counts": {"Süsser": 2}}
+{"raw": "sprech'", "replacement": "spreche", "entropy": 0.0, "counts": {"spreche": 1}}
+{"raw": "papa", "replacement": "Papa", "entropy": 0.0, "counts": {"Papa": 1}}
+{"raw": "NATUR", "replacement": "naturgeile", "entropy": 0.0, "counts": {"naturgeile": 1}}
+{"raw": "GEIL", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "TITEN", "replacement": "Titten", "entropy": 0.0, "counts": {"Titten": 1}}
+{"raw": "taschentücher", "replacement": "Taschentücher", "entropy": 0.0, "counts": {"Taschentücher": 1}}
+{"raw": "schnodder", "replacement": "Schnodder", "entropy": 0.0, "counts": {"Schnodder": 1}}
+{"raw": "gangbang", "replacement": "Gangbang", "entropy": 0.0, "counts": {"Gangbang": 1}}
+{"raw": "erotik", "replacement": "Erotik", "entropy": 0.0, "counts": {"Erotik": 1}}
+{"raw": "aufjedenfall", "replacement": "auf jeden Fall", "entropy": 0.0, "counts": {"auf jeden Fall": 1}}
+{"raw": "durecke", "replacement": "drücke", "entropy": 0.0, "counts": {"drücke": 1}}
+{"raw": "zara", "replacement": "Zara", "entropy": 0.0, "counts": {"Zara": 1}}
+{"raw": "wintermäntel", "replacement": "Wintermäntel", "entropy": 0.0, "counts": {"Wintermäntel": 1}}
+{"raw": "daunen", "replacement": "Daunen", "entropy": 0.0, "counts": {"Daunen": 1}}
+{"raw": "mäntel", "replacement": "Mäntel", "entropy": 0.0, "counts": {"Mäntel": 1}}
+{"raw": "Höfts", "replacement": "Hoffe", "entropy": 0.0, "counts": {"Hoffe": 1}}
+{"raw": "Flaskalender", "replacement": "Flashkalender", "entropy": 0.0, "counts": {"Flashkalender": 1}}
+{"raw": "Amtsger", "replacement": "Amtsgericht", "entropy": 0.0, "counts": {"Amtsgericht": 1}}
+{"raw": "besoofen", "replacement": "besoffen", "entropy": 0.0, "counts": {"besoffen": 1}}
+{"raw": "zuvielen", "replacement": "zu vielen", "entropy": 0.0, "counts": {"zu vielen": 1}}
+{"raw": "Les", "replacement": "lese", "entropy": 0.0, "counts": {"lese": 1}}
+{"raw": "soooo", "replacement": "So", "entropy": 0.0, "counts": {"So": 1}}
+{"raw": "hol", "replacement": "hole", "entropy": 0.0, "counts": {"hole": 1}}
+{"raw": "WE", "replacement": "Wochenende", "entropy": 0.0, "counts": {"Wochenende": 1}}
+{"raw": "update", "replacement": "Update", "entropy": 0.0, "counts": {"Update": 1}}
+{"raw": "waffenordner", "replacement": "Waffenordner", "entropy": 0.0, "counts": {"Waffenordner": 1}}
+{"raw": "moin", "replacement": "Morgen", "entropy": 0.0, "counts": {"Morgen": 1}}
+{"raw": "jojo", "replacement": "Jojo", "entropy": 0.0, "counts": {"Jojo": 1}}
+{"raw": "deluxe", "replacement": "Deluxe", "entropy": 0.0, "counts": {"Deluxe": 1}}
+{"raw": "abo", "replacement": "Abo", "entropy": 0.0, "counts": {"Abo": 1}}
+{"raw": "samuel", "replacement": "Samuel", "entropy": 0.0, "counts": {"Samuel": 1}}
+{"raw": "wees", "replacement": "weiss", "entropy": 0.0, "counts": {"weiss": 1}}
+{"raw": "imma", "replacement": "immer", "entropy": 0.0, "counts": {"immer": 1}}
+{"raw": "jut", "replacement": "gut", "entropy": 0.0, "counts": {"gut": 1}}
+{"raw": "Parteiflüge", "replacement": "Parteiflügel", "entropy": 0.0, "counts": {"Parteiflügel": 1}}
+{"raw": "club", "replacement": "Club", "entropy": 0.0, "counts": {"Club": 1}}
+{"raw": "jetz", "replacement": "jetzt", "entropy": 0.0, "counts": {"jetzt": 3}}
+{"raw": "meina", "replacement": "meiner", "entropy": 0.0, "counts": {"meiner": 1}}
+{"raw": "freundin", "replacement": "Freundin", "entropy": 0.0, "counts": {"Freundin": 1}}
+{"raw": "leuten", "replacement": "Leuten", "entropy": 0.0, "counts": {"Leuten": 1}}
+{"raw": "addresse", "replacement": "Adresse", "entropy": 0.0, "counts": {"Adresse": 1}}
+{"raw": "jaja", "replacement": "Jaja", "entropy": 0.0, "counts": {"Jaja": 1}}
+{"raw": "herlich", "replacement": "Herlich", "entropy": 0.0, "counts": {"Herlich": 1}}
+{"raw": "schleimer", "replacement": "Schleimer", "entropy": 0.0, "counts": {"Schleimer": 1}}
+{"raw": "Arbeiter", "replacement": "Arbeiter-Outfit", "entropy": 0.0, "counts": {"Arbeiter-Outfit": 1}}
+{"raw": "Outfit", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "Wei", "replacement": "Weitere", "entropy": 0.0, "counts": {"Weitere": 1}}
+{"raw": "immerhin", "replacement": "Immerhin", "entropy": 0.0, "counts": {"Immerhin": 1}}
+{"raw": "jmd", "replacement": "jemand", "entropy": 0.0, "counts": {"jemand": 1}}
+{"raw": "Schaelen", "replacement": "Schälen", "entropy": 0.0, "counts": {"Schälen": 1}}
+{"raw": "Krankenhaus", "replacement": "Krankenhausaufenthalt", "entropy": 0.0, "counts": {"Krankenhausaufenthalt": 1}}
+{"raw": "aufhalt", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "iwelche", "replacement": "irgendwelche", "entropy": 0.0, "counts": {"irgendwelche": 2}}
+{"raw": "Rauhfaser", "replacement": "Raufaser", "entropy": 0.0, "counts": {"Raufaser": 1}}
+{"raw": "passee", "replacement": "passé", "entropy": 0.0, "counts": {"passé": 1}}
+{"raw": "FictionFans", "replacement": "Fictionfans", "entropy": 0.0, "counts": {"Fictionfans": 1}}
+{"raw": "*dichküss*", "replacement": "* dich küss *", "entropy": 0.0, "counts": {"* dich küss *": 1}}
+{"raw": "Nachti", "replacement": "Nacht", "entropy": 0.0, "counts": {"Nacht": 2}}
+{"raw": "fcb", "replacement": "FCB", "entropy": 0.0, "counts": {"FCB": 1}}
+{"raw": "fol", "replacement": "folgende", "entropy": 0.0, "counts": {"folgende": 1}}
+{"raw": "ICH", "replacement": "ich", "entropy": 0.0, "counts": {"ich": 1}}
+{"raw": "erinner", "replacement": "erinnere", "entropy": 0.0, "counts": {"erinnere": 2}}
+{"raw": "Halloooooo", "replacement": "Hallo", "entropy": 0.0, "counts": {"Hallo": 1}}
+{"raw": "Neobangbowwwwismus", "replacement": "Neobangbowismus", "entropy": 0.0, "counts": {"Neobangbowismus": 1}}
+{"raw": "Vorallem", "replacement": "Vor allem", "entropy": 0.0, "counts": {"Vor allem": 2}}
+{"raw": "arsch", "replacement": "Arsch", "entropy": 0.0, "counts": {"Arsch": 1}}
+{"raw": "Tach", "replacement": "Tag", "entropy": 0.0, "counts": {"Tag": 2}}
+{"raw": "Kannste", "replacement": "Kannst du", "entropy": 0.0, "counts": {"Kannst du": 2}}
+{"raw": "bedinungsanleitung", "replacement": "Bedienungsanleitung", "entropy": 0.0, "counts": {"Bedienungsanleitung": 1}}
+{"raw": "wech", "replacement": "weg", "entropy": 0.0, "counts": {"weg": 2}}
+{"raw": "nenn", "replacement": "nenne", "entropy": 0.0, "counts": {"nenne": 1}}
+{"raw": "akku-lade-zustand", "replacement": "Akku-Lade-Zustand", "entropy": 0.0, "counts": {"Akku-Lade-Zustand": 1}}
+{"raw": "alaba", "replacement": "Alaba", "entropy": 0.0, "counts": {"Alaba": 1}}
+{"raw": "nespresso", "replacement": "Nespresso", "entropy": 0.0, "counts": {"Nespresso": 1}}
+{"raw": "citiz", "replacement": "Citiz", "entropy": 0.0, "counts": {"Citiz": 1}}
+{"raw": "pruede", "replacement": "prüde", "entropy": 0.0, "counts": {"prüde": 1}}
+{"raw": "Wtal", "replacement": "Wuppertal", "entropy": 0.0, "counts": {"Wuppertal": 1}}
+{"raw": "Atomkraftwer", "replacement": "Atomkraftwerk", "entropy": 0.0, "counts": {"Atomkraftwerk": 1}}
+{"raw": "ed", "replacement": "Ed", "entropy": 0.0, "counts": {"Ed": 1}}
+{"raw": "leit", "replacement": "leid", "entropy": 0.0, "counts": {"leid": 1}}
+{"raw": "KEINE", "replacement": "Keine", "entropy": 0.0, "counts": {"Keine": 1}}
+{"raw": "BELEIDIGUNGEN", "replacement": "Beleidigungen", "entropy": 0.0, "counts": {"Beleidigungen": 1}}
+{"raw": "Tr", "replacement": "Trade", "entropy": 0.0, "counts": {"Trade": 1}}
+{"raw": "stehts", "replacement": "stets", "entropy": 1.1587450075359835, "counts": {"stets": 2, "steht es": 1}}
+{"raw": "nichtsmehr", "replacement": "nichts mehr", "entropy": 0.0, "counts": {"nichts mehr": 1}}
+{"raw": "Landu", "replacement": "Landung", "entropy": 0.0, "counts": {"Landung": 1}}
+{"raw": "App-", "replacement": "Appabstürzte", "entropy": 0.0, "counts": {"Appabstürzte": 1}}
+{"raw": "abstürtze", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "Kaffi", "replacement": "Kaffee", "entropy": 0.0, "counts": {"Kaffee": 1}}
+{"raw": "offeriere", "replacement": "offerieren", "entropy": 0.0, "counts": {"offerieren": 1}}
+{"raw": "Ohrwürmle", "replacement": "Ohrwurm", "entropy": 0.0, "counts": {"Ohrwurm": 1}}
+{"raw": "wen", "replacement": "wen iig", "entropy": 0.0, "counts": {"wen iig": 1}}
+{"raw": "guats", "replacement": "Gute", "entropy": 0.0, "counts": {"Gute": 1}}
+{"raw": "Nächtle", "replacement": "Nacht", "entropy": 0.0, "counts": {"Nacht": 1}}
+{"raw": "paar", "replacement": "Paar", "entropy": 0.0, "counts": {"Paar": 1}}
+{"raw": "öko-back-skills", "replacement": "Öko-Back-Skills", "entropy": 0.0, "counts": {"Öko-Back-Skills": 1}}
+{"raw": "no", "replacement": "noch", "entropy": 1.1587450075359835, "counts": {"noch": 2, "No": 1}}
+{"raw": "sic", "replacement": "gesichert", "entropy": 1.360673760222241, "counts": {"gesichert": 1, "sicher": 1}}
+{"raw": "Hartmetalrad", "replacement": "Hartmetallrad", "entropy": 0.0, "counts": {"Hartmetallrad": 1}}
+{"raw": "Ansch", "replacement": "Anschaffung", "entropy": 0.0, "counts": {"Anschaffung": 1}}
+{"raw": "d.h.", "replacement": "D.h.", "entropy": 0.0, "counts": {"D.h.": 1}}
+{"raw": "voice", "replacement": "Voice", "entropy": 0.0, "counts": {"Voice": 1}}
+{"raw": "wahl", "replacement": "Wahl", "entropy": 0.0, "counts": {"Wahl": 1}}
+{"raw": "Weinachtskarten", "replacement": "Weihnachtskarten", "entropy": 0.0, "counts": {"Weihnachtskarten": 1}}
+{"raw": "Kreutzwörträsel", "replacement": "Kreuzworträtsel", "entropy": 0.0, "counts": {"Kreuzworträtsel": 1}}
+{"raw": "gluecklich", "replacement": "glücklich", "entropy": 0.0, "counts": {"glücklich": 1}}
+{"raw": "sau", "replacement": "Sau", "entropy": 0.0, "counts": {"Sau": 1}}
+{"raw": "son", "replacement": "so ein", "entropy": 1.1587450075359835, "counts": {"so ein": 2, "so einem": 1}}
+{"raw": "hälste", "replacement": "hälst du", "entropy": 0.0, "counts": {"hälst du": 1}}
+{"raw": "Isch", "replacement": "Ich", "entropy": 0.0, "counts": {"Ich": 1}}
+{"raw": "bins", "replacement": "bin es", "entropy": 0.0, "counts": {"bin es": 1}}
+{"raw": "ger", "replacement": "gern", "entropy": 0.0, "counts": {"gern": 1}}
+{"raw": "schenk'", "replacement": "schenke", "entropy": 0.0, "counts": {"schenke": 1}}
+{"raw": "angeko", "replacement": "angekommen", "entropy": 0.0, "counts": {"angekommen": 1}}
+{"raw": "freuich", "replacement": "freue mich", "entropy": 0.0, "counts": {"freue mich": 1}}
+{"raw": "Zubehoer", "replacement": "Zubehör", "entropy": 0.0, "counts": {"Zubehör": 2}}
+{"raw": "Hilfeeee", "replacement": "Hilfe", "entropy": 0.0, "counts": {"Hilfe": 1}}
+{"raw": "reptilien", "replacement": "Reptilien", "entropy": 0.0, "counts": {"Reptilien": 1}}
+{"raw": "schmeiss", "replacement": "Schmeisse", "entropy": 0.0, "counts": {"Schmeisse": 1}}
+{"raw": "so'n", "replacement": "so ein", "entropy": 0.0, "counts": {"so ein": 1}}
+{"raw": "stück", "replacement": "Stück", "entropy": 0.0, "counts": {"Stück": 1}}
+{"raw": "stollen", "replacement": "Stollen", "entropy": 0.0, "counts": {"Stollen": 1}}
+{"raw": "schonmal", "replacement": "schon mal", "entropy": 0.0, "counts": {"schon mal": 1}}
+{"raw": "chillin", "replacement": "Chilling", "entropy": 1.360673760222241, "counts": {"Chilling": 1, "cilling": 1}}
+{"raw": "Hoffungsträgerin", "replacement": "Hoffnungsträgerin", "entropy": 0.0, "counts": {"Hoffnungsträgerin": 1}}
+{"raw": "gewantwortet", "replacement": "geantwortet", "entropy": 0.0, "counts": {"geantwortet": 1}}
+{"raw": "gdacht", "replacement": "gedacht", "entropy": 0.0, "counts": {"gedacht": 1}}
+{"raw": "kommsch", "replacement": "kommst", "entropy": 0.0, "counts": {"kommst": 1}}
+{"raw": "neme", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "ge", "replacement": "gern", "entropy": 1.360673760222241, "counts": {"gern": 1, "gestern": 1}}
+{"raw": "oooh", "replacement": "Oooh", "entropy": 1.1587450075359835, "counts": {"Oooh": 2, "oooh": 1}}
+{"raw": "Tr&0228;nendr&#0252;se", "replacement": "Tränendrüse", "entropy": 0.0, "counts": {"Tränendrüse": 1}}
+{"raw": "oah", "replacement": "Oah", "entropy": 0.0, "counts": {"Oah": 1}}
+{"raw": "mindestens", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "hole", "replacement": "holen", "entropy": 0.0, "counts": {"holen": 1}}
+{"raw": "fands", "replacement": "fand es", "entropy": 0.0, "counts": {"fand es": 1}}
+{"raw": "Bankf", "replacement": "Bankfiliale", "entropy": 0.0, "counts": {"Bankfiliale": 1}}
+{"raw": "putzen", "replacement": "Putzen", "entropy": 0.0, "counts": {"Putzen": 1}}
+{"raw": "zunächtst", "replacement": "zunächst", "entropy": 0.0, "counts": {"zunächst": 1}}
+{"raw": "gelegenheit", "replacement": "Gelegenheit", "entropy": 0.0, "counts": {"Gelegenheit": 1}}
+{"raw": "Koble", "replacement": "Koblenz", "entropy": 0.0, "counts": {"Koblenz": 2}}
+{"raw": "event", "replacement": "Event", "entropy": 0.0, "counts": {"Event": 1}}
+{"raw": "nichmal", "replacement": "nicht einmal", "entropy": 0.0, "counts": {"nicht einmal": 1}}
+{"raw": "namen", "replacement": "Namen", "entropy": 0.0, "counts": {"Namen": 1}}
+{"raw": "unverzi", "replacement": "unverzichtbar", "entropy": 0.0, "counts": {"unverzichtbar": 1}}
+{"raw": "Auforderung", "replacement": "Aufforderung", "entropy": 0.0, "counts": {"Aufforderung": 1}}
+{"raw": "Dekorationszwecke", "replacement": "Dekorationszwecken", "entropy": 0.0, "counts": {"Dekorationszwecken": 1}}
+{"raw": "geei", "replacement": "geeignet", "entropy": 0.0, "counts": {"geeignet": 1}}
+{"raw": "Danisch", "replacement": "Dänisch", "entropy": 0.0, "counts": {"Dänisch": 1}}
+{"raw": "fi", "replacement": "finde", "entropy": 0.0, "counts": {"finde": 1}}
+{"raw": "dolle", "replacement": "doll", "entropy": 0.0, "counts": {"doll": 1}}
+{"raw": "fcsp", "replacement": "FCSP", "entropy": 0.0, "counts": {"FCSP": 1}}
+{"raw": "aggr", "replacement": "aggressiv", "entropy": 0.0, "counts": {"aggressiv": 1}}
+{"raw": "umarm", "replacement": "umarme", "entropy": 0.0, "counts": {"umarme": 2}}
+{"raw": "augenhöhe", "replacement": "Augenhöhe", "entropy": 0.0, "counts": {"Augenhöhe": 1}}
+{"raw": "kapiers", "replacement": "kapiere es", "entropy": 0.0, "counts": {"kapiere es": 1}}
+{"raw": "leute", "replacement": "Leute", "entropy": 0.0, "counts": {"Leute": 2}}
+{"raw": "fotots", "replacement": "Fotos", "entropy": 0.0, "counts": {"Fotos": 1}}
+{"raw": "drunter", "replacement": "darunter", "entropy": 0.0, "counts": {"darunter": 1}}
+{"raw": "schreiebn", "replacement": "schreiben", "entropy": 0.0, "counts": {"schreiben": 1}}
+{"raw": "mum", "replacement": "Mama", "entropy": 0.0, "counts": {"Mama": 1}}
+{"raw": "jez", "replacement": "jetzt", "entropy": 0.0, "counts": {"jetzt": 1}}
+{"raw": "zb", "replacement": "zum Beispiel", "entropy": 1.360673760222241, "counts": {"zum Beispiel": 1, "z.B.": 1}}
+{"raw": "spaass", "replacement": "Spaass", "entropy": 0.0, "counts": {"Spaass": 1}}
+{"raw": "hachja", "replacement": "ach ja", "entropy": 0.0, "counts": {"ach ja": 1}}
+{"raw": "waterfront", "replacement": "Waterfront", "entropy": 0.0, "counts": {"Waterfront": 1}}
+{"raw": "david", "replacement": "David", "entropy": 0.0, "counts": {"David": 1}}
+{"raw": "sedaris", "replacement": "Sedaris", "entropy": 0.0, "counts": {"Sedaris": 1}}
+{"raw": "Net", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "zeichen", "replacement": "Zeichen", "entropy": 0.0, "counts": {"Zeichen": 1}}
+{"raw": "kurs", "replacement": "Kurs", "entropy": 0.0, "counts": {"Kurs": 1}}
+{"raw": "bye", "replacement": "Bye", "entropy": 0.0, "counts": {"Bye": 1}}
+{"raw": "GUTSCHEIN", "replacement": "Gutschein", "entropy": 0.0, "counts": {"Gutschein": 1}}
+{"raw": "BOTOX", "replacement": "Botox", "entropy": 0.0, "counts": {"Botox": 1}}
+{"raw": "tweetaufkommen", "replacement": "Tweetaufkommen", "entropy": 0.0, "counts": {"Tweetaufkommen": 1}}
+{"raw": "auffassungsgaben", "replacement": "Auffassungsgaben", "entropy": 0.0, "counts": {"Auffassungsgaben": 1}}
+{"raw": "gangigen", "replacement": "gängigen", "entropy": 0.0, "counts": {"gängigen": 1}}
+{"raw": "Angelausrustung", "replacement": "Angelausrüstung", "entropy": 0.0, "counts": {"Angelausrüstung": 1}}
+{"raw": "Verfu", "replacement": "Verfügung", "entropy": 0.0, "counts": {"Verfügung": 1}}
+{"raw": "druck", "replacement": "drucke", "entropy": 0.0, "counts": {"drucke": 1}}
+{"raw": "nö", "replacement": "Nein", "entropy": 0.0, "counts": {"Nein": 1}}
+{"raw": "Sry", "replacement": "Sorry", "entropy": 0.0, "counts": {"Sorry": 2}}
+{"raw": "http://t.co/rGDUVl87", "replacement": "http://t.co//rGDUVl87", "entropy": 0.0, "counts": {"http://t.co//rGDUVl87": 1}}
+{"raw": "dankööö", "replacement": "Danke", "entropy": 0.0, "counts": {"Danke": 1}}
+{"raw": "reinkloppen", "replacement": "hereinkloppen", "entropy": 0.0, "counts": {"hereinkloppen": 1}}
+{"raw": "nachhause", "replacement": "nach Hause", "entropy": 0.0, "counts": {"nach Hause": 1}}
+{"raw": "fructose", "replacement": "Fructose", "entropy": 0.0, "counts": {"Fructose": 1}}
+{"raw": "erwähn’s", "replacement": "erwähne es", "entropy": 0.0, "counts": {"erwähne es": 1}}
+{"raw": "unterschiede", "replacement": "Unterschiede", "entropy": 0.0, "counts": {"Unterschiede": 1}}
+{"raw": "obengena", "replacement": "obengenannten", "entropy": 0.0, "counts": {"obengenannten": 1}}
+{"raw": "Spielkueche", "replacement": "Spielküche", "entropy": 0.0, "counts": {"Spielküche": 1}}
+{"raw": "Kuck", "replacement": "Guck", "entropy": 0.0, "counts": {"Guck": 1}}
+{"raw": "kuck", "replacement": "guck", "entropy": 0.0, "counts": {"guck": 1}}
+{"raw": "schöööner", "replacement": "Schöner", "entropy": 0.0, "counts": {"Schöner": 1}}
+{"raw": "bett", "replacement": "Bett", "entropy": 0.0, "counts": {"Bett": 1}}
+{"raw": "frag", "replacement": "Frag", "entropy": 0.0, "counts": {"Frag": 1}}
+{"raw": "fReidhof", "replacement": "Friedhof", "entropy": 0.0, "counts": {"Friedhof": 1}}
+{"raw": "werd'", "replacement": "werde", "entropy": 0.0, "counts": {"werde": 1}}
+{"raw": "herum", "replacement": "herumschleichen", "entropy": 0.0, "counts": {"herumschleichen": 1}}
+{"raw": "schleichen", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "tret'", "replacement": "trete", "entropy": 0.0, "counts": {"trete": 1}}
+{"raw": "nit", "replacement": "Nicht", "entropy": 1.360673760222241, "counts": {"Nicht": 1, "nicht": 1}}
+{"raw": "werbig", "replacement": "Werbung", "entropy": 0.0, "counts": {"Werbung": 1}}
+{"raw": "vo", "replacement": "von", "entropy": 1.1587450075359835, "counts": {"von": 2, "vorgestellt": 1}}
+{"raw": "vicodin", "replacement": "Vicodin", "entropy": 0.0, "counts": {"Vicodin": 1}}
+{"raw": "arme", "replacement": "Arme", "entropy": 0.0, "counts": {"Arme": 1}}
+{"raw": "goldbrand", "replacement": "Goldbrand", "entropy": 0.0, "counts": {"Goldbrand": 1}}
+{"raw": "beerenwein", "replacement": "Beerenwein", "entropy": 0.0, "counts": {"Beerenwein": 1}}
+{"raw": "atzigsten", "replacement": "ätzigsten", "entropy": 0.0, "counts": {"ätzigsten": 1}}
+{"raw": "bodybuilder", "replacement": "Bodybuilder", "entropy": 0.0, "counts": {"Bodybuilder": 1}}
+{"raw": "boasti", "replacement": "Boasti", "entropy": 0.0, "counts": {"Boasti": 1}}
+{"raw": "RNK-VERLAG", "replacement": "RNK-Verlag", "entropy": 0.0, "counts": {"RNK-Verlag": 2}}
+{"raw": "Thermopap", "replacement": "Thermopapier", "entropy": 0.0, "counts": {"Thermopapier": 1}}
+{"raw": "Pa", "replacement": "Partei", "entropy": 0.0, "counts": {"Partei": 1}}
+{"raw": "jz", "replacement": "jetzt", "entropy": 0.0, "counts": {"jetzt": 2}}
+{"raw": "aktion", "replacement": "Aktion", "entropy": 0.0, "counts": {"Aktion": 1}}
+{"raw": "video", "replacement": "Video", "entropy": 0.0, "counts": {"Video": 1}}
+{"raw": "internet", "replacement": "Internet", "entropy": 0.0, "counts": {"Internet": 1}}
+{"raw": "weihnachtsbowlen", "replacement": "Weihnachtsbowlen", "entropy": 0.0, "counts": {"Weihnachtsbowlen": 1}}
+{"raw": "politikklausur", "replacement": "Politikklausur", "entropy": 0.0, "counts": {"Politikklausur": 1}}
+{"raw": "verstehen", "replacement": "verstehe", "entropy": 0.0, "counts": {"verstehe": 1}}
+{"raw": "haun", "replacement": "hauen", "entropy": 0.0, "counts": {"hauen": 1}}
+{"raw": "Futtern", "replacement": "futtern", "entropy": 0.0, "counts": {"futtern": 1}}
+{"raw": "auskunft", "replacement": "Auskunft", "entropy": 0.0, "counts": {"Auskunft": 1}}
+{"raw": "rauskommen", "replacement": "herauskommen", "entropy": 0.0, "counts": {"herauskommen": 2}}
+{"raw": "f", "replacement": "für", "entropy": 0.0, "counts": {"für": 2}}
+{"raw": "Probleml", "replacement": "Problemlösungen", "entropy": 0.0, "counts": {"Problemlösungen": 1}}
+{"raw": "uhhh", "replacement": "Uhhh", "entropy": 0.0, "counts": {"Uhhh": 1}}
+{"raw": "maaann", "replacement": "Mann", "entropy": 0.0, "counts": {"Mann": 1}}
+{"raw": "dorf", "replacement": "Dorf", "entropy": 0.0, "counts": {"Dorf": 1}}
+{"raw": "nichtt", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "Krank", "replacement": "krank", "entropy": 0.0, "counts": {"krank": 1}}
+{"raw": "wurscht", "replacement": "wurst", "entropy": 0.0, "counts": {"wurst": 1}}
+{"raw": "auf'n", "replacement": "auf den", "entropy": 0.0, "counts": {"auf den": 1}}
+{"raw": "käm", "replacement": "käme", "entropy": 0.0, "counts": {"käme": 1}}
+{"raw": "pause", "replacement": "Pause", "entropy": 0.0, "counts": {"Pause": 1}}
+{"raw": "isses", "replacement": "ist es", "entropy": 0.0, "counts": {"ist es": 2}}
+{"raw": "explodieren", "replacement": "Explodieren", "entropy": 0.0, "counts": {"Explodieren": 1}}
+{"raw": "Okostrom", "replacement": "Oekostrom", "entropy": 0.0, "counts": {"Oekostrom": 1}}
+{"raw": "selb", "replacement": "selbst", "entropy": 0.0, "counts": {"selbst": 1}}
+{"raw": "gedichte", "replacement": "Gedichte", "entropy": 0.0, "counts": {"Gedichte": 1}}
+{"raw": "gedanken", "replacement": "Gedanken", "entropy": 0.0, "counts": {"Gedanken": 1}}
+{"raw": "wellt", "replacement": "Welt", "entropy": 0.0, "counts": {"Welt": 1}}
+{"raw": "kvb", "replacement": "KVB", "entropy": 0.0, "counts": {"KVB": 1}}
+{"raw": "störungen", "replacement": "Störungen", "entropy": 0.0, "counts": {"Störungen": 1}}
+{"raw": "sc", "replacement": "schwerer", "entropy": 0.0, "counts": {"schwerer": 1}}
+{"raw": "hastas", "replacement": "hast du es", "entropy": 0.0, "counts": {"hast du es": 1}}
+{"raw": "Scene", "replacement": "Szene", "entropy": 0.0, "counts": {"Szene": 1}}
+{"raw": "gekuckt", "replacement": "geguckt", "entropy": 0.0, "counts": {"geguckt": 1}}
+{"raw": "Stinkts", "replacement": "Stinkt es", "entropy": 0.0, "counts": {"Stinkt es": 1}}
+{"raw": "alter", "replacement": "Alter", "entropy": 0.0, "counts": {"Alter": 1}}
+{"raw": "laden", "replacement": "Laden", "entropy": 0.0, "counts": {"Laden": 1}}
+{"raw": "buyout", "replacement": "Buyout", "entropy": 0.0, "counts": {"Buyout": 1}}
+{"raw": "partynacht", "replacement": "Partynacht", "entropy": 0.0, "counts": {"Partynacht": 1}}
+{"raw": "zahl", "replacement": "zahle", "entropy": 0.0, "counts": {"zahle": 1}}
+{"raw": "bauchbares", "replacement": "Brauchbares", "entropy": 0.0, "counts": {"Brauchbares": 1}}
+{"raw": "bishe", "replacement": "bisher", "entropy": 0.0, "counts": {"bisher": 1}}
+{"raw": "rimmer", "replacement": "immer", "entropy": 0.0, "counts": {"immer": 1}}
+{"raw": "Schatzchen", "replacement": "Schätzchen", "entropy": 0.0, "counts": {"Schätzchen": 2}}
+{"raw": "movie", "replacement": "Movie", "entropy": 0.0, "counts": {"Movie": 1}}
+{"raw": "download", "replacement": "Download", "entropy": 0.0, "counts": {"Download": 1}}
+{"raw": "betrink", "replacement": "betrinke", "entropy": 0.0, "counts": {"betrinke": 1}}
+{"raw": "bissl", "replacement": "ein bisschen", "entropy": 0.0, "counts": {"ein bisschen": 1}}
+{"raw": "ihrs", "replacement": "ihr es", "entropy": 0.0, "counts": {"ihr es": 1}}
+{"raw": "weilchen", "replacement": "Weilchen", "entropy": 0.0, "counts": {"Weilchen": 1}}
+{"raw": "kater", "replacement": "Kater", "entropy": 0.0, "counts": {"Kater": 1}}
+{"raw": "rausgeschmissen", "replacement": "herausgeschmissen", "entropy": 0.0, "counts": {"herausgeschmissen": 1}}
+{"raw": "pochen", "replacement": "Pochen", "entropy": 0.0, "counts": {"Pochen": 1}}
+{"raw": "rammbock", "replacement": "Rammbock", "entropy": 0.0, "counts": {"Rammbock": 1}}
+{"raw": "dete", "replacement": "Dort", "entropy": 0.0, "counts": {"Dort": 1}}
+{"raw": "s'zeiche", "replacement": "so ein Zeichen", "entropy": 0.0, "counts": {"so ein Zeichen": 1}}
+{"raw": "git", "replacement": "gibt", "entropy": 0.0, "counts": {"gibt": 1}}
+{"raw": "2stationen", "replacement": "2 Stationen", "entropy": 0.0, "counts": {"2 Stationen": 1}}
+{"raw": "till", "replacement": "Till", "entropy": 0.0, "counts": {"Till": 1}}
+{"raw": "währst", "replacement": "wärest", "entropy": 0.0, "counts": {"wärest": 1}}
+{"raw": "dirk", "replacement": "Dirk", "entropy": 0.0, "counts": {"Dirk": 1}}
+{"raw": "ärmel", "replacement": "Ärmel", "entropy": 0.0, "counts": {"Ärmel": 1}}
+{"raw": "ohman", "replacement": "Oh Mann", "entropy": 0.0, "counts": {"Oh Mann": 1}}
+{"raw": "idee", "replacement": "Idee", "entropy": 0.0, "counts": {"Idee": 1}}
+{"raw": "dah", "replacement": "da", "entropy": 0.0, "counts": {"da": 1}}
+{"raw": "MEDI", "replacement": "MEDIAN", "entropy": 0.0, "counts": {"MEDIAN": 1}}
+{"raw": "fres", "replacement": "fressen", "entropy": 0.0, "counts": {"fressen": 1}}
+{"raw": "Mas", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "Pr", "replacement": "Preis", "entropy": 0.0, "counts": {"Preis": 1}}
+{"raw": "dien", "replacement": "das ist ein", "entropy": 0.0, "counts": {"das ist ein": 1}}
+{"raw": "hallo", "replacement": "Hallo", "entropy": 0.0, "counts": {"Hallo": 1}}
+{"raw": "EU-Grossma", "replacement": "EU-Grossmacht", "entropy": 0.0, "counts": {"EU-Grossmacht": 1}}
+{"raw": "F", "replacement": "F.", "entropy": 0.0, "counts": {"F.": 2}}
+{"raw": "Vereini", "replacement": "Vereinigten", "entropy": 0.0, "counts": {"Vereinigten": 1}}
+{"raw": "Machste", "replacement": "machst du", "entropy": 0.0, "counts": {"machst du": 1}}
+{"raw": "ahnung", "replacement": "Ahnung", "entropy": 0.0, "counts": {"Ahnung": 1}}
+{"raw": "gitarre", "replacement": "Gitarre", "entropy": 0.0, "counts": {"Gitarre": 1}}
+{"raw": "herzeleid", "replacement": "Herzeleid", "entropy": 0.0, "counts": {"Herzeleid": 1}}
+{"raw": "zenit", "replacement": "Zeit", "entropy": 0.0, "counts": {"Zeit": 1}}
+{"raw": "vuele", "replacement": "viele", "entropy": 0.0, "counts": {"viele": 1}}
+{"raw": "minuten", "replacement": "Minuten", "entropy": 0.0, "counts": {"Minuten": 1}}
+{"raw": "langeweie", "replacement": "Langeweile", "entropy": 0.0, "counts": {"Langeweile": 1}}
+{"raw": "art", "replacement": "Art", "entropy": 0.0, "counts": {"Art": 1}}
+{"raw": "tauschbörse", "replacement": "Tauschbörse", "entropy": 0.0, "counts": {"Tauschbörse": 1}}
+{"raw": "skiifahren", "replacement": "skifahren", "entropy": 0.0, "counts": {"skifahren": 1}}
+{"raw": "zugefährlich", "replacement": "Zu gefährlich", "entropy": 0.0, "counts": {"Zu gefährlich": 1}}
+{"raw": "luk", "replacement": "Luk", "entropy": 0.0, "counts": {"Luk": 1}}
+{"raw": "neet", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "hui", "replacement": "Hui", "entropy": 0.0, "counts": {"Hui": 1}}
+{"raw": "gehste", "replacement": "gehst du", "entropy": 0.0, "counts": {"gehst du": 1}}
+{"raw": "doll", "replacement": "toll", "entropy": 0.0, "counts": {"toll": 1}}
+{"raw": "schenkenhttp", "replacement": "schenken", "entropy": 0.0, "counts": {"schenken": 1}}
+{"raw": "Trakker", "replacement": "Traktor", "entropy": 0.0, "counts": {"Traktor": 1}}
+{"raw": "drücker", "replacement": "Drücker", "entropy": 0.0, "counts": {"Drücker": 1}}
+{"raw": "itunes", "replacement": "iTunes", "entropy": 0.0, "counts": {"iTunes": 1}}
+{"raw": "dwiddern", "replacement": "twittern", "entropy": 0.0, "counts": {"twittern": 1}}
+{"raw": "könn", "replacement": "können", "entropy": 0.0, "counts": {"können": 1}}
+{"raw": "TUV", "replacement": "TÜV", "entropy": 0.0, "counts": {"TÜV": 1}}
+{"raw": "gepruft", "replacement": "geprüft", "entropy": 0.0, "counts": {"geprüft": 1}}
+{"raw": "ordnig", "replacement": "Ordnung", "entropy": 0.0, "counts": {"Ordnung": 1}}
+{"raw": "abmache", "replacement": "Abmachen", "entropy": 0.0, "counts": {"Abmachen": 1}}
+{"raw": "morn", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "ohh", "replacement": "Ohh", "entropy": 0.0, "counts": {"Ohh": 1}}
+{"raw": "gooott", "replacement": "Gott", "entropy": 0.0, "counts": {"Gott": 1}}
+{"raw": "typen", "replacement": "Typen", "entropy": 0.0, "counts": {"Typen": 1}}
+{"raw": "arschtritt", "replacement": "Arschtritt", "entropy": 0.0, "counts": {"Arschtritt": 1}}
+{"raw": "vaillant", "replacement": "Vaillant", "entropy": 0.0, "counts": {"Vaillant": 2}}
+{"raw": "thermen", "replacement": "Thermen", "entropy": 0.0, "counts": {"Thermen": 1}}
+{"raw": "heiztherme", "replacement": "Heiztherme", "entropy": 0.0, "counts": {"Heiztherme": 1}}
+{"raw": "Nierlande", "replacement": "Niederlande", "entropy": 0.0, "counts": {"Niederlande": 1}}
+{"raw": "holzfäller", "replacement": "Holzfäller", "entropy": 0.0, "counts": {"Holzfäller": 2}}
+{"raw": "simulator", "replacement": "Simulator", "entropy": 0.0, "counts": {"Simulator": 2}}
+{"raw": "hingehn", "replacement": "hingehen", "entropy": 0.0, "counts": {"hingehen": 1}}
+{"raw": "hock", "replacement": "Hocke", "entropy": 0.0, "counts": {"Hocke": 1}}
+{"raw": "sänger", "replacement": "Sänger", "entropy": 0.0, "counts": {"Sänger": 1}}
+{"raw": "solln", "replacement": "sollen", "entropy": 0.0, "counts": {"sollen": 1}}
+{"raw": "dsds", "replacement": "DSDS", "entropy": 0.0, "counts": {"DSDS": 1}}
+{"raw": "gg", "replacement": "gegen", "entropy": 0.0, "counts": {"gegen": 1}}
+{"raw": "gemeins.", "replacement": "gemeinsame", "entropy": 0.0, "counts": {"gemeinsame": 1}}
+{"raw": "türkisch", "replacement": "Türkisch", "entropy": 0.0, "counts": {"Türkisch": 1}}
+{"raw": "hät", "replacement": "hätte", "entropy": 0.0, "counts": {"hätte": 1}}
+{"raw": "trau", "replacement": "traue", "entropy": 0.0, "counts": {"traue": 1}}
+{"raw": "plan", "replacement": "Plan", "entropy": 0.0, "counts": {"Plan": 1}}
+{"raw": "studier", "replacement": "studiere", "entropy": 0.0, "counts": {"studiere": 1}}
+{"raw": "ih", "replacement": "ich", "entropy": 0.0, "counts": {"ich": 1}}
+{"raw": "warschl", "replacement": "wahrscheinlich", "entropy": 0.0, "counts": {"wahrscheinlich": 1}}
+{"raw": "elly", "replacement": "Elly", "entropy": 0.0, "counts": {"Elly": 1}}
+{"raw": "aktuelle", "replacement": "aktuellen", "entropy": 0.0, "counts": {"aktuellen": 1}}
+{"raw": "pack", "replacement": "packe", "entropy": 0.0, "counts": {"packe": 2}}
+{"raw": "mog", "replacement": "mag", "entropy": 0.0, "counts": {"mag": 1}}
+{"raw": "auuuuuu", "replacement": "auch", "entropy": 0.0, "counts": {"auch": 1}}
+{"raw": "ende", "replacement": "Ende", "entropy": 0.0, "counts": {"Ende": 1}}
+{"raw": "darfste", "replacement": "darfst du", "entropy": 0.0, "counts": {"darfst du": 1}}
+{"raw": "klassenfahrt", "replacement": "Klassenfahrt", "entropy": 0.0, "counts": {"Klassenfahrt": 1}}
+{"raw": "follback", "replacement": "Follback", "entropy": 0.0, "counts": {"Follback": 1}}
+{"raw": "aku", "replacement": "Akku", "entropy": 0.0, "counts": {"Akku": 1}}
+{"raw": "Ma", "replacement": "Mal", "entropy": 1.360673760222241, "counts": {"Mal": 1, "Mama": 1}}
+{"raw": "genung", "replacement": "genug", "entropy": 0.0, "counts": {"genug": 1}}
+{"raw": "ging's", "replacement": "ging es", "entropy": 0.0, "counts": {"ging es": 1}}
+{"raw": "hacker", "replacement": "Hacker", "entropy": 0.0, "counts": {"Hacker": 1}}
+{"raw": "foto", "replacement": "Foto", "entropy": 0.0, "counts": {"Foto": 1}}
+{"raw": "fertisch", "replacement": "fertig", "entropy": 0.0, "counts": {"fertig": 1}}
+{"raw": "m8", "replacement": "macht", "entropy": 0.0, "counts": {"macht": 1}}
+{"raw": "gesehn", "replacement": "gesehen", "entropy": 0.0, "counts": {"gesehen": 1}}
+{"raw": "retweets", "replacement": "Retweets", "entropy": 0.0, "counts": {"Retweets": 1}}
+{"raw": "naechsten", "replacement": "nächsten", "entropy": 0.0, "counts": {"nächsten": 1}}
+{"raw": "retweet", "replacement": "Retweet", "entropy": 0.0, "counts": {"Retweet": 1}}
+{"raw": "drück", "replacement": "drücke", "entropy": 0.0, "counts": {"drücke": 1}}
+{"raw": "daumen", "replacement": "Daumen", "entropy": 0.0, "counts": {"Daumen": 1}}
+{"raw": "down", "replacement": "Downloadlink", "entropy": 0.0, "counts": {"Downloadlink": 1}}
+{"raw": "Schorrrryyy", "replacement": "Sorry", "entropy": 0.0, "counts": {"Sorry": 1}}
+{"raw": "begrabschen", "replacement": "begrapschen", "entropy": 0.0, "counts": {"begrapschen": 1}}
+{"raw": "Be", "replacement": "Berlin", "entropy": 0.0, "counts": {"Berlin": 1}}
+{"raw": "Nachrichte", "replacement": "Nachrichten", "entropy": 0.0, "counts": {"Nachrichten": 1}}
+{"raw": "ONline", "replacement": "online", "entropy": 0.0, "counts": {"online": 1}}
+{"raw": "Los", "replacement": "los", "entropy": 0.0, "counts": {"los": 1}}
+{"raw": "gehtsmit", "replacement": "geht es mit", "entropy": 0.0, "counts": {"geht es mit": 1}}
+{"raw": "Gibts", "replacement": "Gibt es", "entropy": 0.0, "counts": {"Gibt es": 1}}
+{"raw": "Samstags", "replacement": "samstags", "entropy": 0.0, "counts": {"samstags": 1}}
+{"raw": "en", "replacement": "anzulassen", "entropy": 0.0, "counts": {"anzulassen": 1}}
+{"raw": "gsegn", "replacement": "gesehen", "entropy": 0.0, "counts": {"gesehen": 1}}
+{"raw": "sido", "replacement": "Sido", "entropy": 0.0, "counts": {"Sido": 1}}
+{"raw": "gschriebn", "replacement": "geschrieben", "entropy": 0.0, "counts": {"geschrieben": 1}}
+{"raw": "flughafen", "replacement": "Flughafen", "entropy": 0.0, "counts": {"Flughafen": 1}}
+{"raw": "diät", "replacement": "Diät", "entropy": 0.0, "counts": {"Diät": 1}}
+{"raw": "TräumeLiebeToleranzFrieden", "replacement": "Träume Liebe Toleranz Frieden", "entropy": 0.0, "counts": {"Träume Liebe Toleranz Frieden": 1}}
+{"raw": "Gründungsphas", "replacement": "Gründungsphase", "entropy": 0.0, "counts": {"Gründungsphase": 1}}
+{"raw": "kipferlstange", "replacement": "Kipferlstange", "entropy": 0.0, "counts": {"Kipferlstange": 1}}
+{"raw": "Maennlich", "replacement": "Männlich", "entropy": 0.0, "counts": {"Männlich": 1}}
+{"raw": "Gutscheincod", "replacement": "Gutscheincode", "entropy": 0.0, "counts": {"Gutscheincode": 1}}
+{"raw": "trz", "replacement": "trotzdem", "entropy": 0.0, "counts": {"trotzdem": 1}}
+{"raw": "teddy", "replacement": "Teddy", "entropy": 0.0, "counts": {"Teddy": 1}}
+{"raw": "kommste", "replacement": "Kommst du", "entropy": 0.0, "counts": {"Kommst du": 1}}
+{"raw": "Is", "replacement": "Ist", "entropy": 0.0, "counts": {"Ist": 1}}
+{"raw": "wahlfang", "replacement": "Wahlfang", "entropy": 0.0, "counts": {"Wahlfang": 1}}
+{"raw": "Abo's", "replacement": "Abonnements", "entropy": 0.0, "counts": {"Abonnements": 1}}
+{"raw": "supertalent", "replacement": "Supertalent", "entropy": 0.0, "counts": {"Supertalent": 1}}
+{"raw": "ananas", "replacement": "Ananas", "entropy": 0.0, "counts": {"Ananas": 1}}
+{"raw": "glückwunsch", "replacement": "Glückwunsch", "entropy": 0.0, "counts": {"Glückwunsch": 1}}
+{"raw": "eis", "replacement": "Eis", "entropy": 0.0, "counts": {"Eis": 1}}
+{"raw": "Yiiha", "replacement": "Yiha", "entropy": 0.0, "counts": {"Yiha": 1}}
+{"raw": "Chönnt", "replacement": "Könnte", "entropy": 0.0, "counts": {"Könnte": 1}}
+{"raw": "astrengend", "replacement": "anstrengend", "entropy": 0.0, "counts": {"anstrengend": 1}}
+{"raw": "HALT", "replacement": "Halt", "entropy": 0.0, "counts": {"Halt": 1}}
+{"raw": "vorallem", "replacement": "Vor allem", "entropy": 0.0, "counts": {"Vor allem": 1}}
+{"raw": "wochenende", "replacement": "Wochenende", "entropy": 0.0, "counts": {"Wochenende": 1}}
+{"raw": "Schluss-Strich", "replacement": "Schlussstrich", "entropy": 0.0, "counts": {"Schlussstrich": 1}}
+{"raw": "hoff", "replacement": "hoffe", "entropy": 0.0, "counts": {"hoffe": 1}}
+{"raw": "nummer", "replacement": "Nummer", "entropy": 0.0, "counts": {"Nummer": 1}}
+{"raw": "Schoki", "replacement": "Schokolade", "entropy": 0.0, "counts": {"Schokolade": 1}}
+{"raw": "kommts", "replacement": "kommt es", "entropy": 0.0, "counts": {"kommt es": 1}}
+{"raw": "derbest", "replacement": "der beste", "entropy": 0.0, "counts": {"der beste": 1}}
+{"raw": "baaaa", "replacement": "Baa", "entropy": 0.0, "counts": {"Baa": 1}}
+{"raw": "street", "replacement": "Street", "entropy": 0.0, "counts": {"Street": 1}}
+{"raw": "view", "replacement": "View", "entropy": 0.0, "counts": {"View": 1}}
+{"raw": "umarmung", "replacement": "Umarmung", "entropy": 0.0, "counts": {"Umarmung": 1}}
+{"raw": "sami", "replacement": "Sami", "entropy": 0.0, "counts": {"Sami": 1}}
+{"raw": "fernsehn", "replacement": "Fernsehen", "entropy": 0.0, "counts": {"Fernsehen": 1}}
+{"raw": "lustAufSüsses", "replacement": "Lust auf Süsses", "entropy": 0.0, "counts": {"Lust auf Süsses": 1}}
+{"raw": "alleee", "replacement": "alles", "entropy": 0.0, "counts": {"alles": 1}}
+{"raw": "guteee", "replacement": "Gute", "entropy": 0.0, "counts": {"Gute": 1}}
+{"raw": "glitzern", "replacement": "glitzert", "entropy": 0.0, "counts": {"glitzert": 1}}
+{"raw": "könntest", "replacement": "Könntest", "entropy": 0.0, "counts": {"Könntest": 1}}
+{"raw": "bayreuth", "replacement": "Bayreuth", "entropy": 0.0, "counts": {"Bayreuth": 1}}
+{"raw": "weswegen", "replacement": "Weswegen", "entropy": 0.0, "counts": {"Weswegen": 1}}
+{"raw": "kool", "replacement": "cool", "entropy": 0.0, "counts": {"cool": 1}}
+{"raw": "ick", "replacement": "ich", "entropy": 0.0, "counts": {"ich": 1}}
+{"raw": "een", "replacement": "einen", "entropy": 0.0, "counts": {"einen": 1}}
+{"raw": "hindi", "replacement": "Hindi", "entropy": 0.0, "counts": {"Hindi": 1}}
+{"raw": "rübergehen", "replacement": "herübergehen", "entropy": 0.0, "counts": {"herübergehen": 1}}
+{"raw": "Orginalen", "replacement": "Originale", "entropy": 0.0, "counts": {"Originale": 1}}
+{"raw": "Geschekideen", "replacement": "Geschenkideen", "entropy": 0.0, "counts": {"Geschenkideen": 1}}
+{"raw": "längere", "replacement": "Längere", "entropy": 0.0, "counts": {"Längere": 1}}
+{"raw": "werdeds", "replacement": "wird es", "entropy": 0.0, "counts": {"wird es": 1}}
+{"raw": "öberläbe", "replacement": "überleben", "entropy": 0.0, "counts": {"überleben": 1}}
+{"raw": "Donschtig", "replacement": "Donnerstag", "entropy": 0.0, "counts": {"Donnerstag": 1}}
+{"raw": "ddorf", "replacement": "Düsseldorf", "entropy": 0.0, "counts": {"Düsseldorf": 1}}
+{"raw": "wünsch", "replacement": "wünsche", "entropy": 0.0, "counts": {"wünsche": 1}}
+{"raw": "heutige", "replacement": "heutigen", "entropy": 0.0, "counts": {"heutigen": 1}}
+{"raw": "zuguckn", "replacement": "zugucken", "entropy": 0.0, "counts": {"zugucken": 1}}
+{"raw": "End", "replacement": "Ende", "entropy": 0.0, "counts": {"Ende": 1}}
+{"raw": "tendier", "replacement": "tendiere", "entropy": 0.0, "counts": {"tendiere": 1}}
+{"raw": "gigaspeed", "replacement": "Gigaspeed", "entropy": 0.0, "counts": {"Gigaspeed": 1}}
+{"raw": "standard", "replacement": "Standard", "entropy": 0.0, "counts": {"Standard": 1}}
+{"raw": "Filmen", "replacement": "filmen", "entropy": 0.0, "counts": {"filmen": 1}}
+{"raw": "sportstudio", "replacement": "Sportstudio", "entropy": 0.0, "counts": {"Sportstudio": 1}}
+{"raw": "zuuu", "replacement": "zu", "entropy": 0.0, "counts": {"zu": 1}}
+{"raw": "hr.", "replacement": "Herr", "entropy": 0.0, "counts": {"Herr": 1}}
+{"raw": "gottschalk", "replacement": "Gottschalk", "entropy": 0.0, "counts": {"Gottschalk": 1}}
+{"raw": "jaaaaaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "nciht", "replacement": "nicht", "entropy": 0.0, "counts": {"nicht": 1}}
+{"raw": "Nu", "replacement": "nun", "entropy": 0.0, "counts": {"nun": 1}}
+{"raw": "szonline", "replacement": "SZonline", "entropy": 0.0, "counts": {"SZonline": 1}}
+{"raw": "klo", "replacement": "Klo", "entropy": 0.0, "counts": {"Klo": 1}}
