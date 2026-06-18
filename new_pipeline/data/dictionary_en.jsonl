@@ -1,0 +1,799 @@
+{"raw": "favour", "replacement": "favorite", "entropy": 1.360673760222241, "counts": {"favorite": 1, "favor": 1}}
+{"raw": "tf", "replacement": "the fuck", "entropy": 0.0, "counts": {"the fuck": 7}}
+{"raw": "bout", "replacement": "about", "entropy": 0.0, "counts": {"about": 16}}
+{"raw": "poppin", "replacement": "popping", "entropy": 0.0, "counts": {"popping": 2}}
+{"raw": "soo", "replacement": "so", "entropy": 0.0, "counts": {"so": 7}}
+{"raw": "waaay", "replacement": "way", "entropy": 0.0, "counts": {"way": 1}}
+{"raw": "rockin", "replacement": "rocking", "entropy": 0.0, "counts": {"rocking": 3}}
+{"raw": "everynight", "replacement": "every night", "entropy": 0.0, "counts": {"every night": 1}}
+{"raw": "u", "replacement": "you", "entropy": 0.15521619138220968, "counts": {"you": 238, "you're": 2, "u": 1, "your": 1}}
+{"raw": "gettin", "replacement": "getting", "entropy": 0.0, "counts": {"getting": 5}}
+{"raw": "dont", "replacement": "don't", "entropy": 0.0, "counts": {"don't": 66}}
+{"raw": "bloomin", "replacement": "blooming", "entropy": 0.0, "counts": {"blooming": 1}}
+{"raw": "starvin", "replacement": "starving", "entropy": 0.0, "counts": {"starving": 1}}
+{"raw": "im", "replacement": "i'm", "entropy": 0.06927735102847259, "counts": {"i'm": 132, "i": 1}}
+{"raw": "txt", "replacement": "text", "entropy": 0.0, "counts": {"text": 5}}
+{"raw": "nd", "replacement": "and", "entropy": 0.9661702143444141, "counts": {"and": 5, "nd": 2}}
+{"raw": "dnt", "replacement": "don't", "entropy": 0.0, "counts": {"don't": 5}}
+{"raw": "bck", "replacement": "back", "entropy": 0.0, "counts": {"back": 3}}
+{"raw": "thts", "replacement": "that's", "entropy": 0.0, "counts": {"that's": 2}}
+{"raw": "shid", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "fuckin", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 9}}
+{"raw": "cuz", "replacement": "because", "entropy": 0.0, "counts": {"because": 14}}
+{"raw": "somthin", "replacement": "something", "entropy": 0.0, "counts": {"something": 1}}
+{"raw": "ii", "replacement": "it", "entropy": 0.0, "counts": {"it": 1}}
+{"raw": "lil", "replacement": "little", "entropy": 0.0, "counts": {"little": 28}}
+{"raw": "workk", "replacement": "work", "entropy": 0.0, "counts": {"work": 1}}
+{"raw": "nigga", "replacement": "nigger", "entropy": 0.0, "counts": {"nigger": 45}}
+{"raw": "anit", "replacement": "ain't", "entropy": 0.0, "counts": {"ain't": 1}}
+{"raw": "dat", "replacement": "that", "entropy": 0.0, "counts": {"that": 12}}
+{"raw": "r", "replacement": "are", "entropy": 1.317429634045172, "counts": {"are": 15, "rest": 2, "r": 8}}
+{"raw": "d", "replacement": "the", "entropy": 0.9930617649030595, "counts": {"the": 13, "d": 8}}
+{"raw": "standin", "replacement": "standing", "entropy": 0.0, "counts": {"standing": 1}}
+{"raw": "n", "replacement": "and", "entropy": 0.940643298013444, "counts": {"and": 32, "at": 1, "in": 1, "n": 5}}
+{"raw": "couldnt", "replacement": "couldn't", "entropy": 0.0, "counts": {"couldn't": 3}}
+{"raw": "droppin", "replacement": "dropping", "entropy": 0.0, "counts": {"dropping": 1}}
+{"raw": "fuack", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "bro", "replacement": "brother", "entropy": 0.9984455585483208, "counts": {"brother": 6, "bro": 3}}
+{"raw": "gim", "replacement": "give me", "entropy": 0.0, "counts": {"give me": 1}}
+{"raw": "til", "replacement": "till", "entropy": 1.360673760222241, "counts": {"till": 1, "til": 1}}
+{"raw": "tho", "replacement": "though", "entropy": 0.8348381080955067, "counts": {"though": 10, "tho": 3}}
+{"raw": "tommorow", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 2}}
+{"raw": "dm", "replacement": "direct message", "entropy": 0.0, "counts": {"direct message": 8}}
+{"raw": "aint", "replacement": "ain't", "entropy": 0.0, "counts": {"ain't": 24}}
+{"raw": "ytd", "replacement": "yesterday", "entropy": 1.360673760222241, "counts": {"yesterday": 1, "ytd": 1}}
+{"raw": "bein", "replacement": "being", "entropy": 0.0, "counts": {"being": 2}}
+{"raw": "bruh", "replacement": "brother", "entropy": 0.0, "counts": {"brother": 23}}
+{"raw": "sware", "replacement": "swear", "entropy": 0.0, "counts": {"swear": 1}}
+{"raw": "ur", "replacement": "your", "entropy": 1.0263212412851568, "counts": {"you": 1, "your": 24, "you're": 8}}
+{"raw": "dieing", "replacement": "dying", "entropy": 0.0, "counts": {"dying": 2}}
+{"raw": "dosent", "replacement": "doesn't", "entropy": 0.0, "counts": {"doesn't": 2}}
+{"raw": "txted", "replacement": "texted", "entropy": 0.0, "counts": {"texted": 2}}
+{"raw": "yu", "replacement": "you", "entropy": 0.0, "counts": {"you": 5}}
+{"raw": "ainy", "replacement": "are not going to", "entropy": 0.0, "counts": {"are not going to": 1}}
+{"raw": "enuhh", "replacement": "enough", "entropy": 0.0, "counts": {"enough": 1}}
+{"raw": "rn", "replacement": "right now", "entropy": 0.9984455585483208, "counts": {"rn": 3, "right now": 6}}
+{"raw": "frnd", "replacement": "friend", "entropy": 0.0, "counts": {"friend": 1}}
+{"raw": "collcted", "replacement": "collected", "entropy": 0.0, "counts": {"collected": 1}}
+{"raw": "cus", "replacement": "because", "entropy": 0.0, "counts": {"because": 3}}
+{"raw": "tryin", "replacement": "trying", "entropy": 0.0, "counts": {"trying": 2}}
+{"raw": "ma", "replacement": "my", "entropy": 1.0882777818120346, "counts": {"my": 4, "ma": 3}}
+{"raw": "naw", "replacement": "now", "entropy": 0.6337328832551566, "counts": {"now": 7, "not": 1}}
+{"raw": "wnts", "replacement": "wants", "entropy": 0.0, "counts": {"wants": 1}}
+{"raw": "wit", "replacement": "with", "entropy": 0.0, "counts": {"with": 9}}
+{"raw": "tmw", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "cancelled", "replacement": "canceled", "entropy": 0.0, "counts": {"canceled": 1}}
+{"raw": "bc", "replacement": "because", "entropy": 0.4227571495297672, "counts": {"because": 13, "bc": 1}}
+{"raw": "scratchin", "replacement": "scratching", "entropy": 0.0, "counts": {"scratching": 1}}
+{"raw": "ill", "replacement": "i'll", "entropy": 0.9661702143444141, "counts": {"i'll": 5, "ill": 2}}
+{"raw": "makin", "replacement": "making", "entropy": 0.0, "counts": {"making": 1}}
+{"raw": "youo", "replacement": "you", "entropy": 0.0, "counts": {"you": 1}}
+{"raw": "awnser", "replacement": "answer", "entropy": 0.0, "counts": {"answer": 1}}
+{"raw": "woyld", "replacement": "would", "entropy": 0.0, "counts": {"would": 1}}
+{"raw": "gonna", "replacement": "going to", "entropy": 0.0, "counts": {"going to": 20}}
+{"raw": "tryna", "replacement": "trying to", "entropy": 0.0, "counts": {"trying to": 10}}
+{"raw": "txtin", "replacement": "texting", "entropy": 0.0, "counts": {"texting": 1}}
+{"raw": "ya", "replacement": "you", "entropy": 1.036752958923143, "counts": {"you": 8, "ya": 6}}
+{"raw": "photobooth", "replacement": "photo booth", "entropy": 0.0, "counts": {"photo booth": 1}}
+{"raw": "nothin", "replacement": "nothing", "entropy": 0.0, "counts": {"nothing": 4}}
+{"raw": "imma", "replacement": "i'm going to", "entropy": 0.0, "counts": {"i'm going to": 15}}
+{"raw": "dum", "replacement": "dumb", "entropy": 0.0, "counts": {"dumb": 1}}
+{"raw": "diggg", "replacement": "digging", "entropy": 0.0, "counts": {"digging": 1}}
+{"raw": "finna", "replacement": "going to", "entropy": 0.0, "counts": {"going to": 10}}
+{"raw": "havent", "replacement": "haven't", "entropy": 0.0, "counts": {"haven't": 4}}
+{"raw": "goood", "replacement": "good", "entropy": 0.0, "counts": {"good": 1}}
+{"raw": "fav", "replacement": "favorite", "entropy": 1.5698747031058402, "counts": {"favor": 2, "favorite": 10, "favorites": 1, "fav": 2}}
+{"raw": "thx", "replacement": "thanks", "entropy": 0.8661975989762587, "counts": {"thanks": 4, "thank": 1}}
+{"raw": "niggas", "replacement": "niggers", "entropy": 0.0, "counts": {"niggers": 41}}
+{"raw": "cause", "replacement": "because", "entropy": 0.0, "counts": {"because": 14}}
+{"raw": "woulda", "replacement": "would have", "entropy": 0.0, "counts": {"would have": 4}}
+{"raw": "learnt", "replacement": "learned", "entropy": 0.0, "counts": {"learned": 4}}
+{"raw": "everyones", "replacement": "everyone's", "entropy": 0.0, "counts": {"everyone's": 1}}
+{"raw": "childrens", "replacement": "children", "entropy": 0.0, "counts": {"children": 2}}
+{"raw": "decor", "replacement": "decoration", "entropy": 0.0, "counts": {"decoration": 2}}
+{"raw": "hella", "replacement": "hell of a lot of", "entropy": 0.9661702143444141, "counts": {"hell of a lot of": 5, "hella": 2}}
+{"raw": "infact", "replacement": "in fact", "entropy": 0.0, "counts": {"in fact": 1}}
+{"raw": "whos", "replacement": "who's", "entropy": 0.0, "counts": {"who's": 5}}
+{"raw": "finah", "replacement": "going to", "entropy": 0.0, "counts": {"going to": 1}}
+{"raw": "momma", "replacement": "mama", "entropy": 0.0, "counts": {"mama": 3}}
+{"raw": "infront", "replacement": "in front", "entropy": 0.0, "counts": {"in front": 1}}
+{"raw": "lookin", "replacement": "looking", "entropy": 0.0, "counts": {"looking": 5}}
+{"raw": "theyre", "replacement": "they're", "entropy": 0.0, "counts": {"they're": 8}}
+{"raw": "gagos", "replacement": "asshole", "entropy": 0.0, "counts": {"asshole": 1}}
+{"raw": "taryn", "replacement": "trying", "entropy": 0.0, "counts": {"trying": 1}}
+{"raw": "bby", "replacement": "baby", "entropy": 0.0, "counts": {"baby": 1}}
+{"raw": "fuckn", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "layin", "replacement": "laying", "entropy": 0.0, "counts": {"laying": 3}}
+{"raw": "conversate", "replacement": "converse", "entropy": 0.0, "counts": {"converse": 1}}
+{"raw": "pleaseee", "replacement": "please", "entropy": 0.0, "counts": {"please": 1}}
+{"raw": "ville", "replacement": "village", "entropy": 0.0, "counts": {"village": 1}}
+{"raw": "dwm", "replacement": "down", "entropy": 0.0, "counts": {"down": 1}}
+{"raw": "balmy", "replacement": "balcony", "entropy": 0.0, "counts": {"balcony": 1}}
+{"raw": "pics", "replacement": "pictures", "entropy": 0.0, "counts": {"pictures": 2}}
+{"raw": "ikno", "replacement": "i know", "entropy": 0.0, "counts": {"i know": 1}}
+{"raw": "didnt", "replacement": "didn't", "entropy": 0.0, "counts": {"didn't": 12}}
+{"raw": "wid", "replacement": "with", "entropy": 0.0, "counts": {"with": 3}}
+{"raw": "dis", "replacement": "this", "entropy": 0.0, "counts": {"this": 7}}
+{"raw": "wrd", "replacement": "word", "entropy": 0.0, "counts": {"word": 1}}
+{"raw": "ayu", "replacement": "you", "entropy": 0.0, "counts": {"you": 1}}
+{"raw": "hes", "replacement": "he's", "entropy": 0.0, "counts": {"he's": 5}}
+{"raw": "wrre", "replacement": "were", "entropy": 0.0, "counts": {"were": 1}}
+{"raw": "ima", "replacement": "i'm going to", "entropy": 0.0, "counts": {"i'm going to": 21}}
+{"raw": "yass", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 1}}
+{"raw": "gonnae", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 1}}
+{"raw": "brooo", "replacement": "brother", "entropy": 0.0, "counts": {"brother": 1}}
+{"raw": "knw", "replacement": "know", "entropy": 0.0, "counts": {"know": 5}}
+{"raw": "yurself", "replacement": "yourself", "entropy": 0.0, "counts": {"yourself": 1}}
+{"raw": "urself", "replacement": "yourself", "entropy": 0.0, "counts": {"yourself": 3}}
+{"raw": "smth", "replacement": "something", "entropy": 0.0, "counts": {"something": 3}}
+{"raw": "didn", "replacement": "didn't", "entropy": 0.0, "counts": {"didn't": 1}}
+{"raw": "anywayy", "replacement": "anyway", "entropy": 0.0, "counts": {"anyway": 1}}
+{"raw": "marvellous", "replacement": "marvelous", "entropy": 0.0, "counts": {"marvelous": 1}}
+{"raw": "sayin", "replacement": "saying", "entropy": 0.0, "counts": {"saying": 5}}
+{"raw": "favourite", "replacement": "favorite", "entropy": 0.0, "counts": {"favorite": 11}}
+{"raw": "fallin", "replacement": "falling", "entropy": 0.0, "counts": {"falling": 2}}
+{"raw": "flippin", "replacement": "flipping", "entropy": 0.0, "counts": {"flipping": 1}}
+{"raw": "ig", "replacement": "instagram", "entropy": 0.0, "counts": {"instagram": 4}}
+{"raw": "hittin", "replacement": "hitting", "entropy": 0.0, "counts": {"hitting": 1}}
+{"raw": "sumn", "replacement": "something", "entropy": 0.0, "counts": {"something": 2}}
+{"raw": "soooo", "replacement": "so", "entropy": 0.0, "counts": {"so": 3}}
+{"raw": "youll", "replacement": "you'll", "entropy": 0.0, "counts": {"you'll": 1}}
+{"raw": "pic", "replacement": "picture", "entropy": 0.47392914367400724, "counts": {"picture": 11, "pic": 1}}
+{"raw": "somethin", "replacement": "something", "entropy": 0.0, "counts": {"something": 1}}
+{"raw": "fett", "replacement": "fit", "entropy": 0.0, "counts": {"fit": 1}}
+{"raw": "yess", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 1}}
+{"raw": "homee", "replacement": "home", "entropy": 0.0, "counts": {"home": 1}}
+{"raw": "kudve", "replacement": "could have", "entropy": 0.0, "counts": {"could have": 1}}
+{"raw": "hiz", "replacement": "his", "entropy": 0.0, "counts": {"his": 1}}
+{"raw": "wrk", "replacement": "work", "entropy": 0.0, "counts": {"work": 2}}
+{"raw": "tmrw", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 2}}
+{"raw": "fw", "replacement": "forward", "entropy": 0.0, "counts": {"forward": 1}}
+{"raw": "ppl", "replacement": "people", "entropy": 0.0, "counts": {"people": 21}}
+{"raw": "wouldnt", "replacement": "wouldn't", "entropy": 0.0, "counts": {"wouldn't": 4}}
+{"raw": "ight", "replacement": "alright", "entropy": 0.0, "counts": {"alright": 2}}
+{"raw": "moodboster", "replacement": "mood boster", "entropy": 0.0, "counts": {"mood boster": 1}}
+{"raw": "thats", "replacement": "that's", "entropy": 0.0, "counts": {"that's": 24}}
+{"raw": "lovley", "replacement": "lovely", "entropy": 0.0, "counts": {"lovely": 1}}
+{"raw": "ofc", "replacement": "of course", "entropy": 0.0, "counts": {"of course": 1}}
+{"raw": "bsck", "replacement": "back", "entropy": 0.0, "counts": {"back": 1}}
+{"raw": "sped", "replacement": "speed", "entropy": 0.0, "counts": {"speed": 1}}
+{"raw": "causin", "replacement": "causing", "entropy": 0.0, "counts": {"causing": 1}}
+{"raw": "pre", "replacement": "precalc", "entropy": 1.360673760222241, "counts": {"precalc": 1, "preorder": 1}}
+{"raw": "calc", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "intip", "replacement": "in tip", "entropy": 0.0, "counts": {"in tip": 1}}
+{"raw": "kanibal", "replacement": "canibal", "entropy": 0.0, "counts": {"canibal": 1}}
+{"raw": "watcha", "replacement": "what you", "entropy": 0.0, "counts": {"what you": 1}}
+{"raw": "appstore", "replacement": "app store", "entropy": 0.0, "counts": {"app store": 1}}
+{"raw": "beff", "replacement": "best ever friend forever", "entropy": 0.0, "counts": {"best ever friend forever": 1}}
+{"raw": "beefff", "replacement": "best ever friend forever", "entropy": 0.0, "counts": {"best ever friend forever": 1}}
+{"raw": "yall", "replacement": "y'all", "entropy": 0.0, "counts": {"y'all": 16}}
+{"raw": "feelin", "replacement": "feeling", "entropy": 0.0, "counts": {"feeling": 5}}
+{"raw": "ona", "replacement": "on a", "entropy": 0.0, "counts": {"on a": 1}}
+{"raw": "riverwalk", "replacement": "river walk", "entropy": 0.0, "counts": {"river walk": 1}}
+{"raw": "whattt", "replacement": "what", "entropy": 0.0, "counts": {"what": 1}}
+{"raw": "pls", "replacement": "please", "entropy": 0.0, "counts": {"please": 30}}
+{"raw": "yea", "replacement": "yeah", "entropy": 0.0, "counts": {"yeah": 7}}
+{"raw": "culd", "replacement": "could", "entropy": 0.0, "counts": {"could": 1}}
+{"raw": "playin", "replacement": "playing", "entropy": 0.0, "counts": {"playing": 4}}
+{"raw": "evry1s", "replacement": "everyone's", "entropy": 0.0, "counts": {"everyone's": 1}}
+{"raw": "2moz", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "obvi", "replacement": "obviously", "entropy": 0.0, "counts": {"obviously": 1}}
+{"raw": "doesnt", "replacement": "doesn't", "entropy": 0.0, "counts": {"doesn't": 5}}
+{"raw": "thanx", "replacement": "thanks", "entropy": 0.0, "counts": {"thanks": 1}}
+{"raw": "tweetin", "replacement": "tweeting", "entropy": 0.0, "counts": {"tweeting": 3}}
+{"raw": "favs", "replacement": "favorites", "entropy": 0.0, "counts": {"favorites": 4}}
+{"raw": "tooo", "replacement": "too", "entropy": 0.0, "counts": {"too": 1}}
+{"raw": "tunee", "replacement": "tune", "entropy": 0.0, "counts": {"tune": 1}}
+{"raw": "bruuh", "replacement": "brother", "entropy": 0.0, "counts": {"brother": 1}}
+{"raw": "dressin", "replacement": "dressing", "entropy": 0.0, "counts": {"dressing": 7}}
+{"raw": "thinkin", "replacement": "thinking", "entropy": 0.0, "counts": {"thinking": 3}}
+{"raw": "shakin", "replacement": "shaking", "entropy": 0.0, "counts": {"shaking": 1}}
+{"raw": "bakin", "replacement": "baking", "entropy": 0.0, "counts": {"baking": 1}}
+{"raw": "chillin", "replacement": "chilling", "entropy": 0.0, "counts": {"chilling": 3}}
+{"raw": "watchin", "replacement": "watching", "entropy": 0.0, "counts": {"watching": 4}}
+{"raw": "thankin", "replacement": "thanking", "entropy": 0.0, "counts": {"thanking": 1}}
+{"raw": "savin", "replacement": "saving", "entropy": 0.0, "counts": {"saving": 2}}
+{"raw": "leavin", "replacement": "leaving", "entropy": 0.0, "counts": {"leaving": 2}}
+{"raw": "whoopin", "replacement": "whooping", "entropy": 0.0, "counts": {"whooping": 1}}
+{"raw": "psh", "replacement": "push", "entropy": 0.0, "counts": {"push": 1}}
+{"raw": "brazillian", "replacement": "brazilian", "entropy": 0.0, "counts": {"brazilian": 1}}
+{"raw": "tiard", "replacement": "tired", "entropy": 0.0, "counts": {"tired": 1}}
+{"raw": "gon", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 12}}
+{"raw": "ol", "replacement": "old", "entropy": 0.0, "counts": {"old": 2}}
+{"raw": "youuu", "replacement": "you", "entropy": 0.0, "counts": {"you": 2}}
+{"raw": "da", "replacement": "the", "entropy": 0.47392914367400724, "counts": {"the": 11, "da": 1}}
+{"raw": "yo", "replacement": "you", "entropy": 1.327139232506608, "counts": {"yo": 1, "you": 9, "your": 5}}
+{"raw": "wanna", "replacement": "want to", "entropy": 0.0, "counts": {"want to": 8}}
+{"raw": "cryin", "replacement": "crying", "entropy": 0.0, "counts": {"crying": 1}}
+{"raw": "ive", "replacement": "i've", "entropy": 0.0, "counts": {"i've": 11}}
+{"raw": "ish", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "gud", "replacement": "good", "entropy": 0.0, "counts": {"good": 2}}
+{"raw": "mis", "replacement": "miss", "entropy": 0.0, "counts": {"miss": 1}}
+{"raw": "jus", "replacement": "just", "entropy": 0.0, "counts": {"just": 2}}
+{"raw": "thng", "replacement": "thing", "entropy": 0.0, "counts": {"thing": 1}}
+{"raw": "rightt", "replacement": "right", "entropy": 0.0, "counts": {"right": 1}}
+{"raw": "nyt", "replacement": "new york times", "entropy": 0.0, "counts": {"new york times": 2}}
+{"raw": "ony", "replacement": "only", "entropy": 0.0, "counts": {"only": 1}}
+{"raw": "bestfriends", "replacement": "best friends", "entropy": 0.0, "counts": {"best friends": 2}}
+{"raw": "niqqa", "replacement": "nigger", "entropy": 0.0, "counts": {"nigger": 1}}
+{"raw": "prev", "replacement": "previous", "entropy": 0.0, "counts": {"previous": 1}}
+{"raw": "brah", "replacement": "brother", "entropy": 1.1587450075359835, "counts": {"brother": 2, "brah": 1}}
+{"raw": "tha", "replacement": "the", "entropy": 0.0, "counts": {"the": 11}}
+{"raw": "vid", "replacement": "video", "entropy": 0.0, "counts": {"video": 5}}
+{"raw": "thingys", "replacement": "thing is", "entropy": 0.0, "counts": {"thing is": 1}}
+{"raw": "soooooo", "replacement": "so", "entropy": 0.0, "counts": {"so": 1}}
+{"raw": "kiddie", "replacement": "kidding", "entropy": 0.0, "counts": {"kidding": 1}}
+{"raw": "dixk", "replacement": "dick", "entropy": 0.0, "counts": {"dick": 1}}
+{"raw": "goodmorning", "replacement": "good morning", "entropy": 0.0, "counts": {"good morning": 1}}
+{"raw": "youu", "replacement": "you", "entropy": 0.0, "counts": {"you": 4}}
+{"raw": "kissn", "replacement": "kissing", "entropy": 0.0, "counts": {"kissing": 1}}
+{"raw": "justunfollow", "replacement": "just unfollow", "entropy": 0.0, "counts": {"just unfollow": 2}}
+{"raw": "juz", "replacement": "just", "entropy": 0.0, "counts": {"just": 1}}
+{"raw": "lyk", "replacement": "like", "entropy": 0.0, "counts": {"like": 2}}
+{"raw": "stillll", "replacement": "still", "entropy": 0.0, "counts": {"still": 1}}
+{"raw": "bbm", "replacement": "blackberry messenger", "entropy": 0.0, "counts": {"blackberry messenger": 4}}
+{"raw": "soundin", "replacement": "sounding", "entropy": 0.0, "counts": {"sounding": 1}}
+{"raw": "crk", "replacement": "crack", "entropy": 0.0, "counts": {"crack": 1}}
+{"raw": "rd", "replacement": "road", "entropy": 0.0, "counts": {"road": 1}}
+{"raw": "ave", "replacement": "avenue", "entropy": 0.0, "counts": {"avenue": 1}}
+{"raw": "hw", "replacement": "homework", "entropy": 1.1803368801111205, "counts": {"homework": 2, "hw": 2}}
+{"raw": "forreal", "replacement": "for real", "entropy": 0.0, "counts": {"for real": 2}}
+{"raw": "spongbob", "replacement": "spongebob", "entropy": 0.0, "counts": {"spongebob": 1}}
+{"raw": "asap", "replacement": "as soon as possible", "entropy": 0.0, "counts": {"as soon as possible": 2}}
+{"raw": "yuh", "replacement": "you", "entropy": 1.360673760222241, "counts": {"you": 1, "yuh": 1}}
+{"raw": "actin", "replacement": "acting", "entropy": 0.0, "counts": {"acting": 1}}
+{"raw": "nextday", "replacement": "next day", "entropy": 0.0, "counts": {"next day": 1}}
+{"raw": "goin", "replacement": "going", "entropy": 0.0, "counts": {"going": 11}}
+{"raw": "shap", "replacement": "shape", "entropy": 0.0, "counts": {"shape": 1}}
+{"raw": "bf", "replacement": "boyfriend", "entropy": 0.0, "counts": {"boyfriend": 3}}
+{"raw": "fuq", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "appt", "replacement": "appointment", "entropy": 0.0, "counts": {"appointment": 1}}
+{"raw": "doin", "replacement": "doing", "entropy": 0.0, "counts": {"doing": 5}}
+{"raw": "hurtin", "replacement": "hurting", "entropy": 0.0, "counts": {"hurting": 1}}
+{"raw": "fck", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "wasnt", "replacement": "wasn't", "entropy": 0.0, "counts": {"wasn't": 4}}
+{"raw": "wnt", "replacement": "want", "entropy": 0.0, "counts": {"want": 1}}
+{"raw": "congrats", "replacement": "congratulations", "entropy": 0.0, "counts": {"congratulations": 8}}
+{"raw": "dats", "replacement": "that's", "entropy": 0.0, "counts": {"that's": 3}}
+{"raw": "wont", "replacement": "won't", "entropy": 1.1587450075359835, "counts": {"wont": 1, "won't": 2}}
+{"raw": "effing", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "songz", "replacement": "songs", "entropy": 0.0, "counts": {"songs": 1}}
+{"raw": "kdrama", "replacement": "drama", "entropy": 0.0, "counts": {"drama": 1}}
+{"raw": "dam", "replacement": "damn", "entropy": 0.0, "counts": {"damn": 2}}
+{"raw": "gne", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 1}}
+{"raw": "thru", "replacement": "through", "entropy": 0.0, "counts": {"through": 2}}
+{"raw": "nite", "replacement": "night", "entropy": 0.0, "counts": {"night": 1}}
+{"raw": "wat", "replacement": "what", "entropy": 0.0, "counts": {"what": 6}}
+{"raw": "dass", "replacement": "that's", "entropy": 0.0, "counts": {"that's": 1}}
+{"raw": "wann", "replacement": "wanna", "entropy": 0.0, "counts": {"wanna": 1}}
+{"raw": "isnt", "replacement": "isn't", "entropy": 0.0, "counts": {"isn't": 5}}
+{"raw": "livin", "replacement": "living", "entropy": 0.0, "counts": {"living": 2}}
+{"raw": "youve", "replacement": "you've", "entropy": 0.0, "counts": {"you've": 1}}
+{"raw": "peewee", "replacement": "pee wee", "entropy": 0.0, "counts": {"pee wee": 3}}
+{"raw": "longway", "replacement": "long way", "entropy": 0.0, "counts": {"long way": 3}}
+{"raw": "reporte", "replacement": "reporter", "entropy": 0.0, "counts": {"reporter": 1}}
+{"raw": "turnt", "replacement": "turned", "entropy": 0.0, "counts": {"turned": 1}}
+{"raw": "similiar", "replacement": "similar", "entropy": 0.0, "counts": {"similar": 1}}
+{"raw": "comin", "replacement": "coming", "entropy": 0.0, "counts": {"coming": 1}}
+{"raw": "goodd", "replacement": "good", "entropy": 0.0, "counts": {"good": 1}}
+{"raw": "nah", "replacement": "no", "entropy": 1.6549149272807508, "counts": {"no": 3, "now": 1, "nah": 3}}
+{"raw": "gurl", "replacement": "girl", "entropy": 0.0, "counts": {"girl": 3}}
+{"raw": "bt", "replacement": "but", "entropy": 0.0, "counts": {"but": 2}}
+{"raw": "sis", "replacement": "sister", "entropy": 0.0, "counts": {"sister": 1}}
+{"raw": "watz", "replacement": "what's", "entropy": 0.0, "counts": {"what's": 1}}
+{"raw": "vids", "replacement": "videos", "entropy": 0.0, "counts": {"videos": 2}}
+{"raw": "kin", "replacement": "kind of", "entropy": 0.0, "counts": {"kind of": 1}}
+{"raw": "tht", "replacement": "that", "entropy": 0.0, "counts": {"that": 5}}
+{"raw": "fangirl", "replacement": "fan girl", "entropy": 0.0, "counts": {"fan girl": 2}}
+{"raw": "aready", "replacement": "already", "entropy": 0.0, "counts": {"already": 1}}
+{"raw": "srsly", "replacement": "seriously", "entropy": 0.0, "counts": {"seriously": 2}}
+{"raw": "dem", "replacement": "them", "entropy": 0.9916150045702532, "counts": {"dem": 1, "them": 3}}
+{"raw": "hardeeeer", "replacement": "harder", "entropy": 0.0, "counts": {"harder": 1}}
+{"raw": "repubs", "replacement": "republicans", "entropy": 0.0, "counts": {"republicans": 1}}
+{"raw": "yui", "replacement": "you", "entropy": 0.0, "counts": {"you": 1}}
+{"raw": "favo", "replacement": "favorite", "entropy": 0.0, "counts": {"favorite": 1}}
+{"raw": "labour", "replacement": "labor", "entropy": 0.0, "counts": {"labor": 3}}
+{"raw": "bfs", "replacement": "best friends", "entropy": 0.0, "counts": {"best friends": 1}}
+{"raw": "showin", "replacement": "showing", "entropy": 0.0, "counts": {"showing": 1}}
+{"raw": "teering", "replacement": "tearing", "entropy": 0.0, "counts": {"tearing": 1}}
+{"raw": "alergies", "replacement": "allergies", "entropy": 0.0, "counts": {"allergies": 1}}
+{"raw": "cant", "replacement": "can't", "entropy": 0.0, "counts": {"can't": 9}}
+{"raw": "theres", "replacement": "there's", "entropy": 0.0, "counts": {"there's": 5}}
+{"raw": "starin", "replacement": "staring", "entropy": 0.0, "counts": {"staring": 1}}
+{"raw": "dimsum", "replacement": "dim sum", "entropy": 0.0, "counts": {"dim sum": 1}}
+{"raw": "dreamin", "replacement": "dreaming", "entropy": 0.0, "counts": {"dreaming": 1}}
+{"raw": "jukeboxx", "replacement": "jukebox", "entropy": 0.0, "counts": {"jukebox": 1}}
+{"raw": "seein", "replacement": "seeing", "entropy": 0.0, "counts": {"seeing": 1}}
+{"raw": "brodcast", "replacement": "broadcast", "entropy": 0.0, "counts": {"broadcast": 1}}
+{"raw": "los", "replacement": "las", "entropy": 0.0, "counts": {"las": 1}}
+{"raw": "battlestar", "replacement": "battle star", "entropy": 0.0, "counts": {"battle star": 1}}
+{"raw": "thay", "replacement": "that", "entropy": 0.0, "counts": {"that": 1}}
+{"raw": "mlb", "replacement": "major league baseball", "entropy": 0.0, "counts": {"major league baseball": 2}}
+{"raw": "tix", "replacement": "ticket", "entropy": 0.0, "counts": {"ticket": 2}}
+{"raw": "guna", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 1}}
+{"raw": "whyy", "replacement": "why", "entropy": 0.0, "counts": {"why": 1}}
+{"raw": "insomina", "replacement": "insomnia", "entropy": 0.0, "counts": {"insomnia": 1}}
+{"raw": "yy", "replacement": "why", "entropy": 0.0, "counts": {"why": 1}}
+{"raw": "h00y", "replacement": "hoot", "entropy": 0.0, "counts": {"hoot": 1}}
+{"raw": "fayo", "replacement": "for you", "entropy": 0.0, "counts": {"for you": 1}}
+{"raw": "salud", "replacement": "salute", "entropy": 0.0, "counts": {"salute": 1}}
+{"raw": "wrry", "replacement": "worry", "entropy": 0.0, "counts": {"worry": 1}}
+{"raw": "coz", "replacement": "because", "entropy": 0.0, "counts": {"because": 3}}
+{"raw": "jst", "replacement": "just", "entropy": 0.0, "counts": {"just": 3}}
+{"raw": "rightnow", "replacement": "right now", "entropy": 0.0, "counts": {"right now": 1}}
+{"raw": "chics", "replacement": "chicks", "entropy": 0.0, "counts": {"chicks": 1}}
+{"raw": "fightin", "replacement": "fighting", "entropy": 0.0, "counts": {"fighting": 1}}
+{"raw": "bxtch", "replacement": "bitch", "entropy": 0.0, "counts": {"bitch": 2}}
+{"raw": "luk", "replacement": "luck", "entropy": 0.0, "counts": {"luck": 1}}
+{"raw": "plz", "replacement": "please", "entropy": 0.0, "counts": {"please": 5}}
+{"raw": "sweetface", "replacement": "sweet face", "entropy": 0.0, "counts": {"sweet face": 1}}
+{"raw": "loce", "replacement": "love", "entropy": 0.0, "counts": {"love": 1}}
+{"raw": "jk", "replacement": "just kidding", "entropy": 0.0, "counts": {"just kidding": 3}}
+{"raw": "becuz", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "niga", "replacement": "nigger", "entropy": 0.0, "counts": {"nigger": 1}}
+{"raw": "folbackk", "replacement": "follow back", "entropy": 0.0, "counts": {"follow back": 1}}
+{"raw": "wahat", "replacement": "what", "entropy": 0.0, "counts": {"what": 1}}
+{"raw": "abit", "replacement": "a bit", "entropy": 0.0, "counts": {"a bit": 1}}
+{"raw": "eugh", "replacement": "enough", "entropy": 0.0, "counts": {"enough": 1}}
+{"raw": "tooooooo", "replacement": "too", "entropy": 0.0, "counts": {"too": 1}}
+{"raw": "dd", "replacement": "did", "entropy": 1.1587450075359835, "counts": {"did": 2, "dd": 1}}
+{"raw": "relatd", "replacement": "related", "entropy": 0.0, "counts": {"related": 1}}
+{"raw": "ik", "replacement": "i know", "entropy": 0.0, "counts": {"i know": 1}}
+{"raw": "neva", "replacement": "never", "entropy": 0.0, "counts": {"never": 1}}
+{"raw": "appiled", "replacement": "appealed", "entropy": 0.0, "counts": {"appealed": 1}}
+{"raw": "theyve", "replacement": "they've", "entropy": 0.0, "counts": {"they've": 1}}
+{"raw": "huggin", "replacement": "hugging", "entropy": 0.0, "counts": {"hugging": 1}}
+{"raw": "wellllll", "replacement": "well", "entropy": 0.0, "counts": {"well": 1}}
+{"raw": "ef", "replacement": "fuck", "entropy": 1.360673760222241, "counts": {"fuck": 1, "ef": 1}}
+{"raw": "wud", "replacement": "would", "entropy": 0.0, "counts": {"would": 1}}
+{"raw": "locc", "replacement": "lock", "entropy": 0.0, "counts": {"lock": 1}}
+{"raw": "paty", "replacement": "party", "entropy": 0.0, "counts": {"party": 1}}
+{"raw": "mep", "replacement": "map", "entropy": 1.1803368801111205, "counts": {"map": 2, "mep": 2}}
+{"raw": "perf", "replacement": "perfect", "entropy": 0.0, "counts": {"perfect": 1}}
+{"raw": "stoopp", "replacement": "stop", "entropy": 0.0, "counts": {"stop": 1}}
+{"raw": "lefft", "replacement": "left", "entropy": 0.0, "counts": {"left": 1}}
+{"raw": "fuk", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 3}}
+{"raw": "btchs", "replacement": "bitches", "entropy": 0.0, "counts": {"bitches": 1}}
+{"raw": "wen", "replacement": "when", "entropy": 0.9916150045702532, "counts": {"when": 3, "wen": 1}}
+{"raw": "sum", "replacement": "some", "entropy": 0.0, "counts": {"some": 1}}
+{"raw": "bcos", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "badass", "replacement": "bad ass", "entropy": 0.0, "counts": {"bad ass": 2}}
+{"raw": "tlkn", "replacement": "talking", "entropy": 0.0, "counts": {"talking": 1}}
+{"raw": "reveale", "replacement": "revealed", "entropy": 0.0, "counts": {"revealed": 1}}
+{"raw": "becum", "replacement": "become", "entropy": 0.0, "counts": {"become": 1}}
+{"raw": "yeshh", "replacement": "yes", "entropy": 1.360673760222241, "counts": {"yes": 1, "yeshh": 1}}
+{"raw": "gorgeousss", "replacement": "gorgeous", "entropy": 0.0, "counts": {"gorgeous": 1}}
+{"raw": "pullin", "replacement": "pulling", "entropy": 0.0, "counts": {"pulling": 1}}
+{"raw": "followback", "replacement": "follow back", "entropy": 0.0, "counts": {"follow back": 3}}
+{"raw": "biiiig", "replacement": "big", "entropy": 0.0, "counts": {"big": 1}}
+{"raw": "gentille", "replacement": "gentle", "entropy": 0.0, "counts": {"gentle": 1}}
+{"raw": "isit", "replacement": "is it", "entropy": 1.360673760222241, "counts": {"is it": 1, "isit": 1}}
+{"raw": "bday", "replacement": "birthday", "entropy": 0.0, "counts": {"birthday": 4}}
+{"raw": "studyin", "replacement": "studying", "entropy": 0.0, "counts": {"studying": 1}}
+{"raw": "lik", "replacement": "like", "entropy": 0.0, "counts": {"like": 3}}
+{"raw": "inlove", "replacement": "in love", "entropy": 0.0, "counts": {"in love": 1}}
+{"raw": "fux", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 2}}
+{"raw": "whatchu", "replacement": "what you", "entropy": 0.0, "counts": {"what you": 2}}
+{"raw": "talkin", "replacement": "talking", "entropy": 0.0, "counts": {"talking": 4}}
+{"raw": "slipin", "replacement": "sliping", "entropy": 0.0, "counts": {"sliping": 1}}
+{"raw": "slindin", "replacement": "slinding", "entropy": 0.0, "counts": {"slinding": 1}}
+{"raw": "luv", "replacement": "love", "entropy": 0.0, "counts": {"love": 4}}
+{"raw": "srry", "replacement": "sorry", "entropy": 0.0, "counts": {"sorry": 1}}
+{"raw": "smokin", "replacement": "smoking", "entropy": 0.0, "counts": {"smoking": 2}}
+{"raw": "rip", "replacement": "rest in peace", "entropy": 0.0, "counts": {"rest in peace": 1}}
+{"raw": "throwg", "replacement": "throw", "entropy": 0.0, "counts": {"throw": 1}}
+{"raw": "ppls", "replacement": "people's", "entropy": 0.0, "counts": {"people's": 1}}
+{"raw": "sum1", "replacement": "someone", "entropy": 0.0, "counts": {"someone": 2}}
+{"raw": "shld", "replacement": "should", "entropy": 0.0, "counts": {"should": 1}}
+{"raw": "camps", "replacement": "campus", "entropy": 0.0, "counts": {"campus": 1}}
+{"raw": "w8", "replacement": "wait", "entropy": 0.0, "counts": {"wait": 1}}
+{"raw": "butthurt", "replacement": "butt hurt", "entropy": 0.0, "counts": {"butt hurt": 1}}
+{"raw": "qld", "replacement": "queensland", "entropy": 0.0, "counts": {"queensland": 1}}
+{"raw": "spittin", "replacement": "spitting", "entropy": 0.0, "counts": {"spitting": 1}}
+{"raw": "whats", "replacement": "what's", "entropy": 0.9916150045702532, "counts": {"what's": 3, "whats": 1}}
+{"raw": "ppe", "replacement": "people", "entropy": 0.0, "counts": {"people": 1}}
+{"raw": "humen", "replacement": "human", "entropy": 0.0, "counts": {"human": 1}}
+{"raw": "bkuz", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "af", "replacement": "as fuck", "entropy": 0.9984455585483208, "counts": {"as fuck": 6, "af": 3}}
+{"raw": "mfs", "replacement": "mother fuckers", "entropy": 0.0, "counts": {"mother fuckers": 3}}
+{"raw": "gona", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 3}}
+{"raw": "tele", "replacement": "television", "entropy": 0.0, "counts": {"television": 1}}
+{"raw": "em", "replacement": "them", "entropy": 0.6947224243601106, "counts": {"them": 6, "em": 1}}
+{"raw": "dealin", "replacement": "dealing", "entropy": 0.0, "counts": {"dealing": 1}}
+{"raw": "goodluck", "replacement": "good luck", "entropy": 0.0, "counts": {"good luck": 1}}
+{"raw": "yesss", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 2}}
+{"raw": "bcz", "replacement": "because", "entropy": 0.0, "counts": {"because": 2}}
+{"raw": "nt", "replacement": "not", "entropy": 1.1587450075359835, "counts": {"not": 2, "nt": 1}}
+{"raw": "programme", "replacement": "program", "entropy": 0.0, "counts": {"program": 2}}
+{"raw": "betwn", "replacement": "between", "entropy": 0.0, "counts": {"between": 1}}
+{"raw": "nxt", "replacement": "next", "entropy": 0.0, "counts": {"next": 3}}
+{"raw": "seperate", "replacement": "separate", "entropy": 0.0, "counts": {"separate": 1}}
+{"raw": "afg", "replacement": "afghanistan", "entropy": 0.0, "counts": {"afghanistan": 1}}
+{"raw": "soff", "replacement": "soft", "entropy": 0.0, "counts": {"soft": 3}}
+{"raw": "wrng", "replacement": "wrong", "entropy": 0.0, "counts": {"wrong": 1}}
+{"raw": "juss", "replacement": "just", "entropy": 0.0, "counts": {"just": 2}}
+{"raw": "wk", "replacement": "week", "entropy": 0.0, "counts": {"week": 1}}
+{"raw": "shuld", "replacement": "should", "entropy": 0.0, "counts": {"should": 1}}
+{"raw": "cuzz", "replacement": "because", "entropy": 1.360673760222241, "counts": {"because": 1, "cuzz": 1}}
+{"raw": "alot", "replacement": "a lot", "entropy": 0.0, "counts": {"a lot": 4}}
+{"raw": "whataburger", "replacement": "what a burger", "entropy": 0.0, "counts": {"what a burger": 1}}
+{"raw": "lastnight", "replacement": "last night", "entropy": 0.0, "counts": {"last night": 2}}
+{"raw": "whut", "replacement": "what", "entropy": 0.0, "counts": {"what": 3}}
+{"raw": "rehersal", "replacement": "rehearsal", "entropy": 0.0, "counts": {"rehearsal": 1}}
+{"raw": "takin", "replacement": "taking", "entropy": 0.0, "counts": {"taking": 2}}
+{"raw": "textin", "replacement": "texting", "entropy": 0.0, "counts": {"texting": 1}}
+{"raw": "webside", "replacement": "website", "entropy": 0.0, "counts": {"website": 1}}
+{"raw": "stge", "replacement": "stage", "entropy": 0.0, "counts": {"stage": 1}}
+{"raw": "bitchez", "replacement": "bitches", "entropy": 0.0, "counts": {"bitches": 1}}
+{"raw": "highschool", "replacement": "high school", "entropy": 0.0, "counts": {"high school": 1}}
+{"raw": "slayy", "replacement": "kill", "entropy": 0.0, "counts": {"kill": 1}}
+{"raw": "ting", "replacement": "thing", "entropy": 0.0, "counts": {"thing": 1}}
+{"raw": "stp", "replacement": "stop", "entropy": 1.360673760222241, "counts": {"stop": 1, "stp": 1}}
+{"raw": "happpy", "replacement": "happy", "entropy": 0.0, "counts": {"happy": 1}}
+{"raw": "yesshhh", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 1}}
+{"raw": "mfss", "replacement": "mother fuckers", "entropy": 0.0, "counts": {"mother fuckers": 1}}
+{"raw": "everythang", "replacement": "everything", "entropy": 0.0, "counts": {"everything": 1}}
+{"raw": "hs", "replacement": "has", "entropy": 0.0, "counts": {"has": 1}}
+{"raw": "dayum", "replacement": "damn", "entropy": 0.0, "counts": {"damn": 1}}
+{"raw": "buht", "replacement": "but", "entropy": 0.0, "counts": {"but": 1}}
+{"raw": "ihavnt", "replacement": "i haven't", "entropy": 0.0, "counts": {"i haven't": 1}}
+{"raw": "govt", "replacement": "government", "entropy": 0.0, "counts": {"government": 1}}
+{"raw": "shoutout", "replacement": "shout out", "entropy": 1.360673760222241, "counts": {"shout out": 1, "shoutout": 1}}
+{"raw": "fak", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "niggah", "replacement": "nigger", "entropy": 0.0, "counts": {"nigger": 1}}
+{"raw": "hve", "replacement": "have", "entropy": 0.0, "counts": {"have": 4}}
+{"raw": "arent", "replacement": "aren't", "entropy": 0.0, "counts": {"aren't": 4}}
+{"raw": "anniv", "replacement": "anniversary", "entropy": 0.0, "counts": {"anniversary": 1}}
+{"raw": "tonite", "replacement": "tonight", "entropy": 0.0, "counts": {"tonight": 1}}
+{"raw": "tellin", "replacement": "telling", "entropy": 0.0, "counts": {"telling": 1}}
+{"raw": "sesh", "replacement": "session", "entropy": 0.0, "counts": {"session": 1}}
+{"raw": "peoples", "replacement": "people's", "entropy": 1.360673760222241, "counts": {"people's": 1, "peoples": 1}}
+{"raw": "bru", "replacement": "brother", "entropy": 0.0, "counts": {"brother": 1}}
+{"raw": "ryt", "replacement": "right", "entropy": 0.0, "counts": {"right": 1}}
+{"raw": "swayin", "replacement": "swaying", "entropy": 0.0, "counts": {"swaying": 1}}
+{"raw": "fadin", "replacement": "fading", "entropy": 0.0, "counts": {"fading": 1}}
+{"raw": "pple", "replacement": "people", "entropy": 0.0, "counts": {"people": 1}}
+{"raw": "hatin", "replacement": "hating", "entropy": 0.0, "counts": {"hating": 2}}
+{"raw": "movin", "replacement": "moving", "entropy": 0.0, "counts": {"moving": 1}}
+{"raw": "bumpin", "replacement": "bumping", "entropy": 0.0, "counts": {"bumping": 1}}
+{"raw": "kno", "replacement": "know", "entropy": 0.0, "counts": {"know": 9}}
+{"raw": "boutta", "replacement": "about to", "entropy": 0.0, "counts": {"about to": 2}}
+{"raw": "pict", "replacement": "picture", "entropy": 0.0, "counts": {"picture": 1}}
+{"raw": "acc", "replacement": "accident", "entropy": 0.0, "counts": {"accident": 1}}
+{"raw": "nuh", "replacement": "now", "entropy": 1.360673760222241, "counts": {"now": 1, "nuh": 1}}
+{"raw": "dey", "replacement": "they", "entropy": 1.860673760222241, "counts": {"their": 1, "they": 2, "dey": 1}}
+{"raw": "comeing", "replacement": "coming", "entropy": 0.0, "counts": {"coming": 1}}
+{"raw": "thanksfor", "replacement": "thanks for", "entropy": 0.0, "counts": {"thanks for": 1}}
+{"raw": "nighas", "replacement": "niggers", "entropy": 0.0, "counts": {"niggers": 3}}
+{"raw": "wld", "replacement": "would", "entropy": 0.0, "counts": {"would": 1}}
+{"raw": "promotio", "replacement": "promotion", "entropy": 0.0, "counts": {"promotion": 1}}
+{"raw": "foolin", "replacement": "fooling", "entropy": 0.0, "counts": {"fooling": 1}}
+{"raw": "feets", "replacement": "feet", "entropy": 0.0, "counts": {"feet": 1}}
+{"raw": "bros", "replacement": "brothers", "entropy": 0.0, "counts": {"brothers": 1}}
+{"raw": "signin", "replacement": "signing", "entropy": 0.0, "counts": {"signing": 1}}
+{"raw": "iont", "replacement": "i don't", "entropy": 0.0, "counts": {"i don't": 1}}
+{"raw": "fuckz", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "hk", "replacement": "hong kong", "entropy": 0.0, "counts": {"hong kong": 1}}
+{"raw": "dms", "replacement": "direct messages", "entropy": 0.0, "counts": {"direct messages": 4}}
+{"raw": "wht", "replacement": "what", "entropy": 0.0, "counts": {"what": 2}}
+{"raw": "bota", "replacement": "bought a", "entropy": 0.0, "counts": {"bought a": 1}}
+{"raw": "cattitude", "replacement": "attitude", "entropy": 0.0, "counts": {"attitude": 1}}
+{"raw": "theatre", "replacement": "theater", "entropy": 0.0, "counts": {"theater": 2}}
+{"raw": "yas", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 1}}
+{"raw": "yisus", "replacement": "jesus", "entropy": 0.0, "counts": {"jesus": 1}}
+{"raw": "craist", "replacement": "christ", "entropy": 0.0, "counts": {"christ": 1}}
+{"raw": "fanclub", "replacement": "fan club", "entropy": 1.360673760222241, "counts": {"fan club": 1, "fanclub": 1}}
+{"raw": "thu", "replacement": "thursday", "entropy": 0.0, "counts": {"thursday": 1}}
+{"raw": "hav", "replacement": "have", "entropy": 0.0, "counts": {"have": 1}}
+{"raw": "wut", "replacement": "what", "entropy": 0.0, "counts": {"what": 3}}
+{"raw": "unis", "replacement": "universities", "entropy": 0.0, "counts": {"universities": 1}}
+{"raw": "yur", "replacement": "your", "entropy": 0.0, "counts": {"your": 1}}
+{"raw": "thankiu", "replacement": "thank you", "entropy": 0.0, "counts": {"thank you": 1}}
+{"raw": "sitten", "replacement": "sitting", "entropy": 0.0, "counts": {"sitting": 1}}
+{"raw": "min", "replacement": "minute", "entropy": 2.065860847684144, "counts": {"minute": 1, "minutes": 1, "min": 1}}
+{"raw": "fucka", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "asf", "replacement": "as fuck", "entropy": 0.0, "counts": {"as fuck": 1}}
+{"raw": "schleep", "replacement": "sleep", "entropy": 0.0, "counts": {"sleep": 1}}
+{"raw": "feckkk", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "could've", "replacement": "could have", "entropy": 0.0, "counts": {"could have": 1}}
+{"raw": "betetr", "replacement": "better", "entropy": 0.0, "counts": {"better": 1}}
+{"raw": "perfoming", "replacement": "performing", "entropy": 0.0, "counts": {"performing": 1}}
+{"raw": "meself", "replacement": "myself", "entropy": 0.0, "counts": {"myself": 1}}
+{"raw": "hackd", "replacement": "hacked", "entropy": 0.0, "counts": {"hacked": 1}}
+{"raw": "wuddup", "replacement": "what's up", "entropy": 0.0, "counts": {"what's up": 1}}
+{"raw": "nightbot", "replacement": "night bot", "entropy": 0.0, "counts": {"night bot": 1}}
+{"raw": "b4", "replacement": "before", "entropy": 0.0, "counts": {"before": 4}}
+{"raw": "neighbour", "replacement": "neighbor", "entropy": 0.0, "counts": {"neighbor": 2}}
+{"raw": "somtime", "replacement": "sometimes", "entropy": 0.0, "counts": {"sometimes": 1}}
+{"raw": "stressin", "replacement": "stressing", "entropy": 0.0, "counts": {"stressing": 1}}
+{"raw": "thang", "replacement": "thing", "entropy": 1.360673760222241, "counts": {"thing": 1, "thang": 1}}
+{"raw": "drugz", "replacement": "drugs", "entropy": 0.0, "counts": {"drugs": 2}}
+{"raw": "fansites", "replacement": "fan sites", "entropy": 0.0, "counts": {"fan sites": 1}}
+{"raw": "lightsticks", "replacement": "light sticks", "entropy": 0.0, "counts": {"light sticks": 1}}
+{"raw": "thz", "replacement": "thanks", "entropy": 0.0, "counts": {"thanks": 1}}
+{"raw": "ta", "replacement": "to", "entropy": 1.360673760222241, "counts": {"to": 1, "ta": 1}}
+{"raw": "jokin", "replacement": "joking", "entropy": 0.0, "counts": {"joking": 1}}
+{"raw": "cuss", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "friggin", "replacement": "frigging", "entropy": 0.0, "counts": {"frigging": 1}}
+{"raw": "payin", "replacement": "paying", "entropy": 0.0, "counts": {"paying": 1}}
+{"raw": "warmin", "replacement": "warming", "entropy": 0.0, "counts": {"warming": 1}}
+{"raw": "funnyshit", "replacement": "funny shit", "entropy": 0.0, "counts": {"funny shit": 1}}
+{"raw": "givin", "replacement": "giving", "entropy": 0.0, "counts": {"giving": 1}}
+{"raw": "headd", "replacement": "headed", "entropy": 0.0, "counts": {"headed": 1}}
+{"raw": "wer", "replacement": "where", "entropy": 0.0, "counts": {"where": 1}}
+{"raw": "pik", "replacement": "pick", "entropy": 0.0, "counts": {"pick": 2}}
+{"raw": "fu", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 2}}
+{"raw": "wae", "replacement": "why", "entropy": 0.0, "counts": {"why": 1}}
+{"raw": "beatin", "replacement": "beating", "entropy": 0.0, "counts": {"beating": 1}}
+{"raw": "betta", "replacement": "better", "entropy": 0.0, "counts": {"better": 1}}
+{"raw": "realise", "replacement": "realize", "entropy": 0.0, "counts": {"realize": 1}}
+{"raw": "whn", "replacement": "when", "entropy": 0.0, "counts": {"when": 2}}
+{"raw": "qtr", "replacement": "quarter", "entropy": 0.0, "counts": {"quarter": 1}}
+{"raw": "askin", "replacement": "asking", "entropy": 0.0, "counts": {"asking": 2}}
+{"raw": "shutup", "replacement": "shut up", "entropy": 0.0, "counts": {"shut up": 1}}
+{"raw": "layiii", "replacement": "layi", "entropy": 0.0, "counts": {"layi": 1}}
+{"raw": "thnx", "replacement": "thanks", "entropy": 0.0, "counts": {"thanks": 1}}
+{"raw": "fb", "replacement": "facebook", "entropy": 0.0, "counts": {"facebook": 1}}
+{"raw": "hrs", "replacement": "hours", "entropy": 0.0, "counts": {"hours": 1}}
+{"raw": "hype", "replacement": "happy", "entropy": 0.0, "counts": {"happy": 1}}
+{"raw": "posible", "replacement": "possible", "entropy": 0.0, "counts": {"possible": 1}}
+{"raw": "gents", "replacement": "gentlemen", "entropy": 0.0, "counts": {"gentlemen": 1}}
+{"raw": "ache", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "tomorro", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "dumbass", "replacement": "dumb ass", "entropy": 1.1587450075359835, "counts": {"dumb ass": 2, "dumbass": 1}}
+{"raw": "holdin", "replacement": "holding", "entropy": 0.0, "counts": {"holding": 3}}
+{"raw": "judgin", "replacement": "judging", "entropy": 0.0, "counts": {"judging": 1}}
+{"raw": "complaing", "replacement": "complaining", "entropy": 0.0, "counts": {"complaining": 1}}
+{"raw": "lic", "replacement": "license", "entropy": 0.0, "counts": {"license": 2}}
+{"raw": "arthur", "replacement": "author", "entropy": 0.0, "counts": {"author": 1}}
+{"raw": "should've", "replacement": "should have", "entropy": 0.0, "counts": {"should have": 1}}
+{"raw": "custa", "replacement": "custand", "entropy": 0.0, "counts": {"custand": 1}}
+{"raw": "flexin", "replacement": "flexing", "entropy": 0.0, "counts": {"flexing": 1}}
+{"raw": "dispicable", "replacement": "despicable", "entropy": 0.0, "counts": {"despicable": 1}}
+{"raw": "fxck", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 3}}
+{"raw": "tmr", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "awks", "replacement": "awkwards", "entropy": 0.0, "counts": {"awkwards": 2}}
+{"raw": "yeaa", "replacement": "yes", "entropy": 0.0, "counts": {"yes": 1}}
+{"raw": "faceeee", "replacement": "face", "entropy": 0.0, "counts": {"face": 1}}
+{"raw": "boi", "replacement": "boy", "entropy": 0.0, "counts": {"boy": 1}}
+{"raw": "drinkin", "replacement": "drinking", "entropy": 0.0, "counts": {"drinking": 1}}
+{"raw": "birdi", "replacement": "birdie", "entropy": 0.0, "counts": {"birdie": 1}}
+{"raw": "lettin", "replacement": "letting", "entropy": 0.0, "counts": {"letting": 1}}
+{"raw": "apperntly", "replacement": "apparently", "entropy": 0.0, "counts": {"apparently": 1}}
+{"raw": "nomore", "replacement": "no more", "entropy": 0.0, "counts": {"no more": 2}}
+{"raw": "mee", "replacement": "me", "entropy": 0.0, "counts": {"me": 1}}
+{"raw": "pleasee", "replacement": "please", "entropy": 0.0, "counts": {"please": 1}}
+{"raw": "dayy", "replacement": "day", "entropy": 0.0, "counts": {"day": 1}}
+{"raw": "nw", "replacement": "no worries", "entropy": 0.0, "counts": {"no worries": 1}}
+{"raw": "weeknd", "replacement": "weekend", "entropy": 0.0, "counts": {"weekend": 1}}
+{"raw": "muh", "replacement": "mother", "entropy": 0.0, "counts": {"mother": 1}}
+{"raw": "fuckas", "replacement": "fuckers", "entropy": 0.0, "counts": {"fuckers": 1}}
+{"raw": "happyy", "replacement": "happy", "entropy": 0.0, "counts": {"happy": 1}}
+{"raw": "birthdayyy", "replacement": "birthday", "entropy": 0.0, "counts": {"birthday": 1}}
+{"raw": "ridin", "replacement": "riding", "entropy": 0.0, "counts": {"riding": 1}}
+{"raw": "southamerica", "replacement": "south america", "entropy": 0.0, "counts": {"south america": 1}}
+{"raw": "convo", "replacement": "conversation", "entropy": 0.0, "counts": {"conversation": 2}}
+{"raw": "biryhday", "replacement": "birthday", "entropy": 0.0, "counts": {"birthday": 1}}
+{"raw": "rizky", "replacement": "risky", "entropy": 0.0, "counts": {"risky": 1}}
+{"raw": "loveyou", "replacement": "love you", "entropy": 0.0, "counts": {"love you": 1}}
+{"raw": "cusine", "replacement": "cuisine", "entropy": 0.0, "counts": {"cuisine": 1}}
+{"raw": "summertime", "replacement": "summer time", "entropy": 0.0, "counts": {"summer time": 1}}
+{"raw": "hv", "replacement": "have", "entropy": 0.0, "counts": {"have": 1}}
+{"raw": "screamin", "replacement": "screaming", "entropy": 0.0, "counts": {"screaming": 1}}
+{"raw": "wos", "replacement": "was", "entropy": 0.0, "counts": {"was": 1}}
+{"raw": "bish", "replacement": "bitch", "entropy": 0.0, "counts": {"bitch": 1}}
+{"raw": "whet", "replacement": "what", "entropy": 0.0, "counts": {"what": 1}}
+{"raw": "yiu", "replacement": "you", "entropy": 0.0, "counts": {"you": 1}}
+{"raw": "jn", "replacement": "in", "entropy": 1.360673760222241, "counts": {"in": 1, "jn": 1}}
+{"raw": "whippin", "replacement": "whipping", "entropy": 0.0, "counts": {"whipping": 2}}
+{"raw": "fuckbag", "replacement": "fucking bag", "entropy": 0.0, "counts": {"fucking bag": 1}}
+{"raw": "thr", "replacement": "there", "entropy": 0.0, "counts": {"there": 1}}
+{"raw": "australi", "replacement": "australia", "entropy": 0.0, "counts": {"australia": 1}}
+{"raw": "thankies", "replacement": "thanks", "entropy": 0.0, "counts": {"thanks": 1}}
+{"raw": "gd", "replacement": "good", "entropy": 0.0, "counts": {"good": 1}}
+{"raw": "fack", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "wrked", "replacement": "worked", "entropy": 0.0, "counts": {"worked": 1}}
+{"raw": "thiiisss", "replacement": "this", "entropy": 0.0, "counts": {"this": 1}}
+{"raw": "youre", "replacement": "you're", "entropy": 0.0, "counts": {"you're": 2}}
+{"raw": "shldnt", "replacement": "shouldn't", "entropy": 0.0, "counts": {"shouldn't": 1}}
+{"raw": "jazzys", "replacement": "jazzy's", "entropy": 0.0, "counts": {"jazzy's": 1}}
+{"raw": "rite", "replacement": "right", "entropy": 0.0, "counts": {"right": 1}}
+{"raw": "bball", "replacement": "basketball", "entropy": 0.0, "counts": {"basketball": 1}}
+{"raw": "godbless", "replacement": "god bless", "entropy": 0.0, "counts": {"god bless": 1}}
+{"raw": "yowapedal", "replacement": "your pedal", "entropy": 0.0, "counts": {"your pedal": 1}}
+{"raw": "yaoipedal", "replacement": "your pedal", "entropy": 0.0, "counts": {"your pedal": 1}}
+{"raw": "prob", "replacement": "probably", "entropy": 0.0, "counts": {"probably": 1}}
+{"raw": "tomar", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "hitt", "replacement": "hit", "entropy": 0.0, "counts": {"hit": 1}}
+{"raw": "yellin", "replacement": "yelling", "entropy": 0.0, "counts": {"yelling": 1}}
+{"raw": "deffo", "replacement": "definitely", "entropy": 0.0, "counts": {"definitely": 1}}
+{"raw": "knooow", "replacement": "know", "entropy": 0.0, "counts": {"know": 1}}
+{"raw": "arse", "replacement": "ass", "entropy": 0.0, "counts": {"ass": 1}}
+{"raw": "whiteboy", "replacement": "white boy", "entropy": 0.0, "counts": {"white boy": 1}}
+{"raw": "everythings", "replacement": "everything's", "entropy": 0.0, "counts": {"everything's": 1}}
+{"raw": "hitlist", "replacement": "hit list", "entropy": 0.0, "counts": {"hit list": 1}}
+{"raw": "fyck", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "telly", "replacement": "television", "entropy": 0.0, "counts": {"television": 1}}
+{"raw": "myselff", "replacement": "myself", "entropy": 0.0, "counts": {"myself": 1}}
+{"raw": "22yr", "replacement": "22 year", "entropy": 0.0, "counts": {"22 year": 1}}
+{"raw": "runnin", "replacement": "running", "entropy": 0.0, "counts": {"running": 1}}
+{"raw": "ghad", "replacement": "glad", "entropy": 0.0, "counts": {"glad": 1}}
+{"raw": "fuhh", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "thattt", "replacement": "that", "entropy": 0.0, "counts": {"that": 1}}
+{"raw": "choco", "replacement": "chocolate", "entropy": 0.0, "counts": {"chocolate": 2}}
+{"raw": "bullsh", "replacement": "bullshit", "entropy": 0.0, "counts": {"bullshit": 1}}
+{"raw": "moslem", "replacement": "muslim", "entropy": 0.0, "counts": {"muslim": 1}}
+{"raw": "ddnt", "replacement": "didn't", "entropy": 0.0, "counts": {"didn't": 1}}
+{"raw": "mf", "replacement": "mother fuckers", "entropy": 1.360673760222241, "counts": {"mother fuckers": 1, "mother fucker": 1}}
+{"raw": "hott", "replacement": "hot", "entropy": 0.0, "counts": {"hot": 1}}
+{"raw": "deez", "replacement": "these", "entropy": 0.0, "counts": {"these": 1}}
+{"raw": "sympathise", "replacement": "sympathize", "entropy": 0.0, "counts": {"sympathize": 1}}
+{"raw": "abt", "replacement": "about", "entropy": 0.0, "counts": {"about": 2}}
+{"raw": "cnt", "replacement": "can't", "entropy": 0.0, "counts": {"can't": 1}}
+{"raw": "stainin", "replacement": "staining", "entropy": 0.0, "counts": {"staining": 1}}
+{"raw": "2day", "replacement": "today", "entropy": 0.0, "counts": {"today": 1}}
+{"raw": "fone", "replacement": "phone", "entropy": 0.0, "counts": {"phone": 1}}
+{"raw": "tryn", "replacement": "trying", "entropy": 0.0, "counts": {"trying": 1}}
+{"raw": "ahold", "replacement": "a hold", "entropy": 0.0, "counts": {"a hold": 1}}
+{"raw": "pepul", "replacement": "people", "entropy": 0.0, "counts": {"people": 1}}
+{"raw": "il", "replacement": "i'll", "entropy": 0.0, "counts": {"i'll": 1}}
+{"raw": "downgrding", "replacement": "downgrading", "entropy": 0.0, "counts": {"downgrading": 1}}
+{"raw": "cum", "replacement": "come", "entropy": 0.0, "counts": {"come": 2}}
+{"raw": "whatz", "replacement": "what is", "entropy": 0.0, "counts": {"what is": 1}}
+{"raw": "some1", "replacement": "someone", "entropy": 0.0, "counts": {"someone": 1}}
+{"raw": "screen", "replacement": "screenshot", "entropy": 1.360673760222241, "counts": {"screenshot": 1, "screen": 1}}
+{"raw": "counselling", "replacement": "counseling", "entropy": 0.0, "counts": {"counseling": 1}}
+{"raw": "centres", "replacement": "centers", "entropy": 0.0, "counts": {"centers": 1}}
+{"raw": "fulfil", "replacement": "fulfill", "entropy": 0.0, "counts": {"fulfill": 1}}
+{"raw": "yor", "replacement": "your", "entropy": 0.0, "counts": {"your": 1}}
+{"raw": "fakin", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "ohhh", "replacement": "oh", "entropy": 0.0, "counts": {"oh": 1}}
+{"raw": "shmit", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "fina", "replacement": "going to", "entropy": 0.0, "counts": {"going to": 1}}
+{"raw": "thoee", "replacement": "though", "entropy": 0.0, "counts": {"though": 1}}
+{"raw": "allways", "replacement": "always", "entropy": 0.0, "counts": {"always": 2}}
+{"raw": "sittin", "replacement": "sitting", "entropy": 0.0, "counts": {"sitting": 2}}
+{"raw": "luff", "replacement": "love", "entropy": 0.0, "counts": {"love": 1}}
+{"raw": "marri", "replacement": "marry", "entropy": 0.0, "counts": {"marry": 1}}
+{"raw": "laughin", "replacement": "laughing", "entropy": 0.0, "counts": {"laughing": 1}}
+{"raw": "shoulda", "replacement": "should have", "entropy": 0.0, "counts": {"should have": 1}}
+{"raw": "mornin", "replacement": "morning", "entropy": 0.0, "counts": {"morning": 1}}
+{"raw": "sugah", "replacement": "sugar", "entropy": 0.0, "counts": {"sugar": 1}}
+{"raw": "chewin", "replacement": "chewing", "entropy": 0.0, "counts": {"chewing": 1}}
+{"raw": "cuteeee", "replacement": "cute", "entropy": 0.0, "counts": {"cute": 1}}
+{"raw": "talkn", "replacement": "talking", "entropy": 0.0, "counts": {"talking": 1}}
+{"raw": "gunna", "replacement": "gonna", "entropy": 0.0, "counts": {"gonna": 1}}
+{"raw": "fnk", "replacement": "find", "entropy": 0.0, "counts": {"find": 1}}
+{"raw": "kys", "replacement": "kill youself", "entropy": 0.0, "counts": {"kill youself": 2}}
+{"raw": "bje", "replacement": "bye", "entropy": 0.0, "counts": {"bye": 1}}
+{"raw": "callin", "replacement": "calling", "entropy": 0.0, "counts": {"calling": 1}}
+{"raw": "performa", "replacement": "performance", "entropy": 0.0, "counts": {"performance": 1}}
+{"raw": "probs", "replacement": "problems", "entropy": 1.360673760222241, "counts": {"problems": 1, "probably": 1}}
+{"raw": "dood", "replacement": "dude", "entropy": 0.0, "counts": {"dude": 1}}
+{"raw": "follback", "replacement": "follow back", "entropy": 0.0, "counts": {"follow back": 2}}
+{"raw": "nvm", "replacement": "never mind", "entropy": 0.0, "counts": {"never mind": 2}}
+{"raw": "gguide", "replacement": "guide", "entropy": 0.0, "counts": {"guide": 1}}
+{"raw": "cos", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "fucc", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "dafuq", "replacement": "the fuck", "entropy": 0.0, "counts": {"the fuck": 1}}
+{"raw": "looove", "replacement": "love", "entropy": 0.0, "counts": {"love": 1}}
+{"raw": "mdm", "replacement": "madam", "entropy": 0.0, "counts": {"madam": 1}}
+{"raw": "missyou", "replacement": "miss you", "entropy": 0.0, "counts": {"miss you": 1}}
+{"raw": "chilln", "replacement": "chilling", "entropy": 0.0, "counts": {"chilling": 1}}
+{"raw": "havnt", "replacement": "haven't", "entropy": 0.0, "counts": {"haven't": 1}}
+{"raw": "sorrrrrrrrrrrrry", "replacement": "sorry", "entropy": 0.0, "counts": {"sorry": 1}}
+{"raw": "yr", "replacement": "you're", "entropy": 0.0, "counts": {"you're": 2}}
+{"raw": "bitxh", "replacement": "bitch", "entropy": 0.0, "counts": {"bitch": 1}}
+{"raw": "dyn", "replacement": "dying", "entropy": 0.0, "counts": {"dying": 1}}
+{"raw": "freinds", "replacement": "friends", "entropy": 0.0, "counts": {"friends": 1}}
+{"raw": "sep", "replacement": "september", "entropy": 0.0, "counts": {"september": 1}}
+{"raw": "thys", "replacement": "there's", "entropy": 0.0, "counts": {"there's": 1}}
+{"raw": "ryte", "replacement": "right", "entropy": 0.0, "counts": {"right": 1}}
+{"raw": "bitvhes", "replacement": "bitches", "entropy": 0.0, "counts": {"bitches": 1}}
+{"raw": "bitvh", "replacement": "bitch", "entropy": 0.0, "counts": {"bitch": 1}}
+{"raw": "colour", "replacement": "color", "entropy": 0.0, "counts": {"color": 3}}
+{"raw": "outttttt", "replacement": "out", "entropy": 0.0, "counts": {"out": 1}}
+{"raw": "thwre", "replacement": "there", "entropy": 0.0, "counts": {"there": 1}}
+{"raw": "shittin", "replacement": "shitting", "entropy": 0.0, "counts": {"shitting": 1}}
+{"raw": "lyke", "replacement": "like", "entropy": 0.0, "counts": {"like": 1}}
+{"raw": "spirite", "replacement": "spirit", "entropy": 0.0, "counts": {"spirit": 2}}
+{"raw": "diffffff", "replacement": "different", "entropy": 0.0, "counts": {"different": 1}}
+{"raw": "fisrt", "replacement": "first", "entropy": 0.0, "counts": {"first": 1}}
+{"raw": "slippin", "replacement": "sleeping", "entropy": 0.0, "counts": {"sleeping": 1}}
+{"raw": "waow", "replacement": "wow", "entropy": 0.0, "counts": {"wow": 1}}
+{"raw": "freakin", "replacement": "freaking", "entropy": 0.0, "counts": {"freaking": 1}}
+{"raw": "talor", "replacement": "taylor", "entropy": 0.0, "counts": {"taylor": 1}}
+{"raw": "ayebody", "replacement": "anybody", "entropy": 0.0, "counts": {"anybody": 2}}
+{"raw": "preggo", "replacement": "pregnant", "entropy": 0.0, "counts": {"pregnant": 1}}
+{"raw": "ultraviolence", "replacement": "ultra violence", "entropy": 0.0, "counts": {"ultra violence": 1}}
+{"raw": "fckn", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "wil", "replacement": "will", "entropy": 0.0, "counts": {"will": 1}}
+{"raw": "sameee", "replacement": "same", "entropy": 0.0, "counts": {"same": 1}}
+{"raw": "heree", "replacement": "here", "entropy": 0.0, "counts": {"here": 1}}
+{"raw": "hoein", "replacement": "hoeing", "entropy": 0.0, "counts": {"hoeing": 1}}
+{"raw": "catalogue", "replacement": "catalog", "entropy": 0.0, "counts": {"catalog": 1}}
+{"raw": "shxt", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "fuks", "replacement": "fucks", "entropy": 0.0, "counts": {"fucks": 1}}
+{"raw": "kidd", "replacement": "kid", "entropy": 0.0, "counts": {"kid": 1}}
+{"raw": "acttually", "replacement": "actually", "entropy": 0.0, "counts": {"actually": 1}}
+{"raw": "wdlands", "replacement": "woodlands", "entropy": 0.0, "counts": {"woodlands": 1}}
+{"raw": "coolin", "replacement": "cooling", "entropy": 0.0, "counts": {"cooling": 1}}
+{"raw": "plc", "replacement": "picture", "entropy": 0.0, "counts": {"picture": 1}}
+{"raw": "airrr", "replacement": "air", "entropy": 0.0, "counts": {"air": 1}}
+{"raw": "dun", "replacement": "don't", "entropy": 0.0, "counts": {"don't": 1}}
+{"raw": "drivin", "replacement": "driving", "entropy": 0.0, "counts": {"driving": 1}}
+{"raw": "pickin", "replacement": "picking", "entropy": 0.0, "counts": {"picking": 1}}
+{"raw": "upp", "replacement": "up", "entropy": 0.0, "counts": {"up": 1}}
+{"raw": "cussin", "replacement": "cussing", "entropy": 0.0, "counts": {"cussing": 1}}
+{"raw": "thas", "replacement": "that's", "entropy": 0.0, "counts": {"that's": 1}}
+{"raw": "homo", "replacement": "homosexual", "entropy": 0.0, "counts": {"homosexual": 1}}
+{"raw": "neighbours", "replacement": "neighbors", "entropy": 0.0, "counts": {"neighbors": 1}}
+{"raw": "mommas", "replacement": "mamas", "entropy": 0.0, "counts": {"mamas": 1}}
+{"raw": "putos", "replacement": "photos", "entropy": 0.0, "counts": {"photos": 1}}
+{"raw": "byee", "replacement": "bye", "entropy": 0.0, "counts": {"bye": 1}}
+{"raw": "bcause", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "sumone", "replacement": "someone", "entropy": 0.0, "counts": {"someone": 1}}
+{"raw": "xf", "replacement": "x factor", "entropy": 0.0, "counts": {"x factor": 1}}
+{"raw": "blk", "replacement": "bulk", "entropy": 0.0, "counts": {"bulk": 1}}
+{"raw": "unkown", "replacement": "unknown", "entropy": 0.0, "counts": {"unknown": 1}}
+{"raw": "emosh", "replacement": "emotional", "entropy": 0.0, "counts": {"emotional": 1}}
+{"raw": "cmon", "replacement": "come on", "entropy": 0.0, "counts": {"come on": 1}}
+{"raw": "representin", "replacement": "representing", "entropy": 0.0, "counts": {"representing": 1}}
+{"raw": "trippin", "replacement": "tripping", "entropy": 0.0, "counts": {"tripping": 1}}
+{"raw": "giva", "replacement": "give a", "entropy": 0.0, "counts": {"give a": 1}}
+{"raw": "giveaway", "replacement": "give away", "entropy": 0.0, "counts": {"give away": 1}}
+{"raw": "spyder", "replacement": "spider", "entropy": 0.0, "counts": {"spider": 1}}
+{"raw": "thanku", "replacement": "thank you", "entropy": 0.0, "counts": {"thank you": 1}}
+{"raw": "gm", "replacement": "good morning", "entropy": 1.360673760222241, "counts": {"good morning": 1, "gm": 1}}
+{"raw": "feeli", "replacement": "feeling", "entropy": 0.0, "counts": {"feeling": 1}}
+{"raw": "gov", "replacement": "government", "entropy": 1.360673760222241, "counts": {"government": 1, "gov": 1}}
+{"raw": "ve", "replacement": "have", "entropy": 0.0, "counts": {"have": 1}}
+{"raw": "shyt", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "wif", "replacement": "with", "entropy": 0.0, "counts": {"with": 1}}
+{"raw": "mantabs", "replacement": "man tabs", "entropy": 0.0, "counts": {"man tabs": 1}}
+{"raw": "ohgosh", "replacement": "oh gosh", "entropy": 0.0, "counts": {"oh gosh": 1}}
+{"raw": "colaboration", "replacement": "collaborations", "entropy": 0.0, "counts": {"collaborations": 1}}
+{"raw": "eachother", "replacement": "each other", "entropy": 0.0, "counts": {"each other": 1}}
+{"raw": "mins", "replacement": "minutes", "entropy": 0.0, "counts": {"minutes": 1}}
+{"raw": "problema", "replacement": "problem", "entropy": 0.0, "counts": {"problem": 1}}
+{"raw": "wearin", "replacement": "wearing", "entropy": 0.0, "counts": {"wearing": 1}}
+{"raw": "tue", "replacement": "tuesday", "entropy": 0.0, "counts": {"tuesday": 1}}
+{"raw": "atm", "replacement": "at the moment", "entropy": 0.0, "counts": {"at the moment": 1}}
+{"raw": "stoopid", "replacement": "stupid", "entropy": 0.0, "counts": {"stupid": 1}}
+{"raw": "weiiiiird", "replacement": "weird", "entropy": 0.0, "counts": {"weird": 1}}
+{"raw": "cying", "replacement": "crying", "entropy": 0.0, "counts": {"crying": 1}}
+{"raw": "wantin", "replacement": "wanting", "entropy": 0.0, "counts": {"wanting": 1}}
+{"raw": "fukk", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "swimmin", "replacement": "swimming", "entropy": 0.0, "counts": {"swimming": 1}}
+{"raw": "defo", "replacement": "definitely", "entropy": 0.0, "counts": {"definitely": 1}}
+{"raw": "writin", "replacement": "writing", "entropy": 0.0, "counts": {"writing": 1}}
+{"raw": "bidge", "replacement": "bridge", "entropy": 0.0, "counts": {"bridge": 1}}
+{"raw": "boooyyyy", "replacement": "boy", "entropy": 0.0, "counts": {"boy": 1}}
+{"raw": "deemm", "replacement": "damn", "entropy": 0.0, "counts": {"damn": 1}}
+{"raw": "niggaas", "replacement": "nigger", "entropy": 0.0, "counts": {"nigger": 1}}
+{"raw": "rumours", "replacement": "rumors", "entropy": 0.0, "counts": {"rumors": 2}}
+{"raw": "todays", "replacement": "today's", "entropy": 0.0, "counts": {"today's": 1}}
+{"raw": "thryyre", "replacement": "they're", "entropy": 0.0, "counts": {"they're": 1}}
+{"raw": "headin", "replacement": "heading", "entropy": 0.0, "counts": {"heading": 1}}
+{"raw": "loooot", "replacement": "lot", "entropy": 0.0, "counts": {"lot": 1}}
+{"raw": "shuit", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "hsit", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "shitihsthiaht", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "shitb", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "roflmao", "replacement": "rolling on floor laughing my ass off", "entropy": 0.0, "counts": {"rolling on floor laughing my ass off": 1}}
+{"raw": "messin", "replacement": "messing", "entropy": 0.0, "counts": {"messing": 1}}
+{"raw": "no1s", "replacement": "no one's", "entropy": 0.0, "counts": {"no one's": 1}}
+{"raw": "ballin", "replacement": "balling", "entropy": 0.0, "counts": {"balling": 1}}
+{"raw": "bouta", "replacement": "about to", "entropy": 0.0, "counts": {"about to": 1}}
+{"raw": "folllow", "replacement": "follow", "entropy": 0.0, "counts": {"follow": 1}}
+{"raw": "theyr", "replacement": "there", "entropy": 0.0, "counts": {"there": 1}}
+{"raw": "fucjing", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "alwayz", "replacement": "always", "entropy": 0.0, "counts": {"always": 1}}
+{"raw": "whap", "replacement": "what's up", "entropy": 0.0, "counts": {"what's up": 1}}
+{"raw": "oooooneee", "replacement": "one", "entropy": 0.0, "counts": {"one": 1}}
+{"raw": "dollarr", "replacement": "dollar", "entropy": 0.0, "counts": {"dollar": 1}}
+{"raw": "2mrw", "replacement": "tomorrow", "entropy": 0.0, "counts": {"tomorrow": 1}}
+{"raw": "sonn", "replacement": "son", "entropy": 0.0, "counts": {"son": 1}}
+{"raw": "ifucking", "replacement": "i fucking", "entropy": 0.0, "counts": {"i fucking": 1}}
+{"raw": "rtwt", "replacement": "retweet", "entropy": 0.0, "counts": {"retweet": 1}}
+{"raw": "soml", "replacement": "someone", "entropy": 0.0, "counts": {"someone": 1}}

@@ -1,0 +1,741 @@
+{"raw": "gemes", "replacement": "gemas", "entropy": 0.0, "counts": {"gemas": 2}}
+{"raw": "bgt", "replacement": "sangat", "entropy": 0.7960225092788362, "counts": {"sangat": 13, "sangat-sangat": 1, "": 1}}
+{"raw": "jd", "replacement": "jadi", "entropy": 0.0, "counts": {"jadi": 10}}
+{"raw": "krn", "replacement": "karena", "entropy": 0.0, "counts": {"karena": 8}}
+{"raw": "gue", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 36}}
+{"raw": "jaman", "replacement": "zaman", "entropy": 0.0, "counts": {"zaman": 2}}
+{"raw": "utk", "replacement": "untuk", "entropy": 0.0, "counts": {"untuk": 11}}
+{"raw": "yg", "replacement": "yang", "entropy": 0.0, "counts": {"yang": 109}}
+{"raw": "tbtb", "replacement": "tiba-tiba", "entropy": 0.0, "counts": {"tiba-tiba": 6}}
+{"raw": "i'm", "replacement": "i am", "entropy": 0.0, "counts": {"i am": 18}}
+{"raw": "i'll", "replacement": "i will", "entropy": 0.0, "counts": {"i will": 2}}
+{"raw": "mmg", "replacement": "memang", "entropy": 0.0, "counts": {"memang": 1}}
+{"raw": "takda", "replacement": "tidak ada", "entropy": 0.0, "counts": {"tidak ada": 1}}
+{"raw": "he's", "replacement": "he is", "entropy": 1.360673760222241, "counts": {"he is": 1, "he's": 1}}
+{"raw": "takde", "replacement": "tidak ada", "entropy": 0.0, "counts": {"tidak ada": 2}}
+{"raw": "hentam", "replacement": "hantam", "entropy": 0.0, "counts": {"hantam": 1}}
+{"raw": "bla", "replacement": "bla-bla", "entropy": 1.360673760222241, "counts": {"bla-bla": 1, "": 1}}
+{"raw": "they're", "replacement": "they are", "entropy": 0.0, "counts": {"they are": 2}}
+{"raw": "nyimpen", "replacement": "simpan", "entropy": 0.0, "counts": {"simpan": 1}}
+{"raw": "gua", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 16}}
+{"raw": "keknya", "replacement": "sepertinya", "entropy": 0.0, "counts": {"sepertinya": 4}}
+{"raw": "dibookmark", "replacement": "bookmark", "entropy": 0.0, "counts": {"bookmark": 1}}
+{"raw": "bukn", "replacement": "bukan", "entropy": 0.0, "counts": {"bukan": 1}}
+{"raw": "gtu", "replacement": "begitu", "entropy": 0.0, "counts": {"begitu": 1}}
+{"raw": "cant", "replacement": "cannot", "entropy": 0.0, "counts": {"cannot": 5}}
+{"raw": "doang", "replacement": "saja", "entropy": 0.0, "counts": {"saja": 7}}
+{"raw": "lo", "replacement": "kamu", "entropy": 0.0, "counts": {"kamu": 13}}
+{"raw": "kek", "replacement": "seperti", "entropy": 0.0, "counts": {"seperti": 8}}
+{"raw": "cowo", "replacement": "cowok", "entropy": 0.0, "counts": {"cowok": 3}}
+{"raw": "seneng", "replacement": "senang", "entropy": 0.0, "counts": {"senang": 2}}
+{"raw": "kalo", "replacement": "kalau", "entropy": 0.0, "counts": {"kalau": 37}}
+{"raw": "ragu2", "replacement": "ragu-ragu", "entropy": 0.0, "counts": {"ragu-ragu": 1}}
+{"raw": "kepikiran", "replacement": "terpikirkan", "entropy": 0.0, "counts": {"terpikirkan": 1}}
+{"raw": "there's", "replacement": "there is", "entropy": 0.0, "counts": {"there is": 1}}
+{"raw": "udah", "replacement": "sudah", "entropy": 0.0, "counts": {"sudah": 31}}
+{"raw": "promo", "replacement": "promosi", "entropy": 0.0, "counts": {"promosi": 2}}
+{"raw": "sebenernya", "replacement": "sebenarnya", "entropy": 0.0, "counts": {"sebenarnya": 3}}
+{"raw": "orang2", "replacement": "orang-orang", "entropy": 0.0, "counts": {"orang-orang": 1}}
+{"raw": "gaptek", "replacement": "gagap teknologi", "entropy": 0.0, "counts": {"gagap teknologi": 1}}
+{"raw": "ga", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 35}}
+{"raw": "ngerti", "replacement": "mengerti", "entropy": 0.0, "counts": {"mengerti": 2}}
+{"raw": "sm", "replacement": "sama", "entropy": 0.0, "counts": {"sama": 11}}
+{"raw": "gitu", "replacement": "begitu", "entropy": 0.0, "counts": {"begitu": 15}}
+{"raw": "pake", "replacement": "pakai", "entropy": 0.0, "counts": {"pakai": 14}}
+{"raw": "mikirin", "replacement": "memikirkan", "entropy": 0.0, "counts": {"memikirkan": 1}}
+{"raw": "sampe", "replacement": "sampai", "entropy": 0.0, "counts": {"sampai": 8}}
+{"raw": "dr", "replacement": "dari", "entropy": 0.5050740342346481, "counts": {"dari": 10, "dr": 1}}
+{"raw": "hes", "replacement": "he is", "entropy": 0.0, "counts": {"he is": 1}}
+{"raw": "stepnya", "replacement": "the step", "entropy": 0.0, "counts": {"the step": 1}}
+{"raw": "kkak", "replacement": "kakak", "entropy": 0.0, "counts": {"kakak": 1}}
+{"raw": "respon", "replacement": "respond", "entropy": 0.0, "counts": {"respond": 2}}
+{"raw": "infokann", "replacement": "infokan", "entropy": 0.0, "counts": {"infokan": 1}}
+{"raw": "trims", "replacement": "terima kasih", "entropy": 0.0, "counts": {"terima kasih": 2}}
+{"raw": "u", "replacement": "you", "entropy": 0.0, "counts": {"you": 26}}
+{"raw": "mulu", "replacement": "melulu", "entropy": 0.0, "counts": {"melulu": 8}}
+{"raw": "lu", "replacement": "kamu", "entropy": 0.0, "counts": {"kamu": 14}}
+{"raw": "memperjuangin", "replacement": "memperjuangkan", "entropy": 0.0, "counts": {"memperjuangkan": 1}}
+{"raw": "ampe", "replacement": "sampai", "entropy": 0.0, "counts": {"sampai": 1}}
+{"raw": "jg", "replacement": "juga", "entropy": 0.0, "counts": {"juga": 11}}
+{"raw": "gasalah", "replacement": "tidak salah", "entropy": 0.0, "counts": {"tidak salah": 1}}
+{"raw": "tp", "replacement": "tapi", "entropy": 0.0, "counts": {"tapi": 25}}
+{"raw": "org", "replacement": "orang", "entropy": 0.0, "counts": {"orang": 4}}
+{"raw": "str8", "replacement": "straight", "entropy": 0.0, "counts": {"straight": 1}}
+{"raw": "cmn", "replacement": "hanya", "entropy": 0.0, "counts": {"hanya": 2}}
+{"raw": "dipake", "replacement": "dipakai", "entropy": 0.0, "counts": {"dipakai": 2}}
+{"raw": "abis", "replacement": "habis", "entropy": 0.7702470083891011, "counts": {"habis": 5, "habis-habisan": 1}}
+{"raw": "ur", "replacement": "your", "entropy": 0.0, "counts": {"your": 3}}
+{"raw": "aja", "replacement": "saja", "entropy": 0.0, "counts": {"saja": 48}}
+{"raw": "gapapa", "replacement": "tidak apa-apa", "entropy": 0.0, "counts": {"tidak apa-apa": 3}}
+{"raw": "wishlistnya", "replacement": "the wishlist", "entropy": 0.0, "counts": {"the wishlist": 1}}
+{"raw": "bokek", "replacement": "cekak", "entropy": 0.0, "counts": {"cekak": 1}}
+{"raw": "kayanya", "replacement": "sepertinya", "entropy": 0.6947224243601106, "counts": {"kayaknya": 1, "sepertinya": 6}}
+{"raw": "diakhir2", "replacement": "diakhir-akhir", "entropy": 0.0, "counts": {"diakhir-akhir": 1}}
+{"raw": "its", "replacement": "it is", "entropy": 1.001766931090858, "counts": {"it is": 12, "its": 2, "it has": 1}}
+{"raw": "r", "replacement": "are", "entropy": 0.0, "counts": {"are": 3}}
+{"raw": "nggak", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 7}}
+{"raw": "bales", "replacement": "balas", "entropy": 0.0, "counts": {"balas": 3}}
+{"raw": "besop", "replacement": "besok", "entropy": 0.0, "counts": {"besok": 1}}
+{"raw": "tudey", "replacement": "today", "entropy": 0.0, "counts": {"today": 1}}
+{"raw": "nurut", "replacement": "penurut", "entropy": 0.0, "counts": {"penurut": 1}}
+{"raw": "tau", "replacement": "tahu", "entropy": 0.0, "counts": {"tahu": 15}}
+{"raw": "lg", "replacement": "lagi", "entropy": 0.0, "counts": {"lagi": 12}}
+{"raw": "ngmng", "replacement": "ngomong", "entropy": 0.0, "counts": {"ngomong": 1}}
+{"raw": "ditaro", "replacement": "ditaruh", "entropy": 0.0, "counts": {"ditaruh": 1}}
+{"raw": "rapih", "replacement": "rapi", "entropy": 0.0, "counts": {"rapi": 1}}
+{"raw": "jatoh", "replacement": "jatuh", "entropy": 0.0, "counts": {"jatuh": 1}}
+{"raw": "kenceng", "replacement": "kencang", "entropy": 0.0, "counts": {"kencang": 1}}
+{"raw": "ketutup", "replacement": "tertutup", "entropy": 0.0, "counts": {"tertutup": 1}}
+{"raw": "finis", "replacement": "finish", "entropy": 0.0, "counts": {"finish": 2}}
+{"raw": "im", "replacement": "i am", "entropy": 0.0, "counts": {"i am": 8}}
+{"raw": "keliatan", "replacement": "kelihatan", "entropy": 0.0, "counts": {"kelihatan": 3}}
+{"raw": "klean", "replacement": "kaliah", "entropy": 0.0, "counts": {"kaliah": 1}}
+{"raw": "y", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 1}}
+{"raw": "bosen", "replacement": "bosan", "entropy": 0.0, "counts": {"bosan": 2}}
+{"raw": "maen", "replacement": "main", "entropy": 0.0, "counts": {"main": 2}}
+{"raw": "begituaaaaan", "replacement": "begitu", "entropy": 0.0, "counts": {"begitu": 1}}
+{"raw": "binggooowww", "replacement": "bingo", "entropy": 0.0, "counts": {"bingo": 1}}
+{"raw": "ngantuk", "replacement": "mengantuk", "entropy": 0.0, "counts": {"mengantuk": 2}}
+{"raw": "adaaaa", "replacement": "ada", "entropy": 0.0, "counts": {"ada": 1}}
+{"raw": "haiii", "replacement": "hai", "entropy": 0.0, "counts": {"hai": 1}}
+{"raw": "iyoooh", "replacement": "iyooh", "entropy": 0.0, "counts": {"iyooh": 1}}
+{"raw": "rn", "replacement": "right now", "entropy": 0.0, "counts": {"right now": 1}}
+{"raw": "didatengin", "replacement": "didatangi", "entropy": 0.0, "counts": {"didatangi": 1}}
+{"raw": "dilakuin", "replacement": "dilakukan", "entropy": 0.0, "counts": {"dilakukan": 1}}
+{"raw": "okey", "replacement": "okay", "entropy": 0.0, "counts": {"okay": 1}}
+{"raw": "maksa", "replacement": "paksa", "entropy": 0.0, "counts": {"paksa": 2}}
+{"raw": "gak", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 35}}
+{"raw": "nyetel", "replacement": "setel", "entropy": 0.0, "counts": {"setel": 1}}
+{"raw": "indo", "replacement": "indonesia", "entropy": 0.0, "counts": {"indonesia": 2}}
+{"raw": "lw", "replacement": "kamu", "entropy": 0.0, "counts": {"kamu": 4}}
+{"raw": "kelar", "replacement": "selesai", "entropy": 0.0, "counts": {"selesai": 3}}
+{"raw": "ngeliat", "replacement": "melihat", "entropy": 0.0, "counts": {"melihat": 1}}
+{"raw": "temen", "replacement": "teman", "entropy": 0.0, "counts": {"teman": 3}}
+{"raw": "nyisain", "replacement": "menyisakan", "entropy": 0.0, "counts": {"menyisakan": 1}}
+{"raw": "dgn", "replacement": "dengan", "entropy": 0.0, "counts": {"dengan": 7}}
+{"raw": "nyuruh", "replacement": "suruh", "entropy": 0.0, "counts": {"suruh": 2}}
+{"raw": "ngabisin", "replacement": "menghabiskan", "entropy": 0.0, "counts": {"menghabiskan": 3}}
+{"raw": "klo", "replacement": "kalau", "entropy": 0.0, "counts": {"kalau": 3}}
+{"raw": "gass", "replacement": "gas", "entropy": 0.0, "counts": {"gas": 1}}
+{"raw": "terooss", "replacement": "terus", "entropy": 0.0, "counts": {"terus": 1}}
+{"raw": "enaakk", "replacement": "enak", "entropy": 0.0, "counts": {"enak": 1}}
+{"raw": "bikin", "replacement": "buat", "entropy": 0.0, "counts": {"buat": 17}}
+{"raw": "karna", "replacement": "karena", "entropy": 0.0, "counts": {"karena": 4}}
+{"raw": "abisan", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "trs", "replacement": "terus", "entropy": 0.0, "counts": {"terus": 5}}
+{"raw": "skrng", "replacement": "sekarang", "entropy": 0.0, "counts": {"sekarang": 3}}
+{"raw": "pgn", "replacement": "pingin", "entropy": 0.0, "counts": {"pingin": 1}}
+{"raw": "ngerestart", "replacement": "restart", "entropy": 0.0, "counts": {"restart": 1}}
+{"raw": "smt", "replacement": "semester", "entropy": 0.0, "counts": {"semester": 4}}
+{"raw": "bcs", "replacement": "because", "entropy": 0.0, "counts": {"because": 5}}
+{"raw": "msh", "replacement": "masih", "entropy": 0.0, "counts": {"masih": 9}}
+{"raw": "lyfe", "replacement": "life", "entropy": 0.0, "counts": {"life": 2}}
+{"raw": "ngopi", "replacement": "minum kopi", "entropy": 0.0, "counts": {"minum kopi": 1}}
+{"raw": "ngobrol", "replacement": "mengobrol", "entropy": 0.0, "counts": {"mengobrol": 2}}
+{"raw": "don't", "replacement": "do not", "entropy": 0.0, "counts": {"do not": 5}}
+{"raw": "bertanya", "replacement": "bertanya-tanya", "entropy": 0.0, "counts": {"bertanya-tanya": 1}}
+{"raw": "kasik", "replacement": "kasih", "entropy": 0.0, "counts": {"kasih": 1}}
+{"raw": "nipu", "replacement": "tipu", "entropy": 0.0, "counts": {"tipu": 1}}
+{"raw": "ngasih", "replacement": "kasih", "entropy": 0.0, "counts": {"kasih": 3}}
+{"raw": "nonton", "replacement": "tonton", "entropy": 0.44673183443267733, "counts": {"tonton": 12, "nonton": 1}}
+{"raw": "belom", "replacement": "belum", "entropy": 0.0, "counts": {"belum": 4}}
+{"raw": "padet", "replacement": "padat", "entropy": 0.0, "counts": {"padat": 1}}
+{"raw": "udh", "replacement": "sudah", "entropy": 0.0, "counts": {"sudah": 10}}
+{"raw": "gk", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 4}}
+{"raw": "ok", "replacement": "okay", "entropy": 0.0, "counts": {"okay": 10}}
+{"raw": "dapet", "replacement": "dapat", "entropy": 0.0, "counts": {"dapat": 6}}
+{"raw": "ko", "replacement": "kok", "entropy": 0.0, "counts": {"kok": 3}}
+{"raw": "liat", "replacement": "lihat", "entropy": 1.2416150045702534, "counts": {"lihat-lihat": 1, "": 1, "lihat": 6}}
+{"raw": "ribet", "replacement": "repot", "entropy": 0.0, "counts": {"repot": 1}}
+{"raw": "yok", "replacement": "yuk-yuk", "entropy": 1.360673760222241, "counts": {"yuk-yuk": 1, "": 1}}
+{"raw": "banget", "replacement": "sangat", "entropy": 0.47392914367400724, "counts": {"sangat": 11, "manjur": 1}}
+{"raw": "interfacenya", "replacement": "interface", "entropy": 0.0, "counts": {"interface": 1}}
+{"raw": "kesel", "replacement": "kesal", "entropy": 1.360673760222241, "counts": {"kesal": 1, "kesel": 1}}
+{"raw": "uda", "replacement": "sudah", "entropy": 0.9916150045702532, "counts": {"sudah": 3, "uda": 1}}
+{"raw": "laper", "replacement": "lapar", "entropy": 0.0, "counts": {"lapar": 1}}
+{"raw": "kgn", "replacement": "kangen", "entropy": 0.0, "counts": {"kangen": 1}}
+{"raw": "ngambil", "replacement": "ambil", "entropy": 0.0, "counts": {"ambil": 1}}
+{"raw": "yaaaaaa", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 1}}
+{"raw": "emg", "replacement": "memang", "entropy": 0.0, "counts": {"memang": 5}}
+{"raw": "bs", "replacement": "bisa", "entropy": 0.0, "counts": {"bisa": 11}}
+{"raw": "diliat", "replacement": "dilihat", "entropy": 0.0, "counts": {"dilihat": 1}}
+{"raw": "pd", "replacement": "pada", "entropy": 1.115220098543565, "counts": {"pada": 3, "pd": 2}}
+{"raw": "undang2", "replacement": "undang-undang", "entropy": 0.0, "counts": {"undang-undang": 1}}
+{"raw": "dicover", "replacement": "cover", "entropy": 0.0, "counts": {"cover": 2}}
+{"raw": "tdk", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 1}}
+{"raw": "stad", "replacement": "stadium", "entropy": 0.0, "counts": {"stadium": 1}}
+{"raw": "dibc", "replacement": "dibaca", "entropy": 0.0, "counts": {"dibaca": 1}}
+{"raw": "nyalahin", "replacement": "menyalahkan", "entropy": 0.0, "counts": {"menyalahkan": 1}}
+{"raw": "ngritik", "replacement": "kritik", "entropy": 0.0, "counts": {"kritik": 1}}
+{"raw": "dengerin", "replacement": "dengar", "entropy": 0.0, "counts": {"dengar": 1}}
+{"raw": "mannnnn", "replacement": "man", "entropy": 0.0, "counts": {"man": 1}}
+{"raw": "that's", "replacement": "that is", "entropy": 0.0, "counts": {"that is": 1}}
+{"raw": "nungguin", "replacement": "menunggu", "entropy": 0.0, "counts": {"menunggu": 1}}
+{"raw": "capt", "replacement": "captain", "entropy": 0.0, "counts": {"captain": 1}}
+{"raw": "mening", "replacement": "mending", "entropy": 0.0, "counts": {"mending": 1}}
+{"raw": "gausaaaaa", "replacement": "tidak usah", "entropy": 0.0, "counts": {"tidak usah": 1}}
+{"raw": "ttg", "replacement": "tentang", "entropy": 0.0, "counts": {"tentang": 2}}
+{"raw": "gabisa", "replacement": "tidak bisa", "entropy": 0.0, "counts": {"tidak bisa": 2}}
+{"raw": "ngandelin", "replacement": "mengandalkan", "entropy": 0.0, "counts": {"mengandalkan": 1}}
+{"raw": "rese2", "replacement": "resek-resek", "entropy": 0.0, "counts": {"resek-resek": 1}}
+{"raw": "yaaa", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 5}}
+{"raw": "theres", "replacement": "there is", "entropy": 0.0, "counts": {"there is": 1}}
+{"raw": "ngeblend", "replacement": "blend", "entropy": 0.0, "counts": {"blend": 1}}
+{"raw": "gw", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 25}}
+{"raw": "aq", "replacement": "aku", "entropy": 0.0, "counts": {"aku": 2}}
+{"raw": "usah", "replacement": "perlu", "entropy": 0.9916150045702532, "counts": {"usah": 1, "perlu": 3}}
+{"raw": "kl", "replacement": "kalau", "entropy": 0.0, "counts": {"kalau": 3}}
+{"raw": "laki", "replacement": "laku", "entropy": 0.0, "counts": {"laku": 1}}
+{"raw": "beneran", "replacement": "benar", "entropy": 0.0, "counts": {"benar": 2}}
+{"raw": "diceritain", "replacement": "diceritakan", "entropy": 0.0, "counts": {"diceritakan": 1}}
+{"raw": "insyallah", "replacement": "insyaallah", "entropy": 0.0, "counts": {"insyaallah": 1}}
+{"raw": "ngomongin", "replacement": "mengomongkan", "entropy": 0.0, "counts": {"mengomongkan": 1}}
+{"raw": "merenungin", "replacement": "merenungi", "entropy": 0.0, "counts": {"merenungi": 1}}
+{"raw": "diumur2", "replacement": "diumur-umur", "entropy": 0.0, "counts": {"diumur-umur": 1}}
+{"raw": "skrg", "replacement": "sekarang", "entropy": 0.0, "counts": {"sekarang": 8}}
+{"raw": "bareng", "replacement": "bersama", "entropy": 0.0, "counts": {"bersama": 1}}
+{"raw": "setingan", "replacement": "setting", "entropy": 0.0, "counts": {"setting": 1}}
+{"raw": "jahadd", "replacement": "jahat", "entropy": 0.0, "counts": {"jahat": 1}}
+{"raw": "okeh", "replacement": "oke", "entropy": 0.0, "counts": {"oke": 1}}
+{"raw": "nyampe", "replacement": "sampai", "entropy": 0.0, "counts": {"sampai": 1}}
+{"raw": "dg", "replacement": "dengan", "entropy": 0.0, "counts": {"dengan": 6}}
+{"raw": "ngakak", "replacement": "ketawa", "entropy": 0.0, "counts": {"ketawa": 3}}
+{"raw": "sehari2", "replacement": "sehari-hari", "entropy": 0.0, "counts": {"sehari-hari": 1}}
+{"raw": "ngga", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 7}}
+{"raw": "laki2nya", "replacement": "laki-lakinya", "entropy": 0.0, "counts": {"laki-lakinya": 1}}
+{"raw": "uwww", "replacement": "uww", "entropy": 0.0, "counts": {"uww": 1}}
+{"raw": "banyak2", "replacement": "banyak-banyak", "entropy": 0.0, "counts": {"banyak-banyak": 1}}
+{"raw": "tebel", "replacement": "tebal", "entropy": 0.0, "counts": {"tebal": 1}}
+{"raw": "alonsoooo", "replacement": "alonsoo", "entropy": 0.0, "counts": {"alonsoo": 1}}
+{"raw": "yaa", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 6}}
+{"raw": "berjuta2", "replacement": "berjuta-juta", "entropy": 0.0, "counts": {"berjuta-juta": 2}}
+{"raw": "kayak", "replacement": "seperti", "entropy": 0.0, "counts": {"seperti": 7}}
+{"raw": "iyaa", "replacement": "iya", "entropy": 0.0, "counts": {"iya": 1}}
+{"raw": "ttp", "replacement": "tetap", "entropy": 0.0, "counts": {"tetap": 3}}
+{"raw": "ntah", "replacement": "entah", "entropy": 0.0, "counts": {"entah": 1}}
+{"raw": "ngelike", "replacement": "like", "entropy": 0.0, "counts": {"like": 1}}
+{"raw": "cewe", "replacement": "cewek", "entropy": 0.0, "counts": {"cewek": 6}}
+{"raw": "tho", "replacement": "though", "entropy": 0.0, "counts": {"though": 1}}
+{"raw": "rekomended", "replacement": "recommended", "entropy": 0.0, "counts": {"recommended": 1}}
+{"raw": "kluar", "replacement": "keluar", "entropy": 0.0, "counts": {"keluar": 2}}
+{"raw": "dri", "replacement": "dari", "entropy": 0.0, "counts": {"dari": 1}}
+{"raw": "kasiaaan", "replacement": "kasihan", "entropy": 0.0, "counts": {"kasihan": 1}}
+{"raw": "ibuuuk", "replacement": "ibu", "entropy": 0.0, "counts": {"ibu": 1}}
+{"raw": "aneh2", "replacement": "aneh-aneh", "entropy": 0.0, "counts": {"aneh-aneh": 1}}
+{"raw": "bgttt", "replacement": "sangat", "entropy": 0.0, "counts": {"sangat": 1}}
+{"raw": "semangatttt", "replacement": "semangat", "entropy": 0.0, "counts": {"semangat": 1}}
+{"raw": "bullsit", "replacement": "bullshit", "entropy": 0.0, "counts": {"bullshit": 1}}
+{"raw": "ajg", "replacement": "anjing", "entropy": 0.0, "counts": {"anjing": 1}}
+{"raw": "respekt", "replacement": "respect", "entropy": 0.0, "counts": {"respect": 1}}
+{"raw": "semangaat", "replacement": "semangat", "entropy": 0.0, "counts": {"semangat": 1}}
+{"raw": "akutuh", "replacement": "aku", "entropy": 0.0, "counts": {"aku": 1}}
+{"raw": "gt", "replacement": "begitu", "entropy": 0.0, "counts": {"begitu": 6}}
+{"raw": "youre", "replacement": "you are", "entropy": 0.0, "counts": {"you are": 2}}
+{"raw": "aloneee", "replacement": "alone", "entropy": 0.0, "counts": {"alone": 1}}
+{"raw": "wkt", "replacement": "waktu", "entropy": 0.0, "counts": {"waktu": 1}}
+{"raw": "kudu", "replacement": "harus", "entropy": 0.0, "counts": {"harus": 1}}
+{"raw": "nempelin", "replacement": "menempelkan", "entropy": 0.0, "counts": {"menempelkan": 1}}
+{"raw": "ngedetect", "replacement": "detect", "entropy": 0.0, "counts": {"detect": 1}}
+{"raw": "blm", "replacement": "belum", "entropy": 0.0, "counts": {"belum": 1}}
+{"raw": "km", "replacement": "kamu", "entropy": 0.0, "counts": {"kamu": 3}}
+{"raw": "nemu", "replacement": "menemukan", "entropy": 0.0, "counts": {"menemukan": 3}}
+{"raw": "spiker", "replacement": "speaker", "entropy": 0.0, "counts": {"speaker": 1}}
+{"raw": "sensasionalis", "replacement": "sensasionalisme", "entropy": 0.0, "counts": {"sensasionalisme": 1}}
+{"raw": "gasuka", "replacement": "tidak suka", "entropy": 0.0, "counts": {"tidak suka": 2}}
+{"raw": "i've", "replacement": "i have", "entropy": 0.0, "counts": {"i have": 2}}
+{"raw": "id", "replacement": "i had", "entropy": 1.360673760222241, "counts": {"i had": 1, "id": 1}}
+{"raw": "pengin", "replacement": "ingin", "entropy": 0.0, "counts": {"ingin": 1}}
+{"raw": "nyobain", "replacement": "coba", "entropy": 0.0, "counts": {"coba": 1}}
+{"raw": "pengen", "replacement": "ingin", "entropy": 0.0, "counts": {"ingin": 4}}
+{"raw": "pingin", "replacement": "ingin", "entropy": 0.0, "counts": {"ingin": 2}}
+{"raw": "masukin", "replacement": "taruh", "entropy": 0.0, "counts": {"taruh": 1}}
+{"raw": "doesnt", "replacement": "does not", "entropy": 0.0, "counts": {"does not": 1}}
+{"raw": "makannya", "replacement": "makanya", "entropy": 0.0, "counts": {"makanya": 1}}
+{"raw": "cepet", "replacement": "cepat", "entropy": 0.0, "counts": {"cepat": 1}}
+{"raw": "whats", "replacement": "what is", "entropy": 0.0, "counts": {"what is": 3}}
+{"raw": "nanya", "replacement": "tanya", "entropy": 0.0, "counts": {"tanya": 3}}
+{"raw": "ngangguk2", "replacement": "mengangguk-angguk", "entropy": 0.0, "counts": {"mengangguk-angguk": 1}}
+{"raw": "kmrn", "replacement": "kemarin", "entropy": 0.0, "counts": {"kemarin": 2}}
+{"raw": "rb", "replacement": "ribu", "entropy": 0.0, "counts": {"ribu": 4}}
+{"raw": "kepake", "replacement": "terpakai", "entropy": 0.0, "counts": {"terpakai": 1}}
+{"raw": "td", "replacement": "tadi", "entropy": 0.0, "counts": {"tadi": 2}}
+{"raw": "lgsg", "replacement": "langsung", "entropy": 0.0, "counts": {"langsung": 1}}
+{"raw": "emang", "replacement": "memang", "entropy": 0.0, "counts": {"memang": 16}}
+{"raw": "admin", "replacement": "administrator", "entropy": 0.0, "counts": {"administrator": 1}}
+{"raw": "brrt", "replacement": "berarti", "entropy": 0.0, "counts": {"berarti": 1}}
+{"raw": "soalna", "replacement": "soalnya", "entropy": 0.0, "counts": {"soalnya": 1}}
+{"raw": "customernya", "replacement": "the customer", "entropy": 0.0, "counts": {"the customer": 1}}
+{"raw": "ngeluh", "replacement": "mengeluh", "entropy": 0.0, "counts": {"mengeluh": 1}}
+{"raw": "ajaaa", "replacement": "saja", "entropy": 0.0, "counts": {"saja": 1}}
+{"raw": "w", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 6}}
+{"raw": "can't", "replacement": "cannot", "entropy": 0.0, "counts": {"cannot": 3}}
+{"raw": "bbsgddd", "replacement": "bangsat", "entropy": 0.0, "counts": {"bangsat": 1}}
+{"raw": "anak2", "replacement": "anak-anak", "entropy": 0.0, "counts": {"anak-anak": 1}}
+{"raw": "segede", "replacement": "sebesar", "entropy": 0.0, "counts": {"sebesar": 1}}
+{"raw": "foto2", "replacement": "foto-foto", "entropy": 0.0, "counts": {"foto-foto": 1}}
+{"raw": "kinda", "replacement": "kind of", "entropy": 0.0, "counts": {"kind of": 1}}
+{"raw": "pura", "replacement": "pura-pura", "entropy": 1.360673760222241, "counts": {"pura-pura": 1, "": 1}}
+{"raw": "gatau", "replacement": "tidak tahu", "entropy": 0.0, "counts": {"tidak tahu": 1}}
+{"raw": "engga", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 3}}
+{"raw": "ngapus", "replacement": "menghapus", "entropy": 0.0, "counts": {"menghapus": 1}}
+{"raw": "orangya", "replacement": "orangnya", "entropy": 0.0, "counts": {"orangnya": 1}}
+{"raw": "storiesnya", "replacement": "the stories", "entropy": 0.0, "counts": {"the stories": 5}}
+{"raw": "nunggu", "replacement": "menunggu", "entropy": 0.0, "counts": {"menunggu": 4}}
+{"raw": "samaa", "replacement": "sama", "entropy": 0.0, "counts": {"sama": 1}}
+{"raw": "kasian", "replacement": "kasihan", "entropy": 0.0, "counts": {"kasihan": 2}}
+{"raw": "folo", "replacement": "follow", "entropy": 0.0, "counts": {"follow": 1}}
+{"raw": "cpt", "replacement": "cepat", "entropy": 0.0, "counts": {"cepat": 1}}
+{"raw": "ngetweet", "replacement": "tweet", "entropy": 0.0, "counts": {"tweet": 1}}
+{"raw": "nyonyah", "replacement": "nyonya", "entropy": 0.0, "counts": {"nyonya": 1}}
+{"raw": "someones", "replacement": "someone is", "entropy": 0.0, "counts": {"someone is": 1}}
+{"raw": "off", "replacement": "of", "entropy": 1.360673760222241, "counts": {"of": 1, "off": 1}}
+{"raw": "ngehibur", "replacement": "menghibur", "entropy": 0.0, "counts": {"menghibur": 1}}
+{"raw": "kaga", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 2}}
+{"raw": "rugii", "replacement": "rugi", "entropy": 0.0, "counts": {"rugi": 1}}
+{"raw": "tntang", "replacement": "tentang", "entropy": 0.0, "counts": {"tentang": 1}}
+{"raw": "astronot", "replacement": "astronaut", "entropy": 0.0, "counts": {"astronaut": 1}}
+{"raw": "romancenya", "replacement": "the romance", "entropy": 0.0, "counts": {"the romance": 1}}
+{"raw": "figurenya", "replacement": "the figure", "entropy": 0.0, "counts": {"the figure": 1}}
+{"raw": "dalemnya", "replacement": "dalamnya", "entropy": 0.0, "counts": {"dalamnya": 1}}
+{"raw": "stir", "replacement": "setir", "entropy": 0.0, "counts": {"setir": 1}}
+{"raw": "lama2", "replacement": "lama-lama", "entropy": 0.0, "counts": {"lama-lama": 2}}
+{"raw": "khan", "replacement": "kan", "entropy": 0.0, "counts": {"kan": 1}}
+{"raw": "capeknya", "replacement": "lelahnya", "entropy": 0.0, "counts": {"lelahnya": 1}}
+{"raw": "she's", "replacement": "she is", "entropy": 0.0, "counts": {"she is": 2}}
+{"raw": "celeb", "replacement": "celebrity", "entropy": 0.0, "counts": {"celebrity": 1}}
+{"raw": "ngiklan", "replacement": "iklan", "entropy": 0.0, "counts": {"iklan": 1}}
+{"raw": "nyetir", "replacement": "menyetir", "entropy": 0.0, "counts": {"menyetir": 1}}
+{"raw": "nyari", "replacement": "cari", "entropy": 0.0, "counts": {"cari": 3}}
+{"raw": "tarohan", "replacement": "taruhan", "entropy": 0.0, "counts": {"taruhan": 1}}
+{"raw": "shrsnya", "replacement": "seharusnya", "entropy": 0.0, "counts": {"seharusnya": 1}}
+{"raw": "d", "replacement": "di", "entropy": 0.8661975989762587, "counts": {"di": 4, "d": 1}}
+{"raw": "brsiap", "replacement": "bersiap", "entropy": 0.0, "counts": {"bersiap": 1}}
+{"raw": "mghadiri", "replacement": "menghadiri", "entropy": 0.0, "counts": {"menghadiri": 1}}
+{"raw": "byknya", "replacement": "banyaknya", "entropy": 0.0, "counts": {"banyaknya": 2}}
+{"raw": "prtimbangn", "replacement": "pertimbangan", "entropy": 0.0, "counts": {"pertimbangan": 1}}
+{"raw": "mmbuat", "replacement": "membuat", "entropy": 0.0, "counts": {"membuat": 1}}
+{"raw": "brada", "replacement": "berada", "entropy": 0.0, "counts": {"berada": 1}}
+{"raw": "trdengar", "replacement": "terdengar", "entropy": 0.0, "counts": {"terdengar": 1}}
+{"raw": "sprti", "replacement": "seperti", "entropy": 0.0, "counts": {"seperti": 1}}
+{"raw": "masi", "replacement": "masih", "entropy": 0.0, "counts": {"masih": 2}}
+{"raw": "pic", "replacement": "picture", "entropy": 0.0, "counts": {"picture": 2}}
+{"raw": "terimakasih", "replacement": "terima kasih", "entropy": 0.0, "counts": {"terima kasih": 1}}
+{"raw": "jelasin", "replacement": "jelaskan", "entropy": 0.0, "counts": {"jelaskan": 1}}
+{"raw": "pls", "replacement": "please", "entropy": 0.0, "counts": {"please": 3}}
+{"raw": "dont", "replacement": "do not", "entropy": 0.0, "counts": {"do not": 7}}
+{"raw": "semalem", "replacement": "semalam", "entropy": 0.0, "counts": {"semalam": 2}}
+{"raw": "nangis", "replacement": "menangis", "entropy": 0.0, "counts": {"menangis": 6}}
+{"raw": "berkaca", "replacement": "berkaca-kaca", "entropy": 0.0, "counts": {"berkaca-kaca": 1}}
+{"raw": "kaca", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "nyesek", "replacement": "sesak", "entropy": 0.0, "counts": {"sesak": 1}}
+{"raw": "mayan", "replacement": "lumayan", "entropy": 0.0, "counts": {"lumayan": 2}}
+{"raw": "habbit", "replacement": "habit", "entropy": 0.0, "counts": {"habit": 1}}
+{"raw": "ceritain", "replacement": "cerita", "entropy": 0.0, "counts": {"cerita": 1}}
+{"raw": "thats", "replacement": "that is", "entropy": 0.0, "counts": {"that is": 3}}
+{"raw": "badan2", "replacement": "badan-badan", "entropy": 0.0, "counts": {"badan-badan": 1}}
+{"raw": "koq", "replacement": "kok", "entropy": 0.0, "counts": {"kok": 1}}
+{"raw": "krna", "replacement": "karena", "entropy": 0.0, "counts": {"karena": 1}}
+{"raw": "sekali2", "replacement": "sekali-kali", "entropy": 0.0, "counts": {"sekali-kali": 1}}
+{"raw": "ngecharge", "replacement": "charge", "entropy": 0.0, "counts": {"charge": 1}}
+{"raw": "testi", "replacement": "testimoni", "entropy": 0.0, "counts": {"testimoni": 1}}
+{"raw": "n", "replacement": "and", "entropy": 0.0, "counts": {"and": 4}}
+{"raw": "inet", "replacement": "internet", "entropy": 0.0, "counts": {"internet": 1}}
+{"raw": "jgn", "replacement": "jangan", "entropy": 0.0, "counts": {"jangan": 9}}
+{"raw": "tks", "replacement": "terima kasih", "entropy": 0.0, "counts": {"terima kasih": 1}}
+{"raw": "ademnya", "replacement": "sejuknya", "entropy": 0.0, "counts": {"sejuknya": 1}}
+{"raw": "caper", "replacement": "cari perhatian", "entropy": 0.0, "counts": {"cari perhatian": 1}}
+{"raw": "disini", "replacement": "di sini", "entropy": 0.0, "counts": {"di sini": 2}}
+{"raw": "cm", "replacement": "cuma", "entropy": 1.115220098543565, "counts": {"cm": 2, "cuma": 3}}
+{"raw": "lbh", "replacement": "lebih", "entropy": 0.0, "counts": {"lebih": 1}}
+{"raw": "smua", "replacement": "semua", "entropy": 0.0, "counts": {"semua": 1}}
+{"raw": "inget", "replacement": "ingat", "entropy": 0.0, "counts": {"ingat": 2}}
+{"raw": "sayup2", "replacement": "sayup-sayup", "entropy": 0.0, "counts": {"sayup-sayup": 1}}
+{"raw": "it's", "replacement": "it is", "entropy": 0.0, "counts": {"it is": 9}}
+{"raw": "you're", "replacement": "you are", "entropy": 0.0, "counts": {"you are": 5}}
+{"raw": "plis", "replacement": "please", "entropy": 0.0, "counts": {"please": 1}}
+{"raw": "kurang2in", "replacement": "kurang-kurangin", "entropy": 0.0, "counts": {"kurang-kurangin": 1}}
+{"raw": "feedbacknya", "replacement": "the feedback", "entropy": 0.0, "counts": {"the feedback": 1}}
+{"raw": "bkn", "replacement": "bukan", "entropy": 0.0, "counts": {"bukan": 2}}
+{"raw": "ngebayangin", "replacement": "membayangkan", "entropy": 0.0, "counts": {"membayangkan": 1}}
+{"raw": "adek", "replacement": "adik", "entropy": 0.0, "counts": {"adik": 2}}
+{"raw": "dedek", "replacement": "adik", "entropy": 0.0, "counts": {"adik": 1}}
+{"raw": "ala2", "replacement": "ala-ala", "entropy": 0.0, "counts": {"ala-ala": 2}}
+{"raw": "capek", "replacement": "lelah", "entropy": 0.0, "counts": {"lelah": 2}}
+{"raw": "ngecilin", "replacement": "mengecilkan", "entropy": 0.0, "counts": {"mengecilkan": 1}}
+{"raw": "thx", "replacement": "thank", "entropy": 0.0, "counts": {"thank": 2}}
+{"raw": "kayaknya", "replacement": "sepertinya", "entropy": 1.1587450075359835, "counts": {"sepertinya": 2, "kayaknya": 1}}
+{"raw": "gamungkin", "replacement": "tidak mungkin", "entropy": 0.0, "counts": {"tidak mungkin": 1}}
+{"raw": "enggak", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 1}}
+{"raw": "apps", "replacement": "applications", "entropy": 0.0, "counts": {"applications": 1}}
+{"raw": "ngeselin", "replacement": "mengesalkan", "entropy": 0.0, "counts": {"mengesalkan": 2}}
+{"raw": "sempet", "replacement": "sempat", "entropy": 0.0, "counts": {"sempat": 3}}
+{"raw": "berkaca2", "replacement": "berkaca-kaca", "entropy": 0.0, "counts": {"berkaca-kaca": 1}}
+{"raw": "bbrp", "replacement": "beberapa", "entropy": 0.0, "counts": {"beberapa": 1}}
+{"raw": "soundtracknya", "replacement": "the soundtrack", "entropy": 0.0, "counts": {"the soundtrack": 1}}
+{"raw": "hepi", "replacement": "happy", "entropy": 0.0, "counts": {"happy": 1}}
+{"raw": "dpt", "replacement": "dapat", "entropy": 1.1587450075359835, "counts": {"dapat": 2, "dpt": 1}}
+{"raw": "cuz", "replacement": "cause", "entropy": 0.0, "counts": {"cause": 1}}
+{"raw": "givin", "replacement": "giving", "entropy": 0.0, "counts": {"giving": 3}}
+{"raw": "ngajak2", "replacement": "ajak-ajak", "entropy": 0.0, "counts": {"ajak-ajak": 1}}
+{"raw": "ntar", "replacement": "nanti", "entropy": 0.0, "counts": {"nanti": 2}}
+{"raw": "nawar", "replacement": "tawar", "entropy": 2.065860847684144, "counts": {"tawar": 1, "tawar-menawar": 1, "": 1}}
+{"raw": "nek", "replacement": "andek", "entropy": 0.0, "counts": {"andek": 1}}
+{"raw": "masjid-mesjid", "replacement": "masjid-masjid", "entropy": 0.0, "counts": {"masjid-masjid": 1}}
+{"raw": "sholat", "replacement": "salat", "entropy": 0.0, "counts": {"salat": 3}}
+{"raw": "manggil", "replacement": "memanggil", "entropy": 0.0, "counts": {"memanggil": 1}}
+{"raw": "yup", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 1}}
+{"raw": "eyke", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 1}}
+{"raw": "surpey", "replacement": "survey", "entropy": 0.0, "counts": {"survey": 2}}
+{"raw": "sangat2", "replacement": "sangat-sangat", "entropy": 0.0, "counts": {"sangat-sangat": 1}}
+{"raw": "bnr2", "replacement": "benar-benar", "entropy": 0.0, "counts": {"benar-benar": 2}}
+{"raw": "sbnernya", "replacement": "sebenarnya", "entropy": 0.0, "counts": {"sebenarnya": 1}}
+{"raw": "klen", "replacement": "kalian", "entropy": 0.0, "counts": {"kalian": 1}}
+{"raw": "sik", "replacement": "sih", "entropy": 0.0, "counts": {"sih": 1}}
+{"raw": "bahwasannya", "replacement": "bahwasanya", "entropy": 0.0, "counts": {"bahwasanya": 1}}
+{"raw": "menunjukan", "replacement": "menunjukkan", "entropy": 0.0, "counts": {"menunjukkan": 3}}
+{"raw": "digeneralisir", "replacement": "digeneralisasi", "entropy": 0.0, "counts": {"digeneralisasi": 1}}
+{"raw": "mikir", "replacement": "pikir", "entropy": 0.0, "counts": {"pikir": 3}}
+{"raw": "gaada", "replacement": "tidak ada", "entropy": 0.0, "counts": {"tidak ada": 1}}
+{"raw": "ilfil", "replacement": "ill feel", "entropy": 0.0, "counts": {"ill feel": 1}}
+{"raw": "tdnya", "replacement": "tadinya", "entropy": 0.0, "counts": {"tadinya": 1}}
+{"raw": "manusya2", "replacement": "manusia-manusia", "entropy": 0.0, "counts": {"manusia-manusia": 1}}
+{"raw": "males", "replacement": "malas", "entropy": 0.0, "counts": {"malas": 3}}
+{"raw": "seorg", "replacement": "seorang", "entropy": 0.0, "counts": {"seorang": 1}}
+{"raw": "sdh", "replacement": "sudah", "entropy": 0.0, "counts": {"sudah": 1}}
+{"raw": "sodara", "replacement": "saudara-saudara", "entropy": 1.360673760222241, "counts": {"saudara-saudara": 1, "": 1}}
+{"raw": "bikoooossss", "replacement": "because", "entropy": 0.0, "counts": {"because": 1}}
+{"raw": "hqq", "replacement": "hakiki", "entropy": 0.0, "counts": {"hakiki": 1}}
+{"raw": "givvvaaah", "replacement": "gibah", "entropy": 0.0, "counts": {"gibah": 1}}
+{"raw": "gicuuu", "replacement": "begitu", "entropy": 0.0, "counts": {"begitu": 1}}
+{"raw": "ebong", "replacement": "cebong", "entropy": 0.0, "counts": {"cebong": 1}}
+{"raw": "tetep", "replacement": "tetap", "entropy": 0.0, "counts": {"tetap": 6}}
+{"raw": "standup", "replacement": "stand up", "entropy": 0.0, "counts": {"stand up": 2}}
+{"raw": "let's", "replacement": "let us", "entropy": 0.0, "counts": {"let us": 3}}
+{"raw": "pesen", "replacement": "pesan", "entropy": 0.0, "counts": {"pesan": 2}}
+{"raw": "tibatiba", "replacement": "tiba-tiba", "entropy": 0.0, "counts": {"tiba-tiba": 1}}
+{"raw": "dhubungi", "replacement": "dihubungi", "entropy": 0.0, "counts": {"dihubungi": 1}}
+{"raw": "dambil", "replacement": "diambil", "entropy": 0.0, "counts": {"diambil": 1}}
+{"raw": "jerseynya", "replacement": "the jersey", "entropy": 0.0, "counts": {"the jersey": 1}}
+{"raw": "mlm", "replacement": "malam", "entropy": 0.0, "counts": {"malam": 2}}
+{"raw": "sukip", "replacement": "skip", "entropy": 0.0, "counts": {"skip": 1}}
+{"raw": "dlu", "replacement": "dulu", "entropy": 0.0, "counts": {"dulu": 1}}
+{"raw": "smpe", "replacement": "sampai", "entropy": 0.0, "counts": {"sampai": 1}}
+{"raw": "kgnn", "replacement": "kangen", "entropy": 0.0, "counts": {"kangen": 1}}
+{"raw": "goncengan", "replacement": "boncengan", "entropy": 0.0, "counts": {"boncengan": 1}}
+{"raw": "nentu", "replacement": "tentu", "entropy": 0.0, "counts": {"tentu": 1}}
+{"raw": "pinter2", "replacement": "pintar-pintar", "entropy": 0.0, "counts": {"pintar-pintar": 1}}
+{"raw": "mo", "replacement": "mau", "entropy": 0.0, "counts": {"mau": 1}}
+{"raw": "gausa", "replacement": "tidak usah", "entropy": 0.0, "counts": {"tidak usah": 1}}
+{"raw": "ultah", "replacement": "ulang tahun", "entropy": 0.0, "counts": {"ulang tahun": 4}}
+{"raw": "se-penting", "replacement": "sepenting", "entropy": 0.0, "counts": {"sepenting": 1}}
+{"raw": "nemuin", "replacement": "menemukan", "entropy": 0.0, "counts": {"menemukan": 1}}
+{"raw": "tsb", "replacement": "tersebut", "entropy": 0.0, "counts": {"tersebut": 3}}
+{"raw": "ciptain", "replacement": "ciptakan", "entropy": 0.0, "counts": {"ciptakan": 1}}
+{"raw": "teman2", "replacement": "teman-teman", "entropy": 0.0, "counts": {"teman-teman": 1}}
+{"raw": "transferan", "replacement": "transfer", "entropy": 0.0, "counts": {"transfer": 1}}
+{"raw": "nasabah", "replacement": "nasahab", "entropy": 0.0, "counts": {"nasahab": 1}}
+{"raw": "handphonenya", "replacement": "the handphone", "entropy": 0.0, "counts": {"the handphone": 1}}
+{"raw": "jadul", "replacement": "zaman dulu", "entropy": 0.0, "counts": {"zaman dulu": 1}}
+{"raw": "gengs", "replacement": "gangs", "entropy": 0.0, "counts": {"gangs": 1}}
+{"raw": "yah", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 2}}
+{"raw": "heres", "replacement": "here is", "entropy": 0.0, "counts": {"here is": 1}}
+{"raw": "heyy", "replacement": "hai", "entropy": 0.0, "counts": {"hai": 1}}
+{"raw": "kuattt", "replacement": "kuat", "entropy": 0.0, "counts": {"kuat": 1}}
+{"raw": "yukkk", "replacement": "yuk", "entropy": 0.0, "counts": {"yuk": 1}}
+{"raw": "perbaikin", "replacement": "perbaiki", "entropy": 0.0, "counts": {"perbaiki": 1}}
+{"raw": "direncanain", "replacement": "direncanakan", "entropy": 0.0, "counts": {"direncanakan": 1}}
+{"raw": "alesannya", "replacement": "alasannya", "entropy": 0.0, "counts": {"alasannya": 1}}
+{"raw": "dmku", "replacement": "direct message ku", "entropy": 0.0, "counts": {"direct message ku": 1}}
+{"raw": "smngt", "replacement": "semangat", "entropy": 0.0, "counts": {"semangat": 1}}
+{"raw": "ama", "replacement": "sama", "entropy": 0.0, "counts": {"sama": 6}}
+{"raw": "ngerasain", "replacement": "merasakan", "entropy": 0.0, "counts": {"merasakan": 2}}
+{"raw": "kedaftar", "replacement": "terdaftar", "entropy": 0.0, "counts": {"terdaftar": 1}}
+{"raw": "dnpsr", "replacement": "denpasar", "entropy": 0.0, "counts": {"denpasar": 1}}
+{"raw": "stlh", "replacement": "setelah", "entropy": 0.0, "counts": {"setelah": 1}}
+{"raw": "blio", "replacement": "beliau", "entropy": 0.0, "counts": {"beliau": 1}}
+{"raw": "sgr", "replacement": "segera", "entropy": 0.0, "counts": {"segera": 1}}
+{"raw": "sht", "replacement": "sehat", "entropy": 0.0, "counts": {"sehat": 1}}
+{"raw": "bathin", "replacement": "batin", "entropy": 0.0, "counts": {"batin": 1}}
+{"raw": "ksyngn", "replacement": "kesayangan", "entropy": 0.0, "counts": {"kesayangan": 1}}
+{"raw": "ummat", "replacement": "umat", "entropy": 0.0, "counts": {"umat": 1}}
+{"raw": "eror", "replacement": "error", "entropy": 1.360673760222241, "counts": {"error": 1, "eror": 1}}
+{"raw": "cuyyy", "replacement": "cuyy", "entropy": 0.0, "counts": {"cuyy": 1}}
+{"raw": "lamaa", "replacement": "lama", "entropy": 0.0, "counts": {"lama": 1}}
+{"raw": "grgr", "replacement": "gara-gara", "entropy": 0.0, "counts": {"gara-gara": 1}}
+{"raw": "gonna", "replacement": "going to", "entropy": 0.0, "counts": {"going to": 4}}
+{"raw": "niihh", "replacement": "nih", "entropy": 0.0, "counts": {"nih": 1}}
+{"raw": "vid", "replacement": "video", "entropy": 0.0, "counts": {"video": 1}}
+{"raw": "gini", "replacement": "begini", "entropy": 0.0, "counts": {"begini": 5}}
+{"raw": "ngak", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 1}}
+{"raw": "pdhal", "replacement": "padahal", "entropy": 0.0, "counts": {"padahal": 1}}
+{"raw": "ppl", "replacement": "people", "entropy": 0.0, "counts": {"people": 1}}
+{"raw": "nyebelin", "replacement": "menyebalkan", "entropy": 0.0, "counts": {"menyebalkan": 1}}
+{"raw": "gede", "replacement": "besar", "entropy": 0.0, "counts": {"besar": 1}}
+{"raw": "deket", "replacement": "dekat", "entropy": 0.0, "counts": {"dekat": 1}}
+{"raw": "temen2", "replacement": "teman-teman", "entropy": 0.0, "counts": {"teman-teman": 1}}
+{"raw": "ksh", "replacement": "kasih", "entropy": 0.0, "counts": {"kasih": 1}}
+{"raw": "tgg", "replacement": "tunggu", "entropy": 0.0, "counts": {"tunggu": 1}}
+{"raw": "sbntr", "replacement": "sebentar", "entropy": 0.0, "counts": {"sebentar": 1}}
+{"raw": "gpp", "replacement": "tidak apa-apa", "entropy": 0.0, "counts": {"tidak apa-apa": 2}}
+{"raw": "tht", "replacement": "that", "entropy": 0.0, "counts": {"that": 1}}
+{"raw": "bnyk", "replacement": "banyak", "entropy": 0.0, "counts": {"banyak": 3}}
+{"raw": "busuk2nya", "replacement": "busuk-busuknya", "entropy": 0.0, "counts": {"busuk-busuknya": 1}}
+{"raw": "cuman", "replacement": "cuma", "entropy": 0.0, "counts": {"cuma": 1}}
+{"raw": "dibales", "replacement": "dibalas", "entropy": 0.0, "counts": {"dibalas": 1}}
+{"raw": "bener", "replacement": "benar", "entropy": 0.0, "counts": {"benar": 2}}
+{"raw": "adl", "replacement": "adalah", "entropy": 0.0, "counts": {"adalah": 1}}
+{"raw": "tmn", "replacement": "teman", "entropy": 0.0, "counts": {"teman": 2}}
+{"raw": "jauh2", "replacement": "jauh-jauh", "entropy": 0.0, "counts": {"jauh-jauh": 1}}
+{"raw": "endingnya", "replacement": "the ending", "entropy": 0.0, "counts": {"the ending": 1}}
+{"raw": "omggggg", "replacement": "omgg", "entropy": 0.0, "counts": {"omgg": 1}}
+{"raw": "huhuuuuu", "replacement": "huhuu", "entropy": 0.0, "counts": {"huhuu": 1}}
+{"raw": "readyyyy", "replacement": "ready", "entropy": 0.0, "counts": {"ready": 1}}
+{"raw": "bwt", "replacement": "buat", "entropy": 0.0, "counts": {"buat": 1}}
+{"raw": "ajah", "replacement": "aja", "entropy": 0.0, "counts": {"aja": 1}}
+{"raw": "leptop", "replacement": "laptop", "entropy": 0.0, "counts": {"laptop": 1}}
+{"raw": "rmh", "replacement": "rumah", "entropy": 0.0, "counts": {"rumah": 1}}
+{"raw": "gda", "replacement": "tidak ada", "entropy": 0.0, "counts": {"tidak ada": 1}}
+{"raw": "gontok2an", "replacement": "gontok-gontokan", "entropy": 0.0, "counts": {"gontok-gontokan": 1}}
+{"raw": "jls", "replacement": "jelas", "entropy": 0.0, "counts": {"jelas": 1}}
+{"raw": "banyk", "replacement": "banyak", "entropy": 0.0, "counts": {"banyak": 1}}
+{"raw": "lgsng", "replacement": "langsung", "entropy": 0.0, "counts": {"langsung": 1}}
+{"raw": "bgst", "replacement": "bangsat", "entropy": 0.0, "counts": {"bangsat": 1}}
+{"raw": "akuuuuuuuuu", "replacement": "aku", "entropy": 0.0, "counts": {"aku": 1}}
+{"raw": "uwuuuu", "replacement": "uwuu", "entropy": 0.0, "counts": {"uwuu": 1}}
+{"raw": "standart", "replacement": "standard", "entropy": 0.0, "counts": {"standard": 1}}
+{"raw": "slalu", "replacement": "selalu", "entropy": 0.0, "counts": {"selalu": 1}}
+{"raw": "dasawarsas", "replacement": "dasawarsa", "entropy": 0.0, "counts": {"dasawarsa": 1}}
+{"raw": "responsibility-nya", "replacement": "the responsibility", "entropy": 0.0, "counts": {"the responsibility": 1}}
+{"raw": "ntahlah", "replacement": "entahlah", "entropy": 0.0, "counts": {"entahlah": 1}}
+{"raw": "dp", "replacement": "down payment", "entropy": 1.1587450075359835, "counts": {"dp": 1, "down payment": 2}}
+{"raw": "dlm", "replacement": "dalam", "entropy": 0.0, "counts": {"dalam": 1}}
+{"raw": "lipstick-nya", "replacement": "the lipstick", "entropy": 0.0, "counts": {"the lipstick": 1}}
+{"raw": "bat", "replacement": "sangat", "entropy": 0.0, "counts": {"sangat": 1}}
+{"raw": "seseneng", "replacement": "sesenang", "entropy": 0.0, "counts": {"sesenang": 1}}
+{"raw": "makasih", "replacement": "terima kasih", "entropy": 0.0, "counts": {"terima kasih": 2}}
+{"raw": "bokap", "replacement": "bapak", "entropy": 0.0, "counts": {"bapak": 1}}
+{"raw": "temennya", "replacement": "temannya", "entropy": 0.0, "counts": {"temannya": 1}}
+{"raw": "luv", "replacement": "love", "entropy": 0.0, "counts": {"love": 1}}
+{"raw": "sblm", "replacement": "sebelum", "entropy": 0.0, "counts": {"sebelum": 1}}
+{"raw": "wanna", "replacement": "want to", "entropy": 0.0, "counts": {"want to": 1}}
+{"raw": "ngikutin", "replacement": "mengikuti", "entropy": 0.0, "counts": {"mengikuti": 1}}
+{"raw": "hv", "replacement": "have", "entropy": 0.0, "counts": {"have": 1}}
+{"raw": "u're", "replacement": "you are", "entropy": 0.0, "counts": {"you are": 1}}
+{"raw": "guenya", "replacement": "sayanya", "entropy": 0.0, "counts": {"sayanya": 1}}
+{"raw": "temannku", "replacement": "temanku", "entropy": 0.0, "counts": {"temanku": 1}}
+{"raw": "kemaren", "replacement": "kemarin", "entropy": 0.0, "counts": {"kemarin": 3}}
+{"raw": "pleassssseeeeeee", "replacement": "please", "entropy": 0.0, "counts": {"please": 1}}
+{"raw": "moviesnya", "replacement": "the movies", "entropy": 0.0, "counts": {"the movies": 1}}
+{"raw": "tindaklanjuti", "replacement": "menindaklanjuti", "entropy": 0.0, "counts": {"menindaklanjuti": 1}}
+{"raw": "engan", "replacement": "dengan", "entropy": 0.0, "counts": {"dengan": 1}}
+{"raw": "refrence", "replacement": "reference", "entropy": 0.0, "counts": {"reference": 1}}
+{"raw": "tanyain", "replacement": "tanya", "entropy": 0.0, "counts": {"tanya": 1}}
+{"raw": "gamau", "replacement": "tidak mau", "entropy": 0.0, "counts": {"tidak mau": 1}}
+{"raw": "ngebahas", "replacement": "membahas", "entropy": 0.0, "counts": {"membahas": 1}}
+{"raw": "yaah", "replacement": "yah", "entropy": 0.0, "counts": {"yah": 1}}
+{"raw": "tepar", "replacement": "teler", "entropy": 0.0, "counts": {"teler": 1}}
+{"raw": "kaak", "replacement": "kak", "entropy": 0.0, "counts": {"kak": 1}}
+{"raw": "fams", "replacement": "families", "entropy": 0.0, "counts": {"families": 1}}
+{"raw": "iu", "replacement": "ui", "entropy": 0.0, "counts": {"ui": 1}}
+{"raw": "ostnya", "replacement": "the ost", "entropy": 0.0, "counts": {"the ost": 1}}
+{"raw": "ngena", "replacement": "kena", "entropy": 0.0, "counts": {"kena": 1}}
+{"raw": "mba", "replacement": "mbak", "entropy": 0.0, "counts": {"mbak": 4}}
+{"raw": "heelsnya", "replacement": "heels", "entropy": 0.0, "counts": {"heels": 1}}
+{"raw": "ngantri", "replacement": "mengantri", "entropy": 0.0, "counts": {"mengantri": 1}}
+{"raw": "nyicil", "replacement": "cicil", "entropy": 0.0, "counts": {"cicil": 1}}
+{"raw": "affraid", "replacement": "afraid", "entropy": 0.0, "counts": {"afraid": 2}}
+{"raw": "maenan", "replacement": "mainan", "entropy": 0.0, "counts": {"mainan": 1}}
+{"raw": "cideng.", "replacement": "cideng", "entropy": 0.0, "counts": {"cideng": 1}}
+{"raw": "bilangin", "replacement": "bilang", "entropy": 0.0, "counts": {"bilang": 1}}
+{"raw": "ngerasa", "replacement": "merasa", "entropy": 0.0, "counts": {"merasa": 2}}
+{"raw": "temenin", "replacement": "menemani", "entropy": 0.0, "counts": {"menemani": 1}}
+{"raw": "masing", "replacement": "masing-masing", "entropy": 1.360673760222241, "counts": {"masing-masing": 1, "": 1}}
+{"raw": "fontnya", "replacement": "the font", "entropy": 0.0, "counts": {"the font": 1}}
+{"raw": "ma", "replacement": "sama", "entropy": 0.0, "counts": {"sama": 2}}
+{"raw": "yahhhhh", "replacement": "yah", "entropy": 0.0, "counts": {"yah": 1}}
+{"raw": "manggilnya", "replacement": "panggilnya", "entropy": 0.0, "counts": {"panggilnya": 1}}
+{"raw": "koentji", "replacement": "kunci", "entropy": 0.0, "counts": {"kunci": 1}}
+{"raw": "tlpnan", "replacement": "telfonan", "entropy": 0.0, "counts": {"telfonan": 1}}
+{"raw": "thinga", "replacement": "thing", "entropy": 0.0, "counts": {"thing": 1}}
+{"raw": "doesn't", "replacement": "does not", "entropy": 0.0, "counts": {"does not": 2}}
+{"raw": "previewnya", "replacement": "the preview", "entropy": 0.0, "counts": {"the preview": 1}}
+{"raw": "dunno", "replacement": "do not know", "entropy": 0.0, "counts": {"do not know": 2}}
+{"raw": "yng", "replacement": "yang", "entropy": 0.0, "counts": {"yang": 1}}
+{"raw": "jkowi", "replacement": "jokowi", "entropy": 0.0, "counts": {"jokowi": 1}}
+{"raw": "coz", "replacement": "cause", "entropy": 0.0, "counts": {"cause": 2}}
+{"raw": "jkw", "replacement": "jokowi", "entropy": 0.0, "counts": {"jokowi": 2}}
+{"raw": "mendkg", "replacement": "mendukung", "entropy": 0.0, "counts": {"mendukung": 1}}
+{"raw": "creatif", "replacement": "creative", "entropy": 0.0, "counts": {"creative": 1}}
+{"raw": "ndukung", "replacement": "mendukung", "entropy": 0.0, "counts": {"mendukung": 1}}
+{"raw": "lbih", "replacement": "lebih", "entropy": 0.0, "counts": {"lebih": 1}}
+{"raw": "sbg", "replacement": "sebagai", "entropy": 0.0, "counts": {"sebagai": 1}}
+{"raw": "bln", "replacement": "bulan", "entropy": 0.0, "counts": {"bulan": 1}}
+{"raw": "dihancurin", "replacement": "dihancuri", "entropy": 0.0, "counts": {"dihancuri": 1}}
+{"raw": "cape", "replacement": "lelah", "entropy": 0.0, "counts": {"lelah": 1}}
+{"raw": "bener2", "replacement": "benar-benar", "entropy": 0.0, "counts": {"benar-benar": 1}}
+{"raw": "keliatannya", "replacement": "kelihatannya", "entropy": 0.0, "counts": {"kelihatannya": 1}}
+{"raw": "doaang", "replacement": "saja", "entropy": 0.0, "counts": {"saja": 1}}
+{"raw": "mao", "replacement": "mau", "entropy": 0.0, "counts": {"mau": 1}}
+{"raw": "teteup", "replacement": "tetap", "entropy": 0.0, "counts": {"tetap": 1}}
+{"raw": "haduh", "replacement": "aduh", "entropy": 0.0, "counts": {"aduh": 1}}
+{"raw": "nomer", "replacement": "nomor", "entropy": 0.0, "counts": {"nomor": 1}}
+{"raw": "salahin", "replacement": "salahkan", "entropy": 0.0, "counts": {"salahkan": 1}}
+{"raw": "kalian2", "replacement": "kalian-kalian", "entropy": 0.0, "counts": {"kalian-kalian": 1}}
+{"raw": "teck", "replacement": "tech", "entropy": 0.0, "counts": {"tech": 1}}
+{"raw": "hiphop", "replacement": "hip hop", "entropy": 0.0, "counts": {"hip hop": 1}}
+{"raw": "oon", "replacement": "bodoh", "entropy": 0.0, "counts": {"bodoh": 1}}
+{"raw": "iyu", "replacement": "itu", "entropy": 0.0, "counts": {"itu": 1}}
+{"raw": "karrna", "replacement": "karena", "entropy": 0.0, "counts": {"karena": 1}}
+{"raw": "klu", "replacement": "kalau", "entropy": 0.0, "counts": {"kalau": 1}}
+{"raw": "we're", "replacement": "we are", "entropy": 0.0, "counts": {"we are": 1}}
+{"raw": "nongkrong", "replacement": "bergaul", "entropy": 0.0, "counts": {"bergaul": 1}}
+{"raw": "nyeritain", "replacement": "ceritakan", "entropy": 0.0, "counts": {"ceritakan": 1}}
+{"raw": "atua", "replacement": "atau", "entropy": 0.0, "counts": {"atau": 1}}
+{"raw": "booth", "replacement": "both", "entropy": 0.0, "counts": {"both": 1}}
+{"raw": "cuyyyy", "replacement": "cuyy", "entropy": 0.0, "counts": {"cuyy": 1}}
+{"raw": "duhhh", "replacement": "duh", "entropy": 0.0, "counts": {"duh": 1}}
+{"raw": "nyentrik", "replacement": "eksentrik", "entropy": 0.0, "counts": {"eksentrik": 1}}
+{"raw": "bgini", "replacement": "begini", "entropy": 0.0, "counts": {"begini": 1}}
+{"raw": "cem", "replacement": "macam", "entropy": 0.0, "counts": {"macam": 1}}
+{"raw": "taun", "replacement": "tahun", "entropy": 0.0, "counts": {"tahun": 1}}
+{"raw": "ganas", "replacement": "ganas-ganas", "entropy": 1.360673760222241, "counts": {"ganas-ganas": 1, "": 1}}
+{"raw": "segak", "replacement": "setidak", "entropy": 0.0, "counts": {"setidak": 1}}
+{"raw": "lainn", "replacement": "lain", "entropy": 0.0, "counts": {"lain": 1}}
+{"raw": "disediain", "replacement": "disediakan", "entropy": 0.0, "counts": {"disediakan": 1}}
+{"raw": "mksdnya", "replacement": "maksudnya", "entropy": 0.0, "counts": {"maksudnya": 1}}
+{"raw": "emak2", "replacement": "emak-emak", "entropy": 0.0, "counts": {"emak-emak": 1}}
+{"raw": "diemin", "replacement": "diamkan", "entropy": 0.0, "counts": {"diamkan": 1}}
+{"raw": "saking", "replacement": "sangat", "entropy": 0.0, "counts": {"sangat": 1}}
+{"raw": "nyerinya", "replacement": "nyeri", "entropy": 0.0, "counts": {"nyeri": 1}}
+{"raw": "lakuin", "replacement": "lakukan", "entropy": 0.0, "counts": {"lakukan": 1}}
+{"raw": "ptg", "replacement": "penting", "entropy": 0.0, "counts": {"penting": 1}}
+{"raw": "pagi2", "replacement": "pagi-pagi", "entropy": 0.0, "counts": {"pagi-pagi": 1}}
+{"raw": "alesan", "replacement": "alasan", "entropy": 0.0, "counts": {"alasan": 1}}
+{"raw": "pen", "replacement": "pingin", "entropy": 0.0, "counts": {"pingin": 1}}
+{"raw": "ruqyah", "replacement": "rukiah", "entropy": 0.0, "counts": {"rukiah": 1}}
+{"raw": "kedonlod", "replacement": "download", "entropy": 0.0, "counts": {"download": 1}}
+{"raw": "rekomemdasi", "replacement": "rekomendasi", "entropy": 0.0, "counts": {"rekomendasi": 1}}
+{"raw": "ijin", "replacement": "izin", "entropy": 0.0, "counts": {"izin": 1}}
+{"raw": "bamgsa", "replacement": "bangsa", "entropy": 0.0, "counts": {"bangsa": 1}}
+{"raw": "lebihin", "replacement": "melebihi", "entropy": 0.0, "counts": {"melebihi": 1}}
+{"raw": "bole", "replacement": "boleh", "entropy": 0.0, "counts": {"boleh": 1}}
+{"raw": "malu2in", "replacement": "malu-maluin", "entropy": 0.0, "counts": {"malu-maluin": 1}}
+{"raw": "ngeh", "replacement": "sadar", "entropy": 0.0, "counts": {"sadar": 1}}
+{"raw": "aje", "replacement": "saja", "entropy": 0.0, "counts": {"saja": 1}}
+{"raw": "gemesin", "replacement": "menggemeskan", "entropy": 0.0, "counts": {"menggemeskan": 1}}
+{"raw": "tdr", "replacement": "tidur", "entropy": 0.0, "counts": {"tidur": 1}}
+{"raw": "notif", "replacement": "notifikasi", "entropy": 0.0, "counts": {"notifikasi": 1}}
+{"raw": "noooooo", "replacement": "no", "entropy": 0.0, "counts": {"no": 1}}
+{"raw": "sedihhhhh", "replacement": "sedih", "entropy": 0.0, "counts": {"sedih": 1}}
+{"raw": "huaaaaa", "replacement": "huaa", "entropy": 0.0, "counts": {"huaa": 1}}
+{"raw": "manusi", "replacement": "manusia", "entropy": 0.0, "counts": {"manusia": 1}}
+{"raw": "juka", "replacement": "juga", "entropy": 0.0, "counts": {"juga": 1}}
+{"raw": "besar2nya", "replacement": "besar-besarnya", "entropy": 0.0, "counts": {"besar-besarnya": 1}}
+{"raw": "ngetutup", "replacement": "menutup", "entropy": 0.0, "counts": {"menutup": 1}}
+{"raw": "ud", "replacement": "sudah", "entropy": 0.0, "counts": {"sudah": 3}}
+{"raw": "dilicinin", "replacement": "dilicinkan", "entropy": 0.0, "counts": {"dilicinkan": 1}}
+{"raw": "puanas", "replacement": "panas", "entropy": 0.0, "counts": {"panas": 1}}
+{"raw": "mkanya", "replacement": "makanya", "entropy": 0.0, "counts": {"makanya": 1}}
+{"raw": "dibwa", "replacement": "dibawa", "entropy": 0.0, "counts": {"dibawa": 1}}
+{"raw": "pemboran", "replacement": "pengeboran", "entropy": 0.0, "counts": {"pengeboran": 1}}
+{"raw": "muter-muter", "replacement": "berputar-putar", "entropy": 0.0, "counts": {"berputar-putar": 1}}
+{"raw": "denger", "replacement": "dengar", "entropy": 0.0, "counts": {"dengar": 1}}
+{"raw": "dilebih\"kan", "replacement": "dilebih-lebihkan", "entropy": 0.0, "counts": {"dilebih-lebihkan": 1}}
+{"raw": "diedit", "replacement": "edit", "entropy": 0.0, "counts": {"edit": 1}}
+{"raw": "manjur", "replacement": "sangat", "entropy": 0.0, "counts": {"sangat": 1}}
+{"raw": "ketawa", "replacement": "tertawa", "entropy": 0.0, "counts": {"tertawa": 1}}
+{"raw": "nurunin", "replacement": "turunkan", "entropy": 0.0, "counts": {"turunkan": 1}}
+{"raw": "kzl", "replacement": "kesal", "entropy": 0.0, "counts": {"kesal": 1}}
+{"raw": "isi2", "replacement": "isi-isi", "entropy": 0.0, "counts": {"isi-isi": 1}}
+{"raw": "didevelope", "replacement": "develope", "entropy": 0.0, "counts": {"develope": 1}}
+{"raw": "goblog", "replacement": "goblok", "entropy": 0.0, "counts": {"goblok": 1}}
+{"raw": "dy", "replacement": "dia", "entropy": 0.0, "counts": {"dia": 1}}
+{"raw": "dat", "replacement": "that", "entropy": 0.0, "counts": {"that": 1}}
+{"raw": "appun", "replacement": "apapun", "entropy": 0.0, "counts": {"apapun": 1}}
+{"raw": "paniju", "replacement": "paniju-paniju", "entropy": 1.360673760222241, "counts": {"paniju-paniju": 1, "": 1}}
+{"raw": "nahan", "replacement": "tahan", "entropy": 0.0, "counts": {"tahan": 1}}
+{"raw": "ato", "replacement": "atau", "entropy": 0.0, "counts": {"atau": 1}}
+{"raw": "pollitics", "replacement": "politics", "entropy": 0.0, "counts": {"politics": 1}}
+{"raw": "apus", "replacement": "hapus", "entropy": 0.0, "counts": {"hapus": 2}}
+{"raw": "pendem", "replacement": "pendam", "entropy": 0.0, "counts": {"pendam": 1}}
+{"raw": "hbungan", "replacement": "hubungan", "entropy": 0.0, "counts": {"hubungan": 1}}
+{"raw": "baikan", "replacement": "membaik", "entropy": 0.0, "counts": {"membaik": 1}}
+{"raw": "sperti", "replacement": "seperti", "entropy": 0.0, "counts": {"seperti": 1}}
+{"raw": "becandain", "replacement": "candakan", "entropy": 0.0, "counts": {"candakan": 1}}
+{"raw": "jkt", "replacement": "jakarta", "entropy": 0.0, "counts": {"jakarta": 1}}
+{"raw": "guling2", "replacement": "guling-guling", "entropy": 0.0, "counts": {"guling-guling": 1}}
+{"raw": "mnrtku", "replacement": "menurutku", "entropy": 0.0, "counts": {"menurutku": 1}}
+{"raw": "temenku", "replacement": "temanku", "entropy": 0.0, "counts": {"temanku": 1}}
+{"raw": "scr", "replacement": "secara", "entropy": 0.0, "counts": {"secara": 1}}
+{"raw": "yu", "replacement": "yuk", "entropy": 0.0, "counts": {"yuk": 1}}
+{"raw": "jaksel", "replacement": "jakarta selatan", "entropy": 0.0, "counts": {"jakarta selatan": 1}}
+{"raw": "yawww", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 1}}
+{"raw": "bo", "replacement": "booking", "entropy": 0.0, "counts": {"booking": 1}}
+{"raw": "lngsng", "replacement": "langsung", "entropy": 0.0, "counts": {"langsung": 1}}
+{"raw": "bsk", "replacement": "besok", "entropy": 0.0, "counts": {"besok": 1}}
+{"raw": "jaktim", "replacement": "jakarta timur", "entropy": 0.0, "counts": {"jakarta timur": 1}}
+{"raw": "yaw", "replacement": "ya", "entropy": 0.0, "counts": {"ya": 1}}
+{"raw": "dirasain", "replacement": "dirasakan", "entropy": 0.0, "counts": {"dirasakan": 1}}
+{"raw": "berbulan", "replacement": "berbulan-bulan", "entropy": 0.0, "counts": {"berbulan-bulan": 1}}
+{"raw": "profile-nya", "replacement": "the profile", "entropy": 0.0, "counts": {"the profile": 1}}
+{"raw": "tradisonal", "replacement": "tradisional", "entropy": 0.0, "counts": {"tradisional": 1}}
+{"raw": "aaakkk", "replacement": "aakk", "entropy": 0.0, "counts": {"aakk": 1}}
+{"raw": "youuuuu", "replacement": "you", "entropy": 0.0, "counts": {"you": 1}}
+{"raw": "bosqu", "replacement": "bosku", "entropy": 0.0, "counts": {"bosku": 1}}
+{"raw": "tydac", "replacement": "tidak", "entropy": 0.0, "counts": {"tidak": 1}}
+{"raw": "jt", "replacement": "juta", "entropy": 0.0, "counts": {"juta": 1}}
+{"raw": "ngerubah", "replacement": "merubah", "entropy": 0.0, "counts": {"merubah": 1}}
+{"raw": "elu", "replacement": "kamu", "entropy": 0.0, "counts": {"kamu": 2}}
+{"raw": "tadiny", "replacement": "tadinya", "entropy": 0.0, "counts": {"tadinya": 1}}
+{"raw": "mu", "replacement": "mau", "entropy": 0.0, "counts": {"mau": 1}}
+{"raw": "mendung2nya", "replacement": "mendung-mendungnya", "entropy": 0.0, "counts": {"mendung-mendungnya": 1}}
+{"raw": "milih", "replacement": "memilih", "entropy": 0.0, "counts": {"memilih": 1}}
+{"raw": "antre", "replacement": "antri", "entropy": 0.0, "counts": {"antri": 1}}
+{"raw": "kurleb", "replacement": "kurang lebih", "entropy": 0.0, "counts": {"kurang lebih": 1}}
+{"raw": "donut", "replacement": "donat", "entropy": 0.0, "counts": {"donat": 1}}
+{"raw": "doughtnut", "replacement": "doughnut", "entropy": 0.0, "counts": {"doughnut": 1}}
+{"raw": "tu", "replacement": "itu", "entropy": 0.0, "counts": {"itu": 2}}
+{"raw": "nahh", "replacement": "no", "entropy": 0.0, "counts": {"no": 1}}
+{"raw": "dorang", "replacement": "oorang", "entropy": 0.0, "counts": {"oorang": 1}}
+{"raw": "mcm", "replacement": "macam", "entropy": 0.0, "counts": {"macam": 1}}
+{"raw": "kite", "replacement": "kita", "entropy": 0.0, "counts": {"kita": 1}}
+{"raw": "kemana2", "replacement": "kemana-mana", "entropy": 0.0, "counts": {"kemana-mana": 1}}
+{"raw": "abs", "replacement": "habis", "entropy": 0.0, "counts": {"habis": 1}}
+{"raw": "fakta2", "replacement": "fakta-fakta", "entropy": 0.0, "counts": {"fakta-fakta": 1}}
+{"raw": "dibawain", "replacement": "dibawakan", "entropy": 0.0, "counts": {"dibawakan": 1}}
+{"raw": "tuneeed", "replacement": "tuned", "entropy": 0.0, "counts": {"tuned": 1}}
+{"raw": "tiba2", "replacement": "tiba-tiba", "entropy": 0.0, "counts": {"tiba-tiba": 1}}
+{"raw": "buru2", "replacement": "buru-buru", "entropy": 0.0, "counts": {"buru-buru": 1}}
+{"raw": "tambahin", "replacement": "tambahkan", "entropy": 0.0, "counts": {"tambahkan": 1}}
+{"raw": "becus", "replacement": "mampu", "entropy": 0.0, "counts": {"mampu": 1}}
+{"raw": "strenght", "replacement": "strength", "entropy": 0.0, "counts": {"strength": 1}}
+{"raw": "muda", "replacement": "mudah", "entropy": 0.0, "counts": {"mudah": 1}}
+{"raw": "anw", "replacement": "anyway", "entropy": 0.0, "counts": {"anyway": 1}}
+{"raw": "hows", "replacement": "how is", "entropy": 0.0, "counts": {"how is": 1}}
+{"raw": "adenya", "replacement": "adiknya", "entropy": 0.0, "counts": {"adiknya": 1}}
+{"raw": "kykny", "replacement": "kayaknya", "entropy": 0.0, "counts": {"kayaknya": 1}}
+{"raw": "kdg", "replacement": "kadang", "entropy": 0.0, "counts": {"kadang": 1}}
+{"raw": "ver", "replacement": "version", "entropy": 0.0, "counts": {"version": 1}}
+{"raw": "ong", "replacement": "ongkos kirim", "entropy": 0.0, "counts": {"ongkos kirim": 1}}
+{"raw": "nego", "replacement": "negosiasi", "entropy": 0.0, "counts": {"negosiasi": 1}}
+{"raw": "vit", "replacement": "vitamin", "entropy": 0.0, "counts": {"vitamin": 2}}
+{"raw": "teksture", "replacement": "tekstur", "entropy": 0.0, "counts": {"tekstur": 1}}
+{"raw": "kompre", "replacement": "komprehensif", "entropy": 0.0, "counts": {"komprehensif": 1}}
+{"raw": "nyusun", "replacement": "menyusun", "entropy": 0.0, "counts": {"menyusun": 1}}
+{"raw": "you'll", "replacement": "you will", "entropy": 0.0, "counts": {"you will": 1}}
+{"raw": "de", "replacement": "the", "entropy": 0.0, "counts": {"the": 1}}
+{"raw": "rill", "replacement": "real", "entropy": 0.0, "counts": {"real": 1}}
+{"raw": "marahin", "replacement": "marahi", "entropy": 0.0, "counts": {"marahi": 1}}
+{"raw": "ninggalin", "replacement": "meninggalkan", "entropy": 0.0, "counts": {"meninggalkan": 1}}
+{"raw": "bisaa", "replacement": "bisa", "entropy": 0.0, "counts": {"bisa": 2}}
+{"raw": "dibeliin", "replacement": "dibelikan", "entropy": 0.0, "counts": {"dibelikan": 1}}
+{"raw": "buruu", "replacement": "buru", "entropy": 0.0, "counts": {"buru": 1}}
+{"raw": "ane", "replacement": "saya", "entropy": 0.0, "counts": {"saya": 1}}
+{"raw": "laaah", "replacement": "lah", "entropy": 0.0, "counts": {"lah": 1}}
+{"raw": "kmn2", "replacement": "kemana-mana", "entropy": 0.0, "counts": {"kemana-mana": 1}}
+{"raw": "smp", "replacement": "sampai", "entropy": 0.0, "counts": {"sampai": 1}}
+{"raw": "apa2", "replacement": "apa-apa", "entropy": 0.0, "counts": {"apa-apa": 1}}
+{"raw": "gbs", "replacement": "tidak bisa", "entropy": 0.0, "counts": {"tidak bisa": 1}}
+{"raw": "ngatur", "replacement": "mengatur", "entropy": 0.0, "counts": {"mengatur": 1}}
+{"raw": "deat", "replacement": "dear", "entropy": 0.0, "counts": {"dear": 1}}
+{"raw": "mager", "replacement": "malas gerak", "entropy": 0.0, "counts": {"malas gerak": 1}}

@@ -1,0 +1,679 @@
+{"raw": "개꿀딱", "replacement": "너무좋다", "entropy": 0.0, "counts": {"너무좋다": 1}}
+{"raw": "조센징", "replacement": "한국인", "entropy": 1.1587450075359835, "counts": {"한국인": 2, "조센징": 1}}
+{"raw": "ㄹㅇ", "replacement": "진짜", "entropy": 0.0, "counts": {"진짜": 26}}
+{"raw": "병신들", "replacement": "바보들", "entropy": 0.0, "counts": {"바보들": 3}}
+{"raw": "짱깨들이", "replacement": "중국인들이", "entropy": 0.0, "counts": {"중국인들이": 1}}
+{"raw": "놈", "replacement": "사람", "entropy": 0.9661702143444141, "counts": {"사람": 5, "친구": 2}}
+{"raw": "ㅄ", "replacement": "바보", "entropy": 0.0, "counts": {"바보": 1}}
+{"raw": "간첩새끼들", "replacement": "간첩친구들", "entropy": 0.0, "counts": {"간첩친구들": 1}}
+{"raw": "짭새", "replacement": "경찰", "entropy": 0.0, "counts": {"경찰": 1}}
+{"raw": "모솔찐따들", "replacement": "연애 경험이 적은 사람들", "entropy": 0.0, "counts": {"연애 경험이 적은 사람들": 1}}
+{"raw": "개잼", "replacement": "너무 재밌다", "entropy": 0.0, "counts": {"너무 재밌다": 1}}
+{"raw": "틀딱", "replacement": "어르신", "entropy": 1.1803368801111205, "counts": {"어르신": 2, "틀딱": 2}}
+{"raw": "똥꼬충들", "replacement": "게이들", "entropy": 0.0, "counts": {"게이들": 1}}
+{"raw": "욕하고", "replacement": "말하고", "entropy": 0.0, "counts": {"말하고": 1}}
+{"raw": "개막장으로", "replacement": "혼란으로", "entropy": 0.0, "counts": {"혼란으로": 1}}
+{"raw": "잘생긴새끼야", "replacement": "잘생긴친구야", "entropy": 0.0, "counts": {"잘생긴친구야": 1}}
+{"raw": "퉁퉁", "replacement": "부풀어 오른", "entropy": 0.0, "counts": {"부풀어 오른": 1}}
+{"raw": "시발", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 25}}
+{"raw": "개답없음", "replacement": "매우답없음", "entropy": 0.0, "counts": {"매우답없음": 1}}
+{"raw": "씹덕후들", "replacement": "오타쿠들", "entropy": 0.0, "counts": {"오타쿠들": 1}}
+{"raw": "뚱돼지", "replacement": "통통한 돼지", "entropy": 0.0, "counts": {"통통한 돼지": 1}}
+{"raw": "개딸들", "replacement": "딸들", "entropy": 0.0, "counts": {"딸들": 1}}
+{"raw": "덕", "replacement": "혜택", "entropy": 0.0, "counts": {"혜택": 1}}
+{"raw": "ㄳ", "replacement": "감사합니다", "entropy": 0.0, "counts": {"감사합니다": 1}}
+{"raw": "실시간여시", "replacement": "실시간 여성", "entropy": 0.0, "counts": {"실시간 여성": 1}}
+{"raw": "ㅎㅇ", "replacement": "안녕하세요", "entropy": 0.0, "counts": {"안녕하세요": 1}}
+{"raw": "엠창", "replacement": "사이", "entropy": 0.0, "counts": {"사이": 1}}
+{"raw": "이년들", "replacement": "사람들", "entropy": 0.0, "counts": {"사람들": 1}}
+{"raw": "기자새끼들", "replacement": "기자친구들", "entropy": 0.0, "counts": {"기자친구들": 1}}
+{"raw": "븅신같이", "replacement": "어리석게", "entropy": 0.0, "counts": {"어리석게": 1}}
+{"raw": "쳐맞아서", "replacement": "맞아서", "entropy": 0.0, "counts": {"맞아서": 1}}
+{"raw": "짱깨", "replacement": "중국", "entropy": 0.0, "counts": {"중국": 5}}
+{"raw": "짱깨타령", "replacement": "중국타령", "entropy": 0.0, "counts": {"중국타령": 1}}
+{"raw": "니새끼", "replacement": "너", "entropy": 1.360673760222241, "counts": {"너": 1, "니새끼": 1}}
+{"raw": "자영업충들", "replacement": "자영업자들", "entropy": 0.0, "counts": {"자영업자들": 1}}
+{"raw": "쳐맞아야하는", "replacement": "대처해야하는", "entropy": 0.0, "counts": {"대처해야하는": 1}}
+{"raw": "뒤지겠다고", "replacement": "끝내겠다고", "entropy": 0.0, "counts": {"끝내겠다고": 1}}
+{"raw": "지랄할땐", "replacement": "소란할 때", "entropy": 0.0, "counts": {"소란할 때": 1}}
+{"raw": "빈새끼들", "replacement": "빈친구들", "entropy": 0.0, "counts": {"빈친구들": 1}}
+{"raw": "새끼들", "replacement": "친구들", "entropy": 0.0, "counts": {"친구들": 12}}
+{"raw": "개ㅈ문가", "replacement": "전문가", "entropy": 0.0, "counts": {"전문가": 1}}
+{"raw": "탕진할", "replacement": "소비할", "entropy": 0.0, "counts": {"소비할": 1}}
+{"raw": "애새끼들", "replacement": "아이들", "entropy": 0.0, "counts": {"아이들": 1}}
+{"raw": "흡연충", "replacement": "흡연자", "entropy": 0.0, "counts": {"흡연자": 1}}
+{"raw": "고닉완장들", "replacement": "고닉 사용자들", "entropy": 0.0, "counts": {"고닉 사용자들": 1}}
+{"raw": "쳐막고", "replacement": "막고", "entropy": 0.0, "counts": {"막고": 1}}
+{"raw": "인민재판중", "replacement": "공정한 재판 중", "entropy": 0.0, "counts": {"공정한 재판 중": 1}}
+{"raw": "지랄할때있는데", "replacement": "행동할 때가 있는데", "entropy": 0.0, "counts": {"행동할 때가 있는데": 1}}
+{"raw": "정신장애새끼들은", "replacement": "정신적 어려움을 겪는 사람들은", "entropy": 0.0, "counts": {"정신적 어려움을 겪는 사람들은": 1}}
+{"raw": "쌔게해라", "replacement": "강하게 해라", "entropy": 0.0, "counts": {"강하게 해라": 1}}
+{"raw": "급식충", "replacement": "급식먹는 학생", "entropy": 0.0, "counts": {"급식먹는 학생": 1}}
+{"raw": "가비지타임", "replacement": "쓰레기 시간", "entropy": 0.0, "counts": {"쓰레기 시간": 1}}
+{"raw": "살인마들", "replacement": "범죄자들", "entropy": 0.0, "counts": {"범죄자들": 1}}
+{"raw": "먹을려고", "replacement": "먹으려고", "entropy": 0.0, "counts": {"먹으려고": 1}}
+{"raw": "존잘", "replacement": "매우 잘생겼다", "entropy": 2.065860847684144, "counts": {"매우 잘생겼다": 1, "존잘": 1, "매우잘생겼다": 1}}
+{"raw": "새끼랑", "replacement": "친구랑", "entropy": 0.0, "counts": {"친구랑": 1}}
+{"raw": "새끼한테", "replacement": "친구한테", "entropy": 0.0, "counts": {"친구한테": 1}}
+{"raw": "좆같은거", "replacement": "이상한거", "entropy": 0.0, "counts": {"이상한거": 1}}
+{"raw": "없ㅅ음", "replacement": "없음", "entropy": 0.0, "counts": {"없음": 1}}
+{"raw": "윗놈들", "replacement": "상급자들", "entropy": 0.0, "counts": {"상급자들": 1}}
+{"raw": "병신새낀가", "replacement": "바보인가", "entropy": 0.0, "counts": {"바보인가": 1}}
+{"raw": "피떡될때까지", "replacement": "끝까지", "entropy": 0.0, "counts": {"끝까지": 1}}
+{"raw": "ㅇㅈㄹ하는데", "replacement": "이행동하는데", "entropy": 0.0, "counts": {"이행동하는데": 2}}
+{"raw": "올려치기야", "replacement": "상승시키기야", "entropy": 0.0, "counts": {"상승시키기야": 1}}
+{"raw": "영화같노", "replacement": "영화같다", "entropy": 0.0, "counts": {"영화같다": 1}}
+{"raw": "개줌마년들아", "replacement": "여성분들", "entropy": 0.0, "counts": {"여성분들": 1}}
+{"raw": "ㅈ망", "replacement": "망했다", "entropy": 0.0, "counts": {"망했다": 1}}
+{"raw": "스시녀", "replacement": "일본여자", "entropy": 1.360673760222241, "counts": {"일본여자": 1, "스시녀": 1}}
+{"raw": "아진짜", "replacement": "정말", "entropy": 0.0, "counts": {"정말": 1}}
+{"raw": "맴찢일듯", "replacement": "슬픈 것 같아", "entropy": 0.0, "counts": {"슬픈 것 같아": 1}}
+{"raw": "개씹창나고서도", "replacement": "어렵고 힘든 상황에서도", "entropy": 0.0, "counts": {"어렵고 힘든 상황에서도": 1}}
+{"raw": "폐지", "replacement": "종이", "entropy": 0.0, "counts": {"종이": 1}}
+{"raw": "현기차", "replacement": "현대차", "entropy": 1.360673760222241, "counts": {"현대차": 1, "현기차": 1}}
+{"raw": "똥칡", "replacement": "식물", "entropy": 0.0, "counts": {"식물": 1}}
+{"raw": "병신", "replacement": "바보", "entropy": 0.6337328832551566, "counts": {"바보": 7, "병신": 1}}
+{"raw": "개잘생겼노", "replacement": "매우잘생겼다", "entropy": 0.0, "counts": {"매우잘생겼다": 1}}
+{"raw": "뭐래", "replacement": "무엇이라고", "entropy": 0.0, "counts": {"무엇이라고": 1}}
+{"raw": "꼴리노", "replacement": "좋다", "entropy": 0.0, "counts": {"좋다": 1}}
+{"raw": "비추수", "replacement": "비추천수", "entropy": 0.0, "counts": {"비추천수": 1}}
+{"raw": "쿵쾅이년들", "replacement": "뚱뚱한여자들", "entropy": 0.0, "counts": {"뚱뚱한여자들": 1}}
+{"raw": "비국민", "replacement": "국민", "entropy": 0.0, "counts": {"국민": 1}}
+{"raw": "쌩", "replacement": "모른척", "entropy": 0.0, "counts": {"모른척": 1}}
+{"raw": "까야지", "replacement": "해야지", "entropy": 0.0, "counts": {"해야지": 1}}
+{"raw": "부랄에서", "replacement": "아래에서", "entropy": 0.0, "counts": {"아래에서": 1}}
+{"raw": "헛소리를", "replacement": "허튼소리를", "entropy": 0.0, "counts": {"허튼소리를": 1}}
+{"raw": "한녀", "replacement": "한국여자", "entropy": 0.0, "counts": {"한국여자": 6}}
+{"raw": "지랄했던거냐", "replacement": "행동했던거냐", "entropy": 0.0, "counts": {"행동했던거냐": 1}}
+{"raw": "그따위로", "replacement": "그렇게", "entropy": 0.0, "counts": {"그렇게": 1}}
+{"raw": "개수도권", "replacement": "매우 수도권", "entropy": 0.0, "counts": {"매우 수도권": 1}}
+{"raw": "좆되는거", "replacement": "안 좋은 일이 생기는 거", "entropy": 0.0, "counts": {"안 좋은 일이 생기는 거": 1}}
+{"raw": "mbs", "replacement": "방송사", "entropy": 0.0, "counts": {"방송사": 1}}
+{"raw": "개소리", "replacement": "이상한 소리", "entropy": 1.360673760222241, "counts": {"이상한 소리": 1, "개소리": 1}}
+{"raw": "치", "replacement": "이기", "entropy": 1.360673760222241, "counts": {"이기": 1, "치": 1}}
+{"raw": "오바지", "replacement": "아버지", "entropy": 0.0, "counts": {"아버지": 1}}
+{"raw": "호구", "replacement": "사람", "entropy": 0.0, "counts": {"사람": 1}}
+{"raw": "뒤지노", "replacement": "뒤진다", "entropy": 0.0, "counts": {"뒤진다": 1}}
+{"raw": "안됀다", "replacement": "안 된다", "entropy": 0.0, "counts": {"안 된다": 1}}
+{"raw": "개좆", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 1}}
+{"raw": "해꼬지", "replacement": "해치다", "entropy": 0.0, "counts": {"해치다": 1}}
+{"raw": "조또", "replacement": "별로", "entropy": 0.0, "counts": {"별로": 1}}
+{"raw": "왜케", "replacement": "왜 이렇게", "entropy": 0.0, "counts": {"왜 이렇게": 1}}
+{"raw": "빨고", "replacement": "흡입하고", "entropy": 0.0, "counts": {"흡입하고": 1}}
+{"raw": "개새들", "replacement": "강아지들", "entropy": 0.0, "counts": {"강아지들": 1}}
+{"raw": "씨발", "replacement": "이런", "entropy": 1.479131820806519, "counts": {"이런": 5, "씨발": 2, "이헌": 1}}
+{"raw": "좃밥", "replacement": "밥", "entropy": 0.0, "counts": {"밥": 1}}
+{"raw": "열등종이다", "replacement": "다양한 종이다", "entropy": 0.0, "counts": {"다양한 종이다": 1}}
+{"raw": "표독한녀랑", "replacement": "표독한 한국여자랑", "entropy": 0.0, "counts": {"표독한 한국여자랑": 1}}
+{"raw": "꼴림", "replacement": "좋음", "entropy": 1.360673760222241, "counts": {"좋음": 1, "꼴림": 1}}
+{"raw": "룸망주", "replacement": "룸메이트", "entropy": 0.0, "counts": {"룸메이트": 1}}
+{"raw": "세르비안필름", "replacement": "영화", "entropy": 0.0, "counts": {"영화": 1}}
+{"raw": "애새끼", "replacement": "아이들", "entropy": 2.065860847684144, "counts": {"아이들": 1, "아이": 1, "애새끼": 1}}
+{"raw": "쳐맞으면서", "replacement": "매우맞으면서", "entropy": 0.0, "counts": {"매우맞으면서": 1}}
+{"raw": "이지랄", "replacement": "이상한 행동", "entropy": 2.065860847684144, "counts": {"이상한 행동": 1, "이지랄": 1, "이행동": 1}}
+{"raw": "후손놈들이", "replacement": "후손들", "entropy": 0.0, "counts": {"후손들": 1}}
+{"raw": "깡시골", "replacement": "시골", "entropy": 0.0, "counts": {"시골": 1}}
+{"raw": "질", "replacement": "상태", "entropy": 1.360673760222241, "counts": {"상태": 1, "질": 1}}
+{"raw": "밑짤", "replacement": "하단 이미지", "entropy": 0.0, "counts": {"하단 이미지": 1}}
+{"raw": "몇가닥", "replacement": "조금", "entropy": 0.0, "counts": {"조금": 1}}
+{"raw": "586이 ", "replacement": "586이", "entropy": 0.0, "counts": {"586이": 1}}
+{"raw": "ㅈㄹ이냐", "replacement": "행동이냐", "entropy": 0.0, "counts": {"행동이냐": 1}}
+{"raw": "빠져", "replacement": "빠지네", "entropy": 0.0, "counts": {"빠지네": 1}}
+{"raw": "해봐라", "replacement": "해보세요", "entropy": 0.0, "counts": {"해보세요": 1}}
+{"raw": "죽었네", "replacement": "죽었어요", "entropy": 0.0, "counts": {"죽었어요": 1}}
+{"raw": "개꼴리네", "replacement": "이끌린다", "entropy": 0.0, "counts": {"이끌린다": 1}}
+{"raw": "빨아처먹어서", "replacement": "매우 빨아 먹어서", "entropy": 0.0, "counts": {"매우 빨아 먹어서": 1}}
+{"raw": "ㅇㅈㄹ", "replacement": "이행동", "entropy": 1.6594896026324615, "counts": {"이행동": 3, "ㅇㅈㄹ": 1, "이런행동": 1}}
+{"raw": "엣날엔", "replacement": "예전에는", "entropy": 0.0, "counts": {"예전에는": 1}}
+{"raw": "몰라서", "replacement": "모르기 때문에", "entropy": 0.0, "counts": {"모르기 때문에": 1}}
+{"raw": "한비야같은", "replacement": "한비야와 같은", "entropy": 0.0, "counts": {"한비야와 같은": 1}}
+{"raw": "선동에", "replacement": "선동에 대해", "entropy": 0.0, "counts": {"선동에 대해": 1}}
+{"raw": "속아서", "replacement": "믿고", "entropy": 0.0, "counts": {"믿고": 1}}
+{"raw": "어절수", "replacement": "어떻게 할 수", "entropy": 0.0, "counts": {"어떻게 할 수": 1}}
+{"raw": "없엇다하지만", "replacement": "없었다고 하지만", "entropy": 0.0, "counts": {"없었다고 하지만": 1}}
+{"raw": "요샌", "replacement": "요즘은", "entropy": 0.0, "counts": {"요즘은": 1}}
+{"raw": "실상", "replacement": "실제로", "entropy": 0.0, "counts": {"실제로": 1}}
+{"raw": "검색한번이면", "replacement": "검색 한 번이면", "entropy": 0.0, "counts": {"검색 한 번이면": 1}}
+{"raw": "다나오는데", "replacement": "다 나오는 데", "entropy": 0.0, "counts": {"다 나오는 데": 1}}
+{"raw": "본인책임", "replacement": "본인의 책임", "entropy": 0.0, "counts": {"본인의 책임": 1}}
+{"raw": "좆같음", "replacement": "매우 싫음", "entropy": 0.0, "counts": {"매우 싫음": 1}}
+{"raw": "고음싸개", "replacement": "고음 장치", "entropy": 0.0, "counts": {"고음 장치": 1}}
+{"raw": "신풍제약", "replacement": "제약회사", "entropy": 0.0, "counts": {"제약회사": 1}}
+{"raw": "존나웃기네", "replacement": "매우웃기네", "entropy": 0.0, "counts": {"매우웃기네": 1}}
+{"raw": "찐따", "replacement": "너드", "entropy": 0.0, "counts": {"너드": 1}}
+{"raw": "빵댕이", "replacement": "엉덩이", "entropy": 0.0, "counts": {"엉덩이": 2}}
+{"raw": "아는척하는놈들", "replacement": "아는척하는사람들", "entropy": 0.0, "counts": {"아는척하는사람들": 1}}
+{"raw": "틀딱이나", "replacement": "노인", "entropy": 0.0, "counts": {"노인": 1}}
+{"raw": "애새끼들이나", "replacement": "어린이들", "entropy": 0.0, "counts": {"어린이들": 1}}
+{"raw": "종특", "replacement": "특성", "entropy": 0.0, "counts": {"특성": 1}}
+{"raw": "씹소리", "replacement": "소리", "entropy": 0.0, "counts": {"소리": 1}}
+{"raw": "ㅈㄴ해서", "replacement": "매우 해서", "entropy": 0.0, "counts": {"매우 해서": 1}}
+{"raw": "와꾸", "replacement": "얼굴", "entropy": 0.0, "counts": {"얼굴": 1}}
+{"raw": "이색히", "replacement": "이상한", "entropy": 0.0, "counts": {"이상한": 1}}
+{"raw": "꼬추들", "replacement": "고추들", "entropy": 0.0, "counts": {"고추들": 1}}
+{"raw": "낙오자들", "replacement": "후발주자들", "entropy": 0.0, "counts": {"후발주자들": 1}}
+{"raw": "안봄", "replacement": "보지 않음", "entropy": 0.0, "counts": {"보지 않음": 1}}
+{"raw": "좃밥임", "replacement": "쉬움", "entropy": 0.0, "counts": {"쉬움": 1}}
+{"raw": "좆같다고", "replacement": "싫다고", "entropy": 0.0, "counts": {"싫다고": 1}}
+{"raw": "페미뚱땡이", "replacement": "페미니스트", "entropy": 0.0, "counts": {"페미니스트": 1}}
+{"raw": "ㅐㅎㅆ음", "replacement": "했음", "entropy": 0.0, "counts": {"했음": 1}}
+{"raw": "러뽕", "replacement": "러시아 좋음", "entropy": 0.0, "counts": {"러시아 좋음": 1}}
+{"raw": "미필새끼", "replacement": "군대갔다오지 않은 사람", "entropy": 0.0, "counts": {"군대갔다오지 않은 사람": 1}}
+{"raw": "협박하다", "replacement": "경고하다", "entropy": 0.0, "counts": {"경고하다": 1}}
+{"raw": "갠찬노", "replacement": "괜찮다", "entropy": 0.0, "counts": {"괜찮다": 1}}
+{"raw": "병신은", "replacement": "바보는", "entropy": 1.360673760222241, "counts": {"바보는": 1, "병신은": 1}}
+{"raw": "좆소가", "replacement": "작은 회사가", "entropy": 0.0, "counts": {"작은 회사가": 1}}
+{"raw": "부려처먹고", "replacement": "부려먹고", "entropy": 0.0, "counts": {"부려먹고": 1}}
+{"raw": "개고수네", "replacement": "매우 고수네", "entropy": 2.065860847684144, "counts": {"매우 고수네": 1, "개고수네": 1, "매우 전문가네": 1}}
+{"raw": "개소리하네", "replacement": "이상한소리하네", "entropy": 0.0, "counts": {"이상한소리하네": 1}}
+{"raw": "돈미새", "replacement": "돈을 중요시하는 사람", "entropy": 0.0, "counts": {"돈을 중요시하는 사람": 1}}
+{"raw": "인실좆", "replacement": "비인간적인", "entropy": 0.0, "counts": {"비인간적인": 1}}
+{"raw": "병신동네", "replacement": "이상한 동네", "entropy": 0.0, "counts": {"이상한 동네": 1}}
+{"raw": "씹어먹음", "replacement": "먹음", "entropy": 0.0, "counts": {"먹음": 1}}
+{"raw": "욕쳐먹다", "replacement": "비난받다", "entropy": 0.0, "counts": {"비난받다": 1}}
+{"raw": "ㅅㅂ", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 8}}
+{"raw": "씹지리겠네", "replacement": "매우좋네", "entropy": 0.0, "counts": {"매우좋네": 1}}
+{"raw": "짓거리", "replacement": "행동", "entropy": 0.0, "counts": {"행동": 1}}
+{"raw": "쳐박히다", "replacement": "박혀 있다", "entropy": 0.0, "counts": {"박혀 있다": 1}}
+{"raw": "없누", "replacement": "없나", "entropy": 0.0, "counts": {"없나": 1}}
+{"raw": "창렬", "replacement": "불만족스러운", "entropy": 0.0, "counts": {"불만족스러운": 1}}
+{"raw": "파구리나", "replacement": "간편식", "entropy": 0.0, "counts": {"간편식": 1}}
+{"raw": "댓글알바들", "replacement": "댓글 작성자들", "entropy": 0.0, "counts": {"댓글 작성자들": 1}}
+{"raw": "사우스꼬레아", "replacement": "남한", "entropy": 0.0, "counts": {"남한": 1}}
+{"raw": "쥐좆만한", "replacement": "작은", "entropy": 0.0, "counts": {"작은": 1}}
+{"raw": "틀튜브", "replacement": "늙은이튜브", "entropy": 0.0, "counts": {"늙은이튜브": 1}}
+{"raw": "틀베한테", "replacement": "늙은이베한테", "entropy": 0.0, "counts": {"늙은이베한테": 1}}
+{"raw": "부수고", "replacement": "깨뜨리고", "entropy": 0.0, "counts": {"깨뜨리고": 1}}
+{"raw": "져야된당께", "replacement": "져야된다", "entropy": 0.0, "counts": {"져야된다": 1}}
+{"raw": "머여", "replacement": "뭐야", "entropy": 0.0, "counts": {"뭐야": 1}}
+{"raw": "부숴야제", "replacement": "깨뜨려야 해", "entropy": 0.0, "counts": {"깨뜨려야 해": 1}}
+{"raw": "된당께", "replacement": "된다", "entropy": 0.0, "counts": {"된다": 1}}
+{"raw": "씹간지네", "replacement": "멋있네", "entropy": 1.360673760222241, "counts": {"멋있네": 1, "매우멋잇네": 1}}
+{"raw": "쩐다", "replacement": "대단하다", "entropy": 0.0, "counts": {"대단하다": 1}}
+{"raw": "병신임", "replacement": "바보임", "entropy": 0.0, "counts": {"바보임": 1}}
+{"raw": "혐오", "replacement": "싫어함", "entropy": 0.0, "counts": {"싫어함": 1}}
+{"raw": "똥꼬", "replacement": "항문", "entropy": 0.0, "counts": {"항문": 1}}
+{"raw": "빠는", "replacement": "흡입하는", "entropy": 0.0, "counts": {"흡입하는": 1}}
+{"raw": "오바", "replacement": "과장", "entropy": 0.0, "counts": {"과장": 1}}
+{"raw": "좆만하게", "replacement": "작게", "entropy": 0.0, "counts": {"작게": 1}}
+{"raw": "머가리", "replacement": "머리", "entropy": 0.0, "counts": {"머리": 1}}
+{"raw": "앰창새끼", "replacement": "아이가", "entropy": 0.0, "counts": {"아이가": 1}}
+{"raw": "짖어대노", "replacement": "짖고 있네", "entropy": 0.0, "counts": {"짖고 있네": 1}}
+{"raw": "풀발", "replacement": "화남", "entropy": 0.0, "counts": {"화남": 1}}
+{"raw": "하라구", "replacement": "하라고", "entropy": 0.0, "counts": {"하라고": 1}}
+{"raw": "중국걸", "replacement": "중국인", "entropy": 0.0, "counts": {"중국인": 1}}
+{"raw": "아이씨발", "replacement": "아이구", "entropy": 0.0, "counts": {"아이구": 1}}
+{"raw": "썅년아", "replacement": "바보야", "entropy": 0.0, "counts": {"바보야": 1}}
+{"raw": "구라썰이라", "replacement": "이야기하네", "entropy": 0.0, "counts": {"이야기하네": 1}}
+{"raw": "죽여야지", "replacement": "처리해야지", "entropy": 0.0, "counts": {"처리해야지": 1}}
+{"raw": "개띵작", "replacement": "매우명작", "entropy": 0.0, "counts": {"매우명작": 1}}
+{"raw": "개씹트롤", "replacement": "이상한행동", "entropy": 0.0, "counts": {"이상한행동": 1}}
+{"raw": "좆내", "replacement": "이상한", "entropy": 0.0, "counts": {"이상한": 1}}
+{"raw": "버타쿠", "replacement": "비정상적인 행동", "entropy": 0.0, "counts": {"비정상적인 행동": 1}}
+{"raw": "근첩", "replacement": "정보 제공자", "entropy": 0.0, "counts": {"정보 제공자": 1}}
+{"raw": "천박한", "replacement": "저급한", "entropy": 0.0, "counts": {"저급한": 1}}
+{"raw": "커엽노", "replacement": "귀엽다", "entropy": 0.0, "counts": {"귀엽다": 1}}
+{"raw": "죽고싶으면", "replacement": "살고싶다면", "entropy": 0.0, "counts": {"살고싶다면": 1}}
+{"raw": "죽든가", "replacement": "살든가", "entropy": 0.0, "counts": {"살든가": 1}}
+{"raw": "닮았노", "replacement": "닮았다", "entropy": 0.0, "counts": {"닮았다": 1}}
+{"raw": "개쩌네", "replacement": "너무좋다", "entropy": 1.360673760222241, "counts": {"너무좋다": 1, "개쩌네": 1}}
+{"raw": "문신충", "replacement": "문신을 좋아하는 사람", "entropy": 0.0, "counts": {"문신을 좋아하는 사람": 1}}
+{"raw": "좆물받이", "replacement": "물받이", "entropy": 0.0, "counts": {"물받이": 1}}
+{"raw": "좆라도", "replacement": "전라도", "entropy": 0.0, "counts": {"전라도": 1}}
+{"raw": "먹쥴", "replacement": "먹을게", "entropy": 0.0, "counts": {"먹을게": 1}}
+{"raw": "사벌", "replacement": "사람", "entropy": 0.0, "counts": {"사람": 1}}
+{"raw": "개좆찰", "replacement": "좋은", "entropy": 0.0, "counts": {"좋은": 1}}
+{"raw": "오지게하네", "replacement": "잘하네", "entropy": 0.0, "counts": {"잘하네": 1}}
+{"raw": "장애인새끼", "replacement": "장애인", "entropy": 0.0, "counts": {"장애인": 1}}
+{"raw": "병신인가", "replacement": "잘못된 생각인가", "entropy": 0.0, "counts": {"잘못된 생각인가": 1}}
+{"raw": "게이새끼들", "replacement": "게이친구들", "entropy": 0.0, "counts": {"게이친구들": 1}}
+{"raw": "저ㅈㄹ하다가", "replacement": "말하다가", "entropy": 0.0, "counts": {"말하다가": 1}}
+{"raw": "해쳐먹고", "replacement": "사기치고", "entropy": 0.0, "counts": {"사기치고": 1}}
+{"raw": "자폐판정", "replacement": "자폐 진단", "entropy": 0.0, "counts": {"자폐 진단": 1}}
+{"raw": "후쿠이현지인", "replacement": "후쿠이현 사람", "entropy": 0.0, "counts": {"후쿠이현 사람": 1}}
+{"raw": "홍어새끼들", "replacement": "홍어", "entropy": 0.0, "counts": {"홍어": 1}}
+{"raw": "왜구타령", "replacement": "일본에 대한 비판", "entropy": 0.0, "counts": {"일본에 대한 비판": 1}}
+{"raw": "빨갱이홍어새끼들", "replacement": "진보적 홍어", "entropy": 0.0, "counts": {"진보적 홍어": 1}}
+{"raw": "털릴거", "replacement": "질거", "entropy": 0.0, "counts": {"질거": 1}}
+{"raw": "야스오", "replacement": "캐릭터", "entropy": 0.0, "counts": {"캐릭터": 1}}
+{"raw": "여돌들", "replacement": "여자연예인들", "entropy": 0.0, "counts": {"여자연예인들": 1}}
+{"raw": "씹덕혐오", "replacement": "오타쿠혐오", "entropy": 0.0, "counts": {"오타쿠혐오": 1}}
+{"raw": "좆본", "replacement": "일본", "entropy": 0.0, "counts": {"일본": 1}}
+{"raw": "씹", "replacement": "이런", "entropy": 1.860673760222241, "counts": {"이런": 2, "씹": 1, "진짜": 1}}
+{"raw": "안먹을거야", "replacement": "먹지 않을 거야", "entropy": 0.0, "counts": {"먹지 않을 거야": 1}}
+{"raw": "오지", "replacement": "오다", "entropy": 0.0, "counts": {"오다": 1}}
+{"raw": "개명도", "replacement": "이름 변경", "entropy": 0.0, "counts": {"이름 변경": 1}}
+{"raw": "못난", "replacement": "모자란", "entropy": 0.0, "counts": {"모자란": 1}}
+{"raw": "쌍년들", "replacement": "사람들", "entropy": 0.0, "counts": {"사람들": 1}}
+{"raw": "꼬우면", "replacement": "싫으면", "entropy": 1.1587450075359835, "counts": {"꼬우면": 1, "싫으면": 2}}
+{"raw": "극좌빨", "replacement": "극좌", "entropy": 0.0, "counts": {"극좌": 1}}
+{"raw": "집유", "replacement": "집행유예", "entropy": 1.360673760222241, "counts": {"집행유예": 1, "집유": 1}}
+{"raw": "병신짓", "replacement": "바보짓", "entropy": 0.0, "counts": {"바보짓": 1}}
+{"raw": "한남들", "replacement": "한국남자들", "entropy": 0.0, "counts": {"한국남자들": 1}}
+{"raw": "야애니봄", "replacement": "야한 애니메이션봄", "entropy": 0.0, "counts": {"야한 애니메이션봄": 1}}
+{"raw": "개딱", "replacement": "너무", "entropy": 0.0, "counts": {"너무": 1}}
+{"raw": "씹소녀가", "replacement": "업소여자가", "entropy": 0.0, "counts": {"업소여자가": 1}}
+{"raw": "와꾸바리", "replacement": "얼굴", "entropy": 0.0, "counts": {"얼굴": 1}}
+{"raw": "몸매바리", "replacement": "몸매", "entropy": 0.0, "counts": {"몸매": 1}}
+{"raw": "핵귀엽다", "replacement": "매우 귀엽다", "entropy": 0.0, "counts": {"매우 귀엽다": 1}}
+{"raw": "x나", "replacement": "매우", "entropy": 0.0, "counts": {"매우": 1}}
+{"raw": "훈수", "replacement": "조언", "entropy": 0.0, "counts": {"조언": 1}}
+{"raw": "록펠러새끼", "replacement": "록펠러", "entropy": 0.0, "counts": {"록펠러": 1}}
+{"raw": "개씹존잘이었네", "replacement": "매우잘생겼네", "entropy": 0.0, "counts": {"매우잘생겼네": 1}}
+{"raw": "처참하네", "replacement": "안타깝네", "entropy": 0.0, "counts": {"안타깝네": 1}}
+{"raw": "니미", "replacement": "당신", "entropy": 0.0, "counts": {"당신": 1}}
+{"raw": "개씹", "replacement": "        엄청", "entropy": 1.360673760222241, "counts": {"        엄청": 1, "매우": 1}}
+{"raw": "갓직히", "replacement": "솔직히", "entropy": 0.0, "counts": {"솔직히": 1}}
+{"raw": "개오졌음", "replacement": "매우오졌음", "entropy": 0.0, "counts": {"매우오졌음": 1}}
+{"raw": "머리통", "replacement": "머리", "entropy": 0.0, "counts": {"머리": 1}}
+{"raw": "부셔버리농", "replacement": "부수네", "entropy": 0.0, "counts": {"부수네": 1}}
+{"raw": "ㅈㄴ예뻤는데", "replacement": "매우예뻤는데", "entropy": 0.0, "counts": {"매우예뻤는데": 1}}
+{"raw": "디지는", "replacement": "죽는", "entropy": 0.0, "counts": {"죽는": 1}}
+{"raw": "개븅신", "replacement": "사람", "entropy": 0.0, "counts": {"사람": 1}}
+{"raw": "망했노", "replacement": "어려워졌구나", "entropy": 0.0, "counts": {"어려워졌구나": 1}}
+{"raw": "망했냐", "replacement": "어려워졌니", "entropy": 0.0, "counts": {"어려워졌니": 1}}
+{"raw": "토해네", "replacement": "토하네", "entropy": 0.0, "counts": {"토하네": 1}}
+{"raw": "개추박앗다", "replacement": "추천박앗다", "entropy": 0.0, "counts": {"추천박앗다": 1}}
+{"raw": "보신탕", "replacement": "보양식", "entropy": 0.0, "counts": {"보양식": 1}}
+{"raw": "K-푸드", "replacement": "한국 음식", "entropy": 0.0, "counts": {"한국 음식": 1}}
+{"raw": "남혐하는", "replacement": "남성에 대한 비판하는", "entropy": 0.0, "counts": {"남성에 대한 비판하는": 1}}
+{"raw": "신발충", "replacement": "신발쟁이", "entropy": 0.0, "counts": {"신발쟁이": 1}}
+{"raw": "븅신새끼", "replacement": "바보친구", "entropy": 0.0, "counts": {"바보친구": 1}}
+{"raw": "이새끼야", "replacement": "이 친구야", "entropy": 0.0, "counts": {"이 친구야": 1}}
+{"raw": "뒤지라고", "replacement": "죽으라고", "entropy": 0.0, "counts": {"죽으라고": 1}}
+{"raw": "병신새끼야", "replacement": "어리석은 친구야", "entropy": 0.0, "counts": {"어리석은 친구야": 1}}
+{"raw": "개씨발", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 1}}
+{"raw": "개씹존잘", "replacement": "매우잘생긴", "entropy": 0.0, "counts": {"매우잘생긴": 1}}
+{"raw": "뒤덮은놈", "replacement": "뒤덮은친구", "entropy": 0.0, "counts": {"뒤덮은친구": 1}}
+{"raw": "킹치만", "replacement": "킹치", "entropy": 0.0, "counts": {"킹치": 1}}
+{"raw": "미친새끼야", "replacement": "미친사람이야", "entropy": 0.0, "counts": {"미친사람이야": 1}}
+{"raw": "넘치", "replacement": "많이", "entropy": 0.0, "counts": {"많이": 1}}
+{"raw": "자식새끼들", "replacement": "자식들", "entropy": 0.0, "counts": {"자식들": 1}}
+{"raw": "개쓰레기", "replacement": "쓰레기", "entropy": 0.0, "counts": {"쓰레기": 1}}
+{"raw": "혹사시키면", "replacement": "과도하게 사용하면", "entropy": 0.0, "counts": {"과도하게 사용하면": 1}}
+{"raw": "여윾시", "replacement": "역시", "entropy": 0.0, "counts": {"역시": 1}}
+{"raw": "좆소기업하나", "replacement": "중소기업하나", "entropy": 0.0, "counts": {"중소기업하나": 1}}
+{"raw": "병신같은", "replacement": "바보같은", "entropy": 0.0, "counts": {"바보같은": 1}}
+{"raw": "고발하지마라", "replacement": "고발하지 말아라", "entropy": 0.0, "counts": {"고발하지 말아라": 1}}
+{"raw": "ㅆㅂ", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 3}}
+{"raw": "개잘생겼네", "replacement": "매우잘생겼네", "entropy": 0.0, "counts": {"매우잘생겼네": 1}}
+{"raw": "예쁘노", "replacement": "예쁘다", "entropy": 0.0, "counts": {"예쁘다": 1}}
+{"raw": "씹간지임", "replacement": "매우 멋있음", "entropy": 0.0, "counts": {"매우 멋있음": 1}}
+{"raw": "아부지", "replacement": "아버지", "entropy": 0.0, "counts": {"아버지": 1}}
+{"raw": "개쓰레기된다", "replacement": "매우쓰레기된다", "entropy": 0.0, "counts": {"매우쓰레기된다": 1}}
+{"raw": "씹센징들", "replacement": "한국인들", "entropy": 0.0, "counts": {"한국인들": 1}}
+{"raw": "씹센징게이머들이", "replacement": "한국인게이머들이", "entropy": 0.0, "counts": {"한국인게이머들이": 1}}
+{"raw": "남친", "replacement": "남자친구", "entropy": 0.0, "counts": {"남자친구": 1}}
+{"raw": "개꼴려", "replacement": "너무좋아", "entropy": 0.0, "counts": {"너무좋아": 2}}
+{"raw": "지랄지랄하다가", "replacement": "버티다가", "entropy": 0.0, "counts": {"버티다가": 1}}
+{"raw": "외쳣노", "replacement": "외쳤구나", "entropy": 0.0, "counts": {"외쳤구나": 1}}
+{"raw": "백녀", "replacement": "여성", "entropy": 0.0, "counts": {"여성": 1}}
+{"raw": "헤으응", "replacement": "아앗", "entropy": 0.0, "counts": {"아앗": 1}}
+{"raw": "다귀엽노", "replacement": "다귀엽다", "entropy": 0.0, "counts": {"다귀엽다": 1}}
+{"raw": "씹맞말", "replacement": "매우 맞는말", "entropy": 0.0, "counts": {"매우 맞는말": 1}}
+{"raw": "괘씸좨", "replacement": "불쾌한 사람", "entropy": 0.0, "counts": {"불쾌한 사람": 1}}
+{"raw": "쳐먹다", "replacement": "먹다", "entropy": 0.0, "counts": {"먹다": 1}}
+{"raw": "감방", "replacement": "교도소", "entropy": 0.0, "counts": {"교도소": 1}}
+{"raw": "니트질", "replacement": "게으른 생활", "entropy": 0.0, "counts": {"게으른 생활": 1}}
+{"raw": "ㅂㅅ들이", "replacement": "바보들이", "entropy": 0.0, "counts": {"바보들이": 1}}
+{"raw": "조오오온나게", "replacement": "매우", "entropy": 0.0, "counts": {"매우": 1}}
+{"raw": "개지림", "replacement": "매우좋음", "entropy": 0.0, "counts": {"매우좋음": 1}}
+{"raw": "회계사", "replacement": "회계 전문가", "entropy": 0.0, "counts": {"회계 전문가": 1}}
+{"raw": "합격하고", "replacement": "합격한 후", "entropy": 0.0, "counts": {"합격한 후": 1}}
+{"raw": "3.5개월간", "replacement": "3개월 반 동안", "entropy": 0.0, "counts": {"3개월 반 동안": 1}}
+{"raw": "수능", "replacement": "대학수학능력시험", "entropy": 0.0, "counts": {"대학수학능력시험": 1}}
+{"raw": "공부했는데", "replacement": "공부했지만", "entropy": 0.0, "counts": {"공부했지만": 1}}
+{"raw": "개버린", "replacement": "버린", "entropy": 0.0, "counts": {"버린": 1}}
+{"raw": "짱개의", "replacement": "중국의", "entropy": 0.0, "counts": {"중국의": 1}}
+{"raw": "씌였노", "replacement": "씌였네", "entropy": 0.0, "counts": {"씌였네": 1}}
+{"raw": "지랄해댐", "replacement": "화냄", "entropy": 0.0, "counts": {"화냄": 1}}
+{"raw": "비처녀", "replacement": "미혼 여성", "entropy": 0.0, "counts": {"미혼 여성": 1}}
+{"raw": "용년유희중", "replacement": "노년 여가 활동 중", "entropy": 0.0, "counts": {"노년 여가 활동 중": 1}}
+{"raw": "혐오하는", "replacement": "좋아하지 않는", "entropy": 0.0, "counts": {"좋아하지 않는": 1}}
+{"raw": "동족혐오", "replacement": "동족에 대한 부정적인 감정", "entropy": 0.0, "counts": {"동족에 대한 부정적인 감정": 1}}
+{"raw": "망겜이라고", "replacement": "망한게임이라고", "entropy": 0.0, "counts": {"망한게임이라고": 1}}
+{"raw": "극딜박아", "replacement": "비난해", "entropy": 0.0, "counts": {"비난해": 1}}
+{"raw": "짱깨라", "replacement": "중국이라", "entropy": 0.0, "counts": {"중국이라": 1}}
+{"raw": "민좆당", "replacement": "민주당", "entropy": 0.0, "counts": {"민주당": 1}}
+{"raw": "많노", "replacement": "많네", "entropy": 0.0, "counts": {"많네": 1}}
+{"raw": "좆되던때", "replacement": "어려운 시기", "entropy": 0.0, "counts": {"어려운 시기": 1}}
+{"raw": "지랄거리던", "replacement": "심한 행동을 하던", "entropy": 0.0, "counts": {"심한 행동을 하던": 1}}
+{"raw": "시벌", "replacement": "이런", "entropy": 0.0, "counts": {"이런": 1}}
+{"raw": "야주하나", "replacement": "즐기다", "entropy": 0.0, "counts": {"즐기다": 1}}
+{"raw": "좆박은", "replacement": "망한", "entropy": 0.0, "counts": {"망한": 1}}
+{"raw": "미츌렉", "replacement": "미치겠네", "entropy": 0.0, "counts": {"미치겠네": 1}}
+{"raw": "찐", "replacement": "진짜", "entropy": 1.360673760222241, "counts": {"진짜": 1, "찐": 1}}
+{"raw": "그린놈", "replacement": "그린친구", "entropy": 0.0, "counts": {"그린친구": 1}}
+{"raw": "넣은놈", "replacement": "넣은친구", "entropy": 0.0, "counts": {"넣은친구": 1}}
+{"raw": "얼굴천재", "replacement": "잘생긴사람", "entropy": 0.0, "counts": {"잘생긴사람": 1}}
+{"raw": "인싸", "replacement": "인기많은사람들", "entropy": 0.0, "counts": {"인기많은사람들": 1}}
+{"raw": "좆병신", "replacement": "어리석은 사람", "entropy": 0.0, "counts": {"어리석은 사람": 1}}
+{"raw": "똥풋싼", "replacement": "부산", "entropy": 0.0, "counts": {"부산": 1}}
+{"raw": "ㅎㅌㅊ동네", "replacement": "못사는동네", "entropy": 0.0, "counts": {"못사는동네": 1}}
+{"raw": "개꼴루", "replacement": "매우좋다", "entropy": 0.0, "counts": {"매우좋다": 1}}
+{"raw": "딸배련들", "replacement": "여성들", "entropy": 0.0, "counts": {"여성들": 1}}
+{"raw": "쳐먹으려고", "replacement": "먹으려고", "entropy": 0.0, "counts": {"먹으려고": 1}}
+{"raw": "비아냥", "replacement": "비꼬기", "entropy": 0.0, "counts": {"비꼬기": 1}}
+{"raw": "꺼", "replacement": "다", "entropy": 0.0, "counts": {"다": 1}}
+{"raw": "ㅈㄴ", "replacement": "매우", "entropy": 0.0, "counts": {"매우": 3}}
+{"raw": "퍼리들이", "replacement": "사람들이", "entropy": 0.0, "counts": {"사람들이": 1}}
+{"raw": "했노", "replacement": "했네", "entropy": 0.0, "counts": {"했네": 1}}
+{"raw": "개명작", "replacement": "매우명작", "entropy": 0.0, "counts": {"매우명작": 1}}
+{"raw": "김씨일가", "replacement": "김씨가족", "entropy": 0.0, "counts": {"김씨가족": 1}}
+{"raw": "느그들이", "replacement": "여러분", "entropy": 0.0, "counts": {"여러분": 1}}
+{"raw": "찍충들", "replacement": "찍쟁이들", "entropy": 0.0, "counts": {"찍쟁이들": 1}}
+{"raw": "병시나", "replacement": "친구야", "entropy": 0.0, "counts": {"친구야": 1}}
+{"raw": "돌아버리는거지", "replacement": "상황이 복잡하구나", "entropy": 0.0, "counts": {"상황이 복잡하구나": 1}}
+{"raw": "나대다", "replacement": "활동하다", "entropy": 0.0, "counts": {"활동하다": 1}}
+{"raw": "좆소라", "replacement": "소라", "entropy": 0.0, "counts": {"소라": 1}}
+{"raw": "비난질", "replacement": "비판", "entropy": 0.0, "counts": {"비판": 1}}
+{"raw": "로우", "replacement": "저조", "entropy": 0.0, "counts": {"저조": 1}}
+{"raw": "개소리야", "replacement": "무슨소리야", "entropy": 0.0, "counts": {"무슨소리야": 1}}
+{"raw": "발리지", "replacement": "지지", "entropy": 0.0, "counts": {"지지": 1}}
+{"raw": "혐오하다", "replacement": "싫어하다", "entropy": 0.0, "counts": {"싫어하다": 1}}
+{"raw": "놈도", "replacement": "친구도", "entropy": 0.0, "counts": {"친구도": 1}}
+{"raw": "개씨발존나", "replacement": "매우", "entropy": 0.0, "counts": {"매우": 1}}
+{"raw": "가오", "replacement": "자신감", "entropy": 0.0, "counts": {"자신감": 1}}
+{"raw": "ㅆㅅㅌㅊ", "replacement": "매우좋다", "entropy": 1.860673760222241, "counts": {"매우매우좋음": 1, "매우좋다": 2, "대단하다": 1}}
+{"raw": "돌려까는", "replacement": "비판하는", "entropy": 0.0, "counts": {"비판하는": 1}}
+{"raw": "헛거", "replacement": "말", "entropy": 0.0, "counts": {"말": 1}}
+{"raw": "헛게", "replacement": "방법", "entropy": 0.0, "counts": {"방법": 1}}
+{"raw": "페미기업", "replacement": "여성기업", "entropy": 0.0, "counts": {"여성기업": 1}}
+{"raw": "페미년이랑", "replacement": "여성과", "entropy": 0.0, "counts": {"여성과": 1}}
+{"raw": "탱커임", "replacement": "탱커입니다", "entropy": 0.0, "counts": {"탱커입니다": 1}}
+{"raw": "어쩌라고라는", "replacement": "어떻게 하라는", "entropy": 0.0, "counts": {"어떻게 하라는": 1}}
+{"raw": "이딴게", "replacement": "이런 것", "entropy": 0.0, "counts": {"이런 것": 1}}
+{"raw": "퍼먹는거", "replacement": "먹는 것", "entropy": 0.0, "counts": {"먹는 것": 1}}
+{"raw": "못참겠다", "replacement": "참기 힘들다", "entropy": 0.0, "counts": {"참기 힘들다": 1}}
+{"raw": "어쩌라", "replacement": "어떻게 하든", "entropy": 0.0, "counts": {"어떻게 하든": 1}}
+{"raw": "추하다", "replacement": "아름답지 않다", "entropy": 0.0, "counts": {"아름답지 않다": 1}}
+{"raw": "잘한거라고", "replacement": "잘했다고", "entropy": 0.0, "counts": {"잘했다고": 1}}
+{"raw": "생각한다", "replacement": "생각해", "entropy": 0.0, "counts": {"생각해": 1}}
+{"raw": "통제를", "replacement": "조절을", "entropy": 0.0, "counts": {"조절을": 1}}
+{"raw": "부부간", "replacement": "부부 사이", "entropy": 0.0, "counts": {"부부 사이": 1}}
+{"raw": "선", "replacement": "경계", "entropy": 0.0, "counts": {"경계": 1}}
+{"raw": "안넘음", "replacement": "넘지 않음", "entropy": 0.0, "counts": {"넘지 않음": 1}}
+{"raw": "노답이노", "replacement": "엉망이다", "entropy": 0.0, "counts": {"엉망이다": 1}}
+{"raw": "개병신장애인새끼들인거", "replacement": "바보들인거", "entropy": 0.0, "counts": {"바보들인거": 1}}
+{"raw": "저능아새끼들이면", "replacement": "바보들이면", "entropy": 0.0, "counts": {"바보들이면": 1}}
+{"raw": "종범한", "replacement": "없는", "entropy": 0.0, "counts": {"없는": 1}}
+{"raw": "중딩", "replacement": "중학생", "entropy": 0.0, "counts": {"중학생": 3}}
+{"raw": "전라디언", "replacement": "전라도인", "entropy": 0.0, "counts": {"전라도인": 1}}
+{"raw": "이놈", "replacement": "이 친구", "entropy": 0.0, "counts": {"이 친구": 1}}
+{"raw": "저놈", "replacement": "저 사람", "entropy": 0.0, "counts": {"저 사람": 1}}
+{"raw": "걸레", "replacement": "천", "entropy": 0.0, "counts": {"천": 1}}
+{"raw": "급이노", "replacement": "급이다", "entropy": 0.0, "counts": {"급이다": 1}}
+{"raw": "더럽다", "replacement": "불결하다", "entropy": 0.0, "counts": {"불결하다": 1}}
+{"raw": "여초겜", "replacement": "여성 게임 커뮤니티", "entropy": 0.0, "counts": {"여성 게임 커뮤니티": 1}}
+{"raw": "술먹고", "replacement": "음주 후", "entropy": 0.0, "counts": {"음주 후": 1}}
+{"raw": "밤늦게", "replacement": "늦은 밤", "entropy": 0.0, "counts": {"늦은 밤": 1}}
+{"raw": "ㅇㅈㄹ하네", "replacement": "이행동하네", "entropy": 0.0, "counts": {"이행동하네": 1}}
+{"raw": "유딩이었어", "replacement": "유치원생이였어", "entropy": 0.0, "counts": {"유치원생이였어": 1}}
+{"raw": "개대중이", "replacement": "김대중대통령", "entropy": 0.0, "counts": {"김대중대통령": 1}}
+{"raw": "팡주폭동", "replacement": "광주폭동", "entropy": 0.0, "counts": {"광주폭동": 1}}
+{"raw": "ㅋ전라도씨발롬들", "replacement": "ㅋ전라도나쁜놈들", "entropy": 0.0, "counts": {"ㅋ전라도나쁜놈들": 1}}
+{"raw": "우덜식풍자", "replacement": "풍자", "entropy": 0.0, "counts": {"풍자": 1}}
+{"raw": "연타", "replacement": "연속타자", "entropy": 0.0, "counts": {"연속타자": 1}}
+{"raw": "개좆같이", "replacement": "별로인", "entropy": 0.0, "counts": {"별로인": 1}}
+{"raw": "갈린댜", "replacement": "갈리네", "entropy": 0.0, "counts": {"갈리네": 1}}
+{"raw": "좃같은", "replacement": "이상한", "entropy": 0.0, "counts": {"이상한": 1}}
+{"raw": "갈등", "replacement": "문제", "entropy": 0.0, "counts": {"문제": 1}}
+{"raw": "교사", "replacement": "선생님", "entropy": 0.0, "counts": {"선생님": 1}}
+{"raw": "vs", "replacement": "대", "entropy": 0.0, "counts": {"대": 1}}
+{"raw": "마무라", "replacement": "마무리", "entropy": 0.0, "counts": {"마무리": 1}}
+{"raw": "넘잘그려", "replacement": "너무 잘그려", "entropy": 0.0, "counts": {"너무 잘그려": 1}}
+{"raw": "조지고", "replacement": "먹고", "entropy": 0.0, "counts": {"먹고": 1}}
+{"raw": "틀딱새끼들", "replacement": "늙은이들", "entropy": 0.0, "counts": {"늙은이들": 1}}
+{"raw": "병신새끼", "replacement": "바보", "entropy": 0.0, "counts": {"바보": 1}}
+{"raw": "개새끼", "replacement": "강아지", "entropy": 0.0, "counts": {"강아지": 1}}
+{"raw": "오너리스크", "replacement": "소유자 책임", "entropy": 0.0, "counts": {"소유자 책임": 1}}
+{"raw": "좆병신임", "replacement": "아주 힘든 상황임", "entropy": 0.0, "counts": {"아주 힘든 상황임": 1}}
+{"raw": "개소린거", "replacement": "말이야", "entropy": 0.0, "counts": {"말이야": 1}}
+{"raw": "씹고퀄", "replacement": "퀄리티가 많이 좋은", "entropy": 0.0, "counts": {"퀄리티가 많이 좋은": 1}}
+{"raw": "개간지네", "replacement": "매우멋잇네", "entropy": 1.360673760222241, "counts": {"매우멋잇네": 1, "개간지네": 1}}
+{"raw": "앰병하는", "replacement": "어려운", "entropy": 0.0, "counts": {"어려운": 1}}
+{"raw": "새키들은", "replacement": "아이들은", "entropy": 0.0, "counts": {"아이들은": 1}}
+{"raw": "뒤1지기", "replacement": "지기", "entropy": 0.0, "counts": {"지기": 1}}
+{"raw": "미개", "replacement": "미성숙", "entropy": 0.0, "counts": {"미성숙": 1}}
+{"raw": "짱깨당", "replacement": "중국 정당", "entropy": 0.0, "counts": {"중국 정당": 1}}
+{"raw": "구데기새끼", "replacement": "벌레", "entropy": 0.0, "counts": {"벌레": 1}}
+{"raw": "팔아먹다", "replacement": "판매하다", "entropy": 0.0, "counts": {"판매하다": 1}}
+{"raw": "잘찍은", "replacement": "잘 찍은", "entropy": 0.0, "counts": {"잘 찍은": 1}}
+{"raw": "알겠는데", "replacement": "알겠지만", "entropy": 0.0, "counts": {"알겠지만": 1}}
+{"raw": "넘이", "replacement": "사람", "entropy": 0.0, "counts": {"사람": 1}}
+{"raw": "새끼냐", "replacement": "아이냐", "entropy": 0.0, "counts": {"아이냐": 1}}
+{"raw": "전범풀", "replacement": "전범", "entropy": 0.0, "counts": {"전범": 1}}
+{"raw": "서나눈나", "replacement": "서나누나", "entropy": 0.0, "counts": {"서나누나": 1}}
+{"raw": "좌발", "replacement": "좌우", "entropy": 0.0, "counts": {"좌우": 1}}
+{"raw": "판새", "replacement": "판단", "entropy": 0.0, "counts": {"판단": 1}}
+{"raw": "윤종말", "replacement": "윤석열", "entropy": 0.0, "counts": {"윤석열": 1}}
+{"raw": "씹창남", "replacement": "큰일남", "entropy": 0.0, "counts": {"큰일남": 1}}
+{"raw": "밥벌레", "replacement": "일하는 사람", "entropy": 0.0, "counts": {"일하는 사람": 1}}
+{"raw": "개판임", "replacement": "상황이 좋지 않음", "entropy": 0.0, "counts": {"상황이 좋지 않음": 1}}
+{"raw": "이년", "replacement": "이여자", "entropy": 0.0, "counts": {"이여자": 1}}
+{"raw": "개꼴렸는데", "replacement": "좋았는데", "entropy": 0.0, "counts": {"좋았는데": 1}}
+{"raw": "찬밥단", "replacement": "밥단", "entropy": 0.0, "counts": {"밥단": 1}}
+{"raw": "기습취사", "replacement": "급식", "entropy": 0.0, "counts": {"급식": 1}}
+{"raw": "씹고수네", "replacement": "매우고수네", "entropy": 0.0, "counts": {"매우고수네": 1}}
+{"raw": "지리긴하노", "replacement": "매우 좋다", "entropy": 0.0, "counts": {"매우 좋다": 1}}
+{"raw": "세련됐노", "replacement": "세련됐다", "entropy": 0.0, "counts": {"세련됐다": 1}}
+{"raw": "삼자", "replacement": "세 사람", "entropy": 0.0, "counts": {"세 사람": 1}}
+{"raw": "도래했노", "replacement": "도래했네", "entropy": 0.0, "counts": {"도래했네": 1}}
+{"raw": "뒤진다", "replacement": "죽는다", "entropy": 0.0, "counts": {"죽는다": 1}}
+{"raw": "병신도", "replacement": "바보도", "entropy": 0.0, "counts": {"바보도": 1}}
+{"raw": "쳐맞는거", "replacement": "맞는 일", "entropy": 0.0, "counts": {"맞는 일": 1}}
+{"raw": "냄져들", "replacement": "냄새가 나는", "entropy": 0.0, "counts": {"냄새가 나는": 1}}
+{"raw": "심하노", "replacement": "심하네", "entropy": 0.0, "counts": {"심하네": 1}}
+{"raw": "엠창세대들", "replacement": "젊은 세대들", "entropy": 0.0, "counts": {"젊은 세대들": 1}}
+{"raw": "팔아먹고", "replacement": "판매하고", "entropy": 0.0, "counts": {"판매하고": 1}}
+{"raw": "씹존잘", "replacement": "매우잘생김", "entropy": 0.0, "counts": {"매우잘생김": 1}}
+{"raw": "잘하냐", "replacement": "잘하니", "entropy": 0.0, "counts": {"잘하니": 1}}
+{"raw": "터는", "replacement": "하는", "entropy": 0.0, "counts": {"하는": 1}}
+{"raw": "똥트남", "replacement": "베트남", "entropy": 0.0, "counts": {"베트남": 1}}
+{"raw": "짱", "replacement": "매우", "entropy": 1.360673760222241, "counts": {"매우": 1, "짱": 1}}
+{"raw": "좆소", "replacement": "중소기업", "entropy": 0.0, "counts": {"중소기업": 1}}
+{"raw": "방화", "replacement": "화재", "entropy": 0.0, "counts": {"화재": 1}}
+{"raw": "청래", "replacement": "청량", "entropy": 0.0, "counts": {"청량": 1}}
+{"raw": "성관계", "replacement": "관계", "entropy": 0.0, "counts": {"관계": 1}}
+{"raw": "ㄳㄳ", "replacement": "감사합니다", "entropy": 0.0, "counts": {"감사합니다": 1}}
+{"raw": "딸배", "replacement": "배달", "entropy": 0.0, "counts": {"배달": 1}}
+{"raw": "미개하네", "replacement": "미성숙하네", "entropy": 0.0, "counts": {"미성숙하네": 1}}
+{"raw": "이딴걸", "replacement": "이런 것", "entropy": 0.0, "counts": {"이런 것": 1}}
+{"raw": "ㄷ예비군서바이벌도", "replacement": "예비군서바이벌도", "entropy": 0.0, "counts": {"예비군서바이벌도": 1}}
+{"raw": "뒤지게힘들던대", "replacement": "매우 힘들던대", "entropy": 0.0, "counts": {"매우 힘들던대": 1}}
+{"raw": "틀딱들아", "replacement": "어르신들아", "entropy": 0.0, "counts": {"어르신들아": 1}}
+{"raw": "지랄똥", "replacement": "장난", "entropy": 0.0, "counts": {"장난": 1}}
+{"raw": "씹듣보잡", "replacement": "어려운 사람", "entropy": 0.0, "counts": {"어려운 사람": 1}}
+{"raw": "쌉양치", "replacement": "유쾌한", "entropy": 0.0, "counts": {"유쾌한": 1}}
+{"raw": "아니노ㄹㅇ", "replacement": "아니노 진짜", "entropy": 0.0, "counts": {"아니노 진짜": 1}}
+{"raw": "좆중복인데", "replacement": "매우중복인데", "entropy": 0.0, "counts": {"매우중복인데": 1}}
+{"raw": "작성", "replacement": "작성하기", "entropy": 0.0, "counts": {"작성하기": 1}}
+{"raw": "개병신같은", "replacement": "어려운", "entropy": 0.0, "counts": {"어려운": 1}}
+{"raw": "딸배새끼들", "replacement": "젊은이들", "entropy": 0.0, "counts": {"젊은이들": 1}}
+{"raw": "빡이친다", "replacement": "화가 난다", "entropy": 0.0, "counts": {"화가 난다": 1}}
+{"raw": "쳐올림", "replacement": "올림", "entropy": 0.0, "counts": {"올림": 1}}
+{"raw": "늦었어", "replacement": "시간이 늦었네", "entropy": 0.0, "counts": {"시간이 늦었네": 1}}
+{"raw": "되야겟노", "replacement": "되어야겠다", "entropy": 0.0, "counts": {"되어야겠다": 1}}
+{"raw": "쌉가능", "replacement": "가능", "entropy": 0.0, "counts": {"가능": 1}}
+{"raw": "씹지랄", "replacement": "무모한", "entropy": 0.0, "counts": {"무모한": 1}}
+{"raw": "개삽질", "replacement": "어색한 행동", "entropy": 0.0, "counts": {"어색한 행동": 1}}
+{"raw": "병신이니", "replacement": "어려운 사람이니", "entropy": 0.0, "counts": {"어려운 사람이니": 1}}
+{"raw": "개센징", "replacement": "한국인", "entropy": 0.0, "counts": {"한국인": 1}}
+{"raw": "고맙읍니다", "replacement": "고맙습니다", "entropy": 0.0, "counts": {"고맙습니다": 1}}
+{"raw": "쳐다도안봄", "replacement": "안 봐", "entropy": 0.0, "counts": {"안 봐": 1}}
+{"raw": "어준게이", "replacement": "어준사람", "entropy": 0.0, "counts": {"어준사람": 1}}
+{"raw": "뒤졌", "replacement": "죽었", "entropy": 0.0, "counts": {"죽었": 1}}
+{"raw": "분신", "replacement": "분신술", "entropy": 0.0, "counts": {"분신술": 1}}
+{"raw": "저딴집", "replacement": "그런 집", "entropy": 0.0, "counts": {"그런 집": 1}}
+{"raw": "틀딱픽임", "replacement": "어르신들이 좋아할 선택", "entropy": 0.0, "counts": {"어르신들이 좋아할 선택": 1}}
+{"raw": "젖탱이", "replacement": "젖가슴", "entropy": 0.0, "counts": {"젖가슴": 1}}
+{"raw": "가관이네", "replacement": "상황이네", "entropy": 0.0, "counts": {"상황이네": 1}}
+{"raw": "노괴", "replacement": "괴로움", "entropy": 0.0, "counts": {"괴로움": 1}}
+{"raw": "하는거냐", "replacement": "하는 것이니?", "entropy": 0.0, "counts": {"하는 것이니?": 1}}
+{"raw": "홍어들", "replacement": "홍어", "entropy": 0.0, "counts": {"홍어": 1}}
+{"raw": "노답이긴", "replacement": "어려운 상황이긴", "entropy": 0.0, "counts": {"어려운 상황이긴": 1}}
+{"raw": "썩겠노", "replacement": "썩겠네", "entropy": 0.0, "counts": {"썩겠네": 1}}
+{"raw": "군번", "replacement": "병역번호", "entropy": 0.0, "counts": {"병역번호": 1}}
+{"raw": "인가보네", "replacement": "인가 보다", "entropy": 0.0, "counts": {"인가 보다": 1}}
+{"raw": "노조새끼들", "replacement": "노조친구들", "entropy": 0.0, "counts": {"노조친구들": 1}}
+{"raw": "아재요", "replacement": "어르신이세요", "entropy": 0.0, "counts": {"어르신이세요": 1}}
+{"raw": "미드", "replacement": "미국드라마", "entropy": 0.0, "counts": {"미국드라마": 1}}
+{"raw": "존1나", "replacement": "매우", "entropy": 0.0, "counts": {"매우": 1}}
+{"raw": "개꼴임", "replacement": "너무 좋다", "entropy": 0.0, "counts": {"너무 좋다": 1}}
+{"raw": "서해갑문", "replacement": "서해관문", "entropy": 0.0, "counts": {"서해관문": 1}}
+{"raw": "새만금간척사업", "replacement": "새만금개발사업", "entropy": 0.0, "counts": {"새만금개발사업": 1}}
+{"raw": "도랐네", "replacement": "어이없네", "entropy": 0.0, "counts": {"어이없네": 1}}
+{"raw": "더러워", "replacement": "불쾌해", "entropy": 0.0, "counts": {"불쾌해": 1}}
+{"raw": "정신병자", "replacement": "정신적으로 어려운 사람", "entropy": 0.0, "counts": {"정신적으로 어려운 사람": 1}}
+{"raw": "섹수", "replacement": "섹스", "entropy": 0.0, "counts": {"섹스": 1}}
+{"raw": "사제락", "replacement": "사제", "entropy": 0.0, "counts": {"사제": 1}}
+{"raw": "똥남아", "replacement": "동남아", "entropy": 0.0, "counts": {"동남아": 1}}
+{"raw": "구더기임", "replacement": "곤충입니다", "entropy": 0.0, "counts": {"곤충입니다": 1}}
+{"raw": "ㅈㄴ높네", "replacement": "매우높네", "entropy": 0.0, "counts": {"매우높네": 1}}
+{"raw": "좋아쟜긔", "replacement": "좋아졌다", "entropy": 0.0, "counts": {"좋아졌다": 1}}
+{"raw": "양놈들", "replacement": "서양사람들", "entropy": 0.0, "counts": {"서양사람들": 1}}
+{"raw": "힛갤이", "replacement": "커뮤니티", "entropy": 0.0, "counts": {"커뮤니티": 1}}
+{"raw": "주작", "replacement": "거짓말", "entropy": 0.0, "counts": {"거짓말": 1}}
+{"raw": "ㅈ발리지", "replacement": "상황이 어렵다", "entropy": 0.0, "counts": {"상황이 어렵다": 1}}
+{"raw": "이러고", "replacement": "이러면서", "entropy": 0.0, "counts": {"이러면서": 1}}
+{"raw": "잇는거", "replacement": "있는 것", "entropy": 0.0, "counts": {"있는 것": 1}}
+{"raw": "젤", "replacement": "제일", "entropy": 0.0, "counts": {"제일": 1}}
+{"raw": "칰새끼들", "replacement": "친구들", "entropy": 0.0, "counts": {"친구들": 1}}
+{"raw": "ㅇㅋ", "replacement": "알겠어", "entropy": 0.0, "counts": {"알겠어": 1}}
+{"raw": "병신아", "replacement": "바보야", "entropy": 1.360673760222241, "counts": {"바보야": 1, "친구야": 1}}
+{"raw": "병신련아", "replacement": "바보야", "entropy": 0.0, "counts": {"바보야": 1}}
+{"raw": "하는새끼들이", "replacement": "하는친구들이", "entropy": 0.0, "counts": {"하는친구들이": 1}}
+{"raw": "개고수", "replacement": "매우고수", "entropy": 0.0, "counts": {"매우고수": 1}}
+{"raw": "코너", "replacement": "모서리", "entropy": 0.0, "counts": {"모서리": 1}}
+{"raw": "CCTV", "replacement": "감시카메라", "entropy": 0.0, "counts": {"감시카메라": 1}}
+{"raw": "밭", "replacement": "농지", "entropy": 0.0, "counts": {"농지": 1}}
+{"raw": "낼름하다", "replacement": "빨리 먹다", "entropy": 0.0, "counts": {"빨리 먹다": 1}}
+{"raw": "골치아프다", "replacement": "어렵다", "entropy": 0.0, "counts": {"어렵다": 1}}
+{"raw": "CD", "replacement": "음반", "entropy": 0.0, "counts": {"음반": 1}}
+{"raw": "기", "replacement": "것", "entropy": 0.0, "counts": {"것": 1}}
+{"raw": "남", "replacement": "남자", "entropy": 0.0, "counts": {"남자": 1}}
+{"raw": "주워가다", "replacement": "줍다", "entropy": 0.0, "counts": {"줍다": 1}}
+{"raw": "붙이다", "replacement": "부착하다", "entropy": 0.0, "counts": {"부착하다": 1}}
+{"raw": "고퀄이다", "replacement": "고퀄리티이다", "entropy": 0.0, "counts": {"고퀄리티이다": 1}}
+{"raw": "지랄해서", "replacement": "이상하게 행동해서", "entropy": 0.0, "counts": {"이상하게 행동해서": 1}}
+{"raw": "전과4범", "replacement": "범죄 이력이 있는", "entropy": 0.0, "counts": {"범죄 이력이 있는": 1}}
+{"raw": "총각사칭해", "replacement": "남자라고 주장해", "entropy": 0.0, "counts": {"남자라고 주장해": 1}}
+{"raw": "여배우먹은", "replacement": "여배우를 언급한", "entropy": 0.0, "counts": {"여배우를 언급한": 1}}
+{"raw": "이재명퇴출하자", "replacement": "이재명을 제외하자", "entropy": 0.0, "counts": {"이재명을 제외하자": 1}}
+{"raw": "속았다", "replacement": "믿지 못했다", "entropy": 0.0, "counts": {"믿지 못했다": 1}}
+{"raw": "합장하지마라", "replacement": "합장하지 말라", "entropy": 0.0, "counts": {"합장하지 말라": 1}}
+{"raw": "높넹", "replacement": "높은", "entropy": 0.0, "counts": {"높은": 1}}
+{"raw": "새끼들임", "replacement": "친구들임", "entropy": 0.0, "counts": {"친구들임": 1}}
+{"raw": "외노자", "replacement": "외국인 노동자", "entropy": 0.0, "counts": {"외국인 노동자": 1}}
+{"raw": "난민", "replacement": "이주민", "entropy": 0.0, "counts": {"이주민": 1}}
+{"raw": "개씹명작", "replacement": "명작", "entropy": 0.0, "counts": {"명작": 1}}
+{"raw": "조타", "replacement": "좋다", "entropy": 0.0, "counts": {"좋다": 1}}
+{"raw": "섬짱깨들", "replacement": "섬 중국인들", "entropy": 0.0, "counts": {"섬 중국인들": 1}}
+{"raw": "미친놈", "replacement": "미친사람", "entropy": 0.0, "counts": {"미친사람": 1}}
+{"raw": "틀딱인데", "replacement": "어르신인데", "entropy": 0.0, "counts": {"어르신인데": 1}}
+{"raw": "뒤질때까지", "replacement": "죽을때까지", "entropy": 0.0, "counts": {"죽을때까지": 1}}
+{"raw": "쌔끈한", "replacement": "멋잇는", "entropy": 0.0, "counts": {"멋잇는": 1}}
+{"raw": "힙찔이", "replacement": "래퍼", "entropy": 0.0, "counts": {"래퍼": 1}}
+{"raw": "개쩐다", "replacement": "매우좋다", "entropy": 1.360673760222241, "counts": {"매우좋다": 1, "매우 대단하다": 1}}
+{"raw": "개쩔더라", "replacement": "너무 좋다", "entropy": 0.0, "counts": {"너무 좋다": 1}}
+{"raw": "밥버러지년들", "replacement": "밥을 많이 먹는 사람들", "entropy": 0.0, "counts": {"밥을 많이 먹는 사람들": 1}}
+{"raw": "ㅇㄱㄹㅇ", "replacement": "진짜", "entropy": 0.0, "counts": {"진짜": 1}}
+{"raw": "미친놈으로", "replacement": "정신적으로 힘든 사람으로", "entropy": 0.0, "counts": {"정신적으로 힘든 사람으로": 1}}
+{"raw": "도태한녀들", "replacement": "한국여자들", "entropy": 0.0, "counts": {"한국여자들": 1}}
+{"raw": "비수마", "replacement": "잘해", "entropy": 0.0, "counts": {"잘해": 1}}
+{"raw": "개잘해", "replacement": "잘해", "entropy": 0.0, "counts": {"잘해": 1}}
+{"raw": "갓벽하네", "replacement": "완벽하네", "entropy": 0.0, "counts": {"완벽하네": 1}}
+{"raw": "꺼임", "replacement": "꺼짐", "entropy": 0.0, "counts": {"꺼짐": 1}}
+{"raw": "군캉스", "replacement": "군대", "entropy": 0.0, "counts": {"군대": 1}}
+{"raw": "처누워서", "replacement": "누워서", "entropy": 0.0, "counts": {"누워서": 1}}
+{"raw": "처먹으면서", "replacement": "먹으면서", "entropy": 0.0, "counts": {"먹으면서": 1}}
+{"raw": "ㅅㄲ들", "replacement": "친구들", "entropy": 0.0, "counts": {"친구들": 1}}
+{"raw": "ㅈ소", "replacement": "작은회사", "entropy": 0.0, "counts": {"작은회사": 1}}
+{"raw": "병ㅅ들", "replacement": "바보들", "entropy": 0.0, "counts": {"바보들": 1}}
+{"raw": "ㅈ소임", "replacement": "작은회사임", "entropy": 0.0, "counts": {"작은회사임": 1}}
+{"raw": "ㅈ소거르란", "replacement": "중소기업거르란", "entropy": 0.0, "counts": {"중소기업거르란": 1}}
+{"raw": "ㅂㅅ들", "replacement": "바보들", "entropy": 0.0, "counts": {"바보들": 1}}
+{"raw": "ㅈ도안줌", "replacement": "매우안줌", "entropy": 0.0, "counts": {"매우안줌": 1}}
+{"raw": "ㅈ소에", "replacement": "중소기업", "entropy": 0.0, "counts": {"중소기업": 1}}
+{"raw": "찍소리", "replacement": "말하다", "entropy": 0.0, "counts": {"말하다": 1}}
+{"raw": "ㅅㅂㅋㅋㅋ", "replacement": "이런ㅋㅋㅋ", "entropy": 0.0, "counts": {"이런ㅋㅋㅋ": 1}}
+{"raw": "무틀딱", "replacement": "무언가", "entropy": 0.0, "counts": {"무언가": 1}}
+{"raw": "역겨운걸", "replacement": "불쾌한 것", "entropy": 0.0, "counts": {"불쾌한 것": 1}}
+{"raw": "싸는것도", "replacement": "하는것도", "entropy": 0.0, "counts": {"하는것도": 1}}
+{"raw": "벽안눈나", "replacement": "벽안누나", "entropy": 0.0, "counts": {"벽안누나": 1}}
+{"raw": "틀딱들한테", "replacement": "늙은이들한테", "entropy": 0.0, "counts": {"늙은이들한테": 1}}
+{"raw": "코묻은", "replacement": "코가 묻은", "entropy": 0.0, "counts": {"코가 묻은": 1}}
+{"raw": "조지라고", "replacement": "조지라고요", "entropy": 0.0, "counts": {"조지라고요": 1}}
+{"raw": "언플", "replacement": "홍보", "entropy": 0.0, "counts": {"홍보": 1}}
+{"raw": "코인충들", "replacement": "코인쟁이들", "entropy": 0.0, "counts": {"코인쟁이들": 1}}
+{"raw": "처먹는거", "replacement": "먹는 것", "entropy": 0.0, "counts": {"먹는 것": 1}}
+{"raw": "돼지새뀌들", "replacement": "돼지들", "entropy": 0.0, "counts": {"돼지들": 1}}
+{"raw": "응원하냐", "replacement": "응원하니?", "entropy": 0.0, "counts": {"응원하니?": 1}}
+{"raw": "승부조작", "replacement": "경기 조작", "entropy": 0.0, "counts": {"경기 조작": 1}}
+{"raw": "폭행", "replacement": "폭력", "entropy": 0.0, "counts": {"폭력": 1}}
+{"raw": "드러운짓", "replacement": "부적절한 행동", "entropy": 0.0, "counts": {"부적절한 행동": 1}}
+{"raw": "ㅂㅅ같이", "replacement": "바보같이", "entropy": 0.0, "counts": {"바보같이": 1}}
+{"raw": "칭챙죠센징", "replacement": "한국인", "entropy": 0.0, "counts": {"한국인": 1}}
+{"raw": "탄단지섬", "replacement": "탄수화물,단백질,지방,섬유질", "entropy": 0.0, "counts": {"탄수화물,단백질,지방,섬유질": 1}}
+{"raw": "난리치는", "replacement": "시끄러운", "entropy": 0.0, "counts": {"시끄러운": 1}}
+{"raw": "속시원하노", "replacement": "속시원하다", "entropy": 0.0, "counts": {"속시원하다": 1}}
+{"raw": "짱깨공작", "replacement": "중국공작", "entropy": 0.0, "counts": {"중국공작": 1}}
+{"raw": "ㅈ됐노", "replacement": "됐다", "entropy": 0.0, "counts": {"됐다": 1}}
+{"raw": "새끼야", "replacement": "아이야", "entropy": 0.0, "counts": {"아이야": 1}}
+{"raw": "틀구이들", "replacement": "늙은이들", "entropy": 0.0, "counts": {"늙은이들": 1}}
+{"raw": "공주", "replacement": "여왕", "entropy": 0.0, "counts": {"여왕": 1}}
+{"raw": "편견", "replacement": "선입견", "entropy": 0.0, "counts": {"선입견": 1}}
+{"raw": "없애고", "replacement": "제거하고", "entropy": 0.0, "counts": {"제거하고": 1}}
+{"raw": "진정한", "replacement": "진실한", "entropy": 0.0, "counts": {"진실한": 1}}
+{"raw": "지향해라", "replacement": "지향해", "entropy": 0.0, "counts": {"지향해": 1}}
+{"raw": "윤썩렬", "replacement": "윤석렬", "entropy": 0.0, "counts": {"윤석렬": 1}}
+{"raw": "한녀들", "replacement": "한국여자들", "entropy": 0.0, "counts": {"한국여자들": 1}}
+{"raw": "솔킬", "replacement": "솔로킬", "entropy": 0.0, "counts": {"솔로킬": 1}}
+{"raw": "처따이고", "replacement": "매우 지고", "entropy": 0.0, "counts": {"매우 지고": 1}}
+{"raw": "개절면서", "replacement": "매우 절면서", "entropy": 0.0, "counts": {"매우 절면서": 1}}
+{"raw": "꾸역승", "replacement": "어렵게 승리", "entropy": 0.0, "counts": {"어렵게 승리": 1}}
+{"raw": "따먹다", "replacement": "먹다", "entropy": 0.0, "counts": {"먹다": 1}}
+{"raw": "세일가스", "replacement": "할인가스", "entropy": 0.0, "counts": {"할인가스": 1}}
+{"raw": "빨아제끼는", "replacement": "흡입하는", "entropy": 0.0, "counts": {"흡입하는": 1}}
+{"raw": "쳐박고", "replacement": "매우박고", "entropy": 0.0, "counts": {"매우박고": 1}}
+{"raw": "좆됐노", "replacement": "안 좋게 됐구나", "entropy": 0.0, "counts": {"안 좋게 됐구나": 1}}
+{"raw": "씹호감이노", "replacement": "호감이다", "entropy": 0.0, "counts": {"호감이다": 1}}
+{"raw": "개이야", "replacement": "친구야", "entropy": 0.0, "counts": {"친구야": 1}}
+{"raw": "미친년들", "replacement": "특별한 사람들", "entropy": 0.0, "counts": {"특별한 사람들": 1}}
+{"raw": "ㅅㅌㅊ임", "replacement": "매우좋음", "entropy": 0.0, "counts": {"매우좋음": 1}}
+{"raw": "병맛이", "replacement": "개구진것이", "entropy": 0.0, "counts": {"개구진것이": 1}}
+{"raw": "잡으로", "replacement": "일로", "entropy": 0.0, "counts": {"일로": 1}}
+{"raw": "파는줄", "replacement": "파는지", "entropy": 0.0, "counts": {"파는지": 1}}
+{"raw": "개미알밥단들", "replacement": "식사하는 사람들", "entropy": 0.0, "counts": {"식사하는 사람들": 1}}
+{"raw": "차리노", "replacement": "차리네", "entropy": 0.0, "counts": {"차리네": 1}}
+{"raw": "개지리노", "replacement": "대단하다", "entropy": 0.0, "counts": {"대단하다": 1}}
+{"raw": "보지가리개", "replacement": "가리개", "entropy": 0.0, "counts": {"가리개": 1}}
+{"raw": "아닌거임", "replacement": "아니라고", "entropy": 0.0, "counts": {"아니라고": 1}}
+{"raw": "씨부리며", "replacement": "이야기하며", "entropy": 0.0, "counts": {"이야기하며": 1}}
+{"raw": "고트다", "replacement": "가다", "entropy": 0.0, "counts": {"가다": 1}}
+{"raw": "개꿀이네", "replacement": "너무좋네", "entropy": 0.0, "counts": {"너무좋네": 1}}
+{"raw": "실험쥐새끼들", "replacement": "실험쥐친구들", "entropy": 0.0, "counts": {"실험쥐친구들": 1}}
+{"raw": "꺼무위키", "replacement": "나무위키", "entropy": 0.0, "counts": {"나무위키": 1}}
+{"raw": "문재앙일당", "replacement": "문재인 관련 그룹", "entropy": 0.0, "counts": {"문재인 관련 그룹": 1}}
+{"raw": "뚱년들보다", "replacement": "뚱뚱한여자보다", "entropy": 0.0, "counts": {"뚱뚱한여자보다": 1}}
+{"raw": "덴마크년들이", "replacement": "덴마크여자들이", "entropy": 0.0, "counts": {"덴마크여자들이": 1}}
+{"raw": "개쌔끈하긴함ㅇㅇ", "replacement": "매우쌔끈하긴함ㅇㅇ", "entropy": 0.0, "counts": {"매우쌔끈하긴함ㅇㅇ": 1}}
+{"raw": "초졸이냐", "replacement": "초등학교 졸업이냐", "entropy": 0.0, "counts": {"초등학교 졸업이냐": 1}}
+{"raw": "짱개인지", "replacement": "중국인인지", "entropy": 0.0, "counts": {"중국인인지": 1}}
+{"raw": "홍들짝해서", "replacement": "화들짝", "entropy": 0.0, "counts": {"화들짝": 1}}
+{"raw": "개좆듣보", "replacement": "처음들어본", "entropy": 0.0, "counts": {"처음들어본": 1}}
+{"raw": "고순가", "replacement": "고순이", "entropy": 0.0, "counts": {"고순이": 1}}
+{"raw": "ㅊㅊ", "replacement": "축하", "entropy": 0.0, "counts": {"축하": 1}}
+{"raw": "노오력", "replacement": "노력", "entropy": 0.0, "counts": {"노력": 1}}
+{"raw": "킹전자", "replacement": "유전자", "entropy": 0.0, "counts": {"유전자": 1}}
+{"raw": "듣보노", "replacement": "듣보지", "entropy": 0.0, "counts": {"듣보지": 1}}
+{"raw": "노잼", "replacement": "재미없음", "entropy": 0.0, "counts": {"재미없음": 1}}
+{"raw": "존나잘생겼네", "replacement": "매우잘생겼네", "entropy": 0.0, "counts": {"매우잘생겼네": 1}}
+{"raw": "한통속일게", "replacement": "같은편", "entropy": 0.0, "counts": {"같은편": 1}}
+{"raw": "자적자", "replacement": "자유롭게", "entropy": 0.0, "counts": {"자유롭게": 1}}
+{"raw": "비추", "replacement": "비추천", "entropy": 0.0, "counts": {"비추천": 1}}
+{"raw": "이새끼들", "replacement": "이친구들", "entropy": 0.0, "counts": {"이친구들": 1}}
+{"raw": "좆박음", "replacement": "문제가 있음", "entropy": 0.0, "counts": {"문제가 있음": 1}}
+{"raw": "좆선", "replacement": "상황", "entropy": 0.0, "counts": {"상황": 1}}
+{"raw": "새낀가", "replacement": "사람인가", "entropy": 0.0, "counts": {"사람인가": 1}}
+{"raw": "간호년들", "replacement": "간호사 여자들", "entropy": 0.0, "counts": {"간호사 여자들": 1}}
