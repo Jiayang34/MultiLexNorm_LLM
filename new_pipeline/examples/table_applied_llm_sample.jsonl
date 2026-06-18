@@ -37,3 +37,4 @@
 {"Token_id": 211, "Sentence_id": 14, "Token_index": 3, "RAW": "again", "Gold_NORM": "again", "Detector_label": "O", "Detector_confidence": 0.9999886751174927, "Replacement": "again", "Dictionary_entropy": null, "Source": "keep"}
 {"Token_id": 212, "Sentence_id": 14, "Token_index": 4, "RAW": "was", "Gold_NORM": "was", "Detector_label": "O", "Detector_confidence": 0.9999891519546509, "Replacement": "was", "Dictionary_entropy": null, "Source": "keep"}
 {"Token_id": 213, "Sentence_id": 14, "Token_index": 5, "RAW": "good'o", "Gold_NORM": "good", "Detector_label": "O", "Detector_confidence": 0.9978571534156799, "Replacement": "good'o", "Dictionary_entropy": null, "Source": "keep"}
+

@@ -168,7 +168,7 @@ python external/machamp/train.py \
 
 ```bash
 python external/machamp/predict.py \
-  models/machamp/detector_en_xlmr_0/model.pt \
+  models/machamp/detector_en_xlmr/model.pt \
   data/detector_train/detector_dev_en.tsv \
   data/detector_output/detector_en.confidence.out \
   --dataset detector_en \

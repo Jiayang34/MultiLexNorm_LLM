@@ -13,6 +13,8 @@ from src.config import (
     DEV_RATIO,
     DICTIONARY_PATH,
     ENTROPY_THRESHOLD,
+    GOLD_PATH,
+    IS_VAL,
     KEEP_LABEL,
     LANGUAGE,
     NORM_LABEL,
@@ -65,6 +67,21 @@ def load_dev_gold():
         }
         for sent_id, record in enumerate(records[:dev_size])
     ]
+
+
+def load_gold_jsonl(path):
+    records = []
+    with path.open(encoding="utf-8") as reader:
+        for line in reader:
+            if line.strip():
+                records.append(json.loads(line))
+    return records
+
+
+def load_gold_sentences():
+    if IS_VAL:
+        return load_gold_jsonl(GOLD_PATH)
+    return load_dev_gold()
 
 
 # Decide token label
@@ -243,9 +260,9 @@ def main():
     )
     args = parser.parse_args()
 
-    # Inputs: dictionary, dev raw/norm data, detector output
+    # Inputs: dictionary, target raw/norm data, detector output
     dictionary = load_dictionary(args.dictionary)
-    gold_sentences = load_dev_gold()
+    gold_sentences = load_gold_sentences()
     detector_sentences = read_detector_output(args.detector_output)
 
     # Apply dictionary replacement to detector output and build table
