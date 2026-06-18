@@ -51,8 +51,6 @@ DEV:
 - `src/run_llm.py`: run LLM inference and merge results.
 - `src/evaluate_pipeline.py`: evaluate final pipeline results.
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
-- `src/search_thresholds.py`: run a real detector and entropy threshold grid search with reusable caches.
-- `src/plot_threshold_results.py`: plot final ERR and F1 from threshold search results.
 
 ### Example data
 
@@ -97,30 +95,14 @@ ollama pull qwen3.5:9b
 ollama list
 ```
 
-### DeepSeek API
-
-Set the API key in the shell instead of storing it in the repository:
-
-```bash
-export DEEPSEEK_API_KEY="your-api-key"
-```
-
-The model is selected with the `MODEL` setting in `src/config.py` or the
-`--model` command-line option. Models whose names start with `deepseek-` use
-the DeepSeek API; all other model names use the local Ollama API.
-
 ## 2. Run
 
-### Check Default Language and Thresholds
+### Choose Language
 
-Open `config.py`:
+Change language in `src/config.py`
 
 ```bash
-LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
-DETECTOR_THRESHOLD = float(os.getenv("PIPELINE_DETECTOR_THRESHOLD", "0.5"))
-ENTROPY_THRESHOLD = float(os.getenv("PIPELINE_ENTROPY_THRESHOLD", "0.5"))
-MODEL = os.getenv("MODEL", "qwen3.5:9b")
-
+LANGUAGE = "en"
 ```
 
 ### Model Preparation
@@ -133,57 +115,24 @@ python -m src.execute_prepare_detector
 
 ### Run Pipeline
 
-Run detector prediction, build dictionary, apply dictionary, build LLM
-prompts, run LLM inference, and evaluate:
+Run detector prediction, build dictionary, apply dictionary, build LLM prompts, and run LLM:
 
 ```bash
-python -m src.execute_run_pipeline \
-  --language en \
-  --detector-threshold 0.5 \
-  --entropy-threshold 0.5 \
-  --model qwen3.5:9b
+python -m src.execute_run_pipeline
 ```
 
-Pipeline outputs dir:
+## 3. Evaluate
 
-```text
-data/qwen3.5:9b/en_0.5_0.5/
-```
-
-## 3. Analyze Thresholds
-
-### Grid Search
-
-Run pipeline for threshold grid search (reuse cache including LLM):
+Evaluate `overall_final`, `detector`, `dictionary_source`, and `llm_source`:
 
 ```bash
-python -m src.search_thresholds \
-  --language en \
-  --model deepseek-v4-pro
+python -m src.evaluate_pipeline
 ```
 
 This creates:
 
 ```text
-data/deepseek-v4-pro/en_thresholds/
-```
-
-### Plot Grid Search Results
-
-Plot entropy threshold against final ERR and F1, with one line per detector
-threshold in each figure:
-
-```bash
-python -m src.plot_threshold_results \
-  --language en \
-  --model deepseek-v4-pro
-```
-
-This creates:
-
-```text
-data/deepseek-v4-pro/en_thresholds/threshold_entropy_err_en.png
-data/deepseek-v4-pro/en_thresholds/threshold_entropy_f1_en.png
+data/evaluation_summary_en.json
 ```
 
 # Appendix
@@ -200,8 +149,8 @@ This creates:
 
 ```text
 MaChAmp dataset config: models/machamp/configs/machamp_detector_en.json
-Data for training: models/machamp/train_dev/en/detector_train_en.tsv
-Data for evaluation: models/machamp/train_dev/en/detector_dev_en.tsv
+Data for training: data/detector_train/detector_train_en.tsv
+Data for evaluation: data/detector_train/detector_dev_en.tsv
 ```
 
 
@@ -230,8 +179,8 @@ python external/machamp/predict.py \
 This creates:
 
 ```text
-data/qwen3.5:9b/en_0.5_0.5/detector_output/detector_en.confidence.out
-data/qwen3.5:9b/en_0.5_0.5/detector_output/detector_en.confidence.out.eval
+data/detector_output/detector_en.confidence.out
+data/detector_output/detector_en.confidence.out.eval
 ```
 
 4. Build MFR dictionary from TRAIN data:
@@ -243,7 +192,7 @@ python -m src.build_dictionary
 This creates:
 
 ```text
-data/qwen3.5:9b/en_0.5_0.5/dictionary_en.jsonl
+data/dictionary_en.jsonl
 ```
 
 5. Apply dictionary lookup to detector predictions:
@@ -255,8 +204,8 @@ python -m src.apply_dictionary
 This creates:
 
 ```text
-data/qwen3.5:9b/en_0.5_0.5/table_applied_dictionary_en.jsonl
-data/qwen3.5:9b/en_0.5_0.5/llm_candidates_en.jsonl
+data/table_applied_dictionary_en.jsonl
+data/llm_candidates_en.jsonl
 ```
 
 6. Build LLM prompts for remaining candidates:
@@ -268,57 +217,25 @@ python -m src.build_llm_prompts
 This creates:
 
 ```text
-data/qwen3.5:9b/en_0.5_0.5/llm_prompts_en.jsonl
+data/llm_prompts_en.jsonl
 ```
 
 7. Run LLM inference
 
-With Ollama:
-
 ```bash
-python -m src.run_llm --model qwen3.5:9b
-```
-
-With DeepSeek:
-
-```bash
-export DEEPSEEK_API_KEY="your-api-key"
-python -m src.run_llm --model deepseek-v4-pro
-```
-
-`src.run_llm` reads and writes all LLM files in the current experiment
-directory. Threshold-search caches are managed internally by
-`src.search_thresholds`.
-
-This creates:
-
-```text
-data/qwen3.5:9b/en_0.5_0.5/llm_candidates_applied_llm_en.jsonl
-data/qwen3.5:9b/en_0.5_0.5/table_applied_llm_en.jsonl
-```
-
-8. Evaluation
-
-Evaluate the final result:
-
-```bash
-python -m src.evaluate_pipeline \
-  --language en \
-  --model qwen3.5:9b \
-  --detector-threshold 0.5 \
-  --entropy-threshold 0.5
+python -m src.run_llm
 ```
 
 This creates:
 
 ```text
-data/qwen3.5:9b/en_0.5_0.5/evaluation_summary_en.json
+data/llm_candidates_applied_llm_en.jsonl
+data/table_applied_llm_en.jsonl
 ```
 
 ## Master Table
 
-`data/qwen3.5:9b/en_0.5_0.5/table_applied_dictionary_en.jsonl` and
-`data/qwen3.5:9b/en_0.5_0.5/table_applied_llm_en.jsonl` use
+`data/table_applied_dictionary_en.jsonl` and `data/table_applied_llm_en.jsonl` use
 one JSON object per token:
 
 ```json

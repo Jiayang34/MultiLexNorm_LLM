@@ -1,0 +1,48 @@
+import subprocess
+import sys
+
+from src.config import (
+    IS_VAL,
+    DETECTOR_CONFIDENCE_PATH,
+    DETECTOR_DEVICE,
+    DETECTOR_MODEL_PATH,
+    MACHAMP_DATASET_NAME,
+    MACHAMP_PREDICT_INPUT_PATH,
+)
+
+
+def run_command(command):
+    # Run one pipeline command and stop if it fails.
+    print("Running:", " ".join(str(part) for part in command))
+    subprocess.run(command, check=True)
+
+
+def main():
+    # Run the 2026 LLM pipeline end to end after detector preparation.
+    DETECTOR_CONFIDENCE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    if IS_VAL:
+        run_command([sys.executable, "-m", "src.prepare_validation_data"])
+    run_command(
+        [
+            sys.executable,
+            "external/machamp/predict.py",
+            str(DETECTOR_MODEL_PATH),
+            str(MACHAMP_PREDICT_INPUT_PATH),
+            str(DETECTOR_CONFIDENCE_PATH),
+            "--dataset",
+            MACHAMP_DATASET_NAME,
+            "--device",
+            DETECTOR_DEVICE,
+            "--topn",
+            "4",
+        ]
+    )
+    if not IS_VAL:
+        run_command([sys.executable, "-m", "src.build_dictionary"])
+    run_command([sys.executable, "-m", "src.apply_dictionary"])
+    run_command([sys.executable, "-m", "src.build_llm_prompts"])
+    run_command([sys.executable, "-m", "src.run_llm"])
+
+
+if __name__ == "__main__":
+    main()
