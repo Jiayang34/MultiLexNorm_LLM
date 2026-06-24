@@ -20,6 +20,25 @@
       "err": 0.5096065873741993
     }
   },
+  "sentence_level": {
+    "count": 308,
+    "correct": 48,
+    "incorrect": 260,
+    "confusion": {
+      "TP": 47,
+      "FP": 0,
+      "TN": 1,
+      "FN": 260
+    },
+    "scores": {
+      "accuracy": 0.15584415584415584,
+      "precision": 1.0,
+      "recall": 0.15309446254071662,
+      "f1": 0.2655367231638418,
+      "lai": 0.003246753246753247,
+      "err": 0.15309446254071662
+    }
+  },
   "detector": {
     "count": 3863,
     "confusion": {
