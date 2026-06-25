@@ -1,0 +1,32 @@
+{
+    "norm_detect": {
+        "optimization_metrics": "f1_macro",
+        "f1_macro": {
+            "precision_O": 0.9913552263981867,
+            "recall_O": 0.9853819553599497,
+            "f1_O": 0.9883595659142864,
+            "precision_NORM_1WORD": 0.6923076923076923,
+            "recall_NORM_1WORD": 0.7429906542056075,
+            "f1_NORM_1WORD": 0.7167543200601052,
+            "precision_NORM_2WORD": 0.6367924528301887,
+            "recall_NORM_2WORD": 0.9507042253521126,
+            "f1_NORM_2WORD": 0.7627118644067797,
+            "precision_NORM_3PLUS": 0.0,
+            "recall_NORM_3PLUS": 0.0,
+            "f1_NORM_3PLUS": 0.0,
+            "precision_macro": 0.5801138428840169,
+            "recall_macro": 0.6697692087294175,
+            "f1_macro": 0.6169564375952928,
+            "sum": "f1_macro"
+        },
+        "accuracy": {
+            "accuracy": 0.9772041062801933
+        },
+        "f1_micro": {
+            "precision_micro": 0.9772041062801933,
+            "recall_micro": 0.9772041062801933,
+            "f1_micro": 0.9772041062801933
+        }
+    },
+    "sum": 0.6169564375952928
+}

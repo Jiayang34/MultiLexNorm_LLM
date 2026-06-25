@@ -1,0 +1,1748 @@
+{"raw": "oooh", "replacement": "Oh", "entropy": 0.0, "counts": {"Oh": 3}}
+{"raw": "dn", "replacement": "dan", "entropy": 0.9192114372551928, "counts": {"dan": 14, "Dan": 2, "doen": 1}}
+{"raw": "da", "replacement": "dat", "entropy": 0.24804724213013377, "counts": {"dat": 27, "dan": 1}}
+{"raw": "glijk", "replacement": "gelijk", "entropy": 0.0, "counts": {"gelijk": 2}}
+{"raw": "omg", "replacement": "Omg", "entropy": 0.0, "counts": {"Omg": 2}}
+{"raw": "kzat", "replacement": "ik zat", "entropy": 0.0, "counts": {"ik zat": 1}}
+{"raw": "witre", "replacement": "witte", "entropy": 0.0, "counts": {"witte": 1}}
+{"raw": "ss", "replacement": "sowieso", "entropy": 0.0, "counts": {"sowieso": 1}}
+{"raw": "beswll", "replacement": "best wel", "entropy": 0.0, "counts": {"best wel": 3}}
+{"raw": "Tzal", "replacement": "het zal", "entropy": 1.360673760222241, "counts": {"het zal": 1, "Het zal": 1}}
+{"raw": "kzou", "replacement": "ik zou", "entropy": 0.9534256512751409, "counts": {"Ik zou": 3, "ik zou": 7}}
+{"raw": "goe", "replacement": "goed", "entropy": 0.23488721766668152, "counts": {"goed": 29, "goede": 1}}
+{"raw": "vrouwke", "replacement": "vrouwtje", "entropy": 1.360673760222241, "counts": {"vrouwtje": 1, "vrouw": 1}}
+{"raw": "moete", "replacement": "moeten", "entropy": 0.7147270241606074, "counts": {"moeten": 14, "moet je": 3}}
+{"raw": "hebbe", "replacement": "hebben", "entropy": 0.0, "counts": {"hebben": 8}}
+{"raw": "hoo", "replacement": "hoor", "entropy": 0.0, "counts": {"hoor": 1}}
+{"raw": "rnu", "replacement": "nu", "entropy": 0.0, "counts": {"nu": 1}}
+{"raw": "dagobert", "replacement": "Dagobert", "entropy": 0.0, "counts": {"Dagobert": 1}}
+{"raw": "duck", "replacement": "Duck", "entropy": 0.0, "counts": {"Duck": 1}}
+{"raw": "'t", "replacement": "het", "entropy": 1.2510922201214525, "counts": {"'t": 1, "Het": 3, "het": 9}}
+{"raw": "Ikkuhh", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "maarruuhh", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "kuchkucg", "replacement": "kuch kuch", "entropy": 0.0, "counts": {"kuch kuch": 1}}
+{"raw": "kuchkuch", "replacement": "kuch kuch", "entropy": 0.0, "counts": {"kuch kuch": 1}}
+{"raw": "neje", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 2}}
+{"raw": "bwa", "replacement": "Bwa", "entropy": 1.1587450075359835, "counts": {"Bwa": 2, "bwa": 1}}
+{"raw": "derbovenop", "replacement": "Er bovenop", "entropy": 0.0, "counts": {"Er bovenop": 1}}
+{"raw": "betje", "replacement": "beetje", "entropy": 0.0, "counts": {"beetje": 1}}
+{"raw": "tregent", "replacement": "Het regent", "entropy": 0.0, "counts": {"Het regent": 1}}
+{"raw": "ierts", "replacement": "iets", "entropy": 0.0, "counts": {"iets": 1}}
+{"raw": "zulln", "replacement": "zullen", "entropy": 0.0, "counts": {"zullen": 4}}
+{"raw": "vertrekkn", "replacement": "vertrekken", "entropy": 0.0, "counts": {"vertrekken": 1}}
+{"raw": "Ge", "replacement": "Jij", "entropy": 1.360673760222241, "counts": {"Jij": 1, "jij": 1}}
+{"raw": "so'n", "replacement": "zo'n", "entropy": 0.0, "counts": {"zo'n": 1}}
+{"raw": "kuntje", "replacement": "kutje", "entropy": 0.0, "counts": {"kutje": 1}}
+{"raw": "Toe", "replacement": "Toen", "entropy": 0.0, "counts": {"Toen": 1}}
+{"raw": "ek", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 1}}
+{"raw": "n", "replacement": "een", "entropy": 0.0, "counts": {"een": 5}}
+{"raw": "toilette", "replacement": "toilet", "entropy": 0.0, "counts": {"toilet": 1}}
+{"raw": "buite", "replacement": "buiten", "entropy": 0.0, "counts": {"buiten": 6}}
+{"raw": "gebreek", "replacement": "gebrek", "entropy": 0.0, "counts": {"gebrek": 1}}
+{"raw": "ookal", "replacement": "ook al", "entropy": 0.0, "counts": {"ook al": 1}}
+{"raw": "skool", "replacement": "school", "entropy": 0.0, "counts": {"school": 2}}
+{"raw": "gedoen", "replacement": "gedaan", "entropy": 0.0, "counts": {"gedaan": 1}}
+{"raw": "insameling", "replacement": "inzameling", "entropy": 0.0, "counts": {"inzameling": 1}}
+{"raw": "gehou", "replacement": "gehouden", "entropy": 0.0, "counts": {"gehouden": 1}}
+{"raw": "glo", "replacement": "geloof", "entropy": 1.360673760222241, "counts": {"geloof": 1, "geloven": 1}}
+{"raw": "my", "replacement": "mijn", "entropy": 1.6594896026324615, "counts": {"mij": 1, "mijn": 3, "me": 1}}
+{"raw": "seker", "replacement": "zeker", "entropy": 0.0, "counts": {"zeker": 1}}
+{"raw": "max", "replacement": "maximaal", "entropy": 0.0, "counts": {"maximaal": 1}}
+{"raw": "ryk", "replacement": "rijke", "entropy": 0.0, "counts": {"rijke": 1}}
+{"raw": "kinders", "replacement": "kinderen", "entropy": 0.0, "counts": {"kinderen": 1}}
+{"raw": "almal", "replacement": "allemaal", "entropy": 0.0, "counts": {"allemaal": 1}}
+{"raw": "ouers", "replacement": "ouders", "entropy": 0.0, "counts": {"ouders": 1}}
+{"raw": "Neeje", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 5}}
+{"raw": "denkek", "replacement": "denk ik", "entropy": 0.0, "counts": {"denk ik": 7}}
+{"raw": "Tgaat", "replacement": "Het gaat", "entropy": 0.0, "counts": {"Het gaat": 2}}
+{"raw": "ve", "replacement": "van", "entropy": 0.0, "counts": {"van": 1}}
+{"raw": "nwe", "replacement": "nieuwe", "entropy": 0.0, "counts": {"nieuwe": 2}}
+{"raw": "voir", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 1}}
+{"raw": "ff", "replacement": "even", "entropy": 0.43103309102005205, "counts": {"even": 23, "Even": 2}}
+{"raw": "cpb", "replacement": "CPB", "entropy": 0.0, "counts": {"CPB": 1}}
+{"raw": "gij", "replacement": "jij", "entropy": 0.5050740342346481, "counts": {"jij": 10, "Jij": 1}}
+{"raw": "gr", "replacement": "Groetjes", "entropy": 0.0, "counts": {"Groetjes": 1}}
+{"raw": "hvj", "replacement": "hou van jou", "entropy": 0.0, "counts": {"hou van jou": 1}}
+{"raw": "daa", "replacement": "daar", "entropy": 0.0, "counts": {"daar": 1}}
+{"raw": "fishstick", "replacement": "visstick", "entropy": 0.0, "counts": {"visstick": 1}}
+{"raw": "khad", "replacement": "ik had", "entropy": 1.115220098543565, "counts": {"Ik had": 2, "ik had": 3}}
+{"raw": "morgend", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "shoukriya", "replacement": "Shoukriya", "entropy": 0.0, "counts": {"Shoukriya": 1}}
+{"raw": "kben", "replacement": "ik ben", "entropy": 0.9874176743587106, "counts": {"ik ben": 12, "Ik ben": 7}}
+{"raw": "mn", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 31}}
+{"raw": "gevalle", "replacement": "gevallen", "entropy": 0.0, "counts": {"gevallen": 1}}
+{"raw": "gewoonm", "replacement": "gewoon", "entropy": 0.0, "counts": {"gewoon": 1}}
+{"raw": "Ick", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "magh", "replacement": "mag", "entropy": 0.0, "counts": {"mag": 1}}
+{"raw": "hoopen", "replacement": "hopen", "entropy": 0.0, "counts": {"hopen": 1}}
+{"raw": "zeeckers", "replacement": "zeker", "entropy": 0.0, "counts": {"zeker": 1}}
+{"raw": "belegh", "replacement": "beleg", "entropy": 0.0, "counts": {"beleg": 1}}
+{"raw": "aenkomet", "replacement": "aankomt", "entropy": 0.0, "counts": {"aankomt": 1}}
+{"raw": "aja", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "kdacht", "replacement": "ik dacht", "entropy": 0.0, "counts": {"ik dacht": 3}}
+{"raw": "marjan", "replacement": "Marjan", "entropy": 0.0, "counts": {"Marjan": 1}}
+{"raw": "Kga", "replacement": "Ik ga", "entropy": 1.479131820806519, "counts": {"ik ga": 2, "Ik ga": 5, "Ik": 1}}
+{"raw": "Kben", "replacement": "Ik ben", "entropy": 1.0399810500215263, "counts": {"ik ben": 5, "Ik ben": 7}}
+{"raw": "vd", "replacement": "van de", "entropy": 0.0, "counts": {"van de": 9}}
+{"raw": "én", "replacement": "en", "entropy": 0.0, "counts": {"en": 4}}
+{"raw": "hiertg", "replacement": "hier tegen", "entropy": 0.0, "counts": {"hier tegen": 1}}
+{"raw": "THUIS", "replacement": "thuis", "entropy": 0.0, "counts": {"thuis": 1}}
+{"raw": "Lieventje", "replacement": "Lieverd", "entropy": 0.0, "counts": {"Lieverd": 1}}
+{"raw": "zillegem", "replacement": "Zillegem", "entropy": 0.0, "counts": {"Zillegem": 1}}
+{"raw": "Jups", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "diets", "replacement": "die is", "entropy": 0.0, "counts": {"die is": 1}}
+{"raw": "aant", "replacement": "aan het", "entropy": 0.0, "counts": {"aan het": 34}}
+{"raw": "wtf", "replacement": "Wtf", "entropy": 0.9916150045702532, "counts": {"Wtf": 3, "wtf": 1}}
+{"raw": "ovr", "replacement": "over", "entropy": 0.0, "counts": {"over": 2}}
+{"raw": "etn", "replacement": "eten", "entropy": 0.0, "counts": {"eten": 1}}
+{"raw": "ant", "replacement": "aan het", "entropy": 0.0, "counts": {"aan het": 6}}
+{"raw": "prate", "replacement": "praten", "entropy": 0.0, "counts": {"praten": 1}}
+{"raw": "hiere", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 3}}
+{"raw": "fwa", "replacement": "of wat", "entropy": 1.360673760222241, "counts": {"of wat": 1, "ofwat": 1}}
+{"raw": "nr", "replacement": "naar", "entropy": 0.0, "counts": {"naar": 7}}
+{"raw": "vnvnd", "replacement": "vanavond", "entropy": 0.0, "counts": {"vanavond": 4}}
+{"raw": "tzal", "replacement": "het zal", "entropy": 1.059607258790091, "counts": {"Het zal": 5, "het zal": 6}}
+{"raw": "alf", "replacement": "half", "entropy": 0.0, "counts": {"half": 1}}
+{"raw": "uurke", "replacement": "uur", "entropy": 0.0, "counts": {"uur": 1}}
+{"raw": "tzijn", "replacement": "Het zijn", "entropy": 1.1803368801111205, "counts": {"Het zijn": 2, "het zijn": 2}}
+{"raw": "nie", "replacement": "niet", "entropy": 0.3496182913972408, "counts": {"niet": 17, "": 1}}
+{"raw": "typkes", "replacement": "types", "entropy": 0.0, "counts": {"types": 1}}
+{"raw": "sebiet", "replacement": "straks", "entropy": 1.146726177718505, "counts": {"straks": 7, "Straks": 1, "sebiet": 1}}
+{"raw": "vriendinne", "replacement": "vriendinnen", "entropy": 0.0, "counts": {"vriendinnen": 1}}
+{"raw": "worde", "replacement": "worden", "entropy": 0.0, "counts": {"worden": 6}}
+{"raw": "Jah", "replacement": "Ja", "entropy": 0.8661975989762587, "counts": {"Ja": 4, "ja": 1}}
+{"raw": "Kmoet", "replacement": "ik moet", "entropy": 1.360673760222241, "counts": {"ik moet": 1, "Ik moet": 1}}
+{"raw": "Sgoed", "replacement": "Is goed", "entropy": 0.0, "counts": {"Is goed": 2}}
+{"raw": "rubenkan", "replacement": "ruben kan", "entropy": 0.0, "counts": {"ruben kan": 1}}
+{"raw": "ni", "replacement": "niet", "entropy": 0.28900854262760595, "counts": {"niet": 75, "Niet": 2, "ni": 1}}
+{"raw": "kpeis", "replacement": "Ik denk", "entropy": 0.0, "counts": {"Ik denk": 1}}
+{"raw": "mss", "replacement": "misschien", "entropy": 0.38692530416311804, "counts": {"misschien": 27, "Misschien": 2}}
+{"raw": "idd", "replacement": "inderdaad", "entropy": 1.3059121993496572, "counts": {"inderdaad": 10, "Inderdaad": 6, "inderaad": 1}}
+{"raw": "'m", "replacement": "hem", "entropy": 1.1587450075359835, "counts": {"hem": 2, "met": 1}}
+{"raw": "ti", "replacement": "Het is", "entropy": 0.0, "counts": {"Het is": 2}}
+{"raw": "roar", "replacement": "raar", "entropy": 0.0, "counts": {"raar": 1}}
+{"raw": "daj", "replacement": "dat je", "entropy": 1.1587450075359835, "counts": {"dat je": 2, "Dat je": 1}}
+{"raw": "kzo", "replacement": "ik zou", "entropy": 0.0, "counts": {"ik zou": 1}}
+{"raw": "bitje", "replacement": "beetje", "entropy": 0.0, "counts": {"beetje": 1}}
+{"raw": "zi", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "ma", "replacement": "maar", "entropy": 0.47228551057808077, "counts": {"Maar": 2, "maar": 20}}
+{"raw": "kga", "replacement": "ik ga", "entropy": 1.3377246889738261, "counts": {"ik ga": 9, "Ik ga": 6, "Ik": 1}}
+{"raw": "wa", "replacement": "wat", "entropy": 0.0, "counts": {"wat": 11}}
+{"raw": "ete", "replacement": "eten", "entropy": 0.0, "counts": {"eten": 1}}
+{"raw": "klaarmake", "replacement": "klaarmaken", "entropy": 0.0, "counts": {"klaarmaken": 1}}
+{"raw": "nzo", "replacement": "enzo", "entropy": 0.0, "counts": {"enzo": 1}}
+{"raw": "sbiet", "replacement": "straks", "entropy": 0.0, "counts": {"straks": 2}}
+{"raw": "ne", "replacement": "een", "entropy": 0.40144916971772016, "counts": {"een": 14, "Een": 1}}
+{"raw": "vree", "replacement": "vrij", "entropy": 0.0, "counts": {"vrij": 1}}
+{"raw": "goeien", "replacement": "goeie", "entropy": 0.0, "counts": {"goeie": 1}}
+{"raw": "dg", "replacement": "dag", "entropy": 1.1587450075359835, "counts": {"dag": 2, "dat": 1}}
+{"raw": "gistren", "replacement": "gisteren", "entropy": 0.0, "counts": {"gisteren": 1}}
+{"raw": "enn", "replacement": "En", "entropy": 0.0, "counts": {"En": 1}}
+{"raw": "BAMMM", "replacement": "Bam", "entropy": 0.0, "counts": {"Bam": 1}}
+{"raw": "gewonne", "replacement": "Gewonnen", "entropy": 0.0, "counts": {"Gewonnen": 1}}
+{"raw": "es", "replacement": "eens", "entropy": 0.0, "counts": {"eens": 5}}
+{"raw": "zjin", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "oreavl", "replacement": "overal", "entropy": 0.0, "counts": {"overal": 1}}
+{"raw": "gnezern", "replacement": "grenzen", "entropy": 0.0, "counts": {"grenzen": 1}}
+{"raw": "dta", "replacement": "Dat", "entropy": 0.0, "counts": {"Dat": 1}}
+{"raw": "meot", "replacement": "moet", "entropy": 0.0, "counts": {"moet": 2}}
+{"raw": "lreen", "replacement": "leren", "entropy": 0.0, "counts": {"leren": 1}}
+{"raw": "waz", "replacement": "Was", "entropy": 1.360673760222241, "counts": {"Was": 1, "was": 1}}
+{"raw": "aan't", "replacement": "aan het", "entropy": 0.0, "counts": {"aan het": 4}}
+{"raw": "volge", "replacement": "volgen", "entropy": 0.0, "counts": {"volgen": 4}}
+{"raw": "wannabeez", "replacement": "Wannabeez", "entropy": 0.0, "counts": {"Wannabeez": 1}}
+{"raw": "Kzal", "replacement": "Ik zal", "entropy": 0.9661702143444141, "counts": {"Ik zal": 5, "ik zal": 2}}
+{"raw": "zitte", "replacement": "zitten", "entropy": 0.8443542310024515, "counts": {"zitten": 7, "zit": 2}}
+{"raw": "erveel", "replacement": "er veel", "entropy": 0.0, "counts": {"er veel": 1}}
+{"raw": "princesse", "replacement": "prinsessen", "entropy": 0.0, "counts": {"prinsessen": 1}}
+{"raw": "na", "replacement": "naar", "entropy": 1.1803368801111205, "counts": {"naar": 2, "na": 2}}
+{"raw": "juste", "replacement": "juist", "entropy": 1.1587450075359835, "counts": {"juiste": 1, "juist": 2}}
+{"raw": "kijke", "replacement": "kijken", "entropy": 0.0, "counts": {"kijken": 1}}
+{"raw": "Kheb", "replacement": "Ik heb", "entropy": 0.0, "counts": {"Ik heb": 5}}
+{"raw": "Jou", "replacement": "jou", "entropy": 0.0, "counts": {"jou": 1}}
+{"raw": "zeijn", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "oeeh", "replacement": "Oeeh", "entropy": 0.0, "counts": {"Oeeh": 1}}
+{"raw": "kwas", "replacement": "ik was", "entropy": 0.6947224243601106, "counts": {"ik was": 6, "Ik was": 1}}
+{"raw": "Ok", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 3}}
+{"raw": "comp", "replacement": "computer", "entropy": 0.0, "counts": {"computer": 1}}
+{"raw": "Etc", "replacement": "Etcetera", "entropy": 0.0, "counts": {"Etcetera": 1}}
+{"raw": "etc", "replacement": "etcetera", "entropy": 0.0, "counts": {"etcetera": 1}}
+{"raw": "mnd", "replacement": "maanden", "entropy": 0.0, "counts": {"maanden": 1}}
+{"raw": "dwz", "replacement": "dat wil zeggen", "entropy": 0.0, "counts": {"dat wil zeggen": 1}}
+{"raw": "Dankoe", "replacement": "Dankje", "entropy": 0.0, "counts": {"Dankje": 1}}
+{"raw": "watte", "replacement": "Wat", "entropy": 0.0, "counts": {"Wat": 1}}
+{"raw": "ist", "replacement": "is het", "entropy": 0.382374286644794, "counts": {"is het": 15, "Is het": 1}}
+{"raw": "wss", "replacement": "waarschijnlijk", "entropy": 0.5050740342346481, "counts": {"waarschijnlijk": 10, "Waarschijnlijk": 1}}
+{"raw": "gwn", "replacement": "gewoon", "entropy": 0.0, "counts": {"gewoon": 24}}
+{"raw": "prive", "replacement": "privé", "entropy": 0.0, "counts": {"privé": 10}}
+{"raw": "nen", "replacement": "een", "entropy": 0.3651891659823677, "counts": {"een": 16, "het": 1}}
+{"raw": "mechelen", "replacement": "Mechelen", "entropy": 0.0, "counts": {"Mechelen": 1}}
+{"raw": "dnaz", "replacement": "dan", "entropy": 0.0, "counts": {"dan": 1}}
+{"raw": "aub", "replacement": "alstublieft", "entropy": 0.5050740342346481, "counts": {"alstublieft": 10, "alsublieft": 1}}
+{"raw": "Servie", "replacement": "Servië", "entropy": 0.0, "counts": {"Servië": 1}}
+{"raw": "mevr.", "replacement": "mevrouw", "entropy": 0.0, "counts": {"mevrouw": 1}}
+{"raw": "poepigg", "replacement": "schattig", "entropy": 0.0, "counts": {"schattig": 1}}
+{"raw": "Jaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "Lachuh", "replacement": "Lachen", "entropy": 0.0, "counts": {"Lachen": 1}}
+{"raw": "enz.", "replacement": "enzo", "entropy": 0.0, "counts": {"enzo": 3}}
+{"raw": "ge", "replacement": "je", "entropy": 1.0721347520444482, "counts": {"je": 5, "jij": 5}}
+{"raw": "goeste", "replacement": "zin", "entropy": 0.0, "counts": {"zin": 1}}
+{"raw": "ebt", "replacement": "hebt", "entropy": 0.0, "counts": {"hebt": 3}}
+{"raw": "enen", "replacement": "eens", "entropy": 0.0, "counts": {"eens": 7}}
+{"raw": "komn", "replacement": "komen", "entropy": 0.0, "counts": {"komen": 3}}
+{"raw": "drinkn", "replacement": "drinken", "entropy": 0.0, "counts": {"drinken": 14}}
+{"raw": "liift", "replacement": "lift", "entropy": 0.0, "counts": {"lift": 1}}
+{"raw": "Vndg", "replacement": "Vandaag", "entropy": 0.0, "counts": {"Vandaag": 1}}
+{"raw": "20j", "replacement": "20 jaar", "entropy": 0.0, "counts": {"20 jaar": 1}}
+{"raw": "Ebk", "replacement": "Heb ik", "entropy": 0.0, "counts": {"Heb ik": 1}}
+{"raw": "so", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "Oeveel", "replacement": "Hoeveel", "entropy": 0.0, "counts": {"Hoeveel": 2}}
+{"raw": "hebk", "replacement": "heb ik", "entropy": 0.0, "counts": {"heb ik": 3}}
+{"raw": "hoooo", "replacement": "Ho", "entropy": 0.0, "counts": {"Ho": 1}}
+{"raw": "tande", "replacement": "tanden", "entropy": 0.0, "counts": {"tanden": 1}}
+{"raw": "doort", "replacement": "door het", "entropy": 0.0, "counts": {"door het": 1}}
+{"raw": "plastik", "replacement": "plastic", "entropy": 0.0, "counts": {"plastic": 1}}
+{"raw": "zowiezo", "replacement": "sowieso", "entropy": 0.0, "counts": {"sowieso": 2}}
+{"raw": "oe", "replacement": "hoe", "entropy": 1.1587450075359835, "counts": {"Hoe": 1, "hoe": 2}}
+{"raw": "bijv", "replacement": "bijvoorbeeld", "entropy": 0.0, "counts": {"bijvoorbeeld": 1}}
+{"raw": "CS", "replacement": "centraal station", "entropy": 0.0, "counts": {"centraal station": 1}}
+{"raw": "i.p.v.", "replacement": "in plaats van", "entropy": 0.0, "counts": {"in plaats van": 3}}
+{"raw": "jorn", "replacement": "Jorn", "entropy": 0.0, "counts": {"Jorn": 1}}
+{"raw": "geraken", "replacement": "te komen", "entropy": 1.360673760222241, "counts": {"te komen": 1, "geraken": 1}}
+{"raw": "Vnvnd", "replacement": "Vanavond", "entropy": 0.8661975989762587, "counts": {"Vanavond": 4, "vanavond": 1}}
+{"raw": "rsca", "replacement": "Anderlecht", "entropy": 0.0, "counts": {"Anderlecht": 3}}
+{"raw": "jaa", "replacement": "Ja", "entropy": 1.0446024429805252, "counts": {"Ja": 5, "ja": 3}}
+{"raw": "t", "replacement": "het", "entropy": 0.0, "counts": {"het": 11}}
+{"raw": "ffies", "replacement": "even", "entropy": 0.0, "counts": {"even": 2}}
+{"raw": "mr", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 8}}
+{"raw": "kheb", "replacement": "ik heb", "entropy": 0.9784488282572075, "counts": {"ik heb": 14, "Ik heb": 8}}
+{"raw": "gedult", "replacement": "geduld", "entropy": 0.0, "counts": {"geduld": 1}}
+{"raw": "naart", "replacement": "naar het", "entropy": 0.0, "counts": {"naar het": 1}}
+{"raw": "calorieen", "replacement": "calorieën", "entropy": 0.0, "counts": {"calorieën": 1}}
+{"raw": "pizzaatje", "replacement": "pizza", "entropy": 0.0, "counts": {"pizza": 1}}
+{"raw": "nogthans", "replacement": "nochtans", "entropy": 0.0, "counts": {"nochtans": 1}}
+{"raw": "vnv", "replacement": "vanavond", "entropy": 0.0, "counts": {"vanavond": 5}}
+{"raw": "Eddet", "replacement": "Heb je", "entropy": 0.0, "counts": {"Heb je": 1}}
+{"raw": "mja", "replacement": "Maar ja", "entropy": 0.8011200801483715, "counts": {"Maar ja": 11, "maar ja": 3}}
+{"raw": "verandere", "replacement": "veranderen", "entropy": 0.0, "counts": {"veranderen": 1}}
+{"raw": "oeps", "replacement": "Oeps", "entropy": 0.0, "counts": {"Oeps": 1}}
+{"raw": "kmocht", "replacement": "ik mocht", "entropy": 0.0, "counts": {"ik mocht": 1}}
+{"raw": "lache", "replacement": "lachen", "entropy": 0.0, "counts": {"lachen": 2}}
+{"raw": "rammstein", "replacement": "Rammstein", "entropy": 0.0, "counts": {"Rammstein": 1}}
+{"raw": "oek", "replacement": "ook", "entropy": 0.0, "counts": {"ook": 2}}
+{"raw": "blijve", "replacement": "blijven", "entropy": 0.0, "counts": {"blijven": 5}}
+{"raw": "plakke", "replacement": "plakken", "entropy": 0.0, "counts": {"plakken": 1}}
+{"raw": "kzal", "replacement": "ik zal", "entropy": 1.0512157228883472, "counts": {"Ik zal": 6, "ik zal": 7}}
+{"raw": "iet", "replacement": "iets", "entropy": 0.0, "counts": {"iets": 6}}
+{"raw": "wete", "replacement": "weten", "entropy": 0.9369136750557678, "counts": {"weten": 10, "weetje nog": 1, "Weten": 1}}
+{"raw": "zegge", "replacement": "zeggen", "entropy": 0.0, "counts": {"zeggen": 3}}
+{"raw": "alsk", "replacement": "als ik", "entropy": 1.115220098543565, "counts": {"als ik": 3, "Als ik": 2}}
+{"raw": "smiddags", "replacement": "'s middags", "entropy": 0.0, "counts": {"'s middags": 1}}
+{"raw": "ipv", "replacement": "in plaats van", "entropy": 0.0, "counts": {"in plaats van": 5}}
+{"raw": "supperman", "replacement": "Superman", "entropy": 0.0, "counts": {"Superman": 1}}
+{"raw": "noonman", "replacement": "Noonman", "entropy": 0.0, "counts": {"Noonman": 1}}
+{"raw": "ivm", "replacement": "in verband met", "entropy": 0.0, "counts": {"in verband met": 4}}
+{"raw": "lieveke", "replacement": "lieverd", "entropy": 0.0, "counts": {"lieverd": 1}}
+{"raw": "wiitje", "replacement": "wijntje", "entropy": 0.0, "counts": {"wijntje": 1}}
+{"raw": "jaat", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "oei", "replacement": "Oei", "entropy": 1.1587450075359835, "counts": {"Oei": 2, "oei": 1}}
+{"raw": "tegn", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 1}}
+{"raw": "geoie", "replacement": "goede", "entropy": 0.0, "counts": {"goede": 1}}
+{"raw": "vuilbak", "replacement": "vuilnisbak", "entropy": 0.0, "counts": {"vuilnisbak": 1}}
+{"raw": "z'n", "replacement": "zijn", "entropy": 0.9916150045702532, "counts": {"z'n": 1, "zijn": 3}}
+{"raw": "'n", "replacement": "een", "entropy": 0.0, "counts": {"een": 11}}
+{"raw": "jr", "replacement": "jaar", "entropy": 0.0, "counts": {"jaar": 1}}
+{"raw": "2á3", "replacement": "2 a 3", "entropy": 0.0, "counts": {"2 a 3": 1}}
+{"raw": "ned", "replacement": "Nederland", "entropy": 0.0, "counts": {"Nederland": 2}}
+{"raw": "ita", "replacement": "Italië", "entropy": 0.0, "counts": {"Italië": 1}}
+{"raw": "Nope", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 2}}
+{"raw": "brah", "replacement": "broer", "entropy": 0.0, "counts": {"broer": 1}}
+{"raw": "son", "replacement": "zon", "entropy": 0.0, "counts": {"zon": 1}}
+{"raw": "sien", "replacement": "zien", "entropy": 0.0, "counts": {"zien": 1}}
+{"raw": "sakke", "replacement": "zakken", "entropy": 1.360673760222241, "counts": {"zakken": 1, "sakke": 1}}
+{"raw": "kzie", "replacement": "Ik zie", "entropy": 1.360673760222241, "counts": {"Ik zie": 1, "ik zie": 1}}
+{"raw": "ier", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 4}}
+{"raw": "rondhuppeln", "replacement": "rondhuppelen", "entropy": 0.0, "counts": {"rondhuppelen": 1}}
+{"raw": "em", "replacement": "hem", "entropy": 0.8661975989762587, "counts": {"hem": 4, "het": 1}}
+{"raw": "dreigemente", "replacement": "dreigementen", "entropy": 0.0, "counts": {"dreigementen": 1}}
+{"raw": "geve", "replacement": "geven", "entropy": 0.0, "counts": {"geven": 1}}
+{"raw": "politiedinge", "replacement": "politiedingen", "entropy": 0.0, "counts": {"politiedingen": 1}}
+{"raw": "tis", "replacement": "het is", "entropy": 1.8104671030651547, "counts": {"het is": 2, "Het is": 2, "het zijn": 1}}
+{"raw": "tgaat", "replacement": "het gaat", "entropy": 0.0, "counts": {"het gaat": 1}}
+{"raw": "o.a.", "replacement": "onder andere", "entropy": 0.0, "counts": {"onder andere": 2}}
+{"raw": "baltsje", "replacement": "balletje", "entropy": 0.0, "counts": {"balletje": 1}}
+{"raw": "trappe", "replacement": "trappen", "entropy": 0.0, "counts": {"trappen": 1}}
+{"raw": "pakketsje", "replacement": "pakket", "entropy": 0.0, "counts": {"pakket": 1}}
+{"raw": "Omda", "replacement": "Omdat", "entropy": 0.0, "counts": {"Omdat": 1}}
+{"raw": "één", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "kzout", "replacement": "Ik zou het", "entropy": 0.0, "counts": {"Ik zou het": 2}}
+{"raw": "wteen", "replacement": "weten", "entropy": 0.0, "counts": {"weten": 1}}
+{"raw": "liefjuhhh", "replacement": "liefje", "entropy": 0.0, "counts": {"liefje": 1}}
+{"raw": "weekresult", "replacement": "weekresultaat", "entropy": 0.0, "counts": {"weekresultaat": 1}}
+{"raw": "omda", "replacement": "omdat", "entropy": 0.9916150045702532, "counts": {"omdat": 3, "Omdat": 1}}
+{"raw": "dak", "replacement": "dat ik", "entropy": 0.8661975989762587, "counts": {"dat ik": 4, "Dat ik": 1}}
+{"raw": "Zoalsch", "replacement": "Zoals", "entropy": 0.0, "counts": {"Zoals": 1}}
+{"raw": "Eevenzogoed", "replacement": "Evenzogoed", "entropy": 0.0, "counts": {"Evenzogoed": 1}}
+{"raw": "isch", "replacement": "is", "entropy": 0.0, "counts": {"is": 1}}
+{"raw": "wercken", "replacement": "werken", "entropy": 0.0, "counts": {"werken": 1}}
+{"raw": "tevensch", "replacement": "tevens", "entropy": 0.0, "counts": {"tevens": 1}}
+{"raw": "speelen", "replacement": "spelen", "entropy": 0.0, "counts": {"spelen": 1}}
+{"raw": "Waaaah", "replacement": "Wat", "entropy": 0.0, "counts": {"Wat": 1}}
+{"raw": "zeggeej", "replacement": "zeg je", "entropy": 0.0, "counts": {"zeg je": 1}}
+{"raw": "achja", "replacement": "Ach ja", "entropy": 0.0, "counts": {"Ach ja": 1}}
+{"raw": "Danku", "replacement": "Dank u", "entropy": 1.360673760222241, "counts": {"Dank u": 1, "Dankje": 1}}
+{"raw": "Schatje", "replacement": "schatje", "entropy": 0.0, "counts": {"schatje": 1}}
+{"raw": "Kvondet", "replacement": "ik vond het", "entropy": 0.0, "counts": {"ik vond het": 2}}
+{"raw": "wajoo", "replacement": "Wajoo", "entropy": 0.0, "counts": {"Wajoo": 1}}
+{"raw": "jj", "replacement": "jij", "entropy": 0.0, "counts": {"jij": 3}}
+{"raw": "Cafe", "replacement": "Café", "entropy": 0.0, "counts": {"Café": 1}}
+{"raw": "k", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 5}}
+{"raw": "Wsl", "replacement": "Waarschijnlijk", "entropy": 0.0, "counts": {"Waarschijnlijk": 1}}
+{"raw": "nav", "replacement": "naar aanleiding van", "entropy": 1.1587450075359835, "counts": {"naar aanleding van": 1, "naar aanleiding van": 2}}
+{"raw": "Rdam-Charlois", "replacement": "Rotterdam - Charlois", "entropy": 0.0, "counts": {"Rotterdam - Charlois": 1}}
+{"raw": "ajax", "replacement": "Ajax", "entropy": 0.0, "counts": {"Ajax": 1}}
+{"raw": "Kusjekus", "replacement": "Kus", "entropy": 0.0, "counts": {"Kus": 1}}
+{"raw": "Vlg", "replacement": "Volgens", "entropy": 0.0, "counts": {"Volgens": 1}}
+{"raw": "heeeeel", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "nederland", "replacement": "Nederland", "entropy": 0.0, "counts": {"Nederland": 1}}
+{"raw": "niemeer", "replacement": "niet meer", "entropy": 0.0, "counts": {"niet meer": 3}}
+{"raw": "dimitri_mimeus", "replacement": "Dimitri_mimeus", "entropy": 0.0, "counts": {"Dimitri_mimeus": 1}}
+{"raw": "toetsn", "replacement": "toetsen", "entropy": 0.0, "counts": {"toetsen": 1}}
+{"raw": "morgn", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 3}}
+{"raw": "lern", "replacement": "leren", "entropy": 0.0, "counts": {"leren": 1}}
+{"raw": "tgn", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 1}}
+{"raw": "moja", "replacement": "Maar ja", "entropy": 0.0, "counts": {"Maar ja": 1}}
+{"raw": "wassek", "replacement": "was ik", "entropy": 0.0, "counts": {"was ik": 1}}
+{"raw": "denke", "replacement": "denken", "entropy": 0.0, "counts": {"denken": 1}}
+{"raw": "mo", "replacement": "maar", "entropy": 2.065860847684144, "counts": {"maar": 1, "Mo": 1, "mo": 1}}
+{"raw": "kwil", "replacement": "Ik wil", "entropy": 1.115220098543565, "counts": {"ik wil": 2, "Ik wil": 3}}
+{"raw": "offet", "replacement": "of het", "entropy": 0.0, "counts": {"of het": 1}}
+{"raw": "Lekka", "replacement": "Lekker", "entropy": 0.0, "counts": {"Lekker": 1}}
+{"raw": "lekka", "replacement": "lekker", "entropy": 0.0, "counts": {"lekker": 1}}
+{"raw": "Waarom", "replacement": "Waarnom", "entropy": 0.0, "counts": {"Waarnom": 1}}
+{"raw": "enneuh", "replacement": "En", "entropy": 0.0, "counts": {"En": 1}}
+{"raw": "mense", "replacement": "mensen", "entropy": 0.6337328832551566, "counts": {"mensen": 7, "Mensen": 1}}
+{"raw": "hande", "replacement": "handen", "entropy": 0.0, "counts": {"handen": 1}}
+{"raw": "un", "replacement": "een", "entropy": 0.9916150045702532, "counts": {"hun": 1, "een": 3}}
+{"raw": "kdenket", "replacement": "ik denk het", "entropy": 0.0, "counts": {"ik denk het": 1}}
+{"raw": "zoekt", "replacement": "Zoekt", "entropy": 0.0, "counts": {"Zoekt": 1}}
+{"raw": "vriende", "replacement": "vrienden", "entropy": 0.0, "counts": {"vrienden": 2}}
+{"raw": "tss", "replacement": "tussen", "entropy": 1.1587450075359835, "counts": {"Tussen": 1, "tussen": 2}}
+{"raw": "gwne", "replacement": "Gewoon", "entropy": 0.0, "counts": {"Gewoon": 1}}
+{"raw": "gn", "replacement": "gaan", "entropy": 1.9052815255146571, "counts": {"geen": 5, "ga": 1, "gaan": 7, "Geen": 4}}
+{"raw": "Jaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "maaar", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "waaar", "replacement": "waar", "entropy": 0.0, "counts": {"waar": 1}}
+{"raw": "jongeen", "replacement": "jongen", "entropy": 0.0, "counts": {"jongen": 1}}
+{"raw": "slagoffers", "replacement": "slachtoffers", "entropy": 0.0, "counts": {"slachtoffers": 1}}
+{"raw": "roekelose", "replacement": "roekeloos", "entropy": 0.0, "counts": {"roekeloos": 1}}
+{"raw": "Vanav", "replacement": "Vanavond", "entropy": 0.0, "counts": {"Vanavond": 1}}
+{"raw": "fillumpjuh", "replacement": "filmpje", "entropy": 0.0, "counts": {"filmpje": 1}}
+{"raw": "mans", "replacement": "man", "entropy": 0.0, "counts": {"man": 1}}
+{"raw": "warr", "replacement": "Waar", "entropy": 0.0, "counts": {"Waar": 1}}
+{"raw": "zittn", "replacement": "zitten", "entropy": 0.0, "counts": {"zitten": 4}}
+{"raw": "kem", "replacement": "Kem", "entropy": 2.3547366071540514, "counts": {"Kem": 2, "kem": 1, "kom": 1, "Ik heb hem": 1}}
+{"raw": "nja", "replacement": "Ja", "entropy": 0.6947224243601106, "counts": {"ja": 1, "Ja": 6}}
+{"raw": "tege", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 5}}
+{"raw": "gekome", "replacement": "gekomen", "entropy": 0.0, "counts": {"gekomen": 1}}
+{"raw": "euh", "replacement": "Euh", "entropy": 0.0, "counts": {"Euh": 1}}
+{"raw": "afleveringske", "replacement": "aflevering", "entropy": 0.0, "counts": {"aflevering": 1}}
+{"raw": "zone", "replacement": "zon", "entropy": 0.0, "counts": {"zon": 1}}
+{"raw": "ondertusse", "replacement": "ondertussen", "entropy": 0.0, "counts": {"ondertussen": 1}}
+{"raw": "3x", "replacement": "3 keer", "entropy": 0.0, "counts": {"3 keer": 2}}
+{"raw": "m’n", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 1}}
+{"raw": "tog", "replacement": "toch", "entropy": 0.0, "counts": {"toch": 3}}
+{"raw": "med", "replacement": "met", "entropy": 0.0, "counts": {"met": 1}}
+{"raw": "uhn", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "dhus", "replacement": "Dus", "entropy": 0.0, "counts": {"Dus": 1}}
+{"raw": "kank", "replacement": "kan ik", "entropy": 0.0, "counts": {"kan ik": 4}}
+{"raw": "niej", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 8}}
+{"raw": "hebek", "replacement": "heb ik", "entropy": 0.0, "counts": {"heb ik": 1}}
+{"raw": "gdn", "replacement": "gedaan", "entropy": 0.0, "counts": {"gedaan": 1}}
+{"raw": "triske", "replacement": "Triske", "entropy": 0.0, "counts": {"Triske": 2}}
+{"raw": "Neeee", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "kindja", "replacement": "kind", "entropy": 0.0, "counts": {"kind": 1}}
+{"raw": "hm", "replacement": "hem", "entropy": 0.0, "counts": {"hem": 1}}
+{"raw": "dr", "replacement": "er", "entropy": 1.585975942340687, "counts": {"er": 4, "door": 3, "Er": 1}}
+{"raw": "thnx", "replacement": "Thnx", "entropy": 0.0, "counts": {"Thnx": 1}}
+{"raw": "iig", "replacement": "in ieder geval", "entropy": 0.0, "counts": {"in ieder geval": 7}}
+{"raw": "rkk", "replacement": "rijk", "entropy": 0.0, "counts": {"rijk": 1}}
+{"raw": "tzelfde", "replacement": "hetzelfde", "entropy": 0.0, "counts": {"hetzelfde": 1}}
+{"raw": "seg", "replacement": "Zeg", "entropy": 0.6337328832551566, "counts": {"Zeg": 7, "zeg": 1}}
+{"raw": "der", "replacement": "er", "entropy": 0.9916150045702532, "counts": {"er": 3, "die": 1}}
+{"raw": "GEFELICIFLAPSTAART", "replacement": "Gefeliciteerd", "entropy": 0.0, "counts": {"Gefeliciteerd": 1}}
+{"raw": "strax", "replacement": "straks", "entropy": 0.0, "counts": {"straks": 3}}
+{"raw": "GDM", "replacement": "Goedemorgen", "entropy": 0.0, "counts": {"Goedemorgen": 1}}
+{"raw": "prttig", "replacement": "prettige", "entropy": 0.0, "counts": {"prettige": 1}}
+{"raw": "wnt", "replacement": "Want", "entropy": 1.1587450075359835, "counts": {"want": 1, "Want": 2}}
+{"raw": "dees", "replacement": "deze", "entropy": 0.0, "counts": {"deze": 2}}
+{"raw": "nt", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 6}}
+{"raw": "ssshhhtttt", "replacement": "Shit", "entropy": 0.0, "counts": {"Shit": 1}}
+{"raw": "mene", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 3}}
+{"raw": "wachte", "replacement": "wachten", "entropy": 0.0, "counts": {"wachten": 2}}
+{"raw": "Jep", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "Okido", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "okido", "replacement": "oké", "entropy": 0.0, "counts": {"oké": 1}}
+{"raw": "Jaaaah", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "zedde", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "weeral", "replacement": "alweer", "entropy": 0.0, "counts": {"alweer": 2}}
+{"raw": "groepkes", "replacement": "groepjes", "entropy": 0.0, "counts": {"groepjes": 1}}
+{"raw": "miss", "replacement": "Misschien", "entropy": 1.360673760222241, "counts": {"Misschien": 1, "misschien": 1}}
+{"raw": "kunne", "replacement": "kunnen", "entropy": 0.0, "counts": {"kunnen": 2}}
+{"raw": "enzow", "replacement": "enzo", "entropy": 0.0, "counts": {"enzo": 1}}
+{"raw": "Aja", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "just", "replacement": "juist", "entropy": 1.360673760222241, "counts": {"juist": 1, "just": 1}}
+{"raw": "Wer", "replacement": "Waar", "entropy": 0.0, "counts": {"Waar": 1}}
+{"raw": "gulder", "replacement": "Gulder", "entropy": 0.0, "counts": {"Gulder": 1}}
+{"raw": "ojaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "zulle", "replacement": "zullen", "entropy": 0.0, "counts": {"zullen": 1}}
+{"raw": "maile", "replacement": "mailen", "entropy": 0.0, "counts": {"mailen": 1}}
+{"raw": "joaah", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "hijs", "replacement": "hij is", "entropy": 0.0, "counts": {"hij is": 2}}
+{"raw": "moooii", "replacement": "mooi", "entropy": 0.0, "counts": {"mooi": 1}}
+{"raw": "Nav", "replacement": "Naar aanleiding van", "entropy": 0.0, "counts": {"Naar aanleiding van": 1}}
+{"raw": "oa", "replacement": "onder andere", "entropy": 0.0, "counts": {"onder andere": 3}}
+{"raw": "v", "replacement": "van", "entropy": 1.4920783408693168, "counts": {"van": 4, "v": 1, "voor": 1}}
+{"raw": "vh", "replacement": "van het", "entropy": 0.0, "counts": {"van het": 1}}
+{"raw": "verwarmn", "replacement": "verwarmen", "entropy": 0.0, "counts": {"verwarmen": 1}}
+{"raw": "zalt", "replacement": "zal het", "entropy": 0.0, "counts": {"zal het": 2}}
+{"raw": "dats", "replacement": "Dat is", "entropy": 0.0, "counts": {"Dat is": 1}}
+{"raw": "genaait", "replacement": "genaaid", "entropy": 0.0, "counts": {"genaaid": 1}}
+{"raw": "dann", "replacement": "dan", "entropy": 0.0, "counts": {"dan": 1}}
+{"raw": "kmoe", "replacement": "Ik moet", "entropy": 1.1587450075359835, "counts": {"Ik moet": 2, "ik moet": 1}}
+{"raw": "verre", "replacement": "verder", "entropy": 0.0, "counts": {"verder": 1}}
+{"raw": "plekke", "replacement": "plekken", "entropy": 0.0, "counts": {"plekken": 1}}
+{"raw": "Da's", "replacement": "Dat is", "entropy": 0.0, "counts": {"Dat is": 1}}
+{"raw": "int", "replacement": "in het", "entropy": 0.9916150045702532, "counts": {"in het": 3, "in de": 1}}
+{"raw": "ahja", "replacement": "Ahja", "entropy": 0.0, "counts": {"Ahja": 1}}
+{"raw": "da's", "replacement": "dat is", "entropy": 0.0, "counts": {"dat is": 3}}
+{"raw": "geleje", "replacement": "geleden", "entropy": 0.0, "counts": {"geleden": 1}}
+{"raw": "et", "replacement": "het", "entropy": 0.8661975989762587, "counts": {"het": 4, "heb": 1}}
+{"raw": "yaaaaay", "replacement": "Yay", "entropy": 0.0, "counts": {"Yay": 1}}
+{"raw": "morge", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 5}}
+{"raw": "bn", "replacement": "ben", "entropy": 1.0385204207952365, "counts": {"ben": 4, "bent": 2}}
+{"raw": "lkkr", "replacement": "lekker", "entropy": 0.0, "counts": {"lekker": 3}}
+{"raw": "Dese", "replacement": "Deze", "entropy": 0.0, "counts": {"Deze": 1}}
+{"raw": "kortingscaarten", "replacement": "kortingskaarten", "entropy": 0.0, "counts": {"kortingskaarten": 1}}
+{"raw": "sijn", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 2}}
+{"raw": "goet", "replacement": "goed", "entropy": 0.0, "counts": {"goed": 1}}
+{"raw": "neederlants", "replacement": "Nederlands", "entropy": 0.0, "counts": {"Nederlands": 1}}
+{"raw": "geschrijvt", "replacement": "geschreven", "entropy": 0.0, "counts": {"geschreven": 1}}
+{"raw": "vooestelling", "replacement": "voorstelling", "entropy": 0.0, "counts": {"voorstelling": 1}}
+{"raw": "jei", "replacement": "je", "entropy": 0.0, "counts": {"je": 1}}
+{"raw": "trg", "replacement": "terug", "entropy": 0.0, "counts": {"terug": 6}}
+{"raw": "rolle", "replacement": "rollen", "entropy": 0.0, "counts": {"rollen": 1}}
+{"raw": "vant", "replacement": "van het", "entropy": 0.8661975989762587, "counts": {"van het": 4, "van de": 1}}
+{"raw": "lachn", "replacement": "lachen", "entropy": 0.0, "counts": {"lachen": 1}}
+{"raw": "kinder", "replacement": "Kinder", "entropy": 0.0, "counts": {"Kinder": 1}}
+{"raw": "bueno", "replacement": "Bueno", "entropy": 0.0, "counts": {"Bueno": 1}}
+{"raw": "neh", "replacement": "nee", "entropy": 0.0, "counts": {"nee": 2}}
+{"raw": "sffs", "replacement": "Is", "entropy": 0.0, "counts": {"Is": 1}}
+{"raw": "slape", "replacement": "slapen", "entropy": 0.0, "counts": {"slapen": 3}}
+{"raw": "hat", "replacement": "Had", "entropy": 0.0, "counts": {"Had": 1}}
+{"raw": "aardich", "replacement": "aardig", "entropy": 0.0, "counts": {"aardig": 1}}
+{"raw": "dizze", "replacement": "deze", "entropy": 0.0, "counts": {"deze": 1}}
+{"raw": "simmer", "replacement": "zomer", "entropy": 0.0, "counts": {"zomer": 1}}
+{"raw": "ûnder", "replacement": "onder", "entropy": 0.0, "counts": {"onder": 1}}
+{"raw": "oaren", "replacement": "andere", "entropy": 0.0, "counts": {"andere": 1}}
+{"raw": "yn", "replacement": "in", "entropy": 0.0, "counts": {"in": 2}}
+{"raw": "it", "replacement": "het", "entropy": 0.0, "counts": {"het": 1}}
+{"raw": "lere", "replacement": "leren", "entropy": 0.0, "counts": {"leren": 3}}
+{"raw": "rijde", "replacement": "rijden", "entropy": 0.0, "counts": {"rijden": 1}}
+{"raw": "gzegd", "replacement": "gezegd", "entropy": 0.0, "counts": {"gezegd": 1}}
+{"raw": "'k", "replacement": "ik", "entropy": 1.115220098543565, "counts": {"ik": 3, "Ik": 2}}
+{"raw": "twii", "replacement": "twee", "entropy": 0.0, "counts": {"twee": 1}}
+{"raw": "knèèn", "replacement": "knieën", "entropy": 0.0, "counts": {"knieën": 1}}
+{"raw": "kzen", "replacement": "ik ben", "entropy": 0.8661975989762587, "counts": {"ik ben": 4, "Ik ben": 1}}
+{"raw": "Gy", "replacement": "Jij", "entropy": 0.0, "counts": {"Jij": 1}}
+{"raw": "vanavnd", "replacement": "vanavond", "entropy": 0.5411303456337294, "counts": {"Vanavond": 1, "vanavond": 9}}
+{"raw": "Tis", "replacement": "Het is", "entropy": 0.0, "counts": {"Het is": 2}}
+{"raw": "srr", "replacement": "sorry", "entropy": 0.0, "counts": {"sorry": 2}}
+{"raw": "foute", "replacement": "fouten", "entropy": 0.0, "counts": {"fouten": 1}}
+{"raw": "zattekes", "replacement": "zat", "entropy": 0.0, "counts": {"zat": 1}}
+{"raw": "ach", "replacement": "Ach", "entropy": 0.0, "counts": {"Ach": 2}}
+{"raw": "kzoud", "replacement": "ik zou het", "entropy": 0.0, "counts": {"ik zou het": 1}}
+{"raw": "ookwel", "replacement": "ook wel", "entropy": 0.0, "counts": {"ook wel": 1}}
+{"raw": "vinde", "replacement": "vinden", "entropy": 0.0, "counts": {"vinden": 1}}
+{"raw": "moestek", "replacement": "moest ik", "entropy": 0.0, "counts": {"moest ik": 1}}
+{"raw": "vn", "replacement": "van", "entropy": 0.0, "counts": {"van": 7}}
+{"raw": "venezuela", "replacement": "Venezuela", "entropy": 0.0, "counts": {"Venezuela": 1}}
+{"raw": "tegekome", "replacement": "tegekomen", "entropy": 0.0, "counts": {"tegekomen": 1}}
+{"raw": "khem", "replacement": "ik heb", "entropy": 0.0, "counts": {"ik heb": 1}}
+{"raw": "men", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 3}}
+{"raw": "vandag", "replacement": "vandaag", "entropy": 0.0, "counts": {"vandaag": 2}}
+{"raw": "vir", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 2}}
+{"raw": "musiek", "replacement": "muziek", "entropy": 0.0, "counts": {"muziek": 1}}
+{"raw": "self", "replacement": "zelf", "entropy": 0.0, "counts": {"zelf": 1}}
+{"raw": "Jaja", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "Twas", "replacement": "Het was", "entropy": 0.0, "counts": {"Het was": 1}}
+{"raw": "ooh", "replacement": "Oh", "entropy": 1.1587450075359835, "counts": {"Oh": 2, "oh": 1}}
+{"raw": "fotoo", "replacement": "foto", "entropy": 0.0, "counts": {"foto": 1}}
+{"raw": "zagk", "replacement": "zag ik", "entropy": 0.0, "counts": {"zag ik": 1}}
+{"raw": "eers", "replacement": "eerst", "entropy": 0.0, "counts": {"eerst": 1}}
+{"raw": "smeri", "replacement": "smerig", "entropy": 0.0, "counts": {"smerig": 1}}
+{"raw": "Hoeist", "replacement": "Hoe is het", "entropy": 0.0, "counts": {"Hoe is het": 1}}
+{"raw": "Xje", "replacement": "Kus", "entropy": 1.360673760222241, "counts": {"Kus": 1, "Xje": 1}}
+{"raw": "fastjeee", "replacement": "Feestje", "entropy": 0.0, "counts": {"Feestje": 1}}
+{"raw": "groepslede", "replacement": "groepsleden", "entropy": 0.0, "counts": {"groepsleden": 1}}
+{"raw": "guan", "replacement": "gaan", "entropy": 0.0, "counts": {"gaan": 2}}
+{"raw": "anneleen", "replacement": "Anneleen", "entropy": 0.0, "counts": {"Anneleen": 1}}
+{"raw": "smsn", "replacement": "smsen", "entropy": 0.0, "counts": {"smsen": 1}}
+{"raw": "jeurn", "replacement": "Jeurn", "entropy": 0.0, "counts": {"Jeurn": 1}}
+{"raw": "vr", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 9}}
+{"raw": "groetjes", "replacement": "Groetjes", "entropy": 0.0, "counts": {"Groetjes": 1}}
+{"raw": "Prov.", "replacement": "provincie", "entropy": 0.0, "counts": {"provincie": 2}}
+{"raw": "type", "replacement": "typen", "entropy": 0.0, "counts": {"typen": 1}}
+{"raw": "ikkan", "replacement": "ik kan", "entropy": 0.0, "counts": {"ik kan": 1}}
+{"raw": "mer", "replacement": "meer", "entropy": 0.0, "counts": {"meer": 1}}
+{"raw": "Mogguh", "replacement": "Goedemorgen", "entropy": 0.0, "counts": {"Goedemorgen": 1}}
+{"raw": "Verkeersinfo", "replacement": "verkeersinfo", "entropy": 0.0, "counts": {"verkeersinfo": 1}}
+{"raw": "km.", "replacement": "kilometers", "entropy": 0.0, "counts": {"kilometers": 1}}
+{"raw": "a.s.", "replacement": "aanstaande", "entropy": 0.0, "counts": {"aanstaande": 1}}
+{"raw": "cavakes", "replacement": "Cavakes", "entropy": 0.0, "counts": {"Cavakes": 1}}
+{"raw": "kgan", "replacement": "ik ga", "entropy": 0.0, "counts": {"ik ga": 1}}
+{"raw": "alty", "replacement": "altijd", "entropy": 0.0, "counts": {"altijd": 2}}
+{"raw": "spreekte", "replacement": "spreek je", "entropy": 0.0, "counts": {"spreek je": 1}}
+{"raw": "bwoa", "replacement": "Bwoa", "entropy": 0.0, "counts": {"Bwoa": 1}}
+{"raw": "mor", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 3}}
+{"raw": "kwjt", "replacement": "kwijt", "entropy": 0.0, "counts": {"kwijt": 1}}
+{"raw": "ondertss", "replacement": "ondertussen", "entropy": 0.0, "counts": {"ondertussen": 1}}
+{"raw": "dimi", "replacement": "Dimi", "entropy": 0.0, "counts": {"Dimi": 1}}
+{"raw": "wrm", "replacement": "waarom", "entropy": 1.0385204207952365, "counts": {"waarom": 4, "Waarom": 2}}
+{"raw": "antw", "replacement": "antwoord", "entropy": 0.0, "counts": {"antwoord": 1}}
+{"raw": "spelvaudten", "replacement": "spelfouten", "entropy": 0.0, "counts": {"spelfouten": 1}}
+{"raw": "beina", "replacement": "bijna", "entropy": 0.0, "counts": {"bijna": 1}}
+{"raw": "verkeers", "replacement": "verkeer", "entropy": 0.0, "counts": {"verkeer": 1}}
+{"raw": "begreipen", "replacement": "begrijpen", "entropy": 0.0, "counts": {"begrijpen": 1}}
+{"raw": "aangefen", "replacement": "aangeven", "entropy": 0.0, "counts": {"aangeven": 1}}
+{"raw": "m'n", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 12}}
+{"raw": "Hl", "replacement": "Heel", "entropy": 0.0, "counts": {"Heel": 1}}
+{"raw": "jmmr", "replacement": "jammer", "entropy": 0.0, "counts": {"jammer": 1}}
+{"raw": "dt", "replacement": "dat", "entropy": 0.0, "counts": {"dat": 1}}
+{"raw": "jngn", "replacement": "jongen", "entropy": 0.0, "counts": {"jongen": 1}}
+{"raw": "ht", "replacement": "het", "entropy": 0.0, "counts": {"het": 4}}
+{"raw": "vlk", "replacement": "volk", "entropy": 0.0, "counts": {"volk": 1}}
+{"raw": "zch", "replacement": "zich", "entropy": 0.0, "counts": {"zich": 1}}
+{"raw": "ltir", "replacement": "laat", "entropy": 0.0, "counts": {"laat": 1}}
+{"raw": "afkotinge", "replacement": "afkortingen", "entropy": 0.0, "counts": {"afkortingen": 1}}
+{"raw": "verbetere", "replacement": "verbeteren", "entropy": 0.0, "counts": {"verbeteren": 1}}
+{"raw": "vasthoude", "replacement": "vasthouden", "entropy": 0.0, "counts": {"vasthouden": 1}}
+{"raw": "zalk", "replacement": "zal ik", "entropy": 0.0, "counts": {"zal ik": 3}}
+{"raw": "voorstelle", "replacement": "voorstellen", "entropy": 0.0, "counts": {"voorstellen": 1}}
+{"raw": "héél", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "mille", "replacement": "duizend", "entropy": 0.0, "counts": {"duizend": 1}}
+{"raw": "méér", "replacement": "meer", "entropy": 0.0, "counts": {"meer": 1}}
+{"raw": "Oi", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "wa's", "replacement": "wat is", "entropy": 0.0, "counts": {"wat is": 1}}
+{"raw": "ginne", "replacement": "geen", "entropy": 0.0, "counts": {"geen": 1}}
+{"raw": "mexicaanse", "replacement": "Mexicaanse", "entropy": 0.0, "counts": {"Mexicaanse": 1}}
+{"raw": "noggis", "replacement": "nog eens", "entropy": 0.0, "counts": {"nog eens": 1}}
+{"raw": "héééél", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "bobbys", "replacement": "Bobbys", "entropy": 0.0, "counts": {"Bobbys": 1}}
+{"raw": "Jaaaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "Wa", "replacement": "Wat", "entropy": 0.0, "counts": {"Wat": 3}}
+{"raw": "warom", "replacement": "Waarom", "entropy": 0.0, "counts": {"Waarom": 1}}
+{"raw": "vrag", "replacement": "vraag", "entropy": 0.0, "counts": {"vraag": 1}}
+{"raw": "har", "replacement": "haar", "entropy": 0.0, "counts": {"haar": 1}}
+{"raw": "mysterym", "replacement": "Mysterym", "entropy": 1.1803368801111205, "counts": {"Mysterym": 2, "mysterym": 2}}
+{"raw": "aaaaight", "replacement": "Aaaaight", "entropy": 0.0, "counts": {"Aaaaight": 1}}
+{"raw": "man=p", "replacement": "man =p", "entropy": 0.0, "counts": {"man =p": 1}}
+{"raw": "pillekes", "replacement": "pilletjes", "entropy": 0.0, "counts": {"pilletjes": 1}}
+{"raw": "pakke", "replacement": "pakken", "entropy": 0.0, "counts": {"pakken": 3}}
+{"raw": "snijve", "replacement": "snuiven", "entropy": 0.0, "counts": {"snuiven": 1}}
+{"raw": "aaight", "replacement": "Aaight", "entropy": 0.0, "counts": {"Aaight": 1}}
+{"raw": "hoezee", "replacement": "hoezo", "entropy": 0.0, "counts": {"hoezo": 1}}
+{"raw": "vakantiee", "replacement": "vakantie", "entropy": 0.0, "counts": {"vakantie": 1}}
+{"raw": "hebbn", "replacement": "hebben", "entropy": 0.0, "counts": {"hebben": 1}}
+{"raw": "kadootje", "replacement": "cadeautje", "entropy": 0.0, "counts": {"cadeautje": 1}}
+{"raw": "wulle", "replacement": "willen", "entropy": 0.0, "counts": {"willen": 1}}
+{"raw": "Idd", "replacement": "Inderdaad", "entropy": 0.0, "counts": {"Inderdaad": 3}}
+{"raw": "phuht", "replacement": "Phuht", "entropy": 0.0, "counts": {"Phuht": 1}}
+{"raw": "kzit", "replacement": "ik zit", "entropy": 1.1587450075359835, "counts": {"ik zit": 2, "Ik zit": 1}}
+{"raw": "derover", "replacement": "er over", "entropy": 0.0, "counts": {"er over": 1}}
+{"raw": "fni", "replacement": "of niet", "entropy": 0.0, "counts": {"of niet": 1}}
+{"raw": "maarrr", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "probee", "replacement": "probeer", "entropy": 0.0, "counts": {"probeer": 1}}
+{"raw": "rjij", "replacement": "jij", "entropy": 0.0, "counts": {"jij": 1}}
+{"raw": "numemrke", "replacement": "nummer", "entropy": 0.0, "counts": {"nummer": 1}}
+{"raw": "tegeraken", "replacement": "te komen", "entropy": 0.0, "counts": {"te komen": 1}}
+{"raw": "jamaja", "replacement": "ja maar", "entropy": 0.0, "counts": {"ja maar": 1}}
+{"raw": "andrs", "replacement": "anders", "entropy": 0.0, "counts": {"anders": 4}}
+{"raw": "Welkse", "replacement": "Welke", "entropy": 0.0, "counts": {"Welke": 1}}
+{"raw": "ebde", "replacement": "heb je", "entropy": 0.0, "counts": {"heb je": 2}}
+{"raw": "ow", "replacement": "Ow", "entropy": 0.0, "counts": {"Ow": 2}}
+{"raw": "hellup", "replacement": "help", "entropy": 0.0, "counts": {"help": 1}}
+{"raw": "Neem", "replacement": "neem", "entropy": 1.360673760222241, "counts": {"neem": 1, "Neem": 1}}
+{"raw": "laptoppie", "replacement": "laptop", "entropy": 0.0, "counts": {"laptop": 1}}
+{"raw": "Oke", "replacement": "Oké", "entropy": 1.0385204207952365, "counts": {"Oké": 4, "oké": 2}}
+{"raw": "burgerking", "replacement": "Burger King", "entropy": 0.0, "counts": {"Burger King": 1}}
+{"raw": "lekkerde", "replacement": "lekkerder", "entropy": 0.0, "counts": {"lekkerder": 1}}
+{"raw": "tg", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 1}}
+{"raw": "zult", "replacement": "zal", "entropy": 1.360673760222241, "counts": {"zal": 1, "zul": 1}}
+{"raw": "sterrekes", "replacement": "sterretjes", "entropy": 0.0, "counts": {"sterretjes": 1}}
+{"raw": "Umcg", "replacement": "UMCG", "entropy": 0.0, "counts": {"UMCG": 1}}
+{"raw": "Gron", "replacement": "Groningen", "entropy": 0.0, "counts": {"Groningen": 1}}
+{"raw": "afspr", "replacement": "afspraak", "entropy": 0.0, "counts": {"afspraak": 1}}
+{"raw": "effe", "replacement": "even", "entropy": 0.5433331970225614, "counts": {"even": 16, "Even": 2}}
+{"raw": "jaze", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "daje", "replacement": "dat je", "entropy": 0.8661975989762587, "counts": {"dat je": 4, "je": 1}}
+{"raw": "kome", "replacement": "komen", "entropy": 0.0, "counts": {"komen": 8}}
+{"raw": "stalke", "replacement": "stalken", "entropy": 0.0, "counts": {"stalken": 1}}
+{"raw": "Ey", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "betur", "replacement": "beter", "entropy": 0.0, "counts": {"beter": 1}}
+{"raw": "nedurlands", "replacement": "Nederlands", "entropy": 0.0, "counts": {"Nederlands": 1}}
+{"raw": "pratuh", "replacement": "praten", "entropy": 0.0, "counts": {"praten": 1}}
+{"raw": "jonguh", "replacement": "jongen", "entropy": 0.0, "counts": {"jongen": 2}}
+{"raw": "wqel", "replacement": "wel", "entropy": 0.0, "counts": {"wel": 1}}
+{"raw": "nivo", "replacement": "niveau", "entropy": 0.0, "counts": {"niveau": 1}}
+{"raw": "zis", "replacement": "ze is", "entropy": 0.0, "counts": {"ze is": 1}}
+{"raw": "kindslodaten", "replacement": "kindsoldaten", "entropy": 0.0, "counts": {"kindsoldaten": 1}}
+{"raw": "tkan", "replacement": "het kan", "entropy": 0.0, "counts": {"het kan": 1}}
+{"raw": "mijnleven", "replacement": "mijn leven", "entropy": 0.0, "counts": {"mijn leven": 1}}
+{"raw": "meih", "replacement": "Meih", "entropy": 0.0, "counts": {"Meih": 1}}
+{"raw": "dattek", "replacement": "dat ik", "entropy": 0.0, "counts": {"dat ik": 1}}
+{"raw": "strak", "replacement": "straks", "entropy": 0.0, "counts": {"straks": 1}}
+{"raw": "spelleke", "replacement": "spelletje", "entropy": 0.0, "counts": {"spelletje": 2}}
+{"raw": "opsttart", "replacement": "opstart", "entropy": 0.0, "counts": {"opstart": 1}}
+{"raw": "pc", "replacement": "computer", "entropy": 0.0, "counts": {"computer": 2}}
+{"raw": "onderhoude", "replacement": "onderhouden", "entropy": 0.0, "counts": {"onderhouden": 1}}
+{"raw": "hierdie", "replacement": "hier die", "entropy": 0.0, "counts": {"hier die": 1}}
+{"raw": "Vrydag", "replacement": "vrijdag", "entropy": 0.0, "counts": {"vrijdag": 1}}
+{"raw": "by", "replacement": "bij", "entropy": 0.0, "counts": {"bij": 1}}
+{"raw": "Vrystaat", "replacement": "vrij staat", "entropy": 0.0, "counts": {"vrij staat": 1}}
+{"raw": "zeggn", "replacement": "zeggen", "entropy": 0.0, "counts": {"zeggen": 1}}
+{"raw": "kdeel", "replacement": "ik deel", "entropy": 0.0, "counts": {"ik deel": 1}}
+{"raw": "missn", "replacement": "missen", "entropy": 0.0, "counts": {"missen": 1}}
+{"raw": "knoertehardMAN", "replacement": "knoertehard man", "entropy": 0.0, "counts": {"knoertehard man": 1}}
+{"raw": "Hajje", "replacement": "had je", "entropy": 0.0, "counts": {"had je": 1}}
+{"raw": "jongeh", "replacement": "jongen", "entropy": 0.0, "counts": {"jongen": 1}}
+{"raw": "maareuh", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "kdenk", "replacement": "ik denk", "entropy": 0.0, "counts": {"ik denk": 1}}
+{"raw": "vanaaf", "replacement": "vanavond", "entropy": 0.0, "counts": {"vanavond": 1}}
+{"raw": "euk", "replacement": "ook", "entropy": 0.0, "counts": {"ook": 1}}
+{"raw": "drinke", "replacement": "drinken", "entropy": 0.0, "counts": {"drinken": 3}}
+{"raw": "geraakt", "replacement": "gekomen", "entropy": 1.360673760222241, "counts": {"gekomen": 1, "geraakt": 1}}
+{"raw": "Jow", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 2}}
+{"raw": "hebde", "replacement": "heb je", "entropy": 0.0, "counts": {"heb je": 2}}
+{"raw": "wachtn", "replacement": "wachten", "entropy": 0.0, "counts": {"wachten": 1}}
+{"raw": "meeprate", "replacement": "meepraten", "entropy": 0.0, "counts": {"meepraten": 1}}
+{"raw": "ale", "replacement": "Ale", "entropy": 0.0, "counts": {"Ale": 2}}
+{"raw": "redbull", "replacement": "Redbull", "entropy": 0.0, "counts": {"Redbull": 1}}
+{"raw": "stoppe", "replacement": "stoppen", "entropy": 0.0, "counts": {"stoppen": 1}}
+{"raw": "cafe", "replacement": "café", "entropy": 0.0, "counts": {"café": 2}}
+{"raw": "moge", "replacement": "mogen", "entropy": 0.0, "counts": {"mogen": 2}}
+{"raw": "vertelle", "replacement": "vertellen", "entropy": 0.0, "counts": {"vertellen": 2}}
+{"raw": "vo", "replacement": "voor", "entropy": 1.2416150045702534, "counts": {"voor": 6, "Voor": 1, "om": 1}}
+{"raw": "kmoet", "replacement": "ik moet", "entropy": 1.1587450075359835, "counts": {"Ik moet": 1, "ik moet": 2}}
+{"raw": "zoiezo", "replacement": "sowieso", "entropy": 0.0, "counts": {"sowieso": 1}}
+{"raw": "eeft", "replacement": "heeft", "entropy": 0.0, "counts": {"heeft": 5}}
+{"raw": "kunstschaatse", "replacement": "kunstschaatsen", "entropy": 0.0, "counts": {"kunstschaatsen": 1}}
+{"raw": "Hoeiemorhen", "replacement": "Goedemorgen", "entropy": 0.0, "counts": {"Goedemorgen": 1}}
+{"raw": "Mohen", "replacement": "Mogen", "entropy": 0.0, "counts": {"Mogen": 1}}
+{"raw": "middah", "replacement": "middag", "entropy": 0.0, "counts": {"middag": 1}}
+{"raw": "tehen", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 1}}
+{"raw": "Hroetjes", "replacement": "Groetjes", "entropy": 0.0, "counts": {"Groetjes": 1}}
+{"raw": "nje", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "za", "replacement": "zo", "entropy": 1.360673760222241, "counts": {"zo": 1, "za": 1}}
+{"raw": "gebete", "replacement": "gebeten", "entropy": 0.0, "counts": {"gebeten": 1}}
+{"raw": "amai", "replacement": "Amai", "entropy": 0.8661975989762587, "counts": {"Amai": 4, "amai": 1}}
+{"raw": "voete", "replacement": "voeten", "entropy": 0.0, "counts": {"voeten": 1}}
+{"raw": "grade", "replacement": "graden", "entropy": 0.0, "counts": {"graden": 1}}
+{"raw": "ofwa", "replacement": "ofwat", "entropy": 0.0, "counts": {"ofwat": 1}}
+{"raw": "geniete", "replacement": "genieten", "entropy": 0.0, "counts": {"genieten": 1}}
+{"raw": "jwl", "replacement": "Jawel", "entropy": 0.0, "counts": {"Jawel": 2}}
+{"raw": "moe", "replacement": "moet", "entropy": 0.9916150045702532, "counts": {"moet": 3, "moe": 1}}
+{"raw": "stoan", "replacement": "staan", "entropy": 0.0, "counts": {"staan": 1}}
+{"raw": "electrische", "replacement": "elektrische", "entropy": 0.0, "counts": {"elektrische": 1}}
+{"raw": "Donderdagav", "replacement": "Donderdagavond", "entropy": 0.0, "counts": {"Donderdagavond": 1}}
+{"raw": "tov", "replacement": "ten opzichte van", "entropy": 0.0, "counts": {"ten opzichte van": 4}}
+{"raw": "ws", "replacement": "waarschijnlijk", "entropy": 0.0, "counts": {"waarschijnlijk": 2}}
+{"raw": "pls", "replacement": "alsjeblieft", "entropy": 0.0, "counts": {"alsjeblieft": 1}}
+{"raw": "sws", "replacement": "sowieso", "entropy": 0.0, "counts": {"sowieso": 1}}
+{"raw": "sneeuwballe", "replacement": "sneeuwballen", "entropy": 0.0, "counts": {"sneeuwballen": 1}}
+{"raw": "gooie", "replacement": "gooien", "entropy": 0.0, "counts": {"gooien": 1}}
+{"raw": "flikke", "replacement": "flikken", "entropy": 0.0, "counts": {"flikken": 1}}
+{"raw": "Kussie", "replacement": "Kus", "entropy": 0.0, "counts": {"Kus": 1}}
+{"raw": "wrmhouden", "replacement": "Waarom houden", "entropy": 0.0, "counts": {"Waarom houden": 1}}
+{"raw": "energy", "replacement": "energie", "entropy": 0.0, "counts": {"energie": 1}}
+{"raw": "holland", "replacement": "Holland", "entropy": 0.0, "counts": {"Holland": 1}}
+{"raw": "belgië", "replacement": "België", "entropy": 0.0, "counts": {"België": 1}}
+{"raw": "braddaaaaa", "replacement": "Broer", "entropy": 0.0, "counts": {"Broer": 1}}
+{"raw": "Suid-Afrikaanse", "replacement": "Zuid-Afrikaans", "entropy": 0.0, "counts": {"Zuid-Afrikaans": 1}}
+{"raw": "onderwys", "replacement": "onderwijs", "entropy": 0.0, "counts": {"onderwijs": 1}}
+{"raw": "ń", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "minute", "replacement": "minuten", "entropy": 0.0, "counts": {"minuten": 1}}
+{"raw": "opgesom", "replacement": "opgesomd", "entropy": 0.0, "counts": {"opgesomd": 1}}
+{"raw": "twas", "replacement": "het was", "entropy": 0.8661975989762587, "counts": {"het was": 4, "Het was": 1}}
+{"raw": "aant.in", "replacement": "aan het", "entropy": 0.0, "counts": {"aan het": 1}}
+{"raw": "vullen", "replacement": "invullen", "entropy": 0.0, "counts": {"invullen": 1}}
+{"raw": "zijt", "replacement": "bent", "entropy": 0.0, "counts": {"bent": 2}}
+{"raw": "olv", "replacement": "onder leiding van", "entropy": 0.0, "counts": {"onder leiding van": 1}}
+{"raw": "zwijge", "replacement": "Zwijg", "entropy": 0.0, "counts": {"Zwijg": 1}}
+{"raw": "ikkeuh", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 1}}
+{"raw": "Kweetni", "replacement": "Ik weet niet", "entropy": 0.0, "counts": {"Ik weet niet": 1}}
+{"raw": "owkeeeeeee", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "keb", "replacement": "ik heb", "entropy": 1.360673760222241, "counts": {"ik heb": 1, "Ik heb": 1}}
+{"raw": "srry", "replacement": "sorry", "entropy": 0.0, "counts": {"sorry": 2}}
+{"raw": "jaaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 2}}
+{"raw": "wl", "replacement": "wel", "entropy": 1.360673760222241, "counts": {"wel": 1, "waarschijnlijk": 1}}
+{"raw": "wrs", "replacement": "waarschijnlijk", "entropy": 0.0, "counts": {"waarschijnlijk": 3}}
+{"raw": "neeeeeee", "replacement": "nee", "entropy": 0.0, "counts": {"nee": 1}}
+{"raw": "neeeee", "replacement": "nee", "entropy": 0.0, "counts": {"nee": 1}}
+{"raw": "tuurlijk", "replacement": "natuurlijk", "entropy": 0.0, "counts": {"natuurlijk": 1}}
+{"raw": "merci", "replacement": "Merci", "entropy": 0.0, "counts": {"Merci": 1}}
+{"raw": "voo", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 1}}
+{"raw": "kadootjes", "replacement": "cadeautjes", "entropy": 0.0, "counts": {"cadeautjes": 1}}
+{"raw": "south", "replacement": "South", "entropy": 0.0, "counts": {"South": 1}}
+{"raw": "park", "replacement": "Park", "entropy": 0.0, "counts": {"Park": 1}}
+{"raw": "mega", "replacement": "Mega", "entropy": 0.0, "counts": {"Mega": 1}}
+{"raw": "miljonaire", "replacement": "Miljonair", "entropy": 0.0, "counts": {"Miljonair": 1}}
+{"raw": "kijk", "replacement": "Kijk", "entropy": 1.360673760222241, "counts": {"Kijk": 1, "kijk": 1}}
+{"raw": "hebbie", "replacement": "hebben", "entropy": 0.0, "counts": {"hebben": 1}}
+{"raw": "iis", "replacement": "is", "entropy": 0.0, "counts": {"is": 1}}
+{"raw": "geinfoeerd", "replacement": "geïnformeerd", "entropy": 0.0, "counts": {"geïnformeerd": 1}}
+{"raw": "kasken", "replacement": "kasten", "entropy": 0.0, "counts": {"kasten": 1}}
+{"raw": "graaaag", "replacement": "graag", "entropy": 0.0, "counts": {"graag": 2}}
+{"raw": "aar", "replacement": "aan", "entropy": 0.0, "counts": {"aan": 1}}
+{"raw": "klapke", "replacement": "klappen", "entropy": 0.0, "counts": {"klappen": 1}}
+{"raw": "dien", "replacement": "die", "entropy": 0.0, "counts": {"die": 1}}
+{"raw": "zulde", "replacement": "zul je", "entropy": 0.0, "counts": {"zul je": 1}}
+{"raw": "betale", "replacement": "betalen", "entropy": 0.0, "counts": {"betalen": 1}}
+{"raw": "heeeleboel", "replacement": "heleboel", "entropy": 0.0, "counts": {"heleboel": 1}}
+{"raw": "smsjes", "replacement": "sms'jes", "entropy": 0.0, "counts": {"sms'jes": 1}}
+{"raw": "mjaaa", "replacement": "Maar ja", "entropy": 0.0, "counts": {"Maar ja": 1}}
+{"raw": "HEEEEEEERluk", "replacement": "Heerlijk", "entropy": 0.0, "counts": {"Heerlijk": 1}}
+{"raw": "jum", "replacement": "Jum", "entropy": 0.0, "counts": {"Jum": 1}}
+{"raw": "jummmjumm", "replacement": "jum", "entropy": 0.0, "counts": {"jum": 1}}
+{"raw": "probeerseltje", "replacement": "Probeerseltje", "entropy": 0.0, "counts": {"Probeerseltje": 1}}
+{"raw": "no", "replacement": "nou", "entropy": 1.360673760222241, "counts": {"nou": 1, "no": 1}}
+{"raw": "tochwel", "replacement": "toch wel", "entropy": 0.0, "counts": {"toch wel": 1}}
+{"raw": "verschrikkellijo", "replacement": "verschrikkelijk", "entropy": 0.0, "counts": {"verschrikkelijk": 1}}
+{"raw": "zekerst", "replacement": "zeker", "entropy": 0.0, "counts": {"zeker": 1}}
+{"raw": "irri", "replacement": "irritant", "entropy": 0.0, "counts": {"irritant": 1}}
+{"raw": "presentatort", "replacement": "presentator", "entropy": 0.0, "counts": {"presentator": 1}}
+{"raw": "wief", "replacement": "wijf", "entropy": 0.0, "counts": {"wijf": 1}}
+{"raw": "kging", "replacement": "ik ging", "entropy": 0.0, "counts": {"ik ging": 1}}
+{"raw": "omdak", "replacement": "omdat ik", "entropy": 0.0, "counts": {"omdat ik": 1}}
+{"raw": "zukken", "replacement": "zulke", "entropy": 0.0, "counts": {"zulke": 1}}
+{"raw": "benne", "replacement": "ben", "entropy": 0.0, "counts": {"ben": 1}}
+{"raw": "lik", "replacement": "zoals", "entropy": 1.360673760222241, "counts": {"zoals": 1, "lik": 1}}
+{"raw": "dereste", "replacement": "de rest", "entropy": 0.0, "counts": {"de rest": 1}}
+{"raw": "zkr", "replacement": "zeker", "entropy": 0.0, "counts": {"zeker": 1}}
+{"raw": "tkomt", "replacement": "Het komt", "entropy": 1.360673760222241, "counts": {"Het komt": 1, "het komt": 1}}
+{"raw": "kvoel", "replacement": "ik voel", "entropy": 0.0, "counts": {"ik voel": 2}}
+{"raw": "kouddd", "replacement": "koud", "entropy": 0.0, "counts": {"koud": 1}}
+{"raw": "Kzit", "replacement": "ik zit", "entropy": 1.1587450075359835, "counts": {"ik zit": 2, "Ik zit": 1}}
+{"raw": "temiste", "replacement": "tenminste", "entropy": 0.0, "counts": {"tenminste": 1}}
+{"raw": "nahw", "replacement": "Nou", "entropy": 0.0, "counts": {"Nou": 1}}
+{"raw": "ickk", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 1}}
+{"raw": "oowk", "replacement": "ook", "entropy": 0.0, "counts": {"ook": 1}}
+{"raw": "fn", "replacement": "van", "entropy": 0.0, "counts": {"van": 1}}
+{"raw": "jau", "replacement": "jou", "entropy": 0.0, "counts": {"jou": 2}}
+{"raw": "scannert", "replacement": "scanner", "entropy": 0.0, "counts": {"scanner": 1}}
+{"raw": "Zieet", "replacement": "Zie je het", "entropy": 0.0, "counts": {"Zie je het": 1}}
+{"raw": "inschatten", "replacement": "inschatting", "entropy": 0.0, "counts": {"inschatting": 1}}
+{"raw": "vandage", "replacement": "vandaag", "entropy": 0.0, "counts": {"vandaag": 1}}
+{"raw": "oid", "replacement": "of iets dergelijks", "entropy": 0.0, "counts": {"of iets dergelijks": 1}}
+{"raw": "hanne", "replacement": "Hanne", "entropy": 0.0, "counts": {"Hanne": 1}}
+{"raw": "Ier", "replacement": "Hier", "entropy": 0.0, "counts": {"Hier": 1}}
+{"raw": "jaaa", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "monopoli", "replacement": "monopolie", "entropy": 0.0, "counts": {"monopolie": 1}}
+{"raw": "kweetet", "replacement": "ik weet het", "entropy": 0.0, "counts": {"ik weet het": 1}}
+{"raw": "zn", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 4}}
+{"raw": "beter(A)", "replacement": "beter (A)", "entropy": 0.0, "counts": {"beter (A)": 2}}
+{"raw": "verdr", "replacement": "verder", "entropy": 0.0, "counts": {"verder": 1}}
+{"raw": "opt", "replacement": "op het", "entropy": 0.0, "counts": {"op het": 1}}
+{"raw": "gemakske", "replacement": "gemak", "entropy": 0.0, "counts": {"gemak": 1}}
+{"raw": "genote", "replacement": "genoten", "entropy": 0.0, "counts": {"genoten": 1}}
+{"raw": "weerke", "replacement": "weer", "entropy": 0.0, "counts": {"weer": 1}}
+{"raw": "neeje", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 2}}
+{"raw": "Eng", "replacement": "Engeltje", "entropy": 0.0, "counts": {"Engeltje": 1}}
+{"raw": "ltje", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "drm", "replacement": "daarom", "entropy": 0.0, "counts": {"daarom": 1}}
+{"raw": "thijsje", "replacement": "Thijsje", "entropy": 0.0, "counts": {"Thijsje": 1}}
+{"raw": "moetek", "replacement": "moet ik", "entropy": 0.0, "counts": {"moet ik": 1}}
+{"raw": "slachtoffeer", "replacement": "slachtoffer", "entropy": 0.0, "counts": {"slachtoffer": 1}}
+{"raw": "gon", "replacement": "gaan", "entropy": 0.0, "counts": {"gaan": 1}}
+{"raw": "zoeke", "replacement": "zoeken", "entropy": 0.0, "counts": {"zoeken": 3}}
+{"raw": "kwe", "replacement": "ik weet", "entropy": 0.0, "counts": {"ik weet": 1}}
+{"raw": "Witnie", "replacement": "Weet niet", "entropy": 0.0, "counts": {"Weet niet": 1}}
+{"raw": "Kwou", "replacement": "Ik wou", "entropy": 0.0, "counts": {"Ik wou": 1}}
+{"raw": "bedrij", "replacement": "bedrijf", "entropy": 0.0, "counts": {"bedrijf": 1}}
+{"raw": "ksnap", "replacement": "ikvsnap", "entropy": 1.360673760222241, "counts": {"ikvsnap": 1, "Ik snap": 1}}
+{"raw": "ng", "replacement": "nog", "entropy": 0.0, "counts": {"nog": 10}}
+{"raw": "PATTA", "replacement": "Patta", "entropy": 0.0, "counts": {"Patta": 1}}
+{"raw": "JACKA", "replacement": "Jas", "entropy": 0.0, "counts": {"Jas": 1}}
+{"raw": "IETS", "replacement": "iets", "entropy": 0.0, "counts": {"iets": 1}}
+{"raw": "TE", "replacement": "te", "entropy": 0.0, "counts": {"te": 1}}
+{"raw": "WEINIG", "replacement": "weinig", "entropy": 0.0, "counts": {"weinig": 1}}
+{"raw": "MONNIE", "replacement": "geld", "entropy": 0.0, "counts": {"geld": 1}}
+{"raw": "IN", "replacement": "in", "entropy": 0.0, "counts": {"in": 1}}
+{"raw": "ME", "replacement": "me", "entropy": 0.0, "counts": {"me": 1}}
+{"raw": "ZAKKEN", "replacement": "zakken", "entropy": 0.0, "counts": {"zakken": 1}}
+{"raw": "MAAR", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "DAT", "replacement": "dat", "entropy": 0.0, "counts": {"dat": 2}}
+{"raw": "MAAKT", "replacement": "maakt", "entropy": 0.0, "counts": {"maakt": 2}}
+{"raw": "NIET", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 2}}
+{"raw": "UIT", "replacement": "uit", "entropy": 0.0, "counts": {"uit": 1}}
+{"raw": "VANDAAAAAAG", "replacement": "vandaag", "entropy": 0.0, "counts": {"vandaag": 1}}
+{"raw": "UITTTTTTT", "replacement": "uit", "entropy": 0.0, "counts": {"uit": 1}}
+{"raw": "thaha", "replacement": "haha", "entropy": 0.0, "counts": {"haha": 1}}
+{"raw": "naderlents", "replacement": "Nederlands", "entropy": 0.0, "counts": {"Nederlands": 1}}
+{"raw": "kend", "replacement": "kent", "entropy": 0.0, "counts": {"kent": 1}}
+{"raw": "volges", "replacement": "Volgens", "entropy": 1.360673760222241, "counts": {"Volgens": 1, "volgens": 1}}
+{"raw": "ut", "replacement": "het", "entropy": 0.0, "counts": {"het": 3}}
+{"raw": "afhebbe", "replacement": "afhebben", "entropy": 0.0, "counts": {"afhebben": 1}}
+{"raw": "voorgevoel(a)", "replacement": "voorgevoel (a)", "entropy": 0.0, "counts": {"voorgevoel (a)": 1}}
+{"raw": "Mss", "replacement": "Misschien", "entropy": 0.0, "counts": {"Misschien": 1}}
+{"raw": "overslapen", "replacement": "verslapen", "entropy": 0.0, "counts": {"verslapen": 2}}
+{"raw": "donderdagavnd", "replacement": "Donderdagavond", "entropy": 0.0, "counts": {"Donderdagavond": 1}}
+{"raw": "knuffkes", "replacement": "knuffels", "entropy": 0.0, "counts": {"knuffels": 1}}
+{"raw": "nimer", "replacement": "niet meer", "entropy": 0.0, "counts": {"niet meer": 1}}
+{"raw": "Zhe", "replacement": "Ze", "entropy": 0.0, "counts": {"Ze": 1}}
+{"raw": "knuff", "replacement": "Knuffel", "entropy": 0.0, "counts": {"Knuffel": 1}}
+{"raw": "davoor", "replacement": "daarvoor", "entropy": 0.0, "counts": {"daarvoor": 1}}
+{"raw": "ziej", "replacement": "zie je", "entropy": 0.0, "counts": {"zie je": 1}}
+{"raw": "loate", "replacement": "laat", "entropy": 0.0, "counts": {"laat": 1}}
+{"raw": "uj", "replacement": "uw", "entropy": 0.0, "counts": {"uw": 1}}
+{"raw": "tzij", "replacement": "Het zijn", "entropy": 0.0, "counts": {"Het zijn": 1}}
+{"raw": "vantweekend", "replacement": "van het weekend", "entropy": 0.0, "counts": {"van het weekend": 1}}
+{"raw": "gehoude", "replacement": "gehouden", "entropy": 0.0, "counts": {"gehouden": 1}}
+{"raw": "moeste", "replacement": "moest", "entropy": 0.0, "counts": {"moest": 1}}
+{"raw": "doene", "replacement": "doen", "entropy": 1.360673760222241, "counts": {"doen": 1, "maken": 1}}
+{"raw": "nrml", "replacement": "normaal", "entropy": 0.0, "counts": {"normaal": 1}}
+{"raw": "Dank", "replacement": "dank", "entropy": 0.0, "counts": {"dank": 1}}
+{"raw": "ghoeden", "replacement": "goede", "entropy": 0.0, "counts": {"goede": 1}}
+{"raw": "morghen", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "Weeghens", "replacement": "Wegens", "entropy": 0.0, "counts": {"Wegens": 1}}
+{"raw": "importante", "replacement": "belangrijke", "entropy": 0.0, "counts": {"belangrijke": 1}}
+{"raw": "beezigheeden", "replacement": "bezigheden", "entropy": 0.0, "counts": {"bezigheden": 1}}
+{"raw": "ietwat", "replacement": "iets", "entropy": 1.360673760222241, "counts": {"iets": 1, "ietwat": 1}}
+{"raw": "laeter", "replacement": "later", "entropy": 0.0, "counts": {"later": 1}}
+{"raw": "maer", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "ghemeend", "replacement": "gemeend", "entropy": 0.0, "counts": {"gemeend": 1}}
+{"raw": "Neeneen", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "spinne", "replacement": "spinnen", "entropy": 0.0, "counts": {"spinnen": 1}}
+{"raw": "tusse", "replacement": "tussen", "entropy": 0.0, "counts": {"tussen": 1}}
+{"raw": "smakkerds", "replacement": "kusjes", "entropy": 0.0, "counts": {"kusjes": 1}}
+{"raw": "kuskuskuskus", "replacement": "kus", "entropy": 0.0, "counts": {"kus": 1}}
+{"raw": "knuffeeeeeeel", "replacement": "knuffel", "entropy": 0.0, "counts": {"knuffel": 1}}
+{"raw": "mr.", "replacement": "meneer", "entropy": 0.0, "counts": {"meneer": 1}}
+{"raw": "vruug", "replacement": "vroeg", "entropy": 0.0, "counts": {"vroeg": 1}}
+{"raw": "veur", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 2}}
+{"raw": "Opb", "replacement": "Op", "entropy": 0.0, "counts": {"Op": 1}}
+{"raw": "ezoek", "replacement": "bezoek", "entropy": 0.0, "counts": {"bezoek": 1}}
+{"raw": "gingn", "replacement": "gingen", "entropy": 0.0, "counts": {"gingen": 1}}
+{"raw": "vrijdagavnd", "replacement": "vrijdagavond", "entropy": 0.0, "counts": {"vrijdagavond": 1}}
+{"raw": "moette", "replacement": "moeten", "entropy": 0.0, "counts": {"moeten": 1}}
+{"raw": "dervoor", "replacement": "daarvoor", "entropy": 0.0, "counts": {"daarvoor": 1}}
+{"raw": "krijge", "replacement": "krijgen", "entropy": 0.0, "counts": {"krijgen": 2}}
+{"raw": "buur", "replacement": "buren", "entropy": 0.0, "counts": {"buren": 1}}
+{"raw": "lekkah", "replacement": "lekker", "entropy": 0.0, "counts": {"lekker": 3}}
+{"raw": "Aard", "replacement": "Aarde", "entropy": 0.0, "counts": {"Aarde": 1}}
+{"raw": "den", "replacement": "de", "entropy": 0.9916150045702532, "counts": {"een": 1, "de": 3}}
+{"raw": "diehardm", "replacement": "Diehardm", "entropy": 0.0, "counts": {"Diehardm": 1}}
+{"raw": "vnwaar", "replacement": "vanwaar", "entropy": 0.0, "counts": {"vanwaar": 1}}
+{"raw": "erges", "replacement": "ergens", "entropy": 0.0, "counts": {"ergens": 1}}
+{"raw": "weetk", "replacement": "weet ik", "entropy": 0.0, "counts": {"weet ik": 1}}
+{"raw": "btj", "replacement": "beetje", "entropy": 0.0, "counts": {"beetje": 1}}
+{"raw": "zoiso", "replacement": "sowieso", "entropy": 0.0, "counts": {"sowieso": 1}}
+{"raw": "8er", "replacement": "achter", "entropy": 0.0, "counts": {"achter": 1}}
+{"raw": "Broabant", "replacement": "Brabant", "entropy": 0.0, "counts": {"Brabant": 1}}
+{"raw": "groete", "replacement": "groeten", "entropy": 0.0, "counts": {"groeten": 1}}
+{"raw": "uut", "replacement": "uit", "entropy": 0.0, "counts": {"uit": 1}}
+{"raw": "graaaaaaaaag", "replacement": "graag", "entropy": 0.0, "counts": {"graag": 1}}
+{"raw": "Xxxxxoxoxoxoxoxo", "replacement": "Kus", "entropy": 0.0, "counts": {"Kus": 1}}
+{"raw": "aje", "replacement": "Als je", "entropy": 0.0, "counts": {"Als je": 1}}
+{"raw": "binn", "replacement": "binnen", "entropy": 1.360673760222241, "counts": {"binnen": 1, "Binnen": 1}}
+{"raw": "weeste", "replacement": "bent gaan", "entropy": 0.0, "counts": {"bent gaan": 1}}
+{"raw": "werke", "replacement": "werken", "entropy": 0.0, "counts": {"werken": 1}}
+{"raw": "davina", "replacement": "Davina", "entropy": 0.0, "counts": {"Davina": 1}}
+{"raw": "diek", "replacement": "die ik", "entropy": 0.0, "counts": {"die ik": 1}}
+{"raw": "sorr", "replacement": "sorry", "entropy": 0.0, "counts": {"sorry": 1}}
+{"raw": "kvin", "replacement": "ik vind", "entropy": 0.0, "counts": {"ik vind": 1}}
+{"raw": "gaga", "replacement": "Gaga", "entropy": 0.0, "counts": {"Gaga": 1}}
+{"raw": "mreen", "replacement": "maar een", "entropy": 0.0, "counts": {"maar een": 1}}
+{"raw": "boeke", "replacement": "boek", "entropy": 0.0, "counts": {"boek": 1}}
+{"raw": "leze", "replacement": "lezen", "entropy": 0.0, "counts": {"lezen": 1}}
+{"raw": "Jup", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "koekske", "replacement": "koek", "entropy": 0.0, "counts": {"koek": 1}}
+{"raw": "Check", "replacement": "Kijk", "entropy": 1.360673760222241, "counts": {"Kijk": 1, "Check": 1}}
+{"raw": "burqa", "replacement": "burka", "entropy": 0.0, "counts": {"burka": 1}}
+{"raw": "Saoedie", "replacement": "Saoedi Arabië", "entropy": 0.0, "counts": {"Saoedi Arabië": 1}}
+{"raw": "lozerkes", "replacement": "losers", "entropy": 0.0, "counts": {"losers": 1}}
+{"raw": "dagboekske", "replacement": "dagboek", "entropy": 0.0, "counts": {"dagboek": 1}}
+{"raw": "woensdagavnd", "replacement": "Woensdagavond", "entropy": 0.0, "counts": {"Woensdagavond": 1}}
+{"raw": "Eigentlijk", "replacement": "Eigenlijk", "entropy": 0.0, "counts": {"Eigenlijk": 1}}
+{"raw": "laatstemoest", "replacement": "laatste moest", "entropy": 0.0, "counts": {"laatste moest": 1}}
+{"raw": "Raarrr", "replacement": "Raar", "entropy": 0.0, "counts": {"Raar": 2}}
+{"raw": "smsje", "replacement": "sms'je", "entropy": 0.0, "counts": {"sms'je": 1}}
+{"raw": "kijkn", "replacement": "kijken", "entropy": 0.0, "counts": {"kijken": 1}}
+{"raw": "afruime", "replacement": "afruimen", "entropy": 0.0, "counts": {"afruimen": 1}}
+{"raw": "dmv", "replacement": "door middel van", "entropy": 0.0, "counts": {"door middel van": 1}}
+{"raw": "tafellake", "replacement": "tafellaken", "entropy": 0.0, "counts": {"tafellaken": 1}}
+{"raw": "trekke", "replacement": "trekken", "entropy": 0.0, "counts": {"trekken": 1}}
+{"raw": "Dankaxb", "replacement": "Dan kan", "entropy": 0.0, "counts": {"Dan kan": 1}}
+{"raw": "radioactive", "replacement": "radioactieve", "entropy": 0.0, "counts": {"radioactieve": 1}}
+{"raw": "ai", "replacement": "Ai", "entropy": 0.0, "counts": {"Ai": 1}}
+{"raw": "tochu", "replacement": "toch u", "entropy": 0.0, "counts": {"toch u": 1}}
+{"raw": "presies", "replacement": "precies", "entropy": 0.0, "counts": {"precies": 3}}
+{"raw": "popke", "replacement": "pop", "entropy": 0.0, "counts": {"pop": 1}}
+{"raw": "tkopke", "replacement": "De kop", "entropy": 0.0, "counts": {"De kop": 1}}
+{"raw": "nekeer", "replacement": "een keer", "entropy": 0.0, "counts": {"een keer": 1}}
+{"raw": "ebitje", "replacement": "een beetje", "entropy": 0.0, "counts": {"een beetje": 1}}
+{"raw": "deure", "replacement": "door", "entropy": 0.0, "counts": {"door": 1}}
+{"raw": "paseert", "replacement": "passeert", "entropy": 0.0, "counts": {"passeert": 1}}
+{"raw": "kvind", "replacement": "Ik vind", "entropy": 0.0, "counts": {"Ik vind": 1}}
+{"raw": "ligge", "replacement": "liggen", "entropy": 0.0, "counts": {"liggen": 2}}
+{"raw": "voor'n", "replacement": "voor een", "entropy": 0.0, "counts": {"voor een": 1}}
+{"raw": "mensn", "replacement": "mensen", "entropy": 0.0, "counts": {"mensen": 2}}
+{"raw": "zoma", "replacement": "zomaar", "entropy": 0.0, "counts": {"zomaar": 1}}
+{"raw": "khoop", "replacement": "ik hoop", "entropy": 1.360673760222241, "counts": {"ik hoop": 1, "Ik hoop": 1}}
+{"raw": "zinom", "replacement": "Zin om", "entropy": 0.0, "counts": {"Zin om": 1}}
+{"raw": "gent", "replacement": "Gent", "entropy": 0.0, "counts": {"Gent": 2}}
+{"raw": "kweet", "replacement": "ik weet", "entropy": 1.1587450075359835, "counts": {"Ik weet": 1, "ik weet": 2}}
+{"raw": "verhale", "replacement": "verhalen", "entropy": 0.0, "counts": {"verhalen": 1}}
+{"raw": "awel", "replacement": "Awel", "entropy": 0.0, "counts": {"Awel": 1}}
+{"raw": "koppelkes", "replacement": "koppeltjes", "entropy": 0.0, "counts": {"koppeltjes": 1}}
+{"raw": "moetn", "replacement": "moeten", "entropy": 0.9916150045702532, "counts": {"moeten": 3, "moet": 1}}
+{"raw": "liggn", "replacement": "liggen", "entropy": 0.0, "counts": {"liggen": 1}}
+{"raw": "'s", "replacement": "Is", "entropy": 2.065860847684144, "counts": {"Is": 1, "'s": 1, "des": 1}}
+{"raw": "gehgad", "replacement": "gehad", "entropy": 0.0, "counts": {"gehad": 1}}
+{"raw": "bgesluiten", "replacement": "besluiten", "entropy": 0.0, "counts": {"besluiten": 1}}
+{"raw": "Yo", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "Greetz", "replacement": "Groetjes", "entropy": 0.0, "counts": {"Groetjes": 1}}
+{"raw": "jah", "replacement": "Ja", "entropy": 0.9661702143444141, "counts": {"Ja": 5, "ja": 2}}
+{"raw": "kwor", "replacement": "ik word", "entropy": 0.0, "counts": {"ik word": 1}}
+{"raw": "iere", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 1}}
+{"raw": "jip", "replacement": "Jip", "entropy": 0.0, "counts": {"Jip": 1}}
+{"raw": "meepakkn", "replacement": "meepakken", "entropy": 0.0, "counts": {"meepakken": 2}}
+{"raw": "deentje", "replacement": "Deentje", "entropy": 0.0, "counts": {"Deentje": 1}}
+{"raw": "levensloos", "replacement": "levenloos", "entropy": 0.0, "counts": {"levenloos": 1}}
+{"raw": "bentgy", "replacement": "bent jij", "entropy": 0.0, "counts": {"bent jij": 1}}
+{"raw": "welni", "replacement": "wel niet", "entropy": 0.0, "counts": {"wel niet": 1}}
+{"raw": "Morgwb", "replacement": "Morgen", "entropy": 0.0, "counts": {"Morgen": 1}}
+{"raw": "cm.", "replacement": "centimeter", "entropy": 0.0, "counts": {"centimeter": 1}}
+{"raw": "belgen", "replacement": "Belgen", "entropy": 1.360673760222241, "counts": {"Belgen": 1, "belgen": 1}}
+{"raw": "helemaaaal", "replacement": "helemaal", "entropy": 0.0, "counts": {"helemaal": 2}}
+{"raw": "HAM", "replacement": "los", "entropy": 0.0, "counts": {"los": 2}}
+{"raw": "mbt", "replacement": "met betrekking tot", "entropy": 0.0, "counts": {"met betrekking tot": 2}}
+{"raw": "eea", "replacement": "een en ander", "entropy": 0.0, "counts": {"een en ander": 1}}
+{"raw": "statiegeldmeuk", "replacement": "statiegeld", "entropy": 0.0, "counts": {"statiegeld": 1}}
+{"raw": "wasse", "replacement": "wassen", "entropy": 0.0, "counts": {"wassen": 1}}
+{"raw": "gegeve", "replacement": "gegeven", "entropy": 0.0, "counts": {"gegeven": 1}}
+{"raw": "mjah", "replacement": "maar ja", "entropy": 1.360673760222241, "counts": {"maar ja": 1, "Maar ja": 1}}
+{"raw": "alst", "replacement": "als het", "entropy": 0.0, "counts": {"als het": 2}}
+{"raw": "magtem", "replacement": "mag het hem", "entropy": 0.0, "counts": {"mag het hem": 1}}
+{"raw": "Jeej", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "kanj", "replacement": "kan je", "entropy": 0.0, "counts": {"kan je": 1}}
+{"raw": "favo", "replacement": "favoriete", "entropy": 0.0, "counts": {"favoriete": 2}}
+{"raw": "forest", "replacement": "Forest", "entropy": 0.0, "counts": {"Forest": 1}}
+{"raw": "gump", "replacement": "Gump", "entropy": 0.0, "counts": {"Gump": 1}}
+{"raw": "Khoop", "replacement": "Ik hoop", "entropy": 0.0, "counts": {"Ik hoop": 1}}
+{"raw": "honeyponey", "replacement": "Schat", "entropy": 0.0, "counts": {"Schat": 1}}
+{"raw": "Gawe", "replacement": "Gaan we", "entropy": 0.0, "counts": {"Gaan we": 1}}
+{"raw": "handikapt", "replacement": "handicap", "entropy": 0.0, "counts": {"handicap": 1}}
+{"raw": "hore", "replacement": "horen", "entropy": 0.0, "counts": {"horen": 1}}
+{"raw": "wie", "replacement": "Wie", "entropy": 0.0, "counts": {"Wie": 1}}
+{"raw": "wiltr", "replacement": "wil er", "entropy": 0.0, "counts": {"wil er": 1}}
+{"raw": "koomn", "replacement": "komen", "entropy": 0.0, "counts": {"komen": 1}}
+{"raw": "klapn", "replacement": "klappen", "entropy": 0.0, "counts": {"klappen": 1}}
+{"raw": "meiske's", "replacement": "meisjes", "entropy": 0.0, "counts": {"meisjes": 1}}
+{"raw": "Ikook", "replacement": "Ik ook", "entropy": 0.0, "counts": {"Ik ook": 1}}
+{"raw": "Letop", "replacement": "Let op", "entropy": 0.0, "counts": {"Let op": 1}}
+{"raw": "Zonder", "replacement": "zonder", "entropy": 0.0, "counts": {"zonder": 1}}
+{"raw": "NL", "replacement": "Nederland", "entropy": 1.1803368801111205, "counts": {"Nederland": 2, "Nederlandse": 2}}
+{"raw": "ssssorry", "replacement": "Sorry", "entropy": 0.0, "counts": {"Sorry": 1}}
+{"raw": "houen", "replacement": "houden", "entropy": 0.0, "counts": {"houden": 1}}
+{"raw": "brie-uit-een-blikje", "replacement": "brie uit een blikje", "entropy": 0.0, "counts": {"brie uit een blikje": 1}}
+{"raw": "vogelkes", "replacement": "vogels", "entropy": 0.0, "counts": {"vogels": 1}}
+{"raw": "azo", "replacement": "a zo", "entropy": 1.360673760222241, "counts": {"a zo": 1, "A zo": 1}}
+{"raw": "fluitn", "replacement": "fluiten", "entropy": 0.0, "counts": {"fluiten": 1}}
+{"raw": "newayz", "replacement": "Newayz", "entropy": 0.0, "counts": {"Newayz": 1}}
+{"raw": "ene", "replacement": "een", "entropy": 0.0, "counts": {"een": 2}}
+{"raw": "draaie", "replacement": "draaien", "entropy": 0.0, "counts": {"draaien": 1}}
+{"raw": "nimeer", "replacement": "niet meer", "entropy": 0.0, "counts": {"niet meer": 3}}
+{"raw": "vervele", "replacement": "vervelen", "entropy": 0.0, "counts": {"vervelen": 1}}
+{"raw": "laminuta", "replacement": "Laminuta", "entropy": 0.0, "counts": {"Laminuta": 2}}
+{"raw": "zweenie", "replacement": "Zweenie", "entropy": 0.0, "counts": {"Zweenie": 1}}
+{"raw": "ofziets", "replacement": "of zoiets", "entropy": 0.0, "counts": {"of zoiets": 1}}
+{"raw": "gehange", "replacement": "gehangen", "entropy": 0.0, "counts": {"gehangen": 1}}
+{"raw": "beginne", "replacement": "beginnen", "entropy": 0.0, "counts": {"beginnen": 1}}
+{"raw": "zweve", "replacement": "zweven", "entropy": 0.0, "counts": {"zweven": 1}}
+{"raw": "egt", "replacement": "echt", "entropy": 0.0, "counts": {"echt": 2}}
+{"raw": "zuidlaren", "replacement": "Zuidlaren", "entropy": 0.0, "counts": {"Zuidlaren": 1}}
+{"raw": "Maarre", "replacement": "Maar", "entropy": 0.0, "counts": {"Maar": 1}}
+{"raw": "Binne", "replacement": "Binnen", "entropy": 0.0, "counts": {"Binnen": 1}}
+{"raw": "min", "replacement": "minuten", "entropy": 0.0, "counts": {"minuten": 3}}
+{"raw": "scheetie", "replacement": "schat", "entropy": 0.0, "counts": {"schat": 1}}
+{"raw": "feestp", "replacement": "feest", "entropy": 0.0, "counts": {"feest": 1}}
+{"raw": "kad", "replacement": "Ik had", "entropy": 0.0, "counts": {"Ik had": 2}}
+{"raw": "prcs", "replacement": "precies", "entropy": 0.0, "counts": {"precies": 1}}
+{"raw": "neme", "replacement": "nemen", "entropy": 0.0, "counts": {"nemen": 2}}
+{"raw": "roodje_m", "replacement": "Roodje_m", "entropy": 0.0, "counts": {"Roodje_m": 1}}
+{"raw": "moogde", "replacement": "mag je", "entropy": 0.0, "counts": {"mag je": 1}}
+{"raw": "tweekend", "replacement": "het weekend", "entropy": 0.0, "counts": {"het weekend": 1}}
+{"raw": "tijddtip", "replacement": "tijdstip", "entropy": 0.0, "counts": {"tijdstip": 1}}
+{"raw": "zónder", "replacement": "zonder", "entropy": 0.0, "counts": {"zonder": 1}}
+{"raw": "ofdak", "replacement": "of ik", "entropy": 0.0, "counts": {"of ik": 1}}
+{"raw": "vanaavond", "replacement": "vanavond", "entropy": 0.0, "counts": {"vanavond": 1}}
+{"raw": "moetk", "replacement": "Moet ik", "entropy": 0.0, "counts": {"Moet ik": 1}}
+{"raw": "privegesprekken", "replacement": "privé gesprekken", "entropy": 0.0, "counts": {"privé gesprekken": 1}}
+{"raw": "das", "replacement": "dat is", "entropy": 1.115220098543565, "counts": {"dat is": 3, "Dat is": 2}}
+{"raw": "jeetsels", "replacement": "Jeetsels", "entropy": 0.0, "counts": {"Jeetsels": 1}}
+{"raw": "wann", "replacement": "wanneer", "entropy": 0.0, "counts": {"wanneer": 1}}
+{"raw": "amdere", "replacement": "andere", "entropy": 0.0, "counts": {"andere": 1}}
+{"raw": "ke", "replacement": "keer", "entropy": 0.0, "counts": {"keer": 5}}
+{"raw": "Okee", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "dalijk", "replacement": "dadelijk", "entropy": 0.0, "counts": {"dadelijk": 1}}
+{"raw": "Komde", "replacement": "Kom", "entropy": 1.360673760222241, "counts": {"Kom": 1, "Kom je": 1}}
+{"raw": "pilske", "replacement": "pilsje", "entropy": 0.0, "counts": {"pilsje": 1}}
+{"raw": "vatten", "replacement": "drinken", "entropy": 1.360673760222241, "counts": {"drinken": 1, "vatten": 1}}
+{"raw": "zeje", "replacement": "ben je", "entropy": 0.0, "counts": {"ben je": 1}}
+{"raw": "mattie", "replacement": "maat", "entropy": 0.0, "counts": {"maat": 1}}
+{"raw": "fakaaaa", "replacement": "Fakaaaa", "entropy": 0.0, "counts": {"Fakaaaa": 1}}
+{"raw": "klaaar", "replacement": "klaar", "entropy": 0.0, "counts": {"klaar": 1}}
+{"raw": "pcies", "replacement": "precies", "entropy": 0.0, "counts": {"precies": 2}}
+{"raw": "russish", "replacement": "russisch", "entropy": 0.0, "counts": {"russisch": 1}}
+{"raw": "probl", "replacement": "probleem", "entropy": 0.0, "counts": {"probleem": 2}}
+{"raw": "grrr", "replacement": "Grrr", "entropy": 0.0, "counts": {"Grrr": 2}}
+{"raw": "nx", "replacement": "niks", "entropy": 0.0, "counts": {"niks": 1}}
+{"raw": "ea", "replacement": "en anderen", "entropy": 0.0, "counts": {"en anderen": 1}}
+{"raw": "slegs", "replacement": "slechts", "entropy": 0.0, "counts": {"slechts": 1}}
+{"raw": "as", "replacement": "als", "entropy": 0.0, "counts": {"als": 3}}
+{"raw": "jy", "replacement": "jij", "entropy": 0.0, "counts": {"jij": 3}}
+{"raw": "daardie", "replacement": "daar dat", "entropy": 0.0, "counts": {"daar dat": 1}}
+{"raw": "‘n", "replacement": "een", "entropy": 0.0, "counts": {"een": 2}}
+{"raw": "bevestig", "replacement": "bevestigen", "entropy": 0.0, "counts": {"bevestigen": 1}}
+{"raw": "Brunetteke", "replacement": "Brunette", "entropy": 0.0, "counts": {"Brunette": 1}}
+{"raw": "ziede", "replacement": "zie je", "entropy": 0.0, "counts": {"zie je": 1}}
+{"raw": "IK", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "WEEEEEET", "replacement": "weet", "entropy": 0.0, "counts": {"weet": 1}}
+{"raw": "HETTTTTTT", "replacement": "het", "entropy": 0.0, "counts": {"het": 1}}
+{"raw": "oookee", "replacement": "oké", "entropy": 0.0, "counts": {"oké": 1}}
+{"raw": "beswell", "replacement": "best wel", "entropy": 0.0, "counts": {"best wel": 1}}
+{"raw": "meuie", "replacement": "mooie", "entropy": 0.0, "counts": {"mooie": 1}}
+{"raw": "komop", "replacement": "kom op", "entropy": 0.0, "counts": {"kom op": 1}}
+{"raw": "oep", "replacement": "op", "entropy": 0.0, "counts": {"op": 1}}
+{"raw": "diej", "replacement": "de", "entropy": 0.0, "counts": {"de": 1}}
+{"raw": "ballllll", "replacement": "bal", "entropy": 0.0, "counts": {"bal": 1}}
+{"raw": "magk", "replacement": "mag ik", "entropy": 0.0, "counts": {"mag ik": 3}}
+{"raw": "vrage", "replacement": "vragen", "entropy": 0.0, "counts": {"vragen": 3}}
+{"raw": "Prof.", "replacement": "Professor", "entropy": 0.0, "counts": {"Professor": 1}}
+{"raw": "nrmaal", "replacement": "normaal", "entropy": 0.0, "counts": {"normaal": 1}}
+{"raw": "dadelik", "replacement": "dadelijk", "entropy": 0.0, "counts": {"dadelijk": 1}}
+{"raw": "hy", "replacement": "hij", "entropy": 0.0, "counts": {"hij": 2}}
+{"raw": "battery", "replacement": "batterij", "entropy": 0.0, "counts": {"batterij": 1}}
+{"raw": "ipladen", "replacement": "opladen", "entropy": 0.0, "counts": {"opladen": 1}}
+{"raw": "zgn", "replacement": "zogenaamde", "entropy": 0.0, "counts": {"zogenaamde": 1}}
+{"raw": "heeel", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "zej", "replacement": "zeg je", "entropy": 0.0, "counts": {"zeg je": 1}}
+{"raw": "srieus", "replacement": "serieus", "entropy": 0.0, "counts": {"serieus": 1}}
+{"raw": "hiero", "replacement": "hierzo", "entropy": 0.0, "counts": {"hierzo": 1}}
+{"raw": "Hau", "replacement": "Hou", "entropy": 0.0, "counts": {"Hou": 1}}
+{"raw": "hil", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "fil", "replacement": "veel", "entropy": 0.0, "counts": {"veel": 1}}
+{"raw": "heeeel", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "hulpverlene", "replacement": "hulpverlenen", "entropy": 0.0, "counts": {"hulpverlenen": 1}}
+{"raw": "komde", "replacement": "kom je", "entropy": 0.0, "counts": {"kom je": 2}}
+{"raw": "mosselkes", "replacement": "mosselen", "entropy": 0.0, "counts": {"mosselen": 1}}
+{"raw": "Jongons", "replacement": "Jongens", "entropy": 0.0, "counts": {"Jongens": 1}}
+{"raw": "jongons", "replacement": "Jongens", "entropy": 0.0, "counts": {"Jongens": 1}}
+{"raw": "feestond", "replacement": "feestend", "entropy": 0.0, "counts": {"feestend": 1}}
+{"raw": "samonzijn", "replacement": "samenzijn", "entropy": 0.0, "counts": {"samenzijn": 1}}
+{"raw": "mogn", "replacement": "mogen", "entropy": 0.0, "counts": {"mogen": 1}}
+{"raw": "jeej", "replacement": "Jeej", "entropy": 0.0, "counts": {"Jeej": 1}}
+{"raw": "knuf", "replacement": "knuffel", "entropy": 0.7702470083891011, "counts": {"knuffel": 5, "Knuffel": 1}}
+{"raw": "stuur", "replacement": "Stuur", "entropy": 1.360673760222241, "counts": {"Stuur": 1, "stuur": 1}}
+{"raw": "smskn", "replacement": "sms", "entropy": 0.0, "counts": {"sms": 1}}
+{"raw": "zó'n", "replacement": "zo'n", "entropy": 0.0, "counts": {"zo'n": 1}}
+{"raw": "kzag", "replacement": "Ik zag", "entropy": 1.360673760222241, "counts": {"Ik zag": 1, "ik zag": 1}}
+{"raw": "gistere", "replacement": "gisteren", "entropy": 0.0, "counts": {"gisteren": 2}}
+{"raw": "verschijne", "replacement": "verschijnen", "entropy": 0.0, "counts": {"verschijnen": 2}}
+{"raw": "gan", "replacement": "ga", "entropy": 1.1587450075359835, "counts": {"ga": 2, "gaan": 1}}
+{"raw": "eeb", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "ak-ls", "replacement": "als", "entropy": 0.0, "counts": {"als": 1}}
+{"raw": "bekagrijk", "replacement": "belangrijk", "entropy": 0.0, "counts": {"belangrijk": 1}}
+{"raw": "vidt", "replacement": "vindt", "entropy": 0.0, "counts": {"vindt": 1}}
+{"raw": "’n", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "mensne", "replacement": "mensen", "entropy": 0.0, "counts": {"mensen": 1}}
+{"raw": "boerkas", "replacement": "burka's", "entropy": 0.0, "counts": {"burka's": 1}}
+{"raw": "jis", "replacement": "Jis", "entropy": 0.0, "counts": {"Jis": 1}}
+{"raw": "weggevalle", "replacement": "weggevallen", "entropy": 0.0, "counts": {"weggevallen": 1}}
+{"raw": "ware", "replacement": "waren", "entropy": 0.0, "counts": {"waren": 1}}
+{"raw": "oke", "replacement": "oké", "entropy": 0.0, "counts": {"oké": 2}}
+{"raw": "hiet", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 1}}
+{"raw": "klokkn", "replacement": "klokken", "entropy": 0.0, "counts": {"klokken": 1}}
+{"raw": "oorn", "replacement": "hoort", "entropy": 0.0, "counts": {"hoort": 1}}
+{"raw": "luddn", "replacement": "luiden", "entropy": 0.0, "counts": {"luiden": 1}}
+{"raw": "Keuln", "replacement": "Keulen", "entropy": 0.0, "counts": {"Keulen": 1}}
+{"raw": "isso", "replacement": "Is zo", "entropy": 0.0, "counts": {"Is zo": 1}}
+{"raw": "Kán", "replacement": "Kan", "entropy": 0.0, "counts": {"Kan": 1}}
+{"raw": "óók", "replacement": "ook", "entropy": 0.0, "counts": {"ook": 1}}
+{"raw": "indd", "replacement": "inderdaad", "entropy": 0.0, "counts": {"inderdaad": 1}}
+{"raw": "ajders", "replacement": "anders", "entropy": 0.0, "counts": {"anders": 1}}
+{"raw": "kmoest", "replacement": "ik moest", "entropy": 0.0, "counts": {"ik moest": 1}}
+{"raw": "trug", "replacement": "terug", "entropy": 0.0, "counts": {"terug": 1}}
+{"raw": "aanklede", "replacement": "aankleden", "entropy": 0.0, "counts": {"aankleden": 1}}
+{"raw": "neenn", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "hierr", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 1}}
+{"raw": "zijnn", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "gepervteerdee", "replacement": "geperverteerde", "entropy": 0.0, "counts": {"geperverteerde": 1}}
+{"raw": "gastn", "replacement": "gasten", "entropy": 0.0, "counts": {"gasten": 2}}
+{"raw": "zels", "replacement": "zelf", "entropy": 0.0, "counts": {"zelf": 1}}
+{"raw": "sal", "replacement": "zal", "entropy": 0.0, "counts": {"zal": 2}}
+{"raw": "nogh", "replacement": "nog", "entropy": 0.0, "counts": {"nog": 3}}
+{"raw": "baai", "replacement": "bij", "entropy": 0.0, "counts": {"bij": 1}}
+{"raw": "studeeren", "replacement": "studeren", "entropy": 0.0, "counts": {"studeren": 1}}
+{"raw": "ende", "replacement": "en de", "entropy": 0.0, "counts": {"en de": 1}}
+{"raw": "practische", "replacement": "praktische", "entropy": 0.0, "counts": {"praktische": 1}}
+{"raw": "oefeningh", "replacement": "oefening", "entropy": 0.0, "counts": {"oefening": 1}}
+{"raw": "vraeghen", "replacement": "vragen", "entropy": 0.0, "counts": {"vragen": 1}}
+{"raw": "soo", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "toepassinge", "replacement": "toepassingen", "entropy": 0.0, "counts": {"toepassingen": 1}}
+{"raw": "beeter", "replacement": "beter", "entropy": 0.0, "counts": {"beter": 1}}
+{"raw": "proficiat", "replacement": "Gefeliciteerd", "entropy": 0.0, "counts": {"Gefeliciteerd": 1}}
+{"raw": "zinebt", "replacement": "zin hebt", "entropy": 0.0, "counts": {"zin hebt": 1}}
+{"raw": "kkr", "replacement": "kanker", "entropy": 0.0, "counts": {"kanker": 1}}
+{"raw": "enz", "replacement": "enzo", "entropy": 0.0, "counts": {"enzo": 3}}
+{"raw": "eigk", "replacement": "eigenlijk", "entropy": 0.0, "counts": {"eigenlijk": 1}}
+{"raw": "oprotte", "replacement": "oprotten", "entropy": 0.0, "counts": {"oprotten": 1}}
+{"raw": "jaja", "replacement": "ja", "entropy": 0.0, "counts": {"ja": 1}}
+{"raw": "tgoed", "replacement": "het goed", "entropy": 0.0, "counts": {"het goed": 1}}
+{"raw": "ys", "replacement": "ijj", "entropy": 0.0, "counts": {"ijj": 1}}
+{"raw": "jessii", "replacement": "Jessii", "entropy": 0.0, "counts": {"Jessii": 2}}
+{"raw": "ma.", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "tjah", "replacement": "Tjah", "entropy": 1.360673760222241, "counts": {"Tjah": 1, "Ja": 1}}
+{"raw": "ngal", "replacement": "nogal", "entropy": 0.0, "counts": {"nogal": 1}}
+{"raw": "lekkáh", "replacement": "lekker", "entropy": 0.0, "counts": {"lekker": 1}}
+{"raw": "hoáh", "replacement": "hoor", "entropy": 0.0, "counts": {"hoor": 1}}
+{"raw": "sow", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "duh", "replacement": "de", "entropy": 0.0, "counts": {"de": 1}}
+{"raw": "froeguh", "replacement": "vroege", "entropy": 0.0, "counts": {"vroege": 1}}
+{"raw": "morreguh", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "héé", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "góed", "replacement": "goed", "entropy": 0.0, "counts": {"goed": 1}}
+{"raw": "BIJNA", "replacement": "bijna", "entropy": 0.0, "counts": {"bijna": 1}}
+{"raw": "tsssk", "replacement": "Tsssk", "entropy": 0.0, "counts": {"Tsssk": 1}}
+{"raw": "oogskes", "replacement": "ogen", "entropy": 0.0, "counts": {"ogen": 1}}
+{"raw": "opetrekke", "replacement": "opentrekken", "entropy": 0.0, "counts": {"opentrekken": 1}}
+{"raw": "zow", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "dieje", "replacement": "die", "entropy": 0.0, "counts": {"die": 1}}
+{"raw": "jupiler", "replacement": "Jupiler", "entropy": 0.0, "counts": {"Jupiler": 2}}
+{"raw": "alcool", "replacement": "alcohol", "entropy": 0.0, "counts": {"alcohol": 1}}
+{"raw": "oen", "replacement": "doen", "entropy": 0.0, "counts": {"doen": 1}}
+{"raw": "Gvd", "replacement": "godverdomme", "entropy": 1.360673760222241, "counts": {"godverdomme": 1, "Godverdomme": 1}}
+{"raw": "denkn", "replacement": "denken", "entropy": 0.0, "counts": {"denken": 1}}
+{"raw": "hollander", "replacement": "Hollander", "entropy": 0.0, "counts": {"Hollander": 1}}
+{"raw": "eehm", "replacement": "Eehm", "entropy": 0.0, "counts": {"Eehm": 1}}
+{"raw": "Eivlijk", "replacement": "Eigenlijk", "entropy": 0.0, "counts": {"Eigenlijk": 1}}
+{"raw": "beswel", "replacement": "best wel", "entropy": 0.0, "counts": {"best wel": 1}}
+{"raw": "uwen", "replacement": "uw", "entropy": 0.0, "counts": {"uw": 1}}
+{"raw": "bday", "replacement": "verjaardag", "entropy": 0.0, "counts": {"verjaardag": 1}}
+{"raw": "sta", "replacement": "staat", "entropy": 0.0, "counts": {"staat": 1}}
+{"raw": "kLender", "replacement": "kalender", "entropy": 0.0, "counts": {"kalender": 1}}
+{"raw": "tevel", "replacement": "teveel", "entropy": 0.0, "counts": {"teveel": 1}}
+{"raw": "pubkwisje", "replacement": "pubquizje", "entropy": 0.0, "counts": {"pubquizje": 1}}
+{"raw": "Kusch", "replacement": "Kus", "entropy": 0.0, "counts": {"Kus": 1}}
+{"raw": "Juust", "replacement": "Juist", "entropy": 0.0, "counts": {"Juist": 2}}
+{"raw": "Ffe", "replacement": "Even", "entropy": 0.0, "counts": {"Even": 1}}
+{"raw": "kgebruikte", "replacement": "Ik gebruikte", "entropy": 0.0, "counts": {"Ik gebruikte": 1}}
+{"raw": "miyana", "replacement": "Miyana", "entropy": 0.0, "counts": {"Miyana": 1}}
+{"raw": "Broebelt", "replacement": "Praat", "entropy": 0.0, "counts": {"Praat": 1}}
+{"raw": "onzen", "replacement": "onze", "entropy": 0.0, "counts": {"onze": 1}}
+{"raw": "chouffe", "replacement": "chauffeur", "entropy": 0.0, "counts": {"chauffeur": 1}}
+{"raw": "wuk", "replacement": "welk", "entropy": 0.0, "counts": {"welk": 1}}
+{"raw": "kaffe", "replacement": "café", "entropy": 0.0, "counts": {"café": 1}}
+{"raw": "Kmoe", "replacement": "Ik moet", "entropy": 0.0, "counts": {"Ik moet": 1}}
+{"raw": "afkomen", "replacement": "komen", "entropy": 0.0, "counts": {"komen": 1}}
+{"raw": "Laatmaar", "replacement": "Laat maar", "entropy": 0.0, "counts": {"Laat maar": 1}}
+{"raw": "niemr", "replacement": "niet meer", "entropy": 0.0, "counts": {"niet meer": 1}}
+{"raw": "Hebbe", "replacement": "hebben", "entropy": 0.7702470083891011, "counts": {"Hebben": 1, "hebben": 5}}
+{"raw": "Kdenk", "replacement": "Ik denk", "entropy": 0.0, "counts": {"Ik denk": 1}}
+{"raw": "kbcpresentatie", "replacement": "kbc presentatie", "entropy": 0.0, "counts": {"kbc presentatie": 1}}
+{"raw": "iech", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "vin", "replacement": "vind", "entropy": 0.0, "counts": {"vind": 1}}
+{"raw": "Meh", "replacement": "Maar", "entropy": 0.0, "counts": {"Maar": 1}}
+{"raw": "nao", "replacement": "na", "entropy": 0.0, "counts": {"na": 1}}
+{"raw": "vendaog", "replacement": "vandaag", "entropy": 0.0, "counts": {"vandaag": 1}}
+{"raw": "vleermuisje", "replacement": "vleermuis", "entropy": 0.0, "counts": {"vleermuis": 1}}
+{"raw": "gmaak", "replacement": "maak", "entropy": 0.0, "counts": {"maak": 1}}
+{"raw": "noit", "replacement": "nooit", "entropy": 0.0, "counts": {"nooit": 1}}
+{"raw": "typvfo8uten", "replacement": "typfouten", "entropy": 0.0, "counts": {"typfouten": 1}}
+{"raw": "Alelen", "replacement": "Alleen", "entropy": 0.0, "counts": {"Alleen": 1}}
+{"raw": "dronekn", "replacement": "dronken", "entropy": 0.0, "counts": {"dronken": 1}}
+{"raw": "paerel", "replacement": "parel", "entropy": 0.0, "counts": {"parel": 1}}
+{"raw": "aen", "replacement": "aan", "entropy": 0.0, "counts": {"aan": 1}}
+{"raw": "ick", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 1}}
+{"raw": "danck", "replacement": "dank", "entropy": 0.0, "counts": {"dank": 1}}
+{"raw": "eruitgooie", "replacement": "eruit gooien", "entropy": 0.0, "counts": {"eruit gooien": 1}}
+{"raw": "det", "replacement": "de", "entropy": 0.0, "counts": {"de": 1}}
+{"raw": "waal", "replacement": "Waal", "entropy": 0.0, "counts": {"Waal": 1}}
+{"raw": "unne", "replacement": "een", "entropy": 0.0, "counts": {"een": 2}}
+{"raw": "Kieke", "replacement": "Kijken", "entropy": 0.0, "counts": {"Kijken": 1}}
+{"raw": "Keure", "replacement": "Keuren", "entropy": 0.0, "counts": {"Keuren": 1}}
+{"raw": "lekkkeeeer", "replacement": "lekker", "entropy": 0.0, "counts": {"lekker": 1}}
+{"raw": "voooor", "replacement": "voor", "entropy": 0.0, "counts": {"voor": 1}}
+{"raw": "bwn", "replacement": "ben", "entropy": 0.0, "counts": {"ben": 1}}
+{"raw": "noooooit", "replacement": "nooit", "entropy": 0.0, "counts": {"nooit": 1}}
+{"raw": "malteser", "replacement": "Malteser", "entropy": 0.0, "counts": {"Malteser": 1}}
+{"raw": "koms", "replacement": "Kom eens", "entropy": 0.0, "counts": {"Kom eens": 1}}
+{"raw": "kwacht", "replacement": "ik wacht", "entropy": 0.0, "counts": {"ik wacht": 1}}
+{"raw": "altij", "replacement": "altijd", "entropy": 0.0, "counts": {"altijd": 2}}
+{"raw": "vnt", "replacement": "van het", "entropy": 0.0, "counts": {"van het": 1}}
+{"raw": "opeens", "replacement": "Opeens", "entropy": 0.0, "counts": {"Opeens": 1}}
+{"raw": "overdramatiseren", "replacement": "dramatiseren", "entropy": 0.0, "counts": {"dramatiseren": 1}}
+{"raw": "lotuske", "replacement": "Lotus", "entropy": 0.0, "counts": {"Lotus": 1}}
+{"raw": "kxal", "replacement": "Ik zal", "entropy": 1.115220098543565, "counts": {"ik zal": 2, "Ik zal": 3}}
+{"raw": "wor", "replacement": "wordt", "entropy": 0.0, "counts": {"wordt": 1}}
+{"raw": "gesmete", "replacement": "gesmeten", "entropy": 0.0, "counts": {"gesmeten": 1}}
+{"raw": "kwa", "replacement": "qua", "entropy": 0.0, "counts": {"qua": 1}}
+{"raw": "liefke", "replacement": "liefje", "entropy": 0.0, "counts": {"liefje": 1}}
+{"raw": "voort", "replacement": "voor het", "entropy": 0.0, "counts": {"voor het": 1}}
+{"raw": "ghuis", "replacement": "huis", "entropy": 0.0, "counts": {"huis": 1}}
+{"raw": "driezie", "replacement": "Driezie", "entropy": 0.0, "counts": {"Driezie": 1}}
+{"raw": "jpu", "replacement": "jou", "entropy": 0.0, "counts": {"jou": 1}}
+{"raw": "gedronkn", "replacement": "gedronken", "entropy": 0.0, "counts": {"gedronken": 1}}
+{"raw": "surieus", "replacement": "serieus", "entropy": 0.0, "counts": {"serieus": 1}}
+{"raw": "klaas", "replacement": "Klaas", "entropy": 0.0, "counts": {"Klaas": 1}}
+{"raw": "moestet", "replacement": "Moest het", "entropy": 0.0, "counts": {"Moest het": 1}}
+{"raw": "terraske", "replacement": "terras", "entropy": 0.0, "counts": {"terras": 1}}
+{"raw": "euhm", "replacement": "Euhm", "entropy": 0.0, "counts": {"Euhm": 1}}
+{"raw": "geniaaaal", "replacement": "Geniaal", "entropy": 0.0, "counts": {"Geniaal": 1}}
+{"raw": "Iech", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "bin", "replacement": "ben", "entropy": 0.0, "counts": {"ben": 1}}
+{"raw": "gruuts", "replacement": "groots", "entropy": 0.0, "counts": {"groots": 1}}
+{"raw": "oppe", "replacement": "op", "entropy": 0.0, "counts": {"op": 1}}
+{"raw": "mie", "replacement": "mijn", "entropy": 0.0, "counts": {"mijn": 1}}
+{"raw": "noe", "replacement": "nu", "entropy": 0.0, "counts": {"nu": 1}}
+{"raw": "M'n", "replacement": "Mijn", "entropy": 0.0, "counts": {"Mijn": 1}}
+{"raw": "kado", "replacement": "cadeau", "entropy": 0.0, "counts": {"cadeau": 2}}
+{"raw": "daarnet", "replacement": "net", "entropy": 0.0, "counts": {"net": 1}}
+{"raw": "kdoecht", "replacement": "ik dacht", "entropy": 0.0, "counts": {"ik dacht": 1}}
+{"raw": "trugkome", "replacement": "terugkomen", "entropy": 0.0, "counts": {"terugkomen": 1}}
+{"raw": "bietjie", "replacement": "biertje", "entropy": 0.0, "counts": {"biertje": 1}}
+{"raw": "snubbeken", "replacement": "drinken", "entropy": 0.0, "counts": {"drinken": 1}}
+{"raw": "ginni", "replacement": "gin", "entropy": 0.0, "counts": {"gin": 1}}
+{"raw": "mvrouw", "replacement": "mevrouw", "entropy": 0.0, "counts": {"mevrouw": 1}}
+{"raw": "huisarts", "replacement": "Huisarts", "entropy": 0.0, "counts": {"Huisarts": 1}}
+{"raw": "gevr", "replacement": "gevraagd", "entropy": 0.0, "counts": {"gevraagd": 1}}
+{"raw": "Vph", "replacement": "Verpleeghuis", "entropy": 0.0, "counts": {"Verpleeghuis": 1}}
+{"raw": "vph", "replacement": "verpleeghuis", "entropy": 0.0, "counts": {"verpleeghuis": 1}}
+{"raw": "Zeguh", "replacement": "Zeg", "entropy": 0.0, "counts": {"Zeg": 1}}
+{"raw": "stemmuh", "replacement": "stemmen", "entropy": 0.0, "counts": {"stemmen": 1}}
+{"raw": "Kale", "replacement": "kale", "entropy": 0.0, "counts": {"kale": 1}}
+{"raw": "jaah", "replacement": "ja", "entropy": 0.0, "counts": {"ja": 1}}
+{"raw": "elken", "replacement": "elke", "entropy": 0.0, "counts": {"elke": 1}}
+{"raw": "macdonalds", "replacement": "McDonald's", "entropy": 0.0, "counts": {"McDonald's": 1}}
+{"raw": "gekrege", "replacement": "gekregen", "entropy": 0.0, "counts": {"gekregen": 1}}
+{"raw": "weirke", "replacement": "werken", "entropy": 0.0, "counts": {"werken": 1}}
+{"raw": "apps", "replacement": "applicaties", "entropy": 0.0, "counts": {"applicaties": 1}}
+{"raw": "Kweet", "replacement": "Ik weet", "entropy": 0.0, "counts": {"Ik weet": 1}}
+{"raw": "kwou", "replacement": "ik wou", "entropy": 0.0, "counts": {"ik wou": 2}}
+{"raw": "goeienavond", "replacement": "Goedenavond", "entropy": 0.0, "counts": {"Goedenavond": 1}}
+{"raw": "aanwezigv", "replacement": "aanwezig", "entropy": 0.0, "counts": {"aanwezig": 1}}
+{"raw": "eff", "replacement": "even", "entropy": 0.0, "counts": {"even": 1}}
+{"raw": "gy", "replacement": "jij", "entropy": 0.0, "counts": {"jij": 2}}
+{"raw": "Njah", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "zkt", "replacement": "zoekt", "entropy": 0.0, "counts": {"zoekt": 1}}
+{"raw": "Diz", "replacement": "Deze", "entropy": 0.0, "counts": {"Deze": 1}}
+{"raw": "Oeioei", "replacement": "Oei", "entropy": 0.0, "counts": {"Oei": 1}}
+{"raw": "Suc6", "replacement": "Succes", "entropy": 0.0, "counts": {"Succes": 1}}
+{"raw": "dreft", "replacement": "Dreft", "entropy": 0.0, "counts": {"Dreft": 1}}
+{"raw": "ozeker", "replacement": "Zeker", "entropy": 0.0, "counts": {"Zeker": 1}}
+{"raw": "gefrussteerd", "replacement": "gefrustreerd", "entropy": 0.0, "counts": {"gefrustreerd": 1}}
+{"raw": "ocharme", "replacement": "och arme", "entropy": 0.0, "counts": {"och arme": 1}}
+{"raw": "Khad", "replacement": "Ik had", "entropy": 0.0, "counts": {"Ik had": 1}}
+{"raw": "Da", "replacement": "Dat", "entropy": 0.0, "counts": {"Dat": 3}}
+{"raw": "hadden", "replacement": "hadden we", "entropy": 0.0, "counts": {"hadden we": 1}}
+{"raw": "volleyballe", "replacement": "volleyballen", "entropy": 0.0, "counts": {"volleyballen": 1}}
+{"raw": "sochtends", "replacement": "'s ochtends", "entropy": 0.0, "counts": {"'s ochtends": 1}}
+{"raw": "smiddag", "replacement": "'s middags", "entropy": 0.0, "counts": {"'s middags": 1}}
+{"raw": "eigelek", "replacement": "eigenlijk", "entropy": 0.0, "counts": {"eigenlijk": 1}}
+{"raw": "Ebt", "replacement": "heb", "entropy": 0.0, "counts": {"heb": 1}}
+{"raw": "avnd", "replacement": "avond", "entropy": 0.0, "counts": {"avond": 1}}
+{"raw": "zu", "replacement": "te", "entropy": 0.0, "counts": {"te": 1}}
+{"raw": "Ieks", "replacement": "Iets", "entropy": 0.0, "counts": {"Iets": 1}}
+{"raw": "zoooo", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "lope", "replacement": "lopen", "entropy": 0.0, "counts": {"lopen": 1}}
+{"raw": "fzo", "replacement": "ofzo", "entropy": 0.0, "counts": {"ofzo": 2}}
+{"raw": "thuus", "replacement": "thuis", "entropy": 0.0, "counts": {"thuis": 1}}
+{"raw": "wazigvaag", "replacement": "wazig vaag", "entropy": 0.0, "counts": {"wazig vaag": 1}}
+{"raw": "aj", "replacement": "als je", "entropy": 0.0, "counts": {"als je": 1}}
+{"raw": "zuign", "replacement": "zuigen", "entropy": 0.0, "counts": {"zuigen": 1}}
+{"raw": "eke", "replacement": "heb ik", "entropy": 0.0, "counts": {"heb ik": 1}}
+{"raw": "doa", "replacement": "daar", "entropy": 0.0, "counts": {"daar": 1}}
+{"raw": "goeiendag", "replacement": "goedendag", "entropy": 0.0, "counts": {"goedendag": 1}}
+{"raw": "hijhij", "replacement": "hij", "entropy": 0.0, "counts": {"hij": 1}}
+{"raw": "dahaar", "replacement": "daar", "entropy": 0.0, "counts": {"daar": 1}}
+{"raw": "zoho", "replacement": "zo", "entropy": 0.0, "counts": {"zo": 1}}
+{"raw": "zoekehend", "replacement": "zoekend", "entropy": 0.0, "counts": {"zoekend": 1}}
+{"raw": "ihin", "replacement": "in", "entropy": 0.0, "counts": {"in": 1}}
+{"raw": "hehet", "replacement": "het", "entropy": 0.0, "counts": {"het": 1}}
+{"raw": "Zustah", "replacement": "Zuster", "entropy": 0.0, "counts": {"Zuster": 1}}
+{"raw": "díe", "replacement": "die", "entropy": 0.0, "counts": {"die": 1}}
+{"raw": "dametje", "replacement": "dame", "entropy": 0.0, "counts": {"dame": 1}}
+{"raw": "DREK", "replacement": "drek", "entropy": 0.0, "counts": {"drek": 1}}
+{"raw": "vndg", "replacement": "vandaag", "entropy": 0.0, "counts": {"vandaag": 1}}
+{"raw": "fitnesszal", "replacement": "fitnesszaal", "entropy": 0.0, "counts": {"fitnesszaal": 1}}
+{"raw": "kinruimte", "replacement": "kinderruimte", "entropy": 0.0, "counts": {"kinderruimte": 1}}
+{"raw": "jacuzii", "replacement": "jacuzzi", "entropy": 0.0, "counts": {"jacuzzi": 1}}
+{"raw": "Anderlecht=Big", "replacement": "Anderlecht is een grote", "entropy": 0.0, "counts": {"Anderlecht is een grote": 1}}
+{"raw": "bestllen", "replacement": "bestellen", "entropy": 0.0, "counts": {"bestellen": 1}}
+{"raw": "waat", "replacement": "Wat", "entropy": 0.0, "counts": {"Wat": 1}}
+{"raw": "daaaaat", "replacement": "dat", "entropy": 0.0, "counts": {"dat": 1}}
+{"raw": "auww", "replacement": "Auww", "entropy": 0.0, "counts": {"Auww": 1}}
+{"raw": "doeyt", "replacement": "doet", "entropy": 0.0, "counts": {"doet": 1}}
+{"raw": "zeeer", "replacement": "zeer", "entropy": 0.0, "counts": {"zeer": 1}}
+{"raw": "apericheer", "replacement": "apprecieer", "entropy": 0.0, "counts": {"apprecieer": 1}}
+{"raw": "datte", "replacement": "dat", "entropy": 0.0, "counts": {"dat": 1}}
+{"raw": "blijfde", "replacement": "blijf je", "entropy": 0.0, "counts": {"blijf je": 1}}
+{"raw": "dermee", "replacement": "ermee", "entropy": 1.1587450075359835, "counts": {"ermee": 2, "daardoor": 1}}
+{"raw": "paps", "replacement": "papa", "entropy": 0.0, "counts": {"papa": 1}}
+{"raw": "degeen", "replacement": "Diegene", "entropy": 0.0, "counts": {"Diegene": 1}}
+{"raw": "wille", "replacement": "willen", "entropy": 0.0, "counts": {"willen": 1}}
+{"raw": "ok", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "zoekn", "replacement": "zoeken", "entropy": 0.0, "counts": {"zoeken": 1}}
+{"raw": "telnr", "replacement": "telefoonnummer", "entropy": 0.0, "counts": {"telefoonnummer": 1}}
+{"raw": "eeh", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "ffkes", "replacement": "even", "entropy": 0.0, "counts": {"even": 2}}
+{"raw": "sgaties", "replacement": "schatjes", "entropy": 0.0, "counts": {"schatjes": 1}}
+{"raw": "poklemon", "replacement": "Pokémon", "entropy": 0.0, "counts": {"Pokémon": 1}}
+{"raw": "hardd", "replacement": "hard", "entropy": 0.0, "counts": {"hard": 1}}
+{"raw": "kzeg", "replacement": "ik zeg", "entropy": 0.0, "counts": {"ik zeg": 1}}
+{"raw": "dajje", "replacement": "dat je", "entropy": 0.0, "counts": {"dat je": 1}}
+{"raw": "tssss", "replacement": "tsssss", "entropy": 0.0, "counts": {"tsssss": 1}}
+{"raw": "dreamboy", "replacement": "Dreamboy", "entropy": 0.0, "counts": {"Dreamboy": 1}}
+{"raw": "vertrouwe", "replacement": "vertrouwen", "entropy": 0.0, "counts": {"vertrouwen": 1}}
+{"raw": "zoiet", "replacement": "zoiets", "entropy": 0.0, "counts": {"zoiets": 1}}
+{"raw": "studere", "replacement": "studeren", "entropy": 0.0, "counts": {"studeren": 1}}
+{"raw": "Ewel", "replacement": "Even wel", "entropy": 0.0, "counts": {"Even wel": 1}}
+{"raw": "filmke", "replacement": "filmpje", "entropy": 0.0, "counts": {"filmpje": 2}}
+{"raw": "afw", "replacement": "afwachten", "entropy": 0.0, "counts": {"afwachten": 1}}
+{"raw": "doede", "replacement": "Doe", "entropy": 0.0, "counts": {"Doe": 1}}
+{"raw": "gevonde", "replacement": "gevonden", "entropy": 0.0, "counts": {"gevonden": 1}}
+{"raw": "provence", "replacement": "provincie", "entropy": 0.0, "counts": {"provincie": 1}}
+{"raw": "negativit", "replacement": "negativiteit", "entropy": 0.0, "counts": {"negativiteit": 1}}
+{"raw": "gekoopt", "replacement": "gekocht", "entropy": 0.0, "counts": {"gekocht": 1}}
+{"raw": "gekrijgen", "replacement": "krijgen", "entropy": 0.0, "counts": {"krijgen": 1}}
+{"raw": "NLers", "replacement": "Nederlanders", "entropy": 0.0, "counts": {"Nederlanders": 1}}
+{"raw": "piza", "replacement": "pizza", "entropy": 0.0, "counts": {"pizza": 1}}
+{"raw": "dorop", "replacement": "daarop", "entropy": 0.0, "counts": {"daarop": 1}}
+{"raw": "vrw8e:p", "replacement": "verwachten :p", "entropy": 0.0, "counts": {"verwachten :p": 1}}
+{"raw": "lidl", "replacement": "Lidl", "entropy": 0.0, "counts": {"Lidl": 1}}
+{"raw": "Graptjeuuuh", "replacement": "Grapje", "entropy": 0.0, "counts": {"Grapje": 1}}
+{"raw": "Neen", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "vandeweek", "replacement": "van de week", "entropy": 0.0, "counts": {"van de week": 2}}
+{"raw": "brugfe", "replacement": "Brugfe", "entropy": 0.0, "counts": {"Brugfe": 1}}
+{"raw": "yrein", "replacement": "trein", "entropy": 0.0, "counts": {"trein": 1}}
+{"raw": "DenHaag", "replacement": "Den Haag", "entropy": 0.0, "counts": {"Den Haag": 1}}
+{"raw": "vanwge", "replacement": "vanwege", "entropy": 0.0, "counts": {"vanwege": 1}}
+{"raw": "blf", "replacement": "blijf", "entropy": 0.0, "counts": {"blijf": 1}}
+{"raw": "dzelde", "replacement": "dezelfde", "entropy": 0.0, "counts": {"dezelfde": 1}}
+{"raw": "zitn", "replacement": "zitten", "entropy": 0.0, "counts": {"zitten": 1}}
+{"raw": "zoendre", "replacement": "zonder", "entropy": 0.0, "counts": {"zonder": 1}}
+{"raw": "tweten", "replacement": "het weten", "entropy": 0.0, "counts": {"het weten": 1}}
+{"raw": "kvond", "replacement": "Ik vond", "entropy": 0.0, "counts": {"Ik vond": 1}}
+{"raw": "blijkbaar", "replacement": "Blijkbaar", "entropy": 0.0, "counts": {"Blijkbaar": 1}}
+{"raw": "Woar", "replacement": "was", "entropy": 0.0, "counts": {"was": 1}}
+{"raw": "gesjlaagde", "replacement": "geslaagde", "entropy": 0.0, "counts": {"geslaagde": 1}}
+{"raw": "aovend", "replacement": "avond", "entropy": 0.0, "counts": {"avond": 1}}
+{"raw": "tzulle", "replacement": "het zullen", "entropy": 0.0, "counts": {"het zullen": 1}}
+{"raw": "gasten", "replacement": "Gasten", "entropy": 0.0, "counts": {"Gasten": 1}}
+{"raw": "alelmaal", "replacement": "allemaal", "entropy": 0.0, "counts": {"allemaal": 1}}
+{"raw": "vlgende", "replacement": "volgende", "entropy": 0.0, "counts": {"volgende": 1}}
+{"raw": "polllllll", "replacement": "poll", "entropy": 0.0, "counts": {"poll": 1}}
+{"raw": "ilk", "replacement": "ik", "entropy": 0.0, "counts": {"ik": 1}}
+{"raw": "sgat", "replacement": "schat", "entropy": 0.0, "counts": {"schat": 1}}
+{"raw": "Wss", "replacement": "Waarschijnlijk", "entropy": 0.0, "counts": {"Waarschijnlijk": 1}}
+{"raw": "sgoed", "replacement": "is goed", "entropy": 0.0, "counts": {"is goed": 1}}
+{"raw": "Ete", "replacement": "Eten", "entropy": 0.0, "counts": {"Eten": 1}}
+{"raw": "tval", "replacement": "het valt", "entropy": 0.0, "counts": {"het valt": 1}}
+{"raw": "kweni", "replacement": "ik weet niet", "entropy": 0.0, "counts": {"ik weet niet": 1}}
+{"raw": "momma", "replacement": "mama", "entropy": 0.0, "counts": {"mama": 1}}
+{"raw": "’s", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "heul", "replacement": "heel", "entropy": 0.0, "counts": {"heel": 1}}
+{"raw": "veul", "replacement": "veel", "entropy": 0.0, "counts": {"veel": 1}}
+{"raw": "messen", "replacement": "mensen", "entropy": 0.0, "counts": {"mensen": 1}}
+{"raw": "kenne", "replacement": "kunnen", "entropy": 1.360673760222241, "counts": {"kunnen": 1, "kennen": 1}}
+{"raw": "penne", "replacement": "pennen", "entropy": 0.0, "counts": {"pennen": 1}}
+{"raw": "pluske", "replacement": "plusje", "entropy": 0.0, "counts": {"plusje": 1}}
+{"raw": "GekkeMarokkaan", "replacement": "GekkeMarrokaan", "entropy": 0.0, "counts": {"GekkeMarrokaan": 1}}
+{"raw": "btaald", "replacement": "betaald", "entropy": 0.0, "counts": {"betaald": 1}}
+{"raw": "nuu", "replacement": "nu", "entropy": 0.0, "counts": {"nu": 2}}
+{"raw": "Inderaad", "replacement": "Inderdaad", "entropy": 0.0, "counts": {"Inderdaad": 1}}
+{"raw": "cam", "replacement": "camera", "entropy": 0.0, "counts": {"camera": 1}}
+{"raw": "morgenavnd", "replacement": "Morgenavond", "entropy": 0.0, "counts": {"Morgenavond": 1}}
+{"raw": "pintje", "replacement": "biertje", "entropy": 0.0, "counts": {"biertje": 1}}
+{"raw": "fridayavond", "replacement": "vrijdagavond", "entropy": 0.0, "counts": {"vrijdagavond": 1}}
+{"raw": "ooo", "replacement": "Ooo", "entropy": 0.0, "counts": {"Ooo": 1}}
+{"raw": "Ist", "replacement": "Is het", "entropy": 0.0, "counts": {"Is het": 1}}
+{"raw": "Oja", "replacement": "Oh ja", "entropy": 0.0, "counts": {"Oh ja": 1}}
+{"raw": "sev.", "replacement": "zeven", "entropy": 0.0, "counts": {"zeven": 1}}
+{"raw": "econ", "replacement": "economie", "entropy": 0.0, "counts": {"economie": 1}}
+{"raw": "tóch", "replacement": "toch", "entropy": 0.0, "counts": {"toch": 1}}
+{"raw": "sindsdie", "replacement": "sindsdien", "entropy": 0.0, "counts": {"sindsdien": 1}}
+{"raw": "gelukstreffer", "replacement": "Gelukstreffer", "entropy": 0.0, "counts": {"Gelukstreffer": 1}}
+{"raw": "bekkie", "replacement": "bek", "entropy": 0.0, "counts": {"bek": 1}}
+{"raw": "Jâh", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "Doeh", "replacement": "Doe", "entropy": 0.0, "counts": {"Doe": 1}}
+{"raw": "mohr", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "plakkie", "replacement": "plakje", "entropy": 0.0, "counts": {"plakje": 1}}
+{"raw": "nogaal", "replacement": "Nogal", "entropy": 0.0, "counts": {"Nogal": 1}}
+{"raw": "machetteeeh", "replacement": "machete", "entropy": 0.0, "counts": {"machete": 1}}
+{"raw": "weetge", "replacement": "Weet je", "entropy": 0.0, "counts": {"Weet je": 1}}
+{"raw": "FUCKING", "replacement": "fucking", "entropy": 0.0, "counts": {"fucking": 1}}
+{"raw": "isda", "replacement": "Is dat", "entropy": 1.1587450075359835, "counts": {"Is dat": 2, "is dat": 1}}
+{"raw": "Filmpke", "replacement": "Film", "entropy": 0.0, "counts": {"Film": 1}}
+{"raw": "Shittt", "replacement": "Shit", "entropy": 0.0, "counts": {"Shit": 1}}
+{"raw": "tennisen", "replacement": "tennissen", "entropy": 0.0, "counts": {"tennissen": 1}}
+{"raw": "bioj", "replacement": "bij", "entropy": 0.0, "counts": {"bij": 1}}
+{"raw": "moore", "replacement": "Moore", "entropy": 0.0, "counts": {"Moore": 1}}
+{"raw": "tisal", "replacement": "Het is al", "entropy": 0.0, "counts": {"Het is al": 1}}
+{"raw": "maa", "replacement": "maar", "entropy": 0.0, "counts": {"maar": 1}}
+{"raw": "nogni", "replacement": "nog niet", "entropy": 0.0, "counts": {"nog niet": 1}}
+{"raw": "e.a.", "replacement": "en andere", "entropy": 0.0, "counts": {"en andere": 1}}
+{"raw": "neej", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "letterlijk", "replacement": "Letterlijk", "entropy": 0.0, "counts": {"Letterlijk": 1}}
+{"raw": "ZEGEN", "replacement": "zegen", "entropy": 0.0, "counts": {"zegen": 1}}
+{"raw": "fucckk", "replacement": "fuck", "entropy": 0.0, "counts": {"fuck": 1}}
+{"raw": "Wy", "replacement": "Wij", "entropy": 0.0, "counts": {"Wij": 1}}
+{"raw": "spele", "replacement": "spelen", "entropy": 0.0, "counts": {"spelen": 1}}
+{"raw": "milj", "replacement": "miljoen", "entropy": 0.0, "counts": {"miljoen": 1}}
+{"raw": "celebs", "replacement": "celebrities", "entropy": 0.0, "counts": {"celebrities": 1}}
+{"raw": "ey", "replacement": "hoi", "entropy": 1.1587450075359835, "counts": {"Hoi": 1, "hoi": 2}}
+{"raw": "leeeeeeker", "replacement": "Lekker", "entropy": 0.0, "counts": {"Lekker": 1}}
+{"raw": "maaaaan", "replacement": "man", "entropy": 0.0, "counts": {"man": 1}}
+{"raw": "Overhaest", "replacement": "Overhaast", "entropy": 0.0, "counts": {"Overhaast": 1}}
+{"raw": "brenght", "replacement": "brengt", "entropy": 0.0, "counts": {"brengt": 1}}
+{"raw": "selden", "replacement": "zelden", "entropy": 0.0, "counts": {"zelden": 1}}
+{"raw": "beklyvend", "replacement": "blijvend", "entropy": 0.0, "counts": {"blijvend": 1}}
+{"raw": "resultaet", "replacement": "resultaat", "entropy": 0.0, "counts": {"resultaat": 1}}
+{"raw": "Gheduld", "replacement": "Geduld", "entropy": 0.0, "counts": {"Geduld": 1}}
+{"raw": "inderdaed", "replacement": "inderdaad", "entropy": 0.0, "counts": {"inderdaad": 1}}
+{"raw": "strateegye", "replacement": "strategie", "entropy": 0.0, "counts": {"strategie": 1}}
+{"raw": "alsan", "replacement": "al", "entropy": 0.0, "counts": {"al": 1}}
+{"raw": "opde", "replacement": "op de", "entropy": 0.0, "counts": {"op de": 1}}
+{"raw": "eiglk", "replacement": "eiglijk", "entropy": 0.0, "counts": {"eiglijk": 1}}
+{"raw": "nade", "replacement": "naar de", "entropy": 0.0, "counts": {"naar de": 1}}
+{"raw": "oppu", "replacement": "op je", "entropy": 0.0, "counts": {"op je": 1}}
+{"raw": "waardat", "replacement": "waar dat", "entropy": 0.0, "counts": {"waar dat": 1}}
+{"raw": "jammert", "replacement": "jammer", "entropy": 0.0, "counts": {"jammer": 1}}
+{"raw": "Nja", "replacement": "nou ja", "entropy": 0.0, "counts": {"nou ja": 1}}
+{"raw": "wt", "replacement": "wat", "entropy": 0.0, "counts": {"wat": 1}}
+{"raw": "altied", "replacement": "altijd", "entropy": 0.0, "counts": {"altijd": 1}}
+{"raw": "vlaoms", "replacement": "Vlaams", "entropy": 0.0, "counts": {"Vlaams": 1}}
+{"raw": "brabants", "replacement": "Brabants", "entropy": 0.0, "counts": {"Brabants": 1}}
+{"raw": "loll", "replacement": "lol", "entropy": 0.0, "counts": {"lol": 1}}
+{"raw": "uitvoor", "replacement": "uit voor", "entropy": 0.0, "counts": {"uit voor": 1}}
+{"raw": "Segguh", "replacement": "Zeg", "entropy": 0.0, "counts": {"Zeg": 1}}
+{"raw": "colleguh", "replacement": "collega", "entropy": 0.0, "counts": {"collega": 1}}
+{"raw": "Hedduh", "replacement": "Heb", "entropy": 0.0, "counts": {"Heb": 1}}
+{"raw": "geijuh", "replacement": "jij", "entropy": 0.0, "counts": {"jij": 1}}
+{"raw": "unnuh", "replacement": "een", "entropy": 0.0, "counts": {"een": 1}}
+{"raw": "goeiuh", "replacement": "goeie", "entropy": 0.0, "counts": {"goeie": 1}}
+{"raw": "buiuh", "replacement": "bui", "entropy": 0.0, "counts": {"bui": 1}}
+{"raw": "ofzohuh", "replacement": "ofzo", "entropy": 0.0, "counts": {"ofzo": 1}}
+{"raw": "duive", "replacement": "duiven", "entropy": 0.0, "counts": {"duiven": 1}}
+{"raw": "schiete", "replacement": "schieten", "entropy": 0.0, "counts": {"schieten": 1}}
+{"raw": "vavnd", "replacement": "vanavond", "entropy": 0.0, "counts": {"vanavond": 1}}
+{"raw": "kynde", "replacement": "Kan je", "entropy": 0.0, "counts": {"Kan je": 1}}
+{"raw": "belln", "replacement": "bellen", "entropy": 0.0, "counts": {"bellen": 1}}
+{"raw": "zije", "replacement": "ben je", "entropy": 1.360673760222241, "counts": {"ben je": 1, "Ben": 1}}
+{"raw": "Jijh", "replacement": "Jij", "entropy": 0.0, "counts": {"Jij": 1}}
+{"raw": "Ookh", "replacement": "ook", "entropy": 0.0, "counts": {"ook": 1}}
+{"raw": "Ohp", "replacement": "op", "entropy": 0.0, "counts": {"op": 1}}
+{"raw": "Wieh", "replacement": "Wie", "entropy": 0.0, "counts": {"Wie": 1}}
+{"raw": "Ihs", "replacement": "Is", "entropy": 0.0, "counts": {"Is": 1}}
+{"raw": "Dhe", "replacement": "De", "entropy": 0.0, "counts": {"De": 1}}
+{"raw": "Mhol", "replacement": "Mol", "entropy": 0.0, "counts": {"Mol": 1}}
+{"raw": "Stemmehn", "replacement": "stemmen", "entropy": 0.0, "counts": {"stemmen": 1}}
+{"raw": "Jeps", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "pakkn", "replacement": "pakken", "entropy": 0.0, "counts": {"pakken": 1}}
+{"raw": "bovn", "replacement": "boven", "entropy": 0.0, "counts": {"boven": 1}}
+{"raw": "friend", "replacement": "vriend", "entropy": 0.0, "counts": {"vriend": 1}}
+{"raw": "tatt", "replacement": "tattoo", "entropy": 0.0, "counts": {"tattoo": 1}}
+{"raw": "than", "replacement": "Than", "entropy": 0.0, "counts": {"Than": 1}}
+{"raw": "Biggi", "replacement": "Groot", "entropy": 0.0, "counts": {"Groot": 1}}
+{"raw": "betaluh", "replacement": "betalen", "entropy": 0.0, "counts": {"betalen": 1}}
+{"raw": "oeie", "replacement": "Oeie", "entropy": 0.0, "counts": {"Oeie": 1}}
+{"raw": "zoude", "replacement": "zou je", "entropy": 0.0, "counts": {"zou je": 1}}
+{"raw": "muu", "replacement": "muur", "entropy": 0.0, "counts": {"muur": 1}}
+{"raw": "smijte", "replacement": "smijten", "entropy": 0.0, "counts": {"smijten": 1}}
+{"raw": "gade", "replacement": "ga jij", "entropy": 0.0, "counts": {"ga jij": 1}}
+{"raw": "squashe", "replacement": "squashen", "entropy": 0.0, "counts": {"squashen": 1}}
+{"raw": "opslot", "replacement": "op slot", "entropy": 0.0, "counts": {"op slot": 1}}
+{"raw": "Gsm", "replacement": "Telefoon", "entropy": 0.0, "counts": {"Telefoon": 1}}
+{"raw": "wsschnlijk", "replacement": "waarschijnlijk", "entropy": 0.0, "counts": {"waarschijnlijk": 1}}
+{"raw": "geef", "replacement": "Geef", "entropy": 0.0, "counts": {"Geef": 1}}
+{"raw": "mekaar", "replacement": "elkaar", "entropy": 0.0, "counts": {"elkaar": 1}}
+{"raw": "likske", "replacement": "lik", "entropy": 0.0, "counts": {"lik": 1}}
+{"raw": "spekkies", "replacement": "spekjes", "entropy": 0.0, "counts": {"spekjes": 1}}
+{"raw": "vark.fi", "replacement": "varkensfilet", "entropy": 0.0, "counts": {"varkensfilet": 1}}
+{"raw": "letlapje", "replacement": "vetlapje", "entropy": 0.0, "counts": {"vetlapje": 1}}
+{"raw": "aard.", "replacement": "aardappel", "entropy": 0.0, "counts": {"aardappel": 1}}
+{"raw": "Dáár", "replacement": "Daar", "entropy": 0.0, "counts": {"Daar": 1}}
+{"raw": "wél", "replacement": "wel", "entropy": 0.0, "counts": {"wel": 1}}
+{"raw": "bi", "replacement": "bij", "entropy": 0.0, "counts": {"bij": 1}}
+{"raw": "persn", "replacement": "persen", "entropy": 0.0, "counts": {"persen": 1}}
+{"raw": "baby", "replacement": "Baby", "entropy": 1.360673760222241, "counts": {"Baby": 1, "baby": 1}}
+{"raw": "wilde", "replacement": "Wilde", "entropy": 0.0, "counts": {"Wilde": 1}}
+{"raw": "makn", "replacement": "maken", "entropy": 0.0, "counts": {"maken": 1}}
+{"raw": "byna", "replacement": "bijna", "entropy": 0.0, "counts": {"bijna": 1}}
+{"raw": "onmogelyk", "replacement": "onmogelijk", "entropy": 0.0, "counts": {"onmogelijk": 1}}
+{"raw": "trainingskmp", "replacement": "trainingskamp", "entropy": 0.0, "counts": {"trainingskamp": 1}}
+{"raw": "pfffff", "replacement": "Pfffff", "entropy": 0.0, "counts": {"Pfffff": 1}}
+{"raw": "noddig", "replacement": "nodig", "entropy": 0.0, "counts": {"nodig": 1}}
+{"raw": "weekwnd", "replacement": "weekend", "entropy": 0.0, "counts": {"weekend": 1}}
+{"raw": "NA", "replacement": "na", "entropy": 0.0, "counts": {"na": 1}}
+{"raw": "v.", "replacement": "van", "entropy": 0.0, "counts": {"van": 1}}
+{"raw": "zijjn", "replacement": "zijn", "entropy": 0.0, "counts": {"zijn": 1}}
+{"raw": "bedrijve", "replacement": "bedrijven", "entropy": 0.0, "counts": {"bedrijven": 1}}
+{"raw": "dusja", "replacement": "dus ja", "entropy": 0.0, "counts": {"dus ja": 1}}
+{"raw": "bro", "replacement": "broer", "entropy": 0.0, "counts": {"broer": 1}}
+{"raw": "geworde", "replacement": "geworden", "entropy": 0.0, "counts": {"geworden": 1}}
+{"raw": "Kzie", "replacement": "Ik zie", "entropy": 0.0, "counts": {"Ik zie": 1}}
+{"raw": "indiene", "replacement": "indienen", "entropy": 0.0, "counts": {"indienen": 1}}
+{"raw": "in't", "replacement": "in het", "entropy": 0.0, "counts": {"in het": 2}}
+{"raw": "Neent", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "Dankie", "replacement": "Dankje", "entropy": 0.0, "counts": {"Dankje": 1}}
+{"raw": "Groete", "replacement": "groeten", "entropy": 0.0, "counts": {"groeten": 1}}
+{"raw": "Lekkerrrrrrrrrrr", "replacement": "Lekker", "entropy": 0.0, "counts": {"Lekker": 1}}
+{"raw": "Neenee", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "Telkenkere", "replacement": "Telkens", "entropy": 0.0, "counts": {"Telkens": 1}}
+{"raw": "toeme", "replacement": "Toeme", "entropy": 0.0, "counts": {"Toeme": 1}}
+{"raw": "intressante", "replacement": "interessante", "entropy": 0.0, "counts": {"interessante": 1}}
+{"raw": "helaesch", "replacement": "helaas", "entropy": 0.0, "counts": {"helaas": 1}}
+{"raw": "nogaaaal", "replacement": "Nogal", "entropy": 0.0, "counts": {"Nogal": 1}}
+{"raw": "mjaa", "replacement": "maar ja", "entropy": 0.0, "counts": {"maar ja": 1}}
+{"raw": "gaje", "replacement": "Ga", "entropy": 0.0, "counts": {"Ga": 1}}
+{"raw": "intreseert", "replacement": "interesseert", "entropy": 0.0, "counts": {"interesseert": 1}}
+{"raw": "geod", "replacement": "goed", "entropy": 0.0, "counts": {"goed": 1}}
+{"raw": "michiel", "replacement": "Michiel", "entropy": 0.0, "counts": {"Michiel": 1}}
+{"raw": "skaaaaat", "replacement": "schat", "entropy": 0.0, "counts": {"schat": 1}}
+{"raw": "Xsch", "replacement": "Kus", "entropy": 0.0, "counts": {"Kus": 1}}
+{"raw": "patienten", "replacement": "patiënten", "entropy": 0.0, "counts": {"patiënten": 1}}
+{"raw": "insulin", "replacement": "insuline", "entropy": 0.0, "counts": {"insuline": 1}}
+{"raw": "VS", "replacement": "Verenigde Staten", "entropy": 0.0, "counts": {"Verenigde Staten": 1}}
+{"raw": "troost", "replacement": "Troost", "entropy": 0.0, "counts": {"Troost": 1}}
+{"raw": "muizeke", "replacement": "muis", "entropy": 0.0, "counts": {"muis": 1}}
+{"raw": "bleft", "replacement": "blijft", "entropy": 0.0, "counts": {"blijft": 1}}
+{"raw": "voele", "replacement": "voelen", "entropy": 0.0, "counts": {"voelen": 1}}
+{"raw": "sugarlips", "replacement": "Sugarlips", "entropy": 0.0, "counts": {"Sugarlips": 1}}
+{"raw": "Dad", "replacement": "Dat", "entropy": 0.0, "counts": {"Dat": 1}}
+{"raw": "loopd", "replacement": "loopt", "entropy": 0.0, "counts": {"loopt": 1}}
+{"raw": "hoopulik", "replacement": "hopelijk", "entropy": 0.0, "counts": {"hopelijk": 1}}
+{"raw": "anters", "replacement": "anders", "entropy": 0.0, "counts": {"anders": 1}}
+{"raw": "lastich", "replacement": "lastig", "entropy": 0.0, "counts": {"lastig": 1}}
+{"raw": "lator", "replacement": "later", "entropy": 0.0, "counts": {"later": 1}}
+{"raw": "uhhu", "replacement": "Uhhu", "entropy": 0.0, "counts": {"Uhhu": 1}}
+{"raw": "sexyy", "replacement": "sexy", "entropy": 0.0, "counts": {"sexy": 1}}
+{"raw": "eej", "replacement": "Hoi", "entropy": 0.0, "counts": {"Hoi": 1}}
+{"raw": "geleze", "replacement": "gelezen", "entropy": 0.0, "counts": {"gelezen": 1}}
+{"raw": "moen", "replacement": "moeten", "entropy": 0.0, "counts": {"moeten": 1}}
+{"raw": "crieren", "replacement": "creëren", "entropy": 0.0, "counts": {"creëren": 1}}
+{"raw": "weggemikt", "replacement": "weggegooid", "entropy": 0.0, "counts": {"weggegooid": 1}}
+{"raw": "grr", "replacement": "Grr", "entropy": 0.0, "counts": {"Grr": 1}}
+{"raw": "eig", "replacement": "eigenlijk", "entropy": 0.0, "counts": {"eigenlijk": 1}}
+{"raw": "zondr", "replacement": "zonder", "entropy": 0.0, "counts": {"zonder": 1}}
+{"raw": "bijbedoelingn", "replacement": "bijbedoelingen", "entropy": 0.0, "counts": {"bijbedoelingen": 1}}
+{"raw": "perongeluk", "replacement": "per ongeluk", "entropy": 0.0, "counts": {"per ongeluk": 1}}
+{"raw": "excu", "replacement": "excuses", "entropy": 0.0, "counts": {"excuses": 1}}
+{"raw": "flappieM", "replacement": "FlappieM", "entropy": 0.0, "counts": {"FlappieM": 1}}
+{"raw": "ebay", "replacement": "Ebay", "entropy": 0.0, "counts": {"Ebay": 1}}
+{"raw": "kk", "replacement": "kanker", "entropy": 0.0, "counts": {"kanker": 2}}
+{"raw": "HAAAAAAAAT", "replacement": "haat", "entropy": 0.0, "counts": {"haat": 1}}
+{"raw": "foon", "replacement": "telefoon", "entropy": 0.0, "counts": {"telefoon": 1}}
+{"raw": "tauro", "replacement": "Tauro", "entropy": 0.0, "counts": {"Tauro": 1}}
+{"raw": "gedronke", "replacement": "gedronken", "entropy": 0.0, "counts": {"gedronken": 1}}
+{"raw": "tav", "replacement": "ten opzichte van", "entropy": 0.0, "counts": {"ten opzichte van": 1}}
+{"raw": "nietssss", "replacement": "niets", "entropy": 0.0, "counts": {"niets": 1}}
+{"raw": "Fener", "replacement": "Fenerbahce", "entropy": 0.0, "counts": {"Fenerbahce": 1}}
+{"raw": "Barca", "replacement": "Barcelona", "entropy": 0.0, "counts": {"Barcelona": 1}}
+{"raw": "toh", "replacement": "toch", "entropy": 0.0, "counts": {"toch": 1}}
+{"raw": "iede", "replacement": "ieder", "entropy": 0.0, "counts": {"ieder": 1}}
+{"raw": "wekend", "replacement": "weekend", "entropy": 0.0, "counts": {"weekend": 1}}
+{"raw": "restourant", "replacement": "restaurant", "entropy": 0.0, "counts": {"restaurant": 1}}
+{"raw": "`Veurig", "replacement": "Vorig", "entropy": 0.0, "counts": {"Vorig": 1}}
+{"raw": "joar", "replacement": "jaar", "entropy": 0.0, "counts": {"jaar": 1}}
+{"raw": "heej", "replacement": "heeft", "entropy": 0.0, "counts": {"heeft": 1}}
+{"raw": "tklink", "replacement": "het klinkt", "entropy": 0.0, "counts": {"het klinkt": 1}}
+{"raw": "docu", "replacement": "documentaire", "entropy": 0.0, "counts": {"documentaire": 1}}
+{"raw": "WOI", "replacement": "eerste wereldoorlog", "entropy": 0.0, "counts": {"eerste wereldoorlog": 1}}
+{"raw": "WOII", "replacement": "tweede wereldoorlog", "entropy": 0.0, "counts": {"tweede wereldoorlog": 1}}
+{"raw": "nhie", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 1}}
+{"raw": "krtj", "replacement": "kratje", "entropy": 0.0, "counts": {"kratje": 1}}
+{"raw": "kwenie", "replacement": "Ik weet niet", "entropy": 0.0, "counts": {"Ik weet niet": 1}}
+{"raw": "interresanter", "replacement": "interessanter", "entropy": 0.0, "counts": {"interessanter": 1}}
+{"raw": "iküberhaupt", "replacement": "ik überhaupt", "entropy": 0.0, "counts": {"ik überhaupt": 1}}
+{"raw": "Ni", "replacement": "Niet", "entropy": 0.0, "counts": {"Niet": 1}}
+{"raw": "neen", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "zussie", "replacement": "zus", "entropy": 0.0, "counts": {"zus": 1}}
+{"raw": "dernet", "replacement": "net", "entropy": 0.0, "counts": {"net": 1}}
+{"raw": "komme", "replacement": "Kom", "entropy": 0.0, "counts": {"Kom": 1}}
+{"raw": "etuh", "replacement": "eten", "entropy": 0.0, "counts": {"eten": 1}}
+{"raw": "meutuh", "replacement": "meute", "entropy": 0.0, "counts": {"meute": 1}}
+{"raw": "Ksnappet", "replacement": "Ik snap het", "entropy": 0.0, "counts": {"Ik snap het": 1}}
+{"raw": "🇳🇱", "replacement": "Nederland", "entropy": 0.0, "counts": {"Nederland": 1}}
+{"raw": "vs", "replacement": "tegen", "entropy": 0.0, "counts": {"tegen": 1}}
+{"raw": "’t", "replacement": "het", "entropy": 0.0, "counts": {"het": 1}}
+{"raw": "schaapkes", "replacement": "schaapjes", "entropy": 0.0, "counts": {"schaapjes": 1}}
+{"raw": "ffe", "replacement": "even", "entropy": 0.0, "counts": {"even": 1}}
+{"raw": "gunne", "replacement": "gunnen", "entropy": 0.0, "counts": {"gunnen": 1}}
+{"raw": "enal", "replacement": "en al", "entropy": 0.0, "counts": {"en al": 1}}
+{"raw": "onderhadelen", "replacement": "onderhandelen", "entropy": 0.0, "counts": {"onderhandelen": 1}}
+{"raw": "Oa", "replacement": "Onder andere", "entropy": 0.0, "counts": {"Onder andere": 1}}
+{"raw": "kverspil", "replacement": "ik verspil", "entropy": 0.0, "counts": {"ik verspil": 1}}
+{"raw": "dierke", "replacement": "dier", "entropy": 0.0, "counts": {"dier": 1}}
+{"raw": "liver", "replacement": "liever", "entropy": 0.0, "counts": {"liever": 1}}
+{"raw": "bleeeh", "replacement": "Bleeeh", "entropy": 0.0, "counts": {"Bleeeh": 1}}
+{"raw": "zelfgemaakt", "replacement": "zelfgemaakte", "entropy": 0.0, "counts": {"zelfgemaakte": 1}}
+{"raw": "Ketchap", "replacement": "Ketjap", "entropy": 0.0, "counts": {"Ketjap": 1}}
+{"raw": "tzit", "replacement": "het zit", "entropy": 0.0, "counts": {"het zit": 1}}
+{"raw": "meiske", "replacement": "meisje", "entropy": 0.0, "counts": {"meisje": 1}}
+{"raw": "wer", "replacement": "weer", "entropy": 0.0, "counts": {"weer": 1}}
+{"raw": "gworden", "replacement": "geworden", "entropy": 0.0, "counts": {"geworden": 1}}
+{"raw": "kgon", "replacement": "Ik ga", "entropy": 0.0, "counts": {"Ik ga": 2}}
+{"raw": "bennek", "replacement": "ben ik", "entropy": 0.0, "counts": {"ben ik": 1}}
+{"raw": "black", "replacement": "Black", "entropy": 0.0, "counts": {"Black": 1}}
+{"raw": "opps", "replacement": "Ops", "entropy": 0.0, "counts": {"Ops": 1}}
+{"raw": "middelbaar", "replacement": "middelbare", "entropy": 0.0, "counts": {"middelbare": 1}}
+{"raw": "meeneme", "replacement": "meenemen", "entropy": 0.0, "counts": {"meenemen": 1}}
+{"raw": "Grtz", "replacement": "Groetjes", "entropy": 0.0, "counts": {"Groetjes": 1}}
+{"raw": "dromeland", "replacement": "dromenland", "entropy": 0.0, "counts": {"dromenland": 1}}
+{"raw": "kdurf", "replacement": "Ik durf", "entropy": 0.0, "counts": {"Ik durf": 1}}
+{"raw": "weddn", "replacement": "wedden", "entropy": 0.0, "counts": {"wedden": 1}}
+{"raw": "dadde", "replacement": "dat je", "entropy": 0.0, "counts": {"dat je": 1}}
+{"raw": "nien", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 1}}
+{"raw": "wegweze", "replacement": "wegwezen", "entropy": 0.0, "counts": {"wegwezen": 1}}
+{"raw": "kraatje", "replacement": "kratje", "entropy": 0.0, "counts": {"kratje": 1}}
+{"raw": "bieg", "replacement": "bier", "entropy": 0.0, "counts": {"bier": 1}}
+{"raw": "naag", "replacement": "naar", "entropy": 0.0, "counts": {"naar": 1}}
+{"raw": "krèèèg", "replacement": "krijg", "entropy": 0.0, "counts": {"krijg": 1}}
+{"raw": "ikke", "replacement": "Ik", "entropy": 0.0, "counts": {"Ik": 1}}
+{"raw": "allsinds", "replacement": "al sinds", "entropy": 0.0, "counts": {"al sinds": 1}}
+{"raw": "noghtans", "replacement": "nochtans", "entropy": 0.0, "counts": {"nochtans": 1}}
+{"raw": "gewertk", "replacement": "gewerkt", "entropy": 0.0, "counts": {"gewerkt": 1}}
+{"raw": "Moenie", "replacement": "Moeten niet", "entropy": 0.0, "counts": {"Moeten niet": 1}}
+{"raw": "opgee", "replacement": "opgeven", "entropy": 0.0, "counts": {"opgeven": 1}}
+{"raw": "Israel", "replacement": "Israël", "entropy": 0.0, "counts": {"Israël": 1}}
+{"raw": "lank", "replacement": "lang", "entropy": 0.0, "counts": {"lang": 1}}
+{"raw": "slawe", "replacement": "slaaf", "entropy": 0.0, "counts": {"slaaf": 1}}
+{"raw": "Egipte", "replacement": "Egypte", "entropy": 0.0, "counts": {"Egypte": 1}}
+{"raw": "magte", "replacement": "machten", "entropy": 0.0, "counts": {"machten": 1}}
+{"raw": "beweeg", "replacement": "bewegen", "entropy": 0.0, "counts": {"bewegen": 1}}
+{"raw": "vry", "replacement": "vrij", "entropy": 0.0, "counts": {"vrij": 1}}
+{"raw": "Bly", "replacement": "Blijf", "entropy": 0.0, "counts": {"Blijf": 1}}
+{"raw": "dmijn", "replacement": "de mijne", "entropy": 0.0, "counts": {"de mijne": 1}}
+{"raw": "voetn", "replacement": "voeten", "entropy": 0.0, "counts": {"voeten": 1}}
+{"raw": "peter", "replacement": "Peter", "entropy": 0.0, "counts": {"Peter": 1}}
+{"raw": "nuja", "replacement": "Nuja", "entropy": 0.0, "counts": {"Nuja": 1}}
+{"raw": "eenvolgende", "replacement": "een volgende", "entropy": 0.0, "counts": {"een volgende": 1}}
+{"raw": "Kwil", "replacement": "Ik wil", "entropy": 0.0, "counts": {"Ik wil": 1}}
+{"raw": "automatich", "replacement": "automatisch", "entropy": 0.0, "counts": {"automatisch": 1}}
+{"raw": "bercht", "replacement": "bericht", "entropy": 0.0, "counts": {"bericht": 1}}
+{"raw": "ieman", "replacement": "iemand", "entropy": 0.0, "counts": {"iemand": 1}}
+{"raw": "debate", "replacement": "debat", "entropy": 0.0, "counts": {"debat": 1}}
+{"raw": "brooooo", "replacement": "broer", "entropy": 0.0, "counts": {"broer": 1}}
+{"raw": "Schapos", "replacement": "Beterschap", "entropy": 0.0, "counts": {"Beterschap": 1}}
+{"raw": "beteros", "replacement": "", "entropy": 0.0, "counts": {"": 1}}
+{"raw": "meis", "replacement": "meisje", "entropy": 0.0, "counts": {"meisje": 1}}
+{"raw": "lge", "replacement": "je", "entropy": 0.0, "counts": {"je": 1}}
+{"raw": "heir", "replacement": "hier", "entropy": 0.0, "counts": {"hier": 1}}
+{"raw": "vergete", "replacement": "vergeten", "entropy": 0.0, "counts": {"vergeten": 1}}
+{"raw": "vgm", "replacement": "volgens mij", "entropy": 0.0, "counts": {"volgens mij": 1}}
+{"raw": "invulle", "replacement": "invullen", "entropy": 0.0, "counts": {"invullen": 1}}
+{"raw": "Kvoel", "replacement": "Ik voel", "entropy": 0.0, "counts": {"Ik voel": 1}}
+{"raw": "alsofk", "replacement": "alsof ik", "entropy": 0.0, "counts": {"alsof ik": 1}}
+{"raw": "geeste", "replacement": "geesten", "entropy": 0.0, "counts": {"geesten": 1}}
+{"raw": "oproepe", "replacement": "oproepen", "entropy": 0.0, "counts": {"oproepen": 1}}
+{"raw": "OKE", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "WAT", "replacement": "wat", "entropy": 0.0, "counts": {"wat": 1}}
+{"raw": "VOETBAL", "replacement": "voetbal", "entropy": 0.0, "counts": {"voetbal": 1}}
+{"raw": "MET", "replacement": "met", "entropy": 0.0, "counts": {"met": 1}}
+{"raw": "MANNEN", "replacement": "mannen", "entropy": 0.0, "counts": {"mannen": 1}}
+{"raw": "DOETTTT", "replacement": "doet", "entropy": 0.0, "counts": {"doet": 1}}
+{"raw": "DIE", "replacement": "die", "entropy": 0.0, "counts": {"die": 1}}
+{"raw": "TFOU", "replacement": "fout", "entropy": 0.0, "counts": {"fout": 1}}
+{"raw": "OPT", "replacement": "op het", "entropy": 0.0, "counts": {"op het": 1}}
+{"raw": "EINDE", "replacement": "einde", "entropy": 0.0, "counts": {"einde": 1}}
+{"raw": "KLAART", "replacement": "klaart", "entropy": 0.0, "counts": {"klaart": 1}}
+{"raw": "EM", "replacement": "hem", "entropy": 0.0, "counts": {"hem": 1}}
+{"raw": "jao", "replacement": "Ja", "entropy": 0.0, "counts": {"Ja": 1}}
+{"raw": "wuurt", "replacement": "wordt", "entropy": 0.0, "counts": {"wordt": 1}}
+{"raw": "ech", "replacement": "echt", "entropy": 0.0, "counts": {"echt": 1}}
+{"raw": "moei", "replacement": "mooi", "entropy": 0.0, "counts": {"mooi": 1}}
+{"raw": "mich", "replacement": "mij", "entropy": 0.0, "counts": {"mij": 1}}
+{"raw": "neffe", "replacement": "eens even", "entropy": 0.0, "counts": {"eens even": 1}}
+{"raw": "huile", "replacement": "huilen", "entropy": 0.0, "counts": {"huilen": 1}}
+{"raw": "khoor", "replacement": "ik hoor", "entropy": 0.0, "counts": {"ik hoor": 1}}
+{"raw": "hjb", "replacement": "hou je bek", "entropy": 0.0, "counts": {"hou je bek": 1}}
+{"raw": "durfk", "replacement": "durf ik", "entropy": 0.0, "counts": {"durf ik": 1}}
+{"raw": "nope", "replacement": "Nee", "entropy": 0.0, "counts": {"Nee": 1}}
+{"raw": "nts", "replacement": "niets", "entropy": 0.0, "counts": {"niets": 1}}
+{"raw": "haln", "replacement": "halen", "entropy": 0.0, "counts": {"halen": 1}}
+{"raw": "zijde", "replacement": "ben je", "entropy": 0.0, "counts": {"ben je": 1}}
+{"raw": "geintereseerd", "replacement": "geïnteresseerd", "entropy": 0.0, "counts": {"geïnteresseerd": 1}}
+{"raw": "nietn", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 1}}
+{"raw": "gie", "replacement": "goed", "entropy": 0.0, "counts": {"goed": 1}}
+{"raw": "wtff", "replacement": "Wtff", "entropy": 0.0, "counts": {"Wtff": 1}}
+{"raw": "kstuurde", "replacement": "ik stuurde", "entropy": 0.0, "counts": {"ik stuurde": 1}}
+{"raw": "dat-ie", "replacement": "dat hij", "entropy": 0.0, "counts": {"dat hij": 1}}
+{"raw": "zeii", "replacement": "zei", "entropy": 0.0, "counts": {"zei": 1}}
+{"raw": "shiz", "replacement": "shit", "entropy": 0.0, "counts": {"shit": 1}}
+{"raw": "btjj", "replacement": "beetje", "entropy": 0.0, "counts": {"beetje": 1}}
+{"raw": "voortonen", "replacement": "voordoen", "entropy": 0.0, "counts": {"voordoen": 1}}
+{"raw": "zijnt", "replacement": "Zijn het", "entropy": 0.0, "counts": {"Zijn het": 1}}
+{"raw": "skone", "replacement": "schone", "entropy": 0.0, "counts": {"schone": 1}}
+{"raw": "tuurlyk", "replacement": "Tuurlijk", "entropy": 0.0, "counts": {"Tuurlijk": 1}}
+{"raw": "besta", "replacement": "bestaat", "entropy": 0.0, "counts": {"bestaat": 1}}
+{"raw": "belgie", "replacement": "België", "entropy": 0.0, "counts": {"België": 1}}
+{"raw": "kryg", "replacement": "krijg", "entropy": 0.0, "counts": {"krijg": 1}}
+{"raw": "heerlyke", "replacement": "heerlijke", "entropy": 0.0, "counts": {"heerlijke": 1}}
+{"raw": "chocolat", "replacement": "chocola", "entropy": 0.0, "counts": {"chocola": 1}}
+{"raw": "telefoonnr", "replacement": "telefoonnummer", "entropy": 0.0, "counts": {"telefoonnummer": 1}}
+{"raw": "nug", "replacement": "Nog", "entropy": 0.0, "counts": {"Nog": 1}}
+{"raw": "staafkes", "replacement": "staafjes", "entropy": 0.0, "counts": {"staafjes": 1}}
+{"raw": "lign", "replacement": "liggen", "entropy": 0.0, "counts": {"liggen": 1}}
+{"raw": "feeste", "replacement": "feesten", "entropy": 0.0, "counts": {"feesten": 1}}
+{"raw": "bob", "replacement": "Bob", "entropy": 0.0, "counts": {"Bob": 1}}
+{"raw": "aaltijd", "replacement": "altijd", "entropy": 0.0, "counts": {"altijd": 1}}
+{"raw": "ratte", "replacement": "Ratten", "entropy": 0.0, "counts": {"Ratten": 1}}
+{"raw": "gebruike", "replacement": "gebruiken", "entropy": 0.0, "counts": {"gebruiken": 1}}
+{"raw": "wilk", "replacement": "wil ik", "entropy": 0.0, "counts": {"wil ik": 1}}
+{"raw": "leen", "replacement": "Leen", "entropy": 0.0, "counts": {"Leen": 1}}
+{"raw": "morn", "replacement": "morgen", "entropy": 0.0, "counts": {"morgen": 1}}
+{"raw": "werkn", "replacement": "werken", "entropy": 0.0, "counts": {"werken": 1}}
+{"raw": "vragn", "replacement": "vragen", "entropy": 0.0, "counts": {"vragen": 1}}
+{"raw": "an", "replacement": "aan", "entropy": 0.0, "counts": {"aan": 1}}
+{"raw": "pww", "replacement": "proefwerkweek", "entropy": 0.0, "counts": {"proefwerkweek": 1}}
+{"raw": "telkenste", "replacement": "telkens", "entropy": 0.0, "counts": {"telkens": 1}}
+{"raw": "nét", "replacement": "net", "entropy": 0.0, "counts": {"net": 1}}
+{"raw": "Wb", "replacement": "Wat betreft", "entropy": 0.0, "counts": {"Wat betreft": 1}}
+{"raw": "grieks", "replacement": "Grieks", "entropy": 0.0, "counts": {"Grieks": 1}}
+{"raw": "bio=", "replacement": "biologie", "entropy": 0.0, "counts": {"biologie": 1}}
+{"raw": "Ned.", "replacement": "Nederlands", "entropy": 0.0, "counts": {"Nederlands": 1}}
+{"raw": "verloopig", "replacement": "voorlopig", "entropy": 0.0, "counts": {"voorlopig": 1}}
+{"raw": "antwoorrd", "replacement": "antwoord", "entropy": 0.0, "counts": {"antwoord": 1}}
+{"raw": "Brter", "replacement": "Beter", "entropy": 0.0, "counts": {"Beter": 1}}
+{"raw": "leiver", "replacement": "liever", "entropy": 0.0, "counts": {"liever": 1}}
+{"raw": "odmat", "replacement": "omdat", "entropy": 0.0, "counts": {"omdat": 1}}
+{"raw": "neit", "replacement": "niet", "entropy": 0.0, "counts": {"niet": 1}}
+{"raw": "fck", "replacement": "Fck", "entropy": 0.0, "counts": {"Fck": 1}}
+{"raw": "kgoa", "replacement": "ik ga", "entropy": 0.0, "counts": {"ik ga": 1}}
+{"raw": "katte", "replacement": "katten", "entropy": 0.0, "counts": {"katten": 1}}
+{"raw": "binnhoaln", "replacement": "binnenhalen", "entropy": 0.0, "counts": {"binnenhalen": 1}}
+{"raw": "oké", "replacement": "Oké", "entropy": 0.0, "counts": {"Oké": 1}}
+{"raw": "get", "replacement": "jij had", "entropy": 0.0, "counts": {"jij had": 1}}
+{"raw": "jaloes", "replacement": "jaloers", "entropy": 0.0, "counts": {"jaloers": 1}}
+{"raw": "seruise", "replacement": "serieus", "entropy": 0.0, "counts": {"serieus": 1}}
+{"raw": "meisj", "replacement": "meisje", "entropy": 0.0, "counts": {"meisje": 1}}
+{"raw": "vidnen", "replacement": "vinden", "entropy": 0.0, "counts": {"vinden": 1}}
+{"raw": "Ivm", "replacement": "In verband met", "entropy": 0.0, "counts": {"In verband met": 1}}
+{"raw": "nokyM", "replacement": "NokyM", "entropy": 0.0, "counts": {"NokyM": 1}}
+{"raw": "vliege", "replacement": "vliegen", "entropy": 0.0, "counts": {"vliegen": 1}}
+{"raw": "herhale", "replacement": "herhalen", "entropy": 0.0, "counts": {"herhalen": 1}}
+{"raw": "pokerstars", "replacement": "Pokerstars", "entropy": 0.0, "counts": {"Pokerstars": 1}}
+{"raw": "gank", "replacement": "ga ik", "entropy": 0.0, "counts": {"ga ik": 1}}
+{"raw": "pitte", "replacement": "pitten", "entropy": 0.0, "counts": {"pitten": 1}}

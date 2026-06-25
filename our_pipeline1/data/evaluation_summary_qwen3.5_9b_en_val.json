@@ -1,0 +1,87 @@
+{
+  "counts": {
+    "total_tokens": 9169,
+    "dictionary_replaced": 377,
+    "llm_applied": 240,
+    "llm_replaced": 231
+  },
+  "overall_final": {
+    "count": 9169,
+    "confusion": {
+      "TP": 465,
+      "FP": 95,
+      "TN": 8441,
+      "FN": 168
+    },
+    "scores": {
+      "precision": 0.8303571428571429,
+      "recall": 0.7345971563981043,
+      "f1": 0.779547359597653,
+      "err": 0.5845181674565567
+    }
+  },
+  "sentence_level": {
+    "count": 590,
+    "correct": 400,
+    "incorrect": 190,
+    "confusion": {
+      "TP": 164,
+      "FP": 27,
+      "TN": 236,
+      "FN": 163
+    },
+    "scores": {
+      "accuracy": 0.6779661016949152,
+      "precision": 0.8586387434554974,
+      "recall": 0.5015290519877675,
+      "f1": 0.6332046332046332,
+      "lai": 0.4457627118644068,
+      "err": 0.41896024464831794
+    }
+  },
+  "detector": {
+    "count": 9169,
+    "confusion": {
+      "TP": 520,
+      "FP": 97,
+      "TN": 8439,
+      "FN": 113
+    },
+    "scores": {
+      "precision": 0.8427876823338736,
+      "recall": 0.8214849921011058,
+      "f1": 0.832,
+      "err": 0.6682464454976301
+    }
+  },
+  "dictionary_source": {
+    "count": 377,
+    "confusion": {
+      "TP": 360,
+      "FP": 12,
+      "TN": 0,
+      "FN": 5
+    },
+    "scores": {
+      "precision": 0.967741935483871,
+      "recall": 0.9863013698630136,
+      "f1": 0.9769335142469471,
+      "err": 0.9534246575342465
+    }
+  },
+  "llm_source": {
+    "count": 240,
+    "confusion": {
+      "TP": 105,
+      "FP": 83,
+      "TN": 2,
+      "FN": 50
+    },
+    "scores": {
+      "precision": 0.5585106382978723,
+      "recall": 0.6774193548387096,
+      "f1": 0.6122448979591836,
+      "err": 0.14193548387096777
+    }
+  }
+}
