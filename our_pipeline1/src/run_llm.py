@@ -2,12 +2,16 @@ import argparse
 import json
 import re
 from pathlib import Path
-
-import requests
+import torch
+from transformers import (
+    AutoModelForImageTextToText,
+    AutoProcessor,
+)
 
 from src.config import (
-    OLLAMA_MODEL,
-    OLLAMA_URL,
+    HF_MODEL_PATH,
+    HF_MODEL_NAME,
+    LLM_DTYPE,
     STAGE2_OUTPUT_PATH,
     STAGE3_LLM_APPLIED_PATH,
     STAGE3_LLM_CANDIDATES_PATH,
@@ -33,19 +37,88 @@ def write_jsonl(records, path):
 
 
 
-# Call Ollama chat API
-def call_ollama(prompt, model, url):
-    payload = {
-        "model": model,
-        "messages": [{"role": "user", "content": prompt}],
-        "stream": False,
-        "think": False,
-        "options": {"temperature": 0, "num_predict": 96},
+def load_local_model(model_path, dtype_name):
+    dtype_map = {
+        "float16": torch.float16,
+        "bfloat16": torch.bfloat16,
     }
-    response = requests.post(url, json=payload, timeout=600)
-    response.raise_for_status()
-    data = response.json()
+
+    if dtype_name not in dtype_map:
+        raise ValueError(f"Unsupported dtype: {dtype_name}")
+
+    dtype = dtype_map[dtype_name]
+
+    print(f"Loading model from: {model_path}")
+    print(f"Model dtype: {dtype_name}")
+
+    processor = AutoProcessor.from_pretrained( model_path, local_files_only=True)
+
+    model = AutoModelForImageTextToText.from_pretrained(
+        model_path,
+        local_files_only=True,
+        dtype=dtype,
+        device_map={"": 0},
+        low_cpu_mem_usage=True,
+        attn_implementation="sdpa",
+    )
+
+    model.eval()
+
+    print(f"Model loaded on: {model.device}")
+    return processor, model
     return data["message"]["content"].strip()
+    
+    
+def call_transformers(prompt, processor, model):
+    messages = [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": prompt,
+                }
+            ],
+        }
+    ]
+
+    inputs = processor.apply_chat_template(
+        messages,
+        tokenize=True,
+        add_generation_prompt=True,
+        return_dict=True,
+        return_tensors="pt",
+        enable_thinking=False,
+    )
+
+    inputs = {
+        key: value.to(model.device)
+        for key, value in inputs.items()
+    }
+
+    prompt_length = inputs["input_ids"].shape[1]
+
+    with torch.inference_mode():
+        generated_ids = model.generate(
+            **inputs,
+            max_new_tokens=96,
+            do_sample=False,
+            use_cache=True,
+        )
+
+    new_tokens = generated_ids[0, prompt_length:]
+
+    output = processor.decode(
+        new_tokens,
+        skip_special_tokens=True,
+    )
+    output = re.sub(
+        r"^\s*<think>[\s\S]*?</think>\s*",
+        "",
+        output,
+    )
+
+    return output.strip()
 
 
 # Parse JSON output to string, check output format.
@@ -106,7 +179,7 @@ def merge_llm_outputs(master_records, llm_records):
 
 
 # Run LLM and return LLM candidates records
-def run_inference(prompt_records, candidate_records, model, url):
+def run_inference(prompt_records, candidate_records, processor, model, model_name):
     candidates_by_token = index_by_token_id(candidate_records)
     outputs = []
     invalid_outputs = 0
@@ -117,7 +190,7 @@ def run_inference(prompt_records, candidate_records, model, url):
             raise ValueError(f"Missing candidate for Token_id={token_id}")
 
         # Call LLM and generate output
-        raw_output = call_ollama(prompt_record["Prompt"], model, url)
+        raw_output = call_transformers( prompt_record["Prompt"], processor, model)
         try:
             prediction = parse_prediction(raw_output)
         except Exception:
@@ -126,7 +199,7 @@ def run_inference(prompt_records, candidate_records, model, url):
 
         output_record = dict(candidates_by_token[token_id])
         output_record["Replacement"] = prediction
-        output_record["Source"] = model
+        output_record["Source"] = model_name
         outputs.append(output_record)
 
         print(
@@ -151,14 +224,16 @@ def main():
     )
     parser.add_argument("--output", type=Path, default=STAGE3_LLM_APPLIED_PATH)
     parser.add_argument("--master-output", type=Path, default=STAGE3_MASTER_TABLE_PATH)
-    parser.add_argument("--model", default=OLLAMA_MODEL)
-    parser.add_argument("--url", default=OLLAMA_URL)
+    parser.add_argument("--model-path", type=Path, default=HF_MODEL_PATH)
+    parser.add_argument("--model-name", default=HF_MODEL_NAME)
+    parser.add_argument("--dtype", choices=["float16", "bfloat16"], default=LLM_DTYPE)
     args = parser.parse_args()
 
     prompt_records = load_jsonl(args.prompts)
     master_records = load_jsonl(args.master_table)
     candidate_records = load_jsonl(args.candidates)
-    llm_records = run_inference(prompt_records, candidate_records, args.model, args.url)
+    processor, model = load_local_model(args.model_path, args.dtype)
+    llm_records = run_inference(prompt_records, candidate_records, processor, model, args.model_name)
     merged_records = merge_llm_outputs(master_records, llm_records)
 
     write_jsonl(llm_records, args.output)

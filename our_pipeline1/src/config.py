@@ -61,10 +61,17 @@ STAGE3_LLM_PROMPTS_PATH = Path(f"data/llm_prompts_{LANGUAGE}{RUN_SUFFIX}.jsonl")
 NUM_LLM_SHOTS = 8
 
 # Stage 3: LLM inference
-OLLAMA_MODEL = "qwen3.5:9b"
-OLLAMA_URL = "http://127.0.0.1:11434/api/chat"
+HF_MODEL_PATH = Path(
+    os.environ.get(
+        "HF_MODEL_PATH",
+        "/dss/dsshome1/01/ge65nus2/projects/"
+        "MultiLexNorm_LLM/models/huggingface/Qwen3.5-9B",
+    )
+)
+HF_MODEL_NAME = "qwen3.5_9b"
+LLM_DTYPE = os.environ.get("LLM_DTYPE", "float16")
+safe_name = HF_MODEL_NAME
 # transfer to safer save name
-safe_name = OLLAMA_MODEL.replace(":", "_")
 STAGE3_LLM_APPLIED_PATH = Path(
     f"data/llm_candidates_applied_llm_{LANGUAGE}{RUN_SUFFIX}.jsonl"
 )
