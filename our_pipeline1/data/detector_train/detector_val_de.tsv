@@ -1,0 +1,5433 @@
+fänd	NORM_1WORD
+ich	O
+toll	O
+!	O
+%PosSmiley	O
+
+Deshalb	O
+!	O
+
+bei	NORM_1WORD
+einer	O
+netten	O
+tollen	O
+Frau	O
+liegen	O
+!	O
+
+warum	NORM_1WORD
+nicht	O
+!	O
+
+yay	NORM_1WORD
+,	O
+und	O
+ich	O
+hab	NORM_1WORD
+mir	O
+heut	NORM_1WORD
+früh	O
+n	NORM_1WORD
+neues	NORM_1WORD
+gekauft	O
+weil	O
+ich	O
+keins	O
+gefunden	O
+hab	NORM_1WORD
+...	O
+feuerzeug	NORM_1WORD
+
+Dann	O
+erwischst	O
+du	O
+die	O
+Freundin	O
+mit	O
+nem	NORM_1WORD
+andern	NORM_1WORD
+im	O
+Bett	O
+und	O
+sie	O
+sagt	O
+"	O
+Ich	O
+kann	O
+alles	O
+erklären	O
+"	O
+und	O
+du	O
+sagst	O
+nur	O
+"	O
+Abseits	O
+....	O
+
+Ich	O
+lade	O
+noch	O
+Vorwerk	O
+ein	O
+!	O
+
+Wir	O
+drehen	O
+mit	O
+dem	O
+Mercedes	O
+unter	O
+den	O
+Staubsaugern	O
+ne	NORM_1WORD
+Runde	O
+und	O
+lassen	O
+die	O
+Eidgenossen	O
+v	O
+Tupper	O
+putzen	O
+!	O
+
+Und	O
+draussen	O
+vor	O
+der	O
+grossen	O
+Stadt	O
+stehn	NORM_1WORD
+die	O
+Arbeitslosen	O
+sich	O
+die	O
+Füsse	O
+platt	O
+.	O
+
+Skandal	O
+...	O
+
+So	O
+,	O
+einiges	NORM_1WORD
+geschafft	O
+heute	O
+...	O
+
+Morgen	O
+gibts	NORM_2WORD
+nen	NORM_1WORD
+neuen	O
+Artikel	O
+!	O
+
+juhu	NORM_1WORD
+gerade	O
+erst	O
+aufgestanden	O
+!	O
+
+und	NORM_1WORD
+in	O
+einer	O
+Stunde	O
+kommt	O
+meine	O
+mum	NORM_1WORD
+nachhause	NORM_2WORD
+,	O
+Bus	NORM_1WORD
+dahin	O
+darf	O
+ich	O
+:	O
+aufräumen	O
+,	O
+duschen	O
+,	O
+mich	O
+fertig	O
+machen	O
+yay	O
+
+Und	O
+ich	O
+weiss	O
+,	O
+dass	O
+ich	O
+das	O
+vor	O
+ca.	O
+einem	O
+Jahr	O
+schonmal	NORM_2WORD
+getwittert	O
+habe	O
+.	O
+
+Worte	O
+,	O
+die	O
+beim	O
+Telefonsex	O
+die	O
+Erotik	O
+beeinträchtigen	O
+:	O
+Worte	O
+,	O
+die	O
+beim	O
+Telefonsex	O
+die	O
+Erotik	O
+beeinträchtig	NORM_1WORD
+...	O
+...	O
+
+Es	O
+existieren	O
+mehr	O
+Facebook-Nutzer	O
+als	O
+Autos	O
+auf	O
+dieser	O
+Welt	O
+-	O
+spannende	O
+Fakten	O
+der	O
+Social-Media-Welt	O
+2011	O
+im	O
+Vid	NORM_1WORD
+...	O
+
+na	NORM_1WORD
+dann	O
+darfste	NORM_2WORD
+den	O
+weissen	NORM_1WORD
+testen	O
+%PosSmiley	O
+
+Ich	O
+sauf	NORM_1WORD
+die	O
+Scheisse	O
+pur	O
+!	O
+
+oder	NORM_1WORD
+aber	O
+ich	O
+habs	NORM_2WORD
+total	O
+falsch	O
+gelesen	O
+%PosSmiley	O
+..	O
+
+kann	NORM_1WORD
+uch	NORM_1WORD
+sein	O
+
+gehe	NORM_1WORD
+gleich	O
+shoppen	O
+dann	O
+nachmittags	O
+lerne	O
+ich	O
+und	O
+heute	O
+Abend	O
+kommt	O
+meine	O
+beste	O
+Freundin	O
+mit	O
+ihrer	O
+mutter	NORM_1WORD
+&	O
+bro	NORM_1WORD
+zum	O
+essen	NORM_1WORD
+%PosSmiley	O
+
+du	NORM_1WORD
+?	O
+
+Auf	O
+der	O
+Normalschanze	O
+sieht	O
+die	O
+Welt	O
+schonmal	NORM_2WORD
+anders	O
+aus	O
+%PosSmiley	O
+
+Hat	O
+der	O
+nen	NORM_1WORD
+Klofetisch	O
+?	O
+
+wettendass	NORM_2WORD
+
+Aber	O
+das	O
+ist	O
+doch	O
+springen	O
+ned	NORM_1WORD
+fliegen	O
+!	O
+
+wrhaben	NORM_2WORD
+jetzt	O
+5	O
+Leute	O
+abgeliefert	O
+,	O
+und	O
+sind	O
+endlich	O
+im	O
+Hotel	O
+.	O
+
+Mit	O
+Bier	O
+.	O
+%PosSmiley	O
+
+2teiliges	O
+Vasenset	O
+Glas	O
+mit	O
+Bambus	O
+verziert	O
+.	O
+Dekorativ	O
+:	O
+2	O
+Glasvasen	O
+mit	O
+Bambusholzgitter	O
+16	O
+cm	O
+und	O
+40	O
+cm	O
+hoch4	NORM_2WORD
+...	O
+
+Valentino	O
+Garavani	O
+Seidentuch	O
+mit	O
+Punkten	O
+in	O
+schwarz	O
+und	O
+weiss	O
+:	O
+Valentino	O
+Garavani	O
+Seidentuch	O
+mit	O
+Punkten	O
+in	O
+sch	NORM_1WORD
+...	O
+
+ja	NORM_1WORD
+dann	O
+muss	O
+man	O
+echt	O
+aupassen	NORM_1WORD
+dass	O
+man	O
+die	O
+leute	NORM_1WORD
+dann	O
+nich	NORM_1WORD
+dumm	O
+anmacht	O
+
+Morgen	O
+an	O
+der	O
+Coral	O
+Sea	O
+:	O
+von	O
+Worldpictures	O
+Am	O
+Pacific	O
+(	O
+Coral	O
+Sea	O
+)	O
+,	O
+Strand	O
+am	O
+Yorkey's	O
+Knob	O
+noerdlich	NORM_1WORD
+von	O
+...	O
+
+ja	NORM_1WORD
+das	O
+war	O
+klar	O
+%PosSmiley	O
+
+desswegen	NORM_1WORD
+kannst	O
+och	NORM_1WORD
+nicht	O
+schreiben	O
+wa	NORM_1WORD
+
+wunder	NORM_1WORD
+mich	O
+warum	O
+ich	O
+den	O
+Solution	O
+nicht	O
+adden	O
+kann	O
+.	O
+
+Ich	O
+hab	O
+immer	O
+xTheSulution	NORM_1WORD
+geschrieben	O
+statt	O
+xTheSolution	O
+
+ob	NORM_1WORD
+wir	O
+heut	NORM_1WORD
+die	O
+megamonstergruppe	NORM_1WORD
+gelost	NORM_1WORD
+bekommen	O
+?	O
+
+Spanien	O
+,	O
+deutschland	NORM_1WORD
+,	O
+portugal	NORM_1WORD
+,	O
+frankreich	NORM_1WORD
+...	O
+
+junge	NORM_1WORD
+junge	NORM_1WORD
+,	O
+da	O
+geht	O
+was	NORM_1WORD
+
+Afval	O
+weg	NORM_1WORD
+gebracht	NORM_1WORD
+met	NORM_1WORD
+evie	NORM_1WORD
+koken	NORM_1WORD
+
+Ich	O
+warte	O
+die	O
+ganze	O
+Zeit	O
+auf	O
+die	O
+Werbung	O
+.	O
+
+Ihr	O
+sagt	O
+auch	O
+nix	NORM_1WORD
+,	O
+ne	NORM_1WORD
+?	O
+wettendass	NORM_2WORD
+
+dat	NORM_1WORD
+bleibt	O
+wohl	O
+ein	O
+geheimnis	NORM_1WORD
+%NegSmiley	O
+
+was	NORM_1WORD
+kann	O
+man	O
+tun	O
+wenn	O
+man	O
+sein	O
+blatt	NORM_1WORD
+mit	O
+entshculdigsteil	NORM_1WORD
+und	O
+stundenplan	NORM_1WORD
+verliert	O
+??	O
+
+Betrübt	O
+sein	O
+,	O
+obwohl	O
+das	O
+Leben	O
+es	O
+grade	NORM_1WORD
+gut	O
+mit	O
+einem	O
+meint	O
+.	O
+
+Twitter	O
+für	O
+Fortgeschrittene	O
+.	O
+
+entworfen	O
+,	O
+geplant	O
+und	O
+dann	O
+nicht	O
+gebaut	O
+...	O
+
+auch	NORM_1WORD
+so	O
+was	O
+gibts	NORM_2WORD
+!	O
+
+Nix	NORM_1WORD
+mit	O
+Glücklos	O
+:	O
+Deutschland	O
+gegen	O
+Niederlande	O
+und	O
+Portugal	O
+.	O
+em2012	NORM_1WORD
+
+++	O
+Neuer	O
+Multimedia	O
+Prospekt	O
+bei	O
+Media	O
+Markt	O
+und	O
+Amazon	O
+zieht	O
+(	O
+weitestgehend	O
+)	O
+mit	O
+:	O
+Dass	O
+es	O
+einen	O
+neuen	O
+Multimedi	NORM_1WORD
+...	O
+
+KLA	O
+GG	O
+:	O
+SC	O
+Opel	O
+Rüsselsheim	O
+geht	O
+in	O
+die	O
+Berufung	O
+/	O
+HFV-Sportgericht	O
+wird	O
+nun	O
+entscheiden	O
+
+hab	NORM_1WORD
+ich	O
+nicht	O
+dran	NORM_1WORD
+gedacht	O
+und	O
+niemand	O
+twittert	O
+drüber	NORM_1WORD
+?	O
+
+schon	NORM_1WORD
+klar	O
+,	O
+bekomm	NORM_1WORD
+ich	O
+aber	O
+nicht	O
+interpoliert	O
+...	O
+4	O
+Stunden	O
+?	O
+
+EXKLUSIVER	NORM_1WORD
+GARTENTRAUM	NORM_1WORD
+...	O
+
+GALERIE	NORM_1WORD
+mit	O
+STUDIOCHARAKTER	NORM_1WORD
+..	O
+
+SÜDL.	NORM_1WORD
+von	O
+GRAZ	NORM_1WORD
+:	O
+Graz	O
+|	O
+Wohnen	O
+mit	O
+Wohlfuehlcharakter	NORM_1WORD
+!!	O
+...	O
+
+Wundert	O
+mich	O
+,	O
+dass	O
+du	O
+nicht	O
+längst	O
+eins	O
+hast	O
+!	O
+
+Na	O
+,	O
+überleg	NORM_1WORD
+mir	O
+das	O
+nochmal	O
+mit	O
+dem	O
+WE	NORM_1WORD
+und	O
+Céline	O
+@username	O
+
+kenn	NORM_1WORD
+ich	O
+,	O
+ich	O
+bekomm	NORM_1WORD
+dann	O
+Spinner	O
+oder	O
+Penner	O
+vor	O
+die	O
+Birne	O
+geklatscht	O
+hach	O
+
+Hier	O
+bitteschön	NORM_2WORD
+,	O
+die	O
+Show	O
+von	O
+Heute	O
+%PosSmiley	O
+.	O
+
+Hat	O
+ne	NORM_1WORD
+weile	NORM_1WORD
+gedauert	O
+sie	O
+hochzuladen	O
+%PosSmiley	O
+...	O
+
+Zeit	O
+für	O
+Fussball	O
+.	O
+
+Kucke	NORM_1WORD
+nun	O
+"	O
+Gegengerade	O
+"	O
+
+Bei	O
+Betfair	O
+liegt	O
+die	O
+Quote	O
+bei	O
+4.4	O
+
+Find	NORM_1WORD
+ich	O
+schon	O
+absurd	O
+.	O
+
+Die	O
+haben	O
+daheim	O
+bisher	O
+alles	O
+abgeschossen	O
+.	O
+
+wohooo	NORM_1WORD
+%PosSmiley	O
+
+ich	NORM_1WORD
+nich	NORM_1WORD
+&gt;&lt;	O
+
+war	O
+dann	O
+nachmittags	O
+total	O
+müde	O
+^^	O
+
+Speisezimmer	O
+Quoka	O
+Esstisch	O
+mit	O
+6	O
+Lederstühlen	O
+
+Ein	O
+Esstisch	O
+mit	O
+6	O
+Stuhlen	NORM_1WORD
+
+Der	O
+Tisch	O
+hat	O
+die	O
+Mas	NORM_1WORD
+...	O
+%Link	O
+Kleinanzeigen	O
+
+FFM	O
+.	O
+
+Bin	O
+ja	O
+soo	NORM_1WORD
+bodenständig	O
+.	O
+
+Erklärst	O
+Du	O
+mir	O
+das	O
+mit	O
+dem	O
+Rosa	O
+demnächst	O
+?	O
+
+Bin	O
+ja	O
+offensichtlich	O
+ahnungsloses	O
+Neumitglied	O
+&gt;	O
+%PosSmiley	O
+
+Warum	O
+sind	O
+die	O
+meisten	O
+,	O
+die	O
+erfolgreich	O
+sind	O
+,	O
+auch	O
+attraktiv	O
+?	O
+
+Ist	O
+LOA	O
+nicht	O
+das	O
+einzige	NORM_1WORD
+,	O
+was	O
+man	O
+wissen	O
+muss	O
+?	O
+
+Was	O
+gibts	NORM_1WORD
+es	O
+noch	O
+?	O
+
+ach	NORM_1WORD
+eigntlich	NORM_1WORD
+nix	NORM_1WORD
+
+meine	NORM_1WORD
+sis	NORM_1WORD
+war	O
+da	O
+und	O
+du	O
+??	O
+
+haha	O
+:D	O
+
+für	NORM_1WORD
+wasn	NORM_2WORD
+?	O
+
+2009	O
+vip	NORM_1WORD
+ticket	NORM_1WORD
+,	O
+weiter	O
+weis	NORM_1WORD
+ich	O
+nicht	O
+%PosSmiley	O
+
+@username	O
+jetzt	O
+scho	NORM_1WORD
+,	O
+sie	O
+esch	NORM_1WORD
+jo	NORM_1WORD
+ide	NORM_2WORD
+zytig	NORM_1WORD
+gse	NORM_1WORD
+(	O
+Y	O
+)	O
+
+nei	NORM_1WORD
+,	O
+aber	O
+das	O
+esch	NORM_1WORD
+scho	NORM_1WORD
+die	O
+,	O
+wo	O
+als	O
+maturaarbet	NORM_1WORD
+es	NORM_1WORD
+latinbuech	NORM_1WORD
+öbersetzt	NORM_1WORD
+hed	NORM_1WORD
+?	O
+
+ich	NORM_1WORD
+geb	NORM_1WORD
+'s	NORM_1WORD
+zu	O
+,	O
+war	O
+auch	O
+net	NORM_1WORD
+so	O
+gut	O
+im	O
+kontext	O
+zu	O
+verstehen	O
+(	O
+;	O
+
+was	NORM_1WORD
+macht	O
+ihr	O
+mit	O
+den	O
+erstis	NORM_1WORD
+?	O
+
+Hamburg	O
+HH	O
+Kleine	O
+Bordercolliemixmaus	O
+ein	O
+armes	O
+Handikaphündchen	O
+
+Mein	O
+Name	O
+ist	O
+Nika	O
+
+ich	O
+bin	O
+etw	NORM_1WORD
+...	O
+%Link	O
+Kleinanzeigen	O
+
+neinnn	NORM_1WORD
+:D	O
+
+duu	NORM_1WORD
+doch	O
+nicht	O
+seen	NORM_1WORD
+kizaa	NORM_1WORD
+korb	NORM_1WORD
+veremezsinnkii	NORM_1WORD
+:))	O
+
+bist	O
+zuu	NORM_1WORD
+gutheerziig	NORM_1WORD
+:D	O
+
+5	O
+Kartons	O
+TRÖDEL	NORM_1WORD
+zu	O
+Verkaufen	NORM_1WORD
+:	O
+Köln	O
+|	O
+Biete	O
+hier	O
+5	O
+Bananen	NORM_1WORD
+Kartons	NORM_1WORD
+zum	O
+Verkauf	O
+an	O
+.	O
+
+Bunt	O
+gememischte	NORM_1WORD
+Trödel	NORM_1WORD
+Ware	NORM_1WORD
+
+ja	O
+so	O
+süüss	NORM_1WORD
+!!!	O
+
+Haha	O
+ich	O
+spiel	NORM_1WORD
+auch	O
+klavier	O
+aber	O
+nich	NORM_1WORD
+so	O
+
+hahah	O
+ausser	O
+dies	NORM_1WORD
+stück	NORM_1WORD
+der	NORM_1WORD
+er	O
+gerade	O
+spielt	O
+
+hahha	O
+@username	O
+
+Guten	O
+Morgeeeeeeeeeeeenn	NORM_1WORD
+!!	O
+
+Ich	O
+wuensche	NORM_1WORD
+euch	O
+ein	O
+sehr	O
+schoenes	NORM_1WORD
+Wochenende	O
+!	O
+%PosSmiley	O
+
+Ach	O
+nee	NORM_1WORD
+,	O
+sorry	O
+,	O
+ma	NORM_1WORD
+erst	O
+lesen	O
+,	O
+wenn	O
+'s	NORM_1WORD
+nicht	O
+in	O
+den	O
+Mentions	O
+auftaucht	O
+.	O
+%PosSmiley	O
+
+Danke	O
+!	O
+%PosSmiley	O
+
+Ich	O
+wünsch	NORM_1WORD
+mir	O
+für	O
+die	O
+EM	O
+ne	NORM_1WORD
+Gruppe	O
+mit	O
+Holland	O
+,	O
+Portugal	O
+und	O
+Dänemark	O
+.	O
+
+026.	O
+
+Ich	O
+bin	O
+einmal	O
+in	O
+meinem	O
+Leben	O
+im	O
+Zillertal	O
+ne	NORM_1WORD
+Olympiaabfahrt	O
+gefahren	O
+
+-	O
+Das	O
+eine	O
+Mal	O
+hat	O
+mir	O
+gereicht	O
+
+Das	O
+nimmt	O
+kein	O
+gutes	O
+Ende	O
+%PosSmiley	O
+
+die	NORM_1WORD
+mischung	NORM_1WORD
+machts	NORM_2WORD
+%PosSmiley	O
+
+ja	NORM_1WORD
+,	O
+aber	O
+ich	O
+bin	O
+dann	O
+so	O
+vertieft	O
+in	O
+die	O
+Tweets	O
+und	O
+bekomm	NORM_1WORD
+nichts	O
+mehr	O
+mit	O
+%NegSmiley	O
+
+ich	NORM_1WORD
+auch	O
+.	O
+
+jetzt	NORM_1WORD
+weiss	O
+er	O
+,	O
+dass	O
+ich	O
+mcih	NORM_1WORD
+immer	O
+blamier	NORM_1WORD
+.	O
+%PosSmiley	O
+
+danke	NORM_1WORD
+:)	O
+
+a1	NORM_1WORD
+:	O
+"	O
+gigaspeed	O
+"	O
+mit	O
+tv	O
+(	O
+nie	O
+benutzt	O
+)	O
+-	O
+ausfall	NORM_1WORD
+gibts	NORM_2WORD
+ca.	O
+1x	O
+/	O
+woche	NORM_1WORD
+,	O
+liegt	O
+aber	O
+meistens	O
+am	O
+modem	NORM_1WORD
+(	O
+neustart	NORM_1WORD
+)	O
+u	NORM_1WORD
+nicht	O
+am	O
+netz	NORM_1WORD
+
+jaa	NORM_1WORD
+aber	O
+wir	O
+wollen	O
+nicht	O
+mit	O
+allen	O
+%NegSmiley	O
+%PosSmiley	O
+
+Kinder	O
+von	O
+homosexuellen	O
+Paaren	O
+erleben	O
+ihre	O
+familiäre	O
+Situation	O
+als	O
+völlig	O
+normal	O
+.	O
+
+Nur	O
+die	O
+Hetero-Umwelt	O
+hat	O
+Proble	NORM_1WORD
+...	O
+
+Bin	O
+zuhause	NORM_2WORD
+,	O
+nass	O
+und	O
+durchgefroren	O
+,	O
+trotz	O
+der	O
+Rennerei	O
+.	O
+
+Hoffentlich	O
+klappt	O
+das	O
+bei	O
+dir	O
+...	O
+
+Treuer	O
+Freizeitpartner	O
+abzugeben	O
+!	O
+:	O
+Füllenberg	O
+|	O
+Leider	O
+sehe	O
+ich	O
+mich	O
+aus	O
+finanziellen	O
+Gruenden	NORM_1WORD
+gezwungen	O
+mich	O
+vo	NORM_1WORD
+...	O
+
+Tor	O
+durch	O
+Cissé	O
+(	O
+67.	O
+)	O
+im	O
+Spiel	O
+SC	NORM_1WORD
+Freiburg	O
+-	O
+Hannover	O
+96	O
+1:1	O
+buli	O
+bundesliga	O
+
+Guttenberg	O
+hat	O
+noch	O
+mehr	O
+abgeschrieben	O
+
+neue	O
+Vorwüfe	NORM_1WORD
+%Link	O
+
+auweia	NORM_1WORD
+und	O
+das	O
+kurz	O
+vor	O
+seinem	O
+Comeback	O
+tztztz	O
+
+sooo	NORM_1WORD
+hab	NORM_1WORD
+dich	O
+aboniert	NORM_1WORD
+%PosSmiley	O
+
+göttin	NORM_1WORD
+und	O
+über	O
+den	O
+kalender	NORM_1WORD
+reden	O
+wir	O
+noch	NORM_1WORD
+(	O
+@YouTube	O
+
+boah	NORM_1WORD
+es	O
+nervt	O
+.	O
+
+jetz	NORM_1WORD
+muss	O
+ICH	O
+für	O
+SEINE	O
+katze	NORM_1WORD
+sorgen	O
+%Link	O
+%NegSmiley	O
+
+Eigentlich	O
+hab	NORM_1WORD
+ich	O
+grad	NORM_1WORD
+gegessen	O
+wettendass	NORM_2WORD
+
+Newsfunk	O
+Mittelfristiger	O
+Plan	O
+-	O
+RWE	O
+will	O
+8000	O
+Arbeitsplätze	O
+streichen	O
+%Link	O
+
+Der	O
+Energieriese	O
+RWE	O
+will	O
+in	O
+den	O
+nächsten	O
+Jah	NORM_1WORD
+...	O
+
+'	O
+lach	O
+'	O
+
+au	NORM_1WORD
+man	NORM_1WORD
+die	O
+phase	NORM_1WORD
+hat	O
+henri	NORM_1WORD
+auch	O
+grad	NORM_1WORD
+.	O
+
+gestern	NORM_1WORD
+stand	O
+er	O
+auf	O
+seinem	O
+schaukelpferd	O
+.	O
+
+stolz	NORM_1WORD
+!	O
+
+mich	NORM_1WORD
+traf	O
+fast	O
+der	O
+schlag	NORM_1WORD
+.	O
+
+Haha	O
+...	O
+
+viel	O
+Spass	O
+und	O
+viel	O
+Glueck	NORM_1WORD
+dabei	O
+:)	O
+.	O
+
+kenn	NORM_1WORD
+ihn	O
+auch	O
+mit	O
+mürbeteig	NORM_1WORD
+,	O
+aber	O
+der	O
+war	O
+recht	O
+...	O
+
+naja	NORM_2WORD
+.	O
+
+Aber	O
+nur	O
+mit	O
+Blätterteig	O
+/	O
+Strudelteig	O
+ist	O
+es	O
+ein	O
+Apfelstrudel	O
+%NegSmiley	O
+
+Aktive	O
+Unternehmer	O
+Region	O
+Mindelheim	O
+zur	O
+Verstärkung	O
+unseres	O
+Unternehmer-Teams	O
+gesucht	O
+.	O
+
+Vorallem	NORM_2WORD
+im	O
+Handwerksbereich	O
+haben	O
+wir	O
+stets	O
+Anfragen	O
+
+die	NORM_1WORD
+Lieblingsfrage	O
+im	O
+Dezember	O
+bei	O
+der	O
+Post	O
+!	O
+
+Kommt	O
+es	O
+noch	O
+rechtzeitig	O
+vor	O
+Weihnachten	O
+an	O
+?!	O
+
+nerv	NORM_1WORD
+nerv	NORM_1WORD
+nerv	NORM_1WORD
+...	O
+%PosSmiley	O
+
+Der	O
+Angelo	O
+is	NORM_1WORD
+echt	O
+süss	O
+(	O
+aber	O
+net	NORM_1WORD
+mein	O
+typ	NORM_1WORD
+)	O
+%PosSmiley	O
+
+bringt	NORM_1WORD
+Kumpel	O
+den	O
+Umschlag	O
+,	O
+Kumpel	O
+macht	O
+auf	O
+und	O
+zitiert	O
+:	O
+
+'	O
+Ihr	O
+beide	O
+.	O
+'	O
+
+Angelo	O
+:	O
+*g*	O
+
+Nein	O
+.	O
+
+*	O
+guck	O
+
+Das	O
+is	NORM_1WORD
+schön	O
+,	O
+dass	O
+du	O
+mich	O
+gesehn	NORM_1WORD
+hast	O
+%PosSmiley	O
+
+Boah	O
+ich	O
+könnt	NORM_1WORD
+grad	NORM_1WORD
+so	O
+kotzen	O
+,	O
+dass	O
+ich	O
+mit	O
+christin	NORM_1WORD
+schreiben	O
+muss	O
+,	O
+die	O
+schmeckt	O
+mir	O
+grad	NORM_1WORD
+mal	O
+gar	O
+nicht	O
+
+trank	NORM_1WORD
+heute	O
+den	O
+1.	O
+Cubra	NORM_1WORD
+Libre	O
+meines	O
+Lebens	O
+(	O
+lacht	O
+nicht	O
+!	O
+%NegSmiley	O
+)	O
+
+Ich	O
+fühl	NORM_1WORD
+mich	O
+wie	O
+s	NORM_1WORD
+uspresste	NORM_1WORD
+Hackfleisch	O
+usere	NORM_1WORD
+Fleischwasserproduktion	O
+.	O
+
+Du	O
+kannst	O
+das	O
+aber	O
+auch	O
+Supi	NORM_1WORD
+alleine	O
+!	O
+%PosSmiley	O
+
+Haha	O
+,	O
+ich	O
+liebe	O
+wiie	NORM_1WORD
+du	O
+ihm	O
+schreibst	O
+!	O
+Haha	O
+:'D	O
+%PosSmiley	O
+
+Du	O
+tauchst	O
+in	O
+mein	O
+Leben	O
+und	O
+ich	O
+fühl	NORM_1WORD
+wie	O
+es	O
+sticht	O
+...	O
+
+Ferienwohnungen	O
+Glucksquell	NORM_1WORD
+Rhon	O
+:	O
+Schone	O
+und	O
+preiswerte	O
+Ferienwohnungen	O
+in	O
+Bischofsheim	O
+Rhon	O
+Haus	O
+Glucksquell	NORM_1WORD
+...	O
+
+Ihr	O
+Blog	O
+ist	O
+gerade	O
+etwas	O
+überlastet	O
+.	O
+
+Probier	O
+es	O
+sanft	O
+noch	O
+ein	O
+wenig	O
+.	O
+tweetklau	NORM_1WORD
+
+Schwдnze	NORM_1WORD
+,	O
+Riesenschwдnze	NORM_1WORD
+und	O
+dicke	O
+Schwдnze	NORM_1WORD
+
+Schwдnze	NORM_1WORD
+pur	O
+und	O
+Monsterschwдnze	NORM_1WORD
+
+Schwдnze	NORM_1WORD
+live	O
+!	O
+
+Geile	O
+Soiw	O
+:	O
+.	O
+gJXG	O
+
+du	O
+gehst	O
+mit	O
+nem	NORM_1WORD
+schleifgerät	NORM_1WORD
+über	O
+deine	O
+bauchhaare	NORM_1WORD
+?	O
+
+kreischtweet	NORM_1WORD
+
+Ich	O
+weck	NORM_1WORD
+jetzt	O
+den	O
+schnarchenden	O
+Hintern	O
+neben	O
+mir	O
+und	O
+trag	NORM_1WORD
+ihn	O
+ins	O
+Bett	O
+...	O
+
+Wir	O
+haben	O
+Siri	O
+auf	O
+unseren	O
+iPhone	O
+4	O
+zum	O
+Laufen	O
+gebracht	O
+(	O
+nicht	O
+nur	O
+Siri	O
+Dictation	O
+)	O
+,	O
+vllt	NORM_1WORD
+können	O
+wir	O
+den	O
+Tweak	O
+in	O
+help	O
+.	O
+
+ben	O
+m.a	O
+...	O
+
+ich	NORM_1WORD
+hab	NORM_1WORD
+nen	NORM_1WORD
+schwarzen	O
+
+achso	NORM_2WORD
+,	O
+stimmt	O
+ja	O
+!!!	O
+
+Keine	O
+Ahnung	O
+entscheide	O
+auch	O
+spontan	O
+Engelchen	O
+%PosSmiley	O
+
+find	NORM_1WORD
+ich	O
+gut	O
+,	O
+das	O
+können	O
+wir	O
+das	O
+gleich	O
+mit	O
+der	O
+klassenfeier	O
+verbinden	O
+.	O
+%PosSmiley	O
+
+%PosSmiley	O
+
+-	O
+ha	O
+!	O
+
+Also	O
+nach	O
+den	O
+Demos	O
+in	O
+Brockdorf	O
+wurde	O
+bei	O
+mir	O
+damals	O
+auch	O
+ne	NORM_1WORD
+Hausduchsuchung	NORM_1WORD
+gemacht	O
+.	O
+
+Ich	O
+war	O
+vorher	O
+nie	O
+bekannt	O
+.	O
+
+Reply	O
+To	O
+:	O
+Die	O
+äusserliche	O
+Versklavung	O
+:	O
+Mein	O
+geliebter	O
+Herr	O
+,	O
+werte	O
+Herren	O
+,	O
+liebe	O
+versklavte	NORM_1WORD
+,	O
+dieses	O
+mädchen	NORM_1WORD
+erhiel	NORM_1WORD
+...	O
+
+Fussballquiz	O
+%Link	O
+Browser	O
+Denk-	O
+und	O
+Quizspiel	O
+Fussballquiz	O
+.	O
+
+-	O
+mit	NORM_1WORD
+Maus	O
+auf	O
+Banner	O
+
+-	O
+Kostenlose	O
+Anmeldung	O
+inkl.	O
+vi	NORM_1WORD
+Browsergame	NORM_1WORD
+
+Audi	O
+A3	O
+1	O
+,	O
+8t	O
+:	O
+Drolshagen	O
+|	O
+
+Ich	O
+gebe	O
+Ihn	O
+ab	O
+da	O
+ich	O
+mir	O
+einen	O
+Allrad	O
+zugelegt	O
+habe	O
+.	O
+
+Der	O
+Audi	O
+hat	O
+bei	O
+2009	O
+einen	O
+ne	NORM_1WORD
+...	O
+
+a)	O
+dafür	O
+brauch	O
+ich	O
+nen	NORM_1WORD
+Jailbreak	O
+
+b)	O
+kein	O
+taktiles	O
+Feedback	O
+
+c)	O
+für	O
+sowas	O
+hab	NORM_1WORD
+ich	O
+meinen	O
+Mac	O
+,	O
+die	O
+PSP	O
+und	O
+den	O
+NDS	O
+
+Kurze	O
+Witze	O
+:	O
+Lustige	O
+Spr	NORM_1WORD
+uuml	NORM_1WORD
+che	NORM_1WORD
+und	O
+Witze	O
+finden	O
+sich	O
+hier	O
+auf	O
+unserer	O
+Seite	O
+uuml	NORM_1WORD
+bersichtlich	NORM_1WORD
+in	O
+mehrere	O
+Ka	NORM_1WORD
+...	O
+
+jaaa	NORM_1WORD
+**	O
+
+ich	NORM_1WORD
+habs	NORM_2WORD
+immernoch	NORM_2WORD
+**	O
+
+es	NORM_1WORD
+ist	O
+sogar	O
+mit	O
+in	O
+japan	NORM_1WORD
+**	O
+%PosSmiley	O
+
+Polizei	O
+-	O
+bayern	NORM_1WORD
+:	O
+Kontrollen	O
+im	O
+Rotlichtbereich	O
+:	O
+ROSENHEIM	NORM_1WORD
+.	O
+
+Am	O
+Donnerstag	O
+,	O
+01.12.2011	O
+,	O
+führten	O
+im	O
+Stadtgebiet	O
+Be	NORM_1WORD
+...	O
+
+Wechsele	O
+mal	O
+kurz	O
+rüber	NORM_1WORD
+zur	O
+ARD	O
+,	O
+Gottschalks	O
+neues	O
+Zuhause	O
+.	O
+
+wettendass	NORM_2WORD
+schwächelt	O
+grad	NORM_1WORD
+etwas	O
+
+Ich	O
+denke	O
+schon	O
+,	O
+das	NORM_1WORD
+ich	O
+gerade	O
+unter	O
+Zeitdruck	O
+die	O
+mir	O
+anvertrauten	O
+Aufgaben	O
+gut	O
+nach	O
+Wichtigkeit	O
+usw.	O
+klassi	NORM_1WORD
+...	O
+
+und	NORM_1WORD
+was	O
+soll	O
+ich	O
+sagen	O
+?	O
+
+dass	NORM_1WORD
+ich	O
+alleine	O
+fahren	O
+will	O
+?	O
+
+die	NORM_1WORD
+wird	O
+mcih	NORM_1WORD
+so	O
+auslachen	O
+.	O
+
+@username	O
+ist	O
+nur	O
+ne	NORM_1WORD
+Vermutung	O
+.	O
+
+Wir	O
+werden	O
+es	O
+sehen	O
+,	O
+Ehr	NORM_1WORD
+erstmal	O
+Ihr	O
+denn	O
+ich	O
+habe	O
+passend	O
+zum	O
+Fahrplanwechsel	O
+Urlaub	O
+%PosSmiley	O
+
+Weil	O
+ich	O
+meine	O
+Meinung	O
+kund	O
+tun	O
+wollte	O
+und	O
+sie	O
+zu	O
+wenig	O
+im	O
+Netz	O
+vorgefunden	O
+habe	O
+.	O
+
+Wenn	O
+einer	O
+das	O
+schon	O
+geschri	NORM_1WORD
+...	O
+
+jaa	NORM_1WORD
+..	O
+
+Aber	O
+ich	O
+eile	O
+x3	O
+
+Hellboy	O
+auf	O
+@username	O
+schaun	NORM_1WORD
+weil	O
+jez	NORM_1WORD
+wach	O
+D:	O
+
+naaa	NORM_1WORD
+,	O
+möchte	O
+ich	O
+grad	NORM_1WORD
+über	O
+völkische	O
+linke	NORM_1WORD
+,	O
+transphobe	O
+feministinnen	NORM_1WORD
+und	O
+sonstige	O
+spinnerinnen	NORM_1WORD
+diskutieren	O
+?	O
+
+neeein	NORM_1WORD
+,	O
+kein	O
+reply	NORM_1WORD
+heute	O
+.	O
+
+"	O
+Stimmen	O
+
+-	O
+"	O
+Ich	O
+kann	O
+meinen	O
+Spielern	O
+aber	O
+nichts	O
+vorwerfen	O
+"	O
+%Link	O
+
+ich	NORM_1WORD
+kann	O
+den	O
+daxbacher	O
+nichtmehr	NORM_2WORD
+hören	O
+
+sie	NORM_1WORD
+glaubt	O
+nich	NORM_1WORD
+ernsthaft	O
+das	NORM_1WORD
+wir	O
+uns	O
+gegenseitig	O
+verpetzen	O
+%PosSmiley	O
+
+Und	O
+wieder	O
+so'ne	NORM_2WORD
+Xing-Gruppeneinladung	O
+:	O
+"	O
+Sie	O
+bieten	O
+Unternehmensberatung	O
+...	O
+"	O
+
+Nö	NORM_1WORD
+.	O
+
+Zw.	NORM_1WORD
+Suchfunktion	O
++	O
+Verschicken	O
+wär	NORM_1WORD
+etwas	O
+Hirn	O
+hilfreich	O
+.	O
+
+Orion	O
+will	O
+wieder	O
+Detektiv	O
+sielen	NORM_1WORD
+,	O
+während	O
+Toma	O
+Mittagessen	O
+holen	O
+gegangen	O
+ist	O
+...	O
+
+KEIN	NORM_1WORD
+DING	NORM_1WORD
+!	O
+%PosSmiley	O
+
+Nein	O
+,	O
+natürlich	O
+waren	O
+das	O
+alles	O
+SPiele	O
+,	O
+die	O
+Toma	O
+für	O
+die	O
+Heroine	O
+gekauft	O
+hat	O
+,	O
+die	O
+sie	O
+spielen	O
+kann	O
+,	O
+während	O
+sie	O
+bei	O
+ihm	O
+übernachtet	O
+(	O
+aufewig	NORM_2WORD
+glücklich	O
+in	O
+rushhh	NORM_1WORD
+??	O
+
+ok	NORM_1WORD
+wenn	O
+es	O
+dich	O
+glücklich	O
+macht	O
+dann	O
+viel	O
+spass	NORM_1WORD
+.	O
+
+Kennt	O
+ihr	O
+das	O
+:	O
+Man	O
+will	O
+etwas	O
+garnicht	NORM_2WORD
+wissen	O
+,	O
+aber	O
+ist	O
+so	O
+neugierig	O
+
+OMG	O
+wir	O
+haben	O
+ne	NORM_1WORD
+TAGESORDNUNG	NORM_1WORD
+.	O
+bpt112	O
+Piratenpartei	O
+bpt11	O
+offenbings	O
+
+GAL	O
+Schildband	O
+mit	O
+Pfeil	O
+6x	O
+diamantiert	O
+925	O
+silber	O
+21	O
+cm	O
+:	O
+Identitätsarmband	O
+mit	O
+Pfeil	O
+,	O
+6x	O
+diamantiert	O
+1	O
+Stck	NORM_1WORD
+Län	NORM_1WORD
+...	O
+
+hab	NORM_1WORD
+ich	O
+ihn	O
+schon	O
+abgeschickt	O
+??	O
+
+odeer	NORM_1WORD
+mach	NORM_1WORD
+ich	O
+überhaupt	O
+mit	O
+??	O
+%Smiley	O
+%PosSmiley	O
+
+Man	O
+kann	O
+doch	O
+fast	O
+alles	O
+draussen	O
+tragen	O
+..	O
+
+sogar	NORM_1WORD
+nen	NORM_1WORD
+Snuggie	O
+%PosSmiley	O
+
+*	O
+youtube	O
+video	O
+%PosSmiley	O
+
+vll	NORM_1WORD
+hat	O
+ihn	O
+kay	NORM_1WORD
+auch	O
+gesehn	NORM_1WORD
+%PosSmiley	O
+MarsHugs	O
+
+Wieso	O
+machst	O
+du	O
+solche	O
+Scheisse	O
+?	O
+
+Was	O
+zur	O
+Hölle	O
+willst	O
+du	O
+von	O
+mir	O
+?!	O
+
+Fuck	O
+,	O
+ich	O
+hatte	O
+mal	O
+einen	O
+schlechten	O
+Tag	O
+
+beruhig	NORM_1WORD
+dich	O
+...	O
+
+Haha	O
+ist	O
+nog	NORM_1WORD
+geselie	NORM_1WORD
+daa	NORM_1WORD
+
+Oha	O
+!	O
+
+İch	NORM_1WORD
+weiss	O
+nicht	O
+%NegSmiley	O
+
+ich	NORM_1WORD
+fahr	O
+zuerst	O
+nach	O
+essen	NORM_1WORD
+sana	NORM_1WORD
+soylerim	NORM_1WORD
+acmış	O
+mı	O
+
+Jaaa	NORM_1WORD
+
+-	O
+das	NORM_1WORD
+war	O
+unser	O
+Geschäft	O
+"	O
+Am	O
+Viertelacker	O
+"	O
+
+-	O
+jetzt	NORM_1WORD
+siehts	NORM_2WORD
+dort	O
+so	O
+aus	O
+...	O
+
+Jetzt	O
+geht	O
+eine	O
+Ära	O
+zuende	NORM_2WORD
+wettendass	NORM_2WORD
+
+oha	NORM_1WORD
+coolo	NORM_1WORD
+
+ja	NORM_1WORD
+dann	O
+würd	NORM_1WORD
+ich	O
+da	O
+auch	O
+immer	O
+rüber	NORM_1WORD
+düsen	NORM_1WORD
+%PosSmiley	O
+%PosSmiley	O
+xx	O
+
+Ab	O
+ner	NORM_1WORD
+gewissen	O
+Grössenordnung	O
+...	O
+...	O
+
+was	NORM_1WORD
+wäre	O
+eigentlich	O
+so	O
+schlecht	O
+daran	O
+,	O
+Vermögen	O
+mit	O
+dem	O
+Tod	O
+verfallen	O
+zu	O
+lassen	O
+?	O
+fb	O
+
+Ich	O
+leide	O
+mit	O
+euch	O
+Piraten	O
+in	O
+der	O
+Sardinenbüchse	O
+.	O
+
+Macht	O
+keinen	O
+Scheiss	O
+.	O
+
+Wünsche	O
+mir	O
+schicke	O
+Ergebnisse	O
+.	O
+
+Offenbings	O
+bpt112	O
+
+Schaaaaaaaaaaaaatz	NORM_1WORD
+ich	O
+will	O
+auuuuuch	NORM_1WORD
+ne	NORM_1WORD
+Quietscheentööööööö	NORM_1WORD
+!!!!!	O
+%PosSmiley	O
+
+Kinder	O
+von	O
+homosexuellen	O
+Paaren	O
+erleben	O
+ihre	O
+familiäre	O
+Situation	O
+als	O
+völlig	O
+normal	O
+.	O
+
+Nur	O
+die	O
+Hetero-Umwelt	O
+hat	O
+Proble	NORM_1WORD
+...	O
+
+jetzt	NORM_1WORD
+1:25.074	O
+auf	O
+BeaverCreek	O
+
+-	O
+damit	O
+Platz	O
+2.685	O
+weltweit	O
+und	O
+irgendwo	O
+um	O
+Platz	O
+170	O
+in	O
+Deutschland	O
+!	O
+
+Da	O
+freu	NORM_1WORD
+ich	O
+mich	O
+!	O
+sc12	O
+skichallenge	O
+
+Dachte	O
+grade	NORM_1WORD
+die	O
+One-Man-Party	O
+wäre	O
+vorbei	O
+,	O
+aber	O
+dann	O
+das	O
+:	O
+Hat	O
+wohl	O
+jemand	O
+vergessen	O
+.	O
+%NegSmiley	O
+
+jaa	NORM_1WORD
+,	O
+damals	O
+war	O
+unsere	O
+einzige	O
+Sorge	O
+wer	O
+mit	O
+unserem	O
+Spielzeug	O
+spielt	O
+.	O
+%PosSmiley	O
+
+"	O
+Man	O
+merkt	O
+es	O
+ist	O
+1uhr	NORM_2WORD
+,	O
+auf	O
+DAS	NORM_1WORD
+VIERTE	NORM_1WORD
+kommen	O
+nurnoch	NORM_2WORD
+titten	NORM_1WORD
+"	O
+
+Perfektes	O
+Programm	O
+für	O
+dich	O
+!	O
+%PosSmiley	O
+
+Munchen	NORM_1WORD
+Pinakotek	NORM_1WORD
+Der	O
+Morderne	O
+
+@username	O
+Pinakothek	O
+der	O
+Moderne	O
+
+T	O
+-	O
+2	NORM_1WORD
+Stunden	O
+bis	O
+zum	O
+nächsten	O
+SWTOR	O
+Beta-Test	O
+!!	O
+*	O
+wie	O
+blöd	O
+freu	NORM_1WORD
+*	O
+
+Meinst	O
+als	O
+Podcast-Star	O
+darf	O
+man	O
+betrunken	O
+podcasten	O
+?	O
+
+Ich	O
+glaub	NORM_1WORD
+,	O
+die	O
+Zeiten	O
+sind	O
+vorbei	O
+.	O
+
+Linchen	O
+is	NORM_1WORD
+nu	NORM_1WORD
+n	NORM_1WORD
+Star	O
+....	O
+
+kaum	O
+zu	O
+übersehen	O
+%PosSmiley	O
+...	O
+
+hier	O
+,	O
+vl	NORM_1WORD
+wirds	NORM_2WORD
+dann	O
+besser	O
+:	O
+
+16.9	O
+%	O
+drüber	NORM_1WORD
+sind	O
+nicht	O
+"	O
+hauchdunn	NORM_1WORD
+"	O
+
+ham	NORM_1WORD
+die	O
+bei	O
+Wetten	O
+dass	O
+...?	O
+einen	O
+WC	O
+Fetisch	O
+?	O
+
+Nen	NORM_1WORD
+Euro	O
+mehr	O
+würde	O
+ich	O
+wohl	O
+verkraften	O
+.	O
+%PosSmiley	O
+
+Twitter	O
+und	O
+ich	O
+.	O
+
+Heut	NORM_1WORD
+ist	O
+nicht	O
+unser	O
+Tag	O
+.	O
+
+Nochmal	O
+den	O
+Link	O
+von	O
+beam	O
+eBooks	O
+%Link	O
+Sander	O
+
+@username	O
+hatt	NORM_1WORD
+ich	O
+mir	O
+auch	O
+nicht	O
+so	O
+schwer	O
+vorgestellt	O
+!	O
+
+geh	NORM_1WORD
+wohl	O
+zu	O
+Arte	O
+
+-	O
+Darwin	O
+
+-	O
+%PosSmiley	O
+den	O
+kurt	NORM_1WORD
+kenn	NORM_1WORD
+ich	O
+
+"	O
+leichter	O
+"	O
+%PosSmiley	O
+
+Meine	O
+Ma	NORM_1WORD
+fragt	O
+,	O
+ob	O
+du	O
+nicht	O
+was	NORM_1WORD
+abgeben	O
+und	O
+rüberschicken	NORM_1WORD
+magst	O
+%PosSmiley	O
+
+was	NORM_1WORD
+macht	O
+sie	O
+den	O
+schonwieder	NORM_2WORD
+?	O
+
+Wie	O
+war	O
+deine	O
+nacht	NORM_1WORD
+?	O
+%PosSmiley	O
+1DonGermanTVtoday	O
+
+kenn	NORM_1WORD
+ich	O
+nicht	O
+.	O
+%PosSmiley	O
+
+Frisch	O
+gebloggt	O
+:	O
+Das	O
+dritte	O
+Türchen	O
+...	O
+
+mit	NORM_1WORD
+Literatwo	O
+durch	O
+den	O
+Advent	O
+...	O
+:	O
+Auf	O
+in	O
+den	O
+dritten	O
+Adventskalendertag	O
+-	O
+wi	NORM_1WORD
+...	O
+
+Supi	NORM_1WORD
+!!	O
+
+Und	O
+bei	O
+dir	O
+?	O
+
+Sind	O
+abgesicherte	O
+Zertifikate	O
+schon	O
+wieder	O
+sicher	O
+?	O
+
+:	O
+Hallo	O
+,	O
+ich	O
+verfolge	O
+zur	O
+Zeit	O
+die	O
+Nachrichte	NORM_1WORD
+...	O
+%Link	O
+Finanzen	O
+Geld	O
+
+jaaaa	NORM_1WORD
+lass	O
+uns	O
+das	O
+machen	O
+.	O
+
+okay	NORM_1WORD
+,	O
+ich	O
+fang	NORM_1WORD
+mal	O
+an	O
+zu	O
+%NegSmileyen	O
+:'D	O
+♥	O
+
+@username	O
+ist	O
+'	NORM_1WORD
+Bloggerin	O
+/	O
+youtuberin	O
+%PosSmiley	O
+
+musste	NORM_1WORD
+mal	O
+googlen	NORM_1WORD
+,	O
+hab	NORM_1WORD
+die	O
+blogadresse	NORM_1WORD
+grade	NORM_1WORD
+nicht	O
+auf	O
+'m	NORM_1WORD
+Schirm	O
+%PosSmiley	O
+
+Frage	O
+von	O
+Gottschalk	O
+an	O
+Dirk	O
+Nowitzki	O
+:	O
+"	O
+pinkelst	NORM_1WORD
+du	O
+im	O
+stehn	NORM_1WORD
+?	O
+und	O
+triffst	O
+?	O
+"	O
+wettendass	NORM_2WORD
+
+Ich	O
+hab	NORM_1WORD
+den	O
+Weihnachtsmann	O
+heute	O
+am	O
+Glühweinstand	O
+arbeiten	O
+sehen	O
+.	O
+
+Was	O
+ist	O
+das	O
+für	O
+'	NORM_1WORD
+Welt	O
+,	O
+in	O
+der	O
+sogar	O
+dieser	O
+Mann	O
+schon	O
+...	O
+
+Ihr	O
+von	O
+twitter	NORM_1WORD
+schaft	NORM_1WORD
+es	O
+immer	O
+wieder	O
+ein	O
+lächeln	O
+auf	O
+die	O
+lippen	NORM_1WORD
+zu	O
+zaubern	O
+[:	O
+
+Ich	O
+werd	NORM_1WORD
+dann	O
+jetzt	O
+mal	O
+schlafen	O
+gehen	O
+.	O
+
+Gute	O
+Nacht	O
+
+Ich	O
+find	NORM_1WORD
+den	O
+film	NORM_1WORD
+auch	O
+super	O
+,	O
+wird	O
+sicherlich	O
+kein	O
+"	O
+klassiker	NORM_1WORD
+"	O
+aber	O
+sehenswert	O
+..	O
+(	O
+@YouTube	O
+
+Guten	O
+Morgen	O
+%PosSmiley	O
+
+Wünsch	NORM_1WORD
+Dir	O
+einen	O
+tollen	O
+Tag	O
+%PosSmiley	O
+
+Abwasserabtransport	O
+egal	O
+aus	O
+welcher	O
+Höhe	O
+:	O
+Hebeanlage	O
+machts	NORM_2WORD
+möglich	O
+
+Wie	O
+komt	NORM_1WORD
+pingen	O
+%NegSmiley	O
+?	O
+
+Man	O
+um	O
+higher	O
+den	O
+ahhhhhhhhhhhhhhhhhhhhhhhh	O
+
+wenn	NORM_1WORD
+ich	O
+nicht	O
+so	O
+viel	O
+dafür	O
+gelernt	O
+hätte	O
+wär	NORM_1WORD
+ich	O
+ja	O
+auch	O
+gar	O
+nicht	O
+mal	O
+enttäuscht	O
+,	O
+aber	O
+so	O
+%NegSmiley	O
+
+hahahaah	O
+ich	NORM_1WORD
+weiss	O
+nicht	O
+warum	O
+ich	O
+so	O
+lachen	O
+muss	O
+:'D	O
+
+bestimmt	NORM_1WORD
+weil	O
+mir	O
+grad	NORM_1WORD
+n	NORM_1WORD
+cooler	O
+name	NORM_1WORD
+eingefallen	O
+ist	O
+%PosSmiley	O
+
+OneErection	O
+%PosSmiley	O
+
+hab	NORM_1WORD
+es	O
+gerade	O
+gesehn	NORM_1WORD
+;-)	O
+
+in	NORM_1WORD
+meinem	O
+profil	O
+findest	O
+du	O
+die	O
+tracklist	NORM_1WORD
+von	O
+unserem	O
+album	NORM_1WORD
+wenn	O
+du	O
+runter	NORM_1WORD
+scrollst	NORM_1WORD
+
+Der	O
+Farbe	O
+des	O
+Himmels	O
+nach	O
+zu	O
+urteilen	O
+,	O
+geht	O
+...	O
+entweder	O
+die	O
+Welt	O
+unter	O
+;	O
+...	O
+der	O
+Tag	O
+zuende	NORM_2WORD
+;	O
+...	O
+ODER	NORM_1WORD
+DAS	NORM_1WORD
+WETTER	NORM_1WORD
+IST	NORM_1WORD
+EINFA	NORM_1WORD
+...	O
+
+Hunt	O
+unnötiger	O
+gehts	NORM_2WORD
+nicht	O
+.	O
+
+ich	NORM_1WORD
+weiss	O
+seine	O
+locken	NORM_1WORD
+sind	O
+so	O
+ahhhh	O
+
+ja	NORM_1WORD
+stimmt	O
+niall	NORM_1WORD
+hab	NORM_1WORD
+forgotten	O
+ahhhh	O
+die	O
+%PosSmiley	O
+
+so	NORM_1WORD
+geil	O
+
+die	NORM_1WORD
+sind	O
+zu	O
+mit	O
+schnürsenkeln	NORM_1WORD
+und	O
+ahja	NORM_2WORD
+die	O
+hat	O
+sie	O
+mir	O
+schon	O
+wiede	NORM_1WORD
+gegeben	O
+glaube	O
+ich	O
+%PosSmiley	O
+
+ich	NORM_1WORD
+geb	NORM_1WORD
+dir	O
+nen	NORM_1WORD
+Link	O
+warte	O
+
+kurz	NORM_1WORD
+away	O
+,	O
+den	O
+naechsten	NORM_1WORD
+heben	O
+...	O
+
+Muhahahahahaahaha	NORM_1WORD
+...	O
+
+Bis	O
+gleich	O
+!	O
+%PosSmiley	O
+
+meine	NORM_1WORD
+mum	NORM_1WORD
+kommt	O
+heut	NORM_1WORD
+mit	O
+'m	NORM_1WORD
+arm	NORM_1WORD
+an	O
+klappstuhl	NORM_1WORD
+und	O
+auf	O
+einmal	O
+fängt	O
+an	O
+was	O
+zu	O
+kliengeln	NORM_1WORD
+%PosSmiley	O
+
+ich	NORM_1WORD
+gleich	O
+lachkrampf	NORM_1WORD
+%PosSmiley	O
+
+oder	NORM_1WORD
+ne	NORM_1WORD
+'	O
+Spiegelreflex	O
+.	O
+
+naja	NORM_2WORD
+,	O
+krieg	NORM_1WORD
+ich	O
+vielleicht	O
+in	O
+2	O
+Jahren	O
+%PosSmiley	O
+
+mal	NORM_1WORD
+sehen	O
+.	O
+
+es	NORM_1WORD
+tut	O
+mir	O
+leid	O
+,	O
+deutschland	NORM_1WORD
+europameister	NORM_1WORD
+
+jaaaa	NORM_1WORD
+
+das	NORM_1WORD
+mich	O
+ne	NORM_1WORD
+Freundin	O
+schon	O
+länger	O
+gefragt	O
+hat	O
+%PosSmiley	O
+
+hör	NORM_1WORD
+auf	O
+zu	O
+lästern	O
+!!!	O
+
+freu	NORM_1WORD
+mich	O
+auf	O
+das	O
+konzert	NORM_1WORD
+!!!!	O
+
+na	NORM_1WORD
+super	O
+
+jetzt	NORM_1WORD
+hab	NORM_1WORD
+ich	O
+wegen	O
+dir	O
+nen	NORM_1WORD
+Ohrwurm	O
+%PosSmiley	O
+
+Kennt	O
+sich	O
+einer	O
+hier	O
+übelst	O
+dolle	NORM_1WORD
+mit	O
+steuern	NORM_1WORD
+und	O
+Einkommensgrenzen	O
+und	O
+Selbstständigkeit	O
+aus	O
+?	O
+unddasamfrühenmorgen	NORM_3PLUS
+
+So	O
+'	NORM_1WORD
+Timeline	O
+ist	O
+Nacht's	NORM_1WORD
+ein	O
+unheimlicher	O
+Ort	O
+.	O
+
+wünsch	NORM_1WORD
+dir	O
+eine	O
+schöne	O
+Reise	O
+.	O
+
+Bis	O
+Montag	O
+.	O
+
+wa	NORM_1WORD
+ist	O
+meisje	O
+?	O
+
+@username	O
+geht	O
+grad	NORM_1WORD
+nicht	O
+.	O
+
+Dazu	O
+habe	O
+ich	O
+schon	O
+seit	O
+längerem	O
+ein	O
+Posting	O
+in	O
+meiner	O
+Blog	O
+Pipline	NORM_1WORD
+:	O
+Nun	O
+gibts	NORM_2WORD
+einen	O
+Anlass	O
+,	O
+diesen	O
+am	O
+Mo	NORM_1WORD
+zu	O
+veröffentlichen	O
+.	O
+
+ja	NORM_1WORD
+die	O
+hat	O
+so	O
+nen	NORM_1WORD
+bild	NORM_1WORD
+von	O
+der	O
+im	O
+Zimmer	O
+hängen	O
+...	O
+
+naja	NORM_2WORD
+mittlerweile	O
+hängt	O
+es	O
+in	O
+meinem	O
+Zimmer	O
+,	O
+habs	NORM_2WORD
+ihr	O
+geklaut	O
+%NegSmiley	O
+
+Ja	O
+,	O
+auf	O
+jeden	O
+Fall	O
+ne	NORM_1WORD
+STunde	NORM_1WORD
+nicht	O
+mehr	O
+hier	O
+öffentlich	O
+.	O
+
+Aber	O
+sie	O
+kann	O
+lesen	O
+was	O
+wir	O
+schreiben	O
+.	O
+
+manchmal	NORM_1WORD
+,	O
+wenn	O
+ich	O
+langeweile	NORM_1WORD
+hab	NORM_1WORD
+,	O
+sitz	NORM_1WORD
+ich	O
+einfach	O
+nur	O
+so	O
+rum	NORM_1WORD
+.	O
+
+shauhauhauahsuhau	NORM_1WORD
+claro	O
+q	NORM_1WORD
+sim	O
+,	O
+der	O
+
+|	O
+Mögen	O
+Sie	O
+mir	O
+helfen	O
+,	O
+das	O
+Wort	O
+biogravision	NORM_1WORD
+bekannt	O
+zu	O
+machen	O
+?	O
+
+Da	O
+gehts	NORM_2WORD
+um	O
+Leben	O
+und	O
+Tod	O
+.	O
+
+Im	O
+übertragenen	O
+Sinn	O
+natürlich	O
+.	O
+
+Hab	NORM_1WORD
+ein	O
+altes	O
+Foto	O
+gefunden	O
+!	O
+%PosSmiley	O
+
+Das	O
+war	O
+vo	NORM_1WORD
+2	O
+Jahren	O
+!	O
+%NegSmiley	O
+
+wir	NORM_1WORD
+mussten	O
+in	O
+Französisch	O
+so	O
+nen	NORM_1WORD
+Dialog	O
+spiele	NORM_1WORD
+
+und	NORM_1WORD
+ich	O
+dann	O
+zu	O
+der	O
+anderen	O
+so	O
+ja	O
+tschüss	NORM_1WORD
+halt	O
+auf	O
+französisch	NORM_1WORD
+
+und	NORM_1WORD
+er	O
+dann	O
+so	O
+&gt;	O
+
+sehr	NORM_1WORD
+schönes	O
+video	O
+%PosSmiley	O
+
+ich	NORM_1WORD
+feier	NORM_1WORD
+weihnachten	NORM_1WORD
+zuhause	NORM_2WORD
+mit	O
+meiner	O
+familie	NORM_1WORD
+%PosSmiley	O
+(	O
+@YouTube	O
+
+Haha	O
+,	O
+schön	O
+wärs	NORM_2WORD
+,	O
+kann	O
+ich	O
+mir	O
+gar	O
+nicht	O
+leisten	O
+.	O
+
+ich	NORM_1WORD
+werd	NORM_1WORD
+das	O
+geld	NORM_1WORD
+schon	O
+bekommen	O
+
+keine	NORM_1WORD
+panik	O
+
+lmao	O
+
+Die	O
+@username	O
+hat	O
+mir	O
+auf	O
+FB	O
+grad	NORM_1WORD
+verraten	O
+was	O
+sie	O
+mir	O
+zu	O
+Weihnachten	O
+schenkt	O
+:'D	O
+
+Ich	O
+sage	O
+%PosSmiley	O
+zur	O
+DM	O
+.	O
+
+Weil	O
+...	O
+
+ne	NORM_1WORD
+?	O
+
+Jemand	O
+sollte	O
+mir	O
+diese	O
+Frage	O
+bei	O
+FS	O
+stellen	O
+.	O
+%PosSmiley	O
+
+jaa	NORM_1WORD
+zuper	NORM_1WORD
+%PosSmiley	O
+
+eyh	NORM_1WORD
+ich	O
+kann	O
+morgen	O
+nicht	O
+
+mh	O
+nicht	O
+gut	O
+.	O
+
+Und	O
+das	O
+mit	O
+14	O
+?	O
+
+Elterliche	O
+fürsorge	NORM_1WORD
+?	O
+
+Ich	O
+mein	NORM_1WORD
+spass	NORM_1WORD
+haben	O
+ok	O
+,	O
+aber	O
+alkohol	NORM_1WORD
+in	O
+dem	O
+alter	NORM_1WORD
+eher	O
+no	NORM_1WORD
+go	O
+
+DAS	NORM_1WORD
+hatte	O
+ich	O
+auch	O
+ne	NORM_1WORD
+Zeit	O
+lang	O
+%PosSmiley	O
+
+Über	O
+Prpmis	NORM_1WORD
+herziehen	O
+,	O
+okay	O
+,	O
+aber	O
+für	O
+mich	O
+gibt	O
+'s	NORM_1WORD
+da	O
+ne	NORM_1WORD
+Grenze	O
+.	O
+
+Und	O
+zwar	O
+genau	O
+da	O
+,	O
+wo	O
+man	O
+in	O
+Gedanken	O
+Promis	O
+den	O
+Tod	O
+an	O
+den	O
+Hals	O
+wünscht	O
+.	O
+
+Skyrim	O
+...	O
+
+Interesse	O
+an	O
+nem	NORM_1WORD
+Gameplay	O
+auch	O
+wenn	O
+ich	O
+schon	O
+evel	NORM_1WORD
+9	O
+bin	O
+?	O
+FollowerPower	NORM_2WORD
+
+Ich	O
+mag	O
+sowas	O
+nicht	O
+...	O
+
+ich	NORM_1WORD
+kann	O
+mich	O
+nicht	O
+auf	O
+ein	O
+Lied	O
+spezialisieren	O
+,	O
+weil	O
+es	O
+sooo	NORM_1WORD
+viele	O
+Gute	O
+gibt	O
+.	O
+%PosSmiley	O
+
+Oder	O
+isses	NORM_2WORD
+die	O
+Nacht	O
+?	O
+
+Oder	O
+der	O
+frühe	O
+Morgen	O
+???	O
+
+warum	NORM_1WORD
+verbeiten	NORM_1WORD
+die	O
+das	O
+denn	O
+?	O
+
+D	O
+:	O
+ist	O
+ja	O
+blöd	O
+!	O
+&gt;.&lt;	O
+
+meine	NORM_1WORD
+mum	NORM_1WORD
+ist	O
+da	O
+gottseidank	NORM_3PLUS
+etwas	O
+lockere	NORM_1WORD
+(	O
+aber	O
+ich	O
+bin	O
+auch	O
+fast	O
+18	O
+^^;	O
+%PosSmiley	O
+
+jetz	NORM_1WORD
+kannst	O
+schen	NORM_1WORD
+mit	O
+mir	O
+einkaufen	O
+gehn	NORM_1WORD
+%PosSmiley	O
+
+Ich	O
+will	O
+nen	NORM_1WORD
+Dialekt	O
+haben	O
+...	O
+
+bringt	NORM_1WORD
+mir	O
+jemand	O
+seinen	O
+Dialekt	O
+bei	O
+?	O
+
+ich	NORM_1WORD
+trinke	O
+öfter	O
+im	O
+schlaf	NORM_1WORD
+,	O
+merke	O
+es	O
+dann	O
+nur	O
+,	O
+wenn	O
+ich	O
+wach	O
+bin	O
+,	O
+wenn	O
+die	O
+flasche	O
+plötzlich	O
+leer	O
+ist	O
+%PosSmiley	O
+
+umarmung	NORM_1WORD
+ohne	O
+anfassen	NORM_1WORD
+wär	NORM_1WORD
+jetzt	O
+toll	O
+.	O
+
+(	O
+aka	O
+hau	O
+ab	O
+,	O
+aber	O
+geh	O
+nicht	O
+weg	O
+.	O
+)	O
+
+er	NORM_1WORD
+müsste	O
+auf	O
+flug	NORM_1WORD
+aa1220	O
+sein	O
+,	O
+der	O
+zur	NORM_1WORD
+zeit	NORM_1WORD
+61	O
+min	NORM_1WORD
+verspätung	NORM_1WORD
+hat	O
+,	O
+ob	O
+er	O
+den	O
+anschluss	NORM_1WORD
+schafft	O
+bezweilfe	NORM_1WORD
+ich	O
+(	O
+40	O
+min	NORM_1WORD
+!!	O
+)	O
+
+Scheiss	NORM_1WORD
+Internet	O
+!	O
+
+warum	NORM_1WORD
+lässt	O
+duch	NORM_1WORD
+mich	O
+träumen	O
+?	O
+
+(	O
+und	O
+warum	O
+schau	NORM_1WORD
+ich	O
+tatsächlich	O
+,	O
+wann	O
+flüge	NORM_1WORD
+nach	O
+boston	NORM_1WORD
+gehen	O
+?	O
+)	O
+
+rollende	NORM_1WORD
+augen	NORM_1WORD
+und	O
+aus	O
+meinem	O
+mund	NORM_1WORD
+kommt	O
+"	O
+jaaaaaaaa	NORM_1WORD
+"	O
+das	NORM_1WORD
+hatten	O
+wir	O
+heute	O
+schonmal	NORM_2WORD
+%PosSmiley	O
+
+mach	NORM_1WORD
+dir	O
+das	O
+spass	NORM_1WORD
+?	O
+
+eine	NORM_1WORD
+ganze	O
+geriebene	O
+muskatnuss	NORM_1WORD
+runterwuergen	NORM_1WORD
+,	O
+supereklig	O
+,	O
+und	O
+nach	O
+ner	NORM_1WORD
+halben	O
+stunde	NORM_1WORD
+nur	O
+komisches	O
+muskelgezucke	NORM_1WORD
+.	O
+
+Danke	O
+an	O
+Euch	O
+!	O
+
+Hab	NORM_1WORD
+mich	O
+dann	O
+am	O
+Ende	O
+durch	O
+Auschlussverfahren	NORM_1WORD
+für	O
+"	O
+bunt	O
+"	O
+entschieden	O
+%PosSmiley	O
+
+und	NORM_1WORD
+das	O
+Final	NORM_1WORD
+gefunden	O
+
+Ey	O
+,	O
+dieses	O
+Maedchen	NORM_1WORD
+hats	NORM_2WORD
+echt	O
+so	O
+noetig	NORM_1WORD
+,	O
+die	O
+merkt	O
+glaub	NORM_1WORD
+garnicht	NORM_2WORD
+wie	O
+laecherlich	NORM_1WORD
+sie	O
+sich	O
+damit	O
+macht	O
+.	O
+%PosSmiley	O
+
+So	O
+,	O
+ich	O
+bin	O
+dann	O
+ma	NORM_1WORD
+weg	O
+%PosSmiley	O
+
+Nach	O
+so	O
+einem	O
+Frustblogpost	O
+fühlt	O
+man	O
+sich	O
+tatsächlich	O
+besser	O
+.	O
+
+Scheiss	NORM_1WORD
+auf	O
+den	O
+Püüüüchater	NORM_1WORD
+...	O
+
+dankeschön	NORM_2WORD
+%PosSmiley	O
+
+freu	NORM_1WORD
+mich	O
+,	O
+dass	O
+sie	O
+dir	O
+gefällt	O
+%PosSmiley	O
+
+denke	NORM_1WORD
+mal	O
+das	O
+wird	O
+sich	O
+auch	O
+wieder	O
+legen	O
+denn	O
+die	O
+beginnen	O
+ja	O
+irgendwann	O
+auszuprobieren	O
+,	O
+wie	O
+weit	O
+kann	O
+ich	O
+gehen	O
+und	O
+wie	O
+sic	NORM_1WORD
+
+soo	NORM_1WORD
+wunderschönes	O
+wetter	NORM_1WORD
+würd	NORM_1WORD
+ich	O
+sagen	O
+..	O
+-	O
+nicht	O
+
+%PosSmiley	O
+
+ich	NORM_1WORD
+fands	NORM_2WORD
+auch	O
+toll	O
+.	O
+
+Leider	O
+viel	O
+zu	O
+kurz	O
+!	O
+
+Hallo	O
+guten	O
+abend	NORM_1WORD
+ich	O
+bins	NORM_2WORD
+Mohammed	O
+
+für	NORM_1WORD
+sowas	O
+brauche	O
+ich	O
+keinen	O
+Glühwein	O
+Schatz	O
+%PosSmiley	O
+
+Ich	O
+denke	O
+auch	O
+an	O
+Dich	O
+!!!!	O
+
+Wäre	O
+soooo	NORM_1WORD
+gern	O
+bei	O
+Dir	O
+!!	O
+
+Lieb	NORM_1WORD
+Dich	O
+mehr	O
+%PosSmiley	O
+3333	O
+
+Jaa	NORM_1WORD
+%PosSmiley	O
+.	O
+
+40h	O
+200	O
+Euro	O
+.	O
+
+Hab	NORM_1WORD
+überlegt	O
+..	O
+
+Wenn	O
+ich	O
+dann	O
+80h	O
+mache	O
+,	O
+bekomme	O
+ich	O
+für	O
+die	O
+40	O
+weiteren	O
+ja	O
+200	O
+Euro	O
+.	O
+
+Weil	O
+MacBook	O
+,	O
+ne	NORM_1WORD
+?	O
+%PosSmiley	O
+
+Liebe	O
+Fotofreunde	O
+,	O
+bei	O
+welchem	O
+Anbieter	O
+stimmt	O
+denn	O
+das	O
+Preis	O
+/	O
+Leistungsverhältnis	O
+für	O
+Panorama	O
+Ausdrucke	O
+?	O
+pls	NORM_1WORD
+RT	NORM_1WORD
+
+na	NORM_1WORD
+dann	O
+bis	O
+morgen	O
+,	O
+werd	NORM_1WORD
+erst	O
+morgen	O
+früh	O
+losfahren	O
+
+Benutzt	O
+Du	O
+eigentl.	NORM_1WORD
+diesen	O
+"oil-painting"-Modus	O
+in	O
+Deiner	O
+Bildbearbeitung	O
+?	O
+
+Am	O
+Laptop	O
+hab	NORM_1WORD
+ich	O
+den	O
+auch	O
+,	O
+am	O
+Handy	O
+weiss	O
+ichs	NORM_2WORD
+nicht	O
+!	O
+
+...	O
+
+oh	NORM_1WORD
+gott	NORM_1WORD
+diese	O
+frau	NORM_1WORD
+bellt	O
+echt	O
+bei	O
+jedem	O
+sex	O
+.	O
+
+ich	NORM_1WORD
+krieg	NORM_1WORD
+nen	NORM_1WORD
+anfall	O
+.	O
+
+das	NORM_1WORD
+is	NORM_1WORD
+doch	O
+nich	NORM_1WORD
+geil	O
+%PosSmiley	O
+
+Künstlerzappeln	O
+heute	O
+Abend	O
+in	O
+der	O
+"	O
+neuen	O
+Eigentlichheit	NORM_1WORD
+"	O
+auf	O
+der	O
+Karl-Heine	O
+,	O
+neben	O
+dem	O
+Westwerk	O
+.	O
+
+Wird	O
+wohl	O
+Elektroclash	O
+...	O
+
+So	O
+,	O
+bastel	NORM_1WORD
+jetzt	O
+noch	O
+schnell	O
+'	NORM_1WORD
+Adventskalender	O
+für	O
+meine	O
+Frau	O
+.	O
+
+24	O
+Zettel	O
+auf	O
+denen	O
+"	O
+1x	O
+ficken	O
+"	O
+steht	O
+.	O
+
+Frauen	O
+...	O
+
+ich	NORM_1WORD
+bin	O
+auch	O
+die	O
+ganze	O
+zeit	NORM_1WORD
+bei	O
+youtube	NORM_1WORD
+annoying	NORM_1WORD
+orange	NORM_1WORD
+kucken	NORM_1WORD
+
+gott	NORM_1WORD
+sei	O
+dank	O
+sagt	O
+das	O
+IPad	O
+bescheid	NORM_1WORD
+wenn	O
+du	O
+schreibst	O
+%PosSmiley	O
+
+Danke	O
+.	O
+%PosSmiley	O
+
+Wünsch	NORM_1WORD
+ich	O
+dir	O
+auch	O
+.	O
+
+Und	O
+wie	O
+fühlt	O
+sich	O
+Urlaub	O
+an	O
+?	O
+%PosSmiley	O
+
+No	NORM_1WORD
+toll	O
+meine	O
+Maus	O
+ist	O
+im	O
+Popo	O
+
+Ja	O
+aber	O
+wieso	O
+stellt	O
+man	O
+Roman	O
+überhaupt	O
+in	O
+Frage	O
+?	O
+
+Sag	O
+mir	O
+nen	NORM_1WORD
+besseren	O
+Torwart	O
+der	O
+in	O
+den	O
+letzten	O
+Jahren	O
+so	O
+konstant	O
+war	O
+
+Das	O
+Portal	O
+fur	NORM_1WORD
+Freizeit	O
+
+Kulturangebote	O
+mit	O
+Veranstaltungskalender	O
+Branchenbuch	O
+und	O
+e	O
+cards	O
+:	O
+Veranstaltungska	NORM_1WORD
+...	O
+
+Du	O
+kommst	O
+dann	O
+mit	O
+@username	O
+%NegSmiley	O
+
+Schreibe	O
+dir	O
+aber	O
+auch	O
+ne	NORM_1WORD
+DM	O
+
+hm	O
+...	O
+
+jetzt	O
+wirds	NORM_2WORD
+seltsam	O
+%PosSmiley	O
+%PosSmiley	O
+
+dito	NORM_1WORD
+!	O
+
+"	O
+Im	O
+Übrigen™	O
+besass	O
+ich	O
+niemals	O
+einen	O
+C64	O
+.	O
+
+Mein	O
+erster	O
+Rechner	O
+war	O
+ein	O
+Atari	O
+ST	O
+%Link	O
+.	O
+"	O
+
+Dito	O
+!	O
+
+jaaa	NORM_1WORD
+%NegSmiley	O
+
+iwie	NORM_1WORD
+schon	O
+traurig	O
+
+naja	NORM_2WORD
+%PosSmiley	O
+
+man	NORM_1WORD
+hat	O
+es	O
+angefangen	O
+und	O
+jz	NORM_1WORD
+hat	O
+man	O
+dass	NORM_1WORD
+davon	O
+%PosSmiley	O
+
+die	NORM_1WORD
+farbe	NORM_1WORD
+ist	O
+ja	O
+auch	O
+schön	O
+%PosSmiley	O
+
+Sooo	NORM_1WORD
+schönes	O
+Wetter	O
+.	O
+
+Was	O
+mach	NORM_1WORD
+ich	O
+denn	O
+da	O
+?	O
+
+OMG	O
+-	O
+Wunschgruppe	O
+fast	O
+komplett	O
+richtig	O
+!!!!	O
+
+Das	O
+nen	NORM_1WORD
+ich	O
+mal	O
+ne	NORM_1WORD
+Hammergruppe	O
+%PosSmiley1	O
+.	O
+
+Spiel	O
+gegen	O
+Portugal	O
+
+2.	O
+gegen	O
+Holland	O
+%PosSmiley	O
+
+Jetzt	O
+läuft	O
+auf	O
+NDR	O
+:	O
+In	O
+aller	O
+Freundschaft	O
+02.12.2011	O
+12:15	O
+-	O
+13:00	O
+Turbulenzen	O
+
+Die	O
+neue	O
+Patientin	O
+der	O
+Psychologin	O
+Christina	O
+Buchmann	O
+le	NORM_1WORD
+...	O
+
+Ja	O
+Sry	NORM_1WORD
+Boss	O
+hoss	O
+
+ich	NORM_1WORD
+würde	O
+auch	O
+nicht	O
+zu	O
+euch	O
+Prollos	NORM_1WORD
+gehen	O
+%PosSmiley	O
+
+RT	O
+@username	O
+:	O
+natürlich	O
+muss	O
+ich	O
+über	O
+unausgearbeitetes	O
+zeugs	NORM_1WORD
+lästern	O
+,	O
+wenn	O
+andere	O
+darin	O
+schon	O
+nen	NORM_1WORD
+programatisches	NORM_1WORD
+prob	NORM_1WORD
+für	O
+andere	O
+parte	NORM_1WORD
+...	O
+
+Ferienwohnung	O
+in	O
+Nieblum	O
+auf	O
+Fohr	NORM_1WORD
+:	O
+Nieblum	O
+auf	O
+der	O
+Insel	O
+Fohr	NORM_1WORD
+
+Ferienwohnung	O
+fur	NORM_1WORD
+Ihren	O
+Urlaub	O
+im	O
+Friesendorf	O
+Ni	O
+...	O
+
+da	NORM_1WORD
+freu	NORM_1WORD
+ich	O
+mich	O
+jetzt	O
+schon	O
+drauf	O
+.	O
+%PosSmiley	O
+
+Was	O
+mich	O
+nervt	O
+:	O
+Kanns	NORM_2WORD
+iPhone	O
+ni	NORM_1WORD
+von	O
+zwei	O
+Rechnern	O
+füttern	O
+.	O
+
+Beim	O
+iPod	O
+gehts	NORM_2WORD
+doch	O
+auch	O
+!	O
+
+Und	O
+wenn	O
+wir	O
+Mädchen	O
+einen	O
+von	O
+euch	O
+auf	O
+dem	O
+Looksreen	NORM_1WORD
+hätten	O
+,	O
+wär	NORM_1WORD
+das	O
+total	O
+komisch	O
+und	O
+man	O
+würde	O
+denken	O
+wir	O
+stehen	O
+au	NORM_1WORD
+...	O
+
+Ne	NORM_1WORD
+schreckliche	O
+Nachricht	O
+bekommen	O
+,	O
+mein	O
+Bruder	O
+wurde	O
+auf	O
+GehirnTumor	NORM_1WORD
+Verdacht	O
+in	O
+KH	NORM_1WORD
+eingeliefert	O
+,	O
+bitte	O
+betet	O
+das	O
+es	O
+sich	O
+nicht	O
+bewahrheitet	O
+
+Das	O
+wars	NORM_2WORD
+für	O
+heute	O
+mit	O
+the	O
+VOICE	O
+.	O
+
+Nächsten	O
+Do	NORM_1WORD
+gehts	NORM_2WORD
+auf	O
+@username	O
+weiter	O
+.	O
+
+Und	O
+morgen	O
+die	O
+WH	O
+von	O
+Do	NORM_1WORD
++	O
+Fr	NORM_1WORD
+um	O
+15.15	O
+h	O
+.	O
+
+Kostenlos	O
+NHL	O
+kucken	NORM_1WORD
+.	O
+
+Wie	O
+geil	O
+ist	O
+das	O
+denn	O
+?	O
+
+Einfach	O
+so	O
+auf	O
+
+Bayernfans	O
+schreien	O
+in	O
+meiner	O
+Timeline	O
+rum	NORM_1WORD
+.	O
+
+Scheinen	O
+ganz	O
+schön	O
+unter	O
+Druck	O
+gestanden	O
+zu	O
+haben	O
+.	O
+
+Ich	O
+hab	NORM_1WORD
+also	O
+nicht	O
+man	NORM_1WORD
+ne	NORM_1WORD
+Ex	O
+über	O
+die	O
+ich	O
+mich	O
+aufregen	O
+kann	O
+.	O
+
+ja	NORM_1WORD
+irgwie	NORM_1WORD
+scho	NORM_1WORD
+auf	O
+twitter	NORM_1WORD
+%PosSmiley	O
+
+echt	O
+?	O
+
+O	O
+:	O
+Ich	O
+liebe	O
+sie	O
+über	O
+alles	O
+%PosSmiley	O
+%PosSmiley	O
+
+leider	NORM_1WORD
+hab	NORM_1WORD
+ich	O
+sie	O
+letzte	O
+woche	NORM_1WORD
+nd	NORM_1WORD
+gesehn	NORM_1WORD
+%NegSmiley	O
+
+Der	O
+@username	O
+und	O
+ich	O
+haben	O
+grad	NORM_1WORD
+mal	O
+wieder	O
+nen	NORM_1WORD
+Film	O
+geschaut	O
+!	O
+%PosSmiley	O
+
+hach	NORM_1WORD
+%PosSmiley	O
+
+das	NORM_1WORD
+musste	O
+mal	O
+wieder	O
+sein	O
+%PosSmiley	O
+
+Oh	O
+mein	O
+Gott	O
+,	O
+warum	O
+bin	O
+ich	O
+denn	O
+immer	O
+so	O
+überemotional	O
+?	O
+
+Da	O
+hab	NORM_1WORD
+ich	O
+doch	O
+grad	NORM_1WORD
+glatt	O
+nen	NORM_1WORD
+Tränchen	O
+vergossen	O
+.	O
+
+Reisen	O
+bis	O
+350	O
+Euro	O
+Kardamena	O
+mit	O
+Tiefpreisgarantie	O
+TUV	NORM_1WORD
+gepruft	NORM_1WORD
+buchen	O
+|	O
+Reisegeier	O
+buchen	O
+...	O
+
+(	O
+ich	O
+würde	O
+übrigens	O
+GENAUSO	NORM_1WORD
+wie	O
+die	O
+im	O
+weissen	O
+shirt	NORM_1WORD
+abgehen	O
+%PosSmiley	O
+und	O
+hät	NORM_1WORD
+spass	NORM_1WORD
+dabei	O
+%PosSmiley	O
+)	O
+
+Die	O
+besten	O
+Deutschen	NORM_1WORD
+tweets	NORM_1WORD
+:	O
+&	O
+@username	O
+!	O
+
+Ich	O
+lieeeebe	NORM_1WORD
+eure	O
+tweets	NORM_1WORD
+!	O
+
+habs	NORM_2WORD
+jetzt	O
+auch	O
+gesehen	O
+%NegSmiley	O
+
+No	O
+Ring	O
+-	O
+Mavs	NORM_1WORD
+bleiben	O
+schmucklos	O
+:	O
+Noch	O
+länger	O
+als	O
+der	O
+Lockout	O
+in	O
+der	O
+NBA	O
+zieht	O
+sich	O
+die	O
+Diskussion	O
+um	O
+die	O
+Champ	NORM_1WORD
+...	O
+
+ja	NORM_1WORD
+,	O
+finde	O
+ich	O
+auch	O
+.	O
+'	O
+
+34	O
+will	O
+ich	O
+auch	O
+gar	O
+nicht	O
+.	O
+
+Vettel	O
+ist	O
+losgefahren	O
+,	O
+kippe	O
+links	O
+,	O
+bier	NORM_1WORD
+rechts	O
+,	O
+lenkrad	NORM_1WORD
+in	O
+der	O
+mitte	NORM_1WORD
+,	O
+auf	O
+gehts	NORM_2WORD
+!!	O
+
+Berliner	O
+Piraten-Firma	O
+:	O
+Nerds	O
+erobern	O
+die	O
+Politik	O
+:	O
+Beim	O
+Start-up-Unternehmen	O
+Hoccer	O
+in	O
+Berlin	O
+arbeiten	O
+gleich	O
+dr	NORM_1WORD
+...	O
+
+Das	O
+ist	O
+cool	O
+!	O
+
+Wie	O
+gesagt	O
+,	O
+hätt	NORM_1WORD
+ich	O
+die	O
+Kohle	O
+würd	NORM_1WORD
+ich	O
+mir	O
+echt	O
+ein	O
+Android	O
+und	O
+ein	O
+WP7	O
+anschaffen	O
+zum	O
+Vergleich	O
+@username	O
+
+ja	NORM_1WORD
+aber	O
+abnormal	O
+warm	O
+...	O
+
+nicht	NORM_1WORD
+grade	NORM_1WORD
+"	O
+weihnachtlich	O
+"	O
+mein	NORM_1WORD
+ich	O
+hehe	O
+
+"	O
+Meldest	O
+Du	O
+Dich	O
+heute	O
+noch	O
+oder	O
+soll	O
+ich	O
+schonmal	NORM_2WORD
+weinen	O
+?	O
+"	O
+
+Ich	O
+war	O
+nicht	O
+in	O
+Stimmung	O
+für	O
+Weltuntergang-und-gleich-setz-ich-mir-den-goldenen-Schuss-Musik	NORM_3PLUS
+
+@username	O
+
+%PosSmiley	O
+
+ok	NORM_1WORD
+hab	NORM_1WORD
+dich	O
+jez	NORM_1WORD
+geaddet	O
+
+Seyfarth	O
+Mediadesign	O
+Digitale	O
+Mediengestaltung	O
+:	O
+Seyfarth	O
+Mediadesign	O
+ist	O
+Ihr	O
+Partner	O
+fur	NORM_1WORD
+das	O
+digitale	O
+Design	O
+v	O
+...	O
+
+scheiss	NORM_1WORD
+egal	O
+wie	O
+teuere	NORM_1WORD
+es	O
+ist	O
+,	O
+wenn	O
+es	O
+gold	O
+oder	O
+pink	O
+ist	O
+und	O
+es	O
+glitzert	O
+,	O
+muss	O
+ich	O
+es	O
+habeeeen	NORM_1WORD
+%PosSmiley	O
+
+Boah	O
+wie	O
+geil	O
+das	O
+wär	NORM_1WORD
+...	O
+
+so	NORM_1WORD
+gelacht	O
+hab	NORM_1WORD
+ich	O
+glaub	NORM_1WORD
+ich	O
+schon	O
+sehr	O
+lange	O
+nicht	O
+mehr	O
+...	O
+
+nowplaying	O
+rza	NORM_1WORD
+xaviernaidoo	NORM_2WORD
+
+~	O
+RZA	O
+feat.	O
+Xavier	O
+Naidoo	O
+
+|	O
+
+Ich	O
+kenne	O
+nichts	O
+(	O
+das	O
+so	O
+schoen	NORM_1WORD
+ist	O
+wie	O
+du	O
+)	O
+
+|||	O
+BBRADIO	O
+spielt	O
+die	O
+Hits	O
+
+Handball-Bundesliga	O
+-	O
+Hamburg	O
+bleibt	O
+an	O
+Kiel	O
+dran	NORM_1WORD
+:	O
+Die	O
+Hanseaten	O
+hatten	O
+beim	O
+35:28	O
+(	O
+18:11	O
+)	O
+gegen	O
+MT	O
+Melsungen	O
+ke	NORM_1WORD
+...	O
+
+hab	NORM_1WORD
+das	O
+Coldplay-Album	O
+gehört	O
+.	O
+I	O
+like	O
+!	O
+
+Manche	O
+Melodien	O
+klingen	O
+nach	O
+"	O
+Paradise	O
+"	O
+,	O
+aber	O
+das	O
+macht	O
+ja	O
+nix	NORM_1WORD
+%PosSmiley	O
+
+Da	O
+fragt	O
+man	O
+mich	NORM_1WORD
+,	O
+ob	O
+ich	O
+ne	NORM_1WORD
+Jacke	O
+im	O
+Bett	O
+trage	O
+.	O
+
+Also	O
+das	O
+Tee-Ei	O
+.	O
+
+In	O
+der	O
+Tasse	O
+.	O
+
+Weil	O
+es	O
+zu	O
+voll	O
+war	O
+.	O
+
+Jetzt	O
+schwimmt	O
+das	O
+Zeug	O
+drin	O
+rum	NORM_1WORD
+.	O
+
+Bah	O
+,	O
+dann	O
+isser	NORM_2WORD
+nicht	O
+konsequent	O
+emodramatisch	O
+.	O
+
+Buuuuuuh	O
+.	O
+%PosSmiley	O
+
+Von	O
+der	O
+Kreation	O
+einer	O
+Plattform	O
+,	O
+auf	O
+welcher	O
+das	O
+Wissen	O
+der	O
+Menschen	O
+direkt	O
+in	O
+die	O
+Projekte	O
+,	O
+Vorhaben	O
+von	O
+Fir	NORM_1WORD
+...	O
+
+joa	NORM_1WORD
+schau	O
+grad	NORM_1WORD
+noch	O
+rtl	NORM_1WORD
+das	O
+halbfinale	NORM_1WORD
+,	O
+nach	O
+der	O
+letzten	O
+wetten	NORM_1WORD
+dass	O
+sendung	NORM_1WORD
+.	O
+%PosSmiley	O
+
+lololol	O
+,	O
+ich	O
+glaub	NORM_1WORD
+ich	O
+machs	NORM_2WORD
+nicht	O
+am	O
+popes	NORM_1WORD
+
+ich	NORM_1WORD
+stecks	NORM_2WORD
+ihm	O
+in	O
+die	O
+tasche	NORM_1WORD
+%PosSmiley	O
+
+übersetz	NORM_1WORD
+mal	O
+bitte	O
+:	O
+ich	NORM_1WORD
+wohn	NORM_1WORD
+nur	O
+im	O
+kaff	NORM_1WORD
+,	O
+damit	O
+mich	O
+die	O
+paparazzi	NORM_1WORD
+nicht	O
+finden	O
+
+boah	NORM_1WORD
+es	O
+gibt	O
+manchmal	O
+bastarts	NORM_1WORD
+den	NORM_1WORD
+würde	O
+man	O
+gerne	O
+ma	NORM_1WORD
+die	O
+fresse	O
+einschlagen	O
+
+also	NORM_1WORD
+wenn	O
+dat	NORM_1WORD
+kerlchen	NORM_1WORD
+zu	O
+weihnachten	NORM_1WORD
+in	O
+seiner	O
+hütte	O
+sitzt	O
+..	O
+
+dann	NORM_1WORD
+ist	O
+das	O
+zugunsten	O
+des	O
+hoax	NORM_1WORD
+
+*	O
+mithibbel	O
+*	NORM_1WORD
+&lt;	O
+hibbel	O
+&gt;	O
+
+egal	O
+...	O
+
+freu	NORM_1WORD
+mich	O
+schon	O
+total	O
+auf	O
+den	O
+14.	O
+%PosSmiley	O
+@username	O
+
+Rate	O
+wer	O
+uns	O
+besucht	O
+hat	O
+.	O
+
+Kleiner	O
+Tipp	O
+:	O
+wir	O
+haben	O
+jetzt	O
+ne	NORM_1WORD
+grosse	O
+Dose	O
+Haribo	O
+%PosSmiley	O
+
+willkommn	NORM_1WORD
+in	O
+meiner	O
+Timeline	O
+%PosSmiley	O
+
+Ich	O
+hab	NORM_1WORD
+ne	NORM_1WORD
+haarige	O
+Muschi	O
+zwischen	O
+den	O
+Beinen	O
+...	O
+
+Oo	O
+
+Ich	O
+mobbe	O
+grad	NORM_1WORD
+den	O
+@username	O
+in	O
+Skype	O
+.	O
+%PosSmiley	O
+%PosSmiley	O
+
+sau	NORM_1WORD
+cool	NORM_1WORD
+%PosSmiley	O
+
+ich	NORM_1WORD
+bin	O
+im	O
+zimmer	O
+herumgsprungen	NORM_1WORD
+und	O
+hab	NORM_1WORD
+tanzt	NORM_1WORD
+und	O
+gsungen	NORM_1WORD
+%PosSmiley	O
+
+es	NORM_1WORD
+war	O
+echt	O
+das	O
+highlight	NORM_1WORD
+des	O
+tages	NORM_1WORD
+%PosSmiley	O
+
+jo	NORM_1WORD
+.	O
+
+das	NORM_1WORD
+problem	NORM_1WORD
+ist	O
+,	O
+dass	O
+die	O
+abwechselnd	O
++	O
+,	O
+plus	O
+oder	O
+gar	O
+nix	NORM_1WORD
+schreiben	O
+.	O
+
+also	NORM_1WORD
+sind	O
+plusgrade	NORM_1WORD
+einfach	O
+konsistent	O
+ohne	O
+präfix	NORM_1WORD
+.	O
+
+Fetish	NORM_1WORD
+-	O
+lecken	O
+beine	NORM_1WORD
+:	O
+Meine	O
+geilen	O
+heissen	O
+Füsse	O
+warten	O
+auf	O
+deine	O
+Zunge	O
+!!!	O
+
+Romy	O
+&	O
+Bo	O
+zyn	O
+weg	O
+%NegSmiley	O
+
+Gib	O
+mir	O
+das	O
+Geld	O
+und	O
+ich	O
+schenk	NORM_1WORD
+dir	O
+die	O
+.	O
+%PosSmiley	O
+
+%PosSmiley	O
+
+hier	NORM_1WORD
+handelt	O
+es	O
+sich	O
+allerdings	O
+um	O
+ein	O
+Auto	O
+.	O
+
+Und	O
+um	O
+einen	O
+wohl	O
+immernoch	NORM_2WORD
+-	O
+Telefonierer	O
+:	O
+
+Gefahr	O
+im	O
+Verzug	O
+?	O
+
+Dann	O
+versuchs	NORM_2WORD
+mal	O
+mit	O
+:	O
+explosive	O
+ordnance	O
+disposal	O
+(	O
+E.O.D	O
+)	O
+
+Ich	O
+habs	NORM_2WORD
+nicht	O
+so	O
+drauf	O
+,	O
+aber	O
+dafür	O
+hab	NORM_1WORD
+ich	O
+was	O
+drunter	NORM_1WORD
+.	O
+
+Wollstrumpfhosen	O
+.	O
+
+Manchmal	O
+muss	O
+es	O
+eben	O
+Aloha	O
+sein	O
+!	O
+
+Ich	O
+find	NORM_1WORD
+'s	NORM_1WORD
+fast	O
+schon	O
+besser	O
+als	O
+Bionade	O
+%PosSmiley	O
+%Link	O
+
+Tach	NORM_1WORD
+auch	O
+!	O
+%PosSmiley	O
+
+ah	O
+,	O
+dann	O
+liegts	NORM_2WORD
+bei	O
+mir	O
+an	O
+der	O
+werbung	NORM_1WORD
+,	O
+die	O
+bei	O
+dir	O
+angezeigt	O
+wird	O
+...	O
+
+die	NORM_1WORD
+verschiebt	O
+das	O
+ganze	NORM_1WORD
+wohl	O
+nach	O
+unten	O
+..	O
+%PosSmiley	O
+
+höö	NORM_1WORD
+der	O
+sänger	NORM_1WORD
+???	O
+
+naja	NORM_2WORD
+ich	O
+würd	NORM_1WORD
+ja	O
+jetzt	O
+auch	O
+net	NORM_1WORD
+sagen	O
+das	NORM_1WORD
+den	NORM_1WORD
+verdient	NORM_1WORD
+hat	O
+...	O
+
+jap	NORM_1WORD
+und	O
+caleb	NORM_1WORD
+soll	O
+auch	O
+mal	O
+weiter	O
+nach	O
+vorne	O
+!!!	O
+

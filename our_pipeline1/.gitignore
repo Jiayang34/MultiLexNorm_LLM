@@ -1,5 +1,5 @@
 # Generated data and trained artifacts
-/data/
+/data/weerayut/
 /models/*
 !/models/machamp/
 /models/machamp/*

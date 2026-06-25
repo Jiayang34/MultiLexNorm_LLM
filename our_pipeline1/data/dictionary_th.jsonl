@@ -1,0 +1,1497 @@
+{"raw": "เค้า", "replacement": "เขา", "entropy": 0.5267679959645591, "counts": {"เขา": 187, "เค้า": 25}}
+{"raw": "หรอ", "replacement": "เหรอ", "entropy": 1.2947391070425003, "counts": {"เหรอ": 31, "หรอ": 19, "หรือ": 4}}
+{"raw": "คับ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 12}}
+{"raw": "หลายๆ", "replacement": "หลาย ๆ", "entropy": 0.37549588747683327, "counts": {"หลาย ๆ": 41, "หลายๆ": 3}}
+{"raw": "ซิง", "replacement": "ซิงเกิล", "entropy": 0.870396077069942, "counts": {"ซิงเกิล": 19, "ฅิงเกิล": 1, "ซิง": 3}}
+{"raw": "อฟช.", "replacement": "ออฟฟิเชียล", "entropy": 1.1842198574337874, "counts": {"ออฟฟิเชียล": 14, "อฟช.": 6, "ออฟิเชียล": 1}}
+{"raw": "คร่าวๆ", "replacement": "คร่าว ๆ", "entropy": 0.0, "counts": {"คร่าว ๆ": 1}}
+{"raw": "อัพเดท", "replacement": "อัปเดต", "entropy": 0.0, "counts": {"อัปเดต": 4}}
+{"raw": "เรื่อยๆ", "replacement": "เรื่อย ๆ", "entropy": 0.0, "counts": {"เรื่อย ๆ": 32}}
+{"raw": "อแก", "replacement": "แก้", "entropy": 0.0, "counts": {"แก้": 1}}
+{"raw": "ใฟ้", "replacement": "ให้", "entropy": 0.0, "counts": {"ให้": 1}}
+{"raw": "เว้ยยย", "replacement": "เว้ย", "entropy": 0.0, "counts": {"เว้ย": 3}}
+{"raw": "โดดเดียว", "replacement": "โดดเดี่ยว", "entropy": 0.0, "counts": {"โดดเดี่ยว": 1}}
+{"raw": "แม้กระทั้ง", "replacement": "แม้กระทั่ง", "entropy": 0.0, "counts": {"แม้กระทั่ง": 1}}
+{"raw": "ไร", "replacement": "อะไร", "entropy": 1.1895317935175713, "counts": {"อะไร": 45, "ไร": 31, "ไหร่": 3}}
+{"raw": "อฟช", "replacement": "ออฟฟิเชียล", "entropy": 1.0112373519137747, "counts": {"ออฟฟิเชียล": 7, "อฟช": 4}}
+{"raw": "อ่ะ", "replacement": "อะ", "entropy": 1.2971017715970876, "counts": {"อะ": 126, "อ่ะ": 58, "นะ": 10, "น่ะ": 5}}
+{"raw": "แพลน", "replacement": "แปลน", "entropy": 1.360673760222241, "counts": {"แปลน": 1, "แพลน": 1}}
+{"raw": "สถานณ์", "replacement": "สถานการณ์", "entropy": 0.0, "counts": {"สถานการณ์": 1}}
+{"raw": "ทำความรู้จึก", "replacement": "ทำความรู้จัก", "entropy": 0.0, "counts": {"ทำความรู้จัก": 1}}
+{"raw": "ยังไง", "replacement": "อย่างไร", "entropy": 0.9732493859025125, "counts": {"ยังไง": 40, "อย่างไร": 62}}
+{"raw": "แชท", "replacement": "แชต", "entropy": 1.7152200985435648, "counts": {"แชต": 4, "แชท": 3, "แช็ต": 3}}
+{"raw": "ตจว.", "replacement": "ต่างจังหวัด", "entropy": 0.0, "counts": {"ต่างจังหวัด": 2}}
+{"raw": "ผช.", "replacement": "ผู้ชาย", "entropy": 1.6995970905087388, "counts": {"ผู้ขาย": 1, "ผช.": 2, "ผู้ชาย": 3}}
+{"raw": "โอ้ยย", "replacement": "โอ๊ย", "entropy": 1.1587450075359835, "counts": {"โอ๊ย": 2, "โอ้ย": 1}}
+{"raw": "หล่ออออ", "replacement": "หล่อ", "entropy": 0.0, "counts": {"หล่อ": 1}}
+{"raw": "ไอ", "replacement": "ไอ้", "entropy": 0.5050740342346481, "counts": {"ไอ้": 10, "ไอ": 1}}
+{"raw": "จ้า", "replacement": "จ้ะ", "entropy": 1.0867419506103582, "counts": {"จ้ะ": 66, "จ้า": 34, "จ๊ะ": 1, "จ้าง": 1}}
+{"raw": "คอนฯ", "replacement": "คแนเสิร์ต", "entropy": 0.0, "counts": {"คแนเสิร์ต": 1}}
+{"raw": "ซิงเกิ้ล", "replacement": "ซิงเกิล", "entropy": 0.0, "counts": {"ซิงเกิล": 5}}
+{"raw": "กะ", "replacement": "กับ", "entropy": 1.3037408862238182, "counts": {"กะ": 20, "กับ": 24, "ก็": 3}}
+{"raw": "มั้ย", "replacement": "ไหม", "entropy": 0.3830997793301794, "counts": {"มั้ย": 6, "ไหม": 77}}
+{"raw": "จริงๆ", "replacement": "จริง ๆ", "entropy": 0.3979375625692148, "counts": {"จริง ๆ": 213, "จริงๆ": 18}}
+{"raw": "จนท", "replacement": "เจ้าหน้าที่", "entropy": 0.0, "counts": {"เจ้าหน้าที่": 2}}
+{"raw": "ต่างๆ", "replacement": "ต่าง ๆ", "entropy": 0.0, "counts": {"ต่าง ๆ": 30}}
+{"raw": "รพ", "replacement": "โรงพยาบาล", "entropy": 0.0, "counts": {"โรงพยาบาล": 3}}
+{"raw": "การทรีท", "replacement": "การทรีต", "entropy": 0.0, "counts": {"การทรีต": 2}}
+{"raw": "นึง", "replacement": "หนึ่ง", "entropy": 0.4745444206696234, "counts": {"หนึ่ง": 117, "นึง": 13}}
+{"raw": "ซืิ้", "replacement": "ซื้อ", "entropy": 0.0, "counts": {"ซื้อ": 1}}
+{"raw": "จีง", "replacement": "จริง", "entropy": 0.0, "counts": {"จริง": 2}}
+{"raw": "งั้น", "replacement": "อย่างนั้น", "entropy": 1.0184414220398348, "counts": {"อย่างนั้น": 14, "งั้น": 11}}
+{"raw": "ตาบงม", "replacement": "ตาบวม", "entropy": 0.0, "counts": {"ตาบวม": 1}}
+{"raw": "ด้ายยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "ตลอดดดด", "replacement": "ตลอด", "entropy": 0.0, "counts": {"ตลอด": 1}}
+{"raw": "ผช", "replacement": "ผู้ชาย", "entropy": 0.6431976014712191, "counts": {"ผู้ชาย": 12, "ผช.": 2}}
+{"raw": "นี่ละ", "replacement": "นี่แหละ", "entropy": 0.0, "counts": {"นี่แหละ": 2}}
+{"raw": "คีพ", "replacement": "คีป", "entropy": 1.360673760222241, "counts": {"คีป": 1, "คีพ": 1}}
+{"raw": "มากๆ", "replacement": "มาก ๆ", "entropy": 0.2928311712797378, "counts": {"มาก ๆ": 169, "มากๆ": 9}}
+{"raw": "แร็ป", "replacement": "แรป", "entropy": 1.1587450075359835, "counts": {"แรป": 2, "แร็ป": 1}}
+{"raw": "เบรค", "replacement": "เบรก", "entropy": 0.0, "counts": {"เบรก": 2}}
+{"raw": "นา", "replacement": "นะ", "entropy": 0.8661975989762587, "counts": {"นะ": 4, "นา": 1}}
+{"raw": "เป้น", "replacement": "เป็น", "entropy": 0.0, "counts": {"เป็น": 2}}
+{"raw": "กพ", "replacement": "ก.พ.", "entropy": 0.0, "counts": {"ก.พ.": 1}}
+{"raw": "ก้", "replacement": "ก็", "entropy": 0.28816511123937816, "counts": {"ก็": 41, "ก้": 2}}
+{"raw": "ปุบปับ", "replacement": "ปุ๊บปั๊บ", "entropy": 0.0, "counts": {"ปุ๊บปั๊บ": 1}}
+{"raw": "งี้", "replacement": "อย่างนี้", "entropy": 0.9849402558072216, "counts": {"งี้": 17, "อย่างนี้": 26}}
+{"raw": "ฟิค", "replacement": "ฟิกชัน", "entropy": 1.256533240562037, "counts": {"ฟิกชัน": 13, "ฟิค": 10, "ฟิก": 1}}
+{"raw": "ดีๆๆๆๆ", "replacement": "ดีๆ", "entropy": 0.0, "counts": {"ดีๆ": 1}}
+{"raw": "ได้ด้ด้", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "โปรเจค", "replacement": "โปรเจกต์", "entropy": 0.0, "counts": {"โปรเจกต์": 4}}
+{"raw": "เนี้ยแหละ", "replacement": "นี่แหละ", "entropy": 0.0, "counts": {"นี่แหละ": 1}}
+{"raw": "ร่างก่ย", "replacement": "ร่างกาย", "entropy": 0.0, "counts": {"ร่างกาย": 1}}
+{"raw": "รึ", "replacement": "หรือ", "entropy": 0.5433331970225614, "counts": {"หรือ": 16, "รึ": 2}}
+{"raw": "แจ่", "replacement": "แต่", "entropy": 0.0, "counts": {"แต่": 1}}
+{"raw": "เนี้ย", "replacement": "เนี่ย", "entropy": 2.3547366071540514, "counts": {"นี้": 1, "เนี้ย": 1, "เนี่ย": 2, "นี่": 1}}
+{"raw": "มหาลัย", "replacement": "มหาวิทยาลัย", "entropy": 0.3651891659823677, "counts": {"มหาวิทยาลัย": 16, "มหาลัย": 1}}
+{"raw": "คอมเม้นท์", "replacement": "คอมเมนต์", "entropy": 0.0, "counts": {"คอมเมนต์": 1}}
+{"raw": "เซอวิส", "replacement": "เซอร์วิซ", "entropy": 0.0, "counts": {"เซอร์วิซ": 1}}
+{"raw": "สัส", "replacement": "สัตว์", "entropy": 0.40144916971772016, "counts": {"สัตว์": 14, "สัส": 1}}
+{"raw": "ละมุนๆ", "replacement": "ละมุน ๆ", "entropy": 1.360673760222241, "counts": {"ละมุน ๆ": 1, "ละมุนๆ": 1}}
+{"raw": "โปรโมท", "replacement": "โปรโมต", "entropy": 0.5411303456337294, "counts": {"โปรโมต": 9, "โปรโมท": 1}}
+{"raw": "น้า", "replacement": "นะ", "entropy": 0.9615846270864546, "counts": {"นะ": 20, "น้า": 11}}
+{"raw": "ยูส", "replacement": "ยูเซอร์", "entropy": 0.9916150045702532, "counts": {"ยูสเซอร์": 1, "ยูเซอร์": 3}}
+{"raw": "มั่ง", "replacement": "บ้าง", "entropy": 0.0, "counts": {"บ้าง": 5}}
+{"raw": "มากกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 17}}
+{"raw": "ฮื่อ", "replacement": "ฮือ", "entropy": 1.1587450075359835, "counts": {"ฮื่อ": 1, "ฮือ": 2}}
+{"raw": "คอนเลคชั่น", "replacement": "คอลเลกชัน", "entropy": 0.0, "counts": {"คอลเลกชัน": 1}}
+{"raw": "ป้ะ", "replacement": "หรือเปล่า", "entropy": 1.6594896026324615, "counts": {"ป้ะ": 1, "หรือเปล่า": 3, "เปล่า": 1}}
+{"raw": "อัณตพาล", "replacement": "อันธพาล", "entropy": 0.0, "counts": {"อันธพาล": 2}}
+{"raw": "ยุตธรรม", "replacement": "ยุติธรรม", "entropy": 0.0, "counts": {"ยุติธรรม": 1}}
+{"raw": "ผู้ใต้อาณัฐ", "replacement": "ผู้ใต้อาณัติ", "entropy": 0.0, "counts": {"ผู้ใต้อาณัติ": 1}}
+{"raw": "กุ", "replacement": "กู", "entropy": 0.0, "counts": {"กู": 37}}
+{"raw": "สกิล", "replacement": "สกิลล์", "entropy": 0.9109279839355712, "counts": {"สกิล": 3, "สกิลล์": 8}}
+{"raw": "แม่งงง", "replacement": "แม่ง", "entropy": 0.0, "counts": {"แม่ง": 1}}
+{"raw": "อห", "replacement": "อีเหี้ย", "entropy": 1.360673760222241, "counts": {"อีเหี้ย": 1, "โอ้โห": 1}}
+{"raw": "ปล.", "replacement": "ป.ล.", "entropy": 0.8413342711443196, "counts": {"ป.ล.": 18, "ปล.": 6}}
+{"raw": "ไอสัส", "replacement": "ไอ้สัตว์", "entropy": 0.0, "counts": {"ไอ้สัตว์": 1}}
+{"raw": "ปีๆ!!", "replacement": "ปีๆ!", "entropy": 0.0, "counts": {"ปีๆ!": 1}}
+{"raw": "ซัพพอร์ต", "replacement": "ซัปพอร์ต", "entropy": 0.8661975989762587, "counts": {"ซัพพอร์ต": 1, "ซัปพอร์ต": 4}}
+{"raw": "โครต", "replacement": "โคตร", "entropy": 0.583408059269477, "counts": {"โคตร": 8, "โครต": 1}}
+{"raw": "แน่ๆ", "replacement": "แน่ ๆ", "entropy": 0.6672148828267968, "counts": {"แน่ ๆ": 16, "แน่ๆ": 3}}
+{"raw": "อิ", "replacement": "อี", "entropy": 0.9758868239400957, "counts": {"อี": 26, "อิ": 16}}
+{"raw": "ชิบหาย", "replacement": "ฉิบหาย", "entropy": 0.6337328832551566, "counts": {"ชิบหาย": 1, "ฉิบหาย": 7}}
+{"raw": "เรียลิซึม", "replacement": "เรียลลิซึม", "entropy": 0.0, "counts": {"เรียลลิซึม": 1}}
+{"raw": "กิ้งคือ", "replacement": "กิ้งกือ", "entropy": 0.0, "counts": {"กิ้งกือ": 1}}
+{"raw": "เกียม", "replacement": "เตรียม", "entropy": 0.0, "counts": {"เตรียม": 1}}
+{"raw": "หลักๆ", "replacement": "หลัก ๆ", "entropy": 0.0, "counts": {"หลัก ๆ": 1}}
+{"raw": "อะไรๆ", "replacement": "อะไร ๆ", "entropy": 0.0, "counts": {"อะไร ๆ": 2}}
+{"raw": "อิ่มๆ", "replacement": "อิ่ม ๆ", "entropy": 0.0, "counts": {"อิ่ม ๆ": 1}}
+{"raw": "นิดนึง", "replacement": "นิดหนึ่ง", "entropy": 1.226949349627203, "counts": {"นิดหนึ่ง": 8, "นิดนึง": 2, "เล็กน้อย": 1}}
+{"raw": "เซ้น", "replacement": "เซ็นส์", "entropy": 0.0, "counts": {"เซ็นส์": 1}}
+{"raw": "แปลกๆ", "replacement": "แปลก ๆ", "entropy": 0.382374286644794, "counts": {"แปลก ๆ": 15, "แปลกๆ": 1}}
+{"raw": "เน้อะ", "replacement": "เนอะ", "entropy": 0.0, "counts": {"เนอะ": 1}}
+{"raw": "เอออออออออออ", "replacement": "เออ", "entropy": 0.0, "counts": {"เออ": 1}}
+{"raw": "หนาววว", "replacement": "หนาว", "entropy": 0.0, "counts": {"หนาว": 1}}
+{"raw": "บอกกกก", "replacement": "บอก", "entropy": 0.0, "counts": {"บอก": 1}}
+{"raw": "นู่นนี่", "replacement": "โน่นนี่", "entropy": 1.1803368801111205, "counts": {"โน่นนี่": 2, "นู่นนี่": 2}}
+{"raw": "ลุค", "replacement": "ลุก", "entropy": 1.0882777818120346, "counts": {"ลุก": 4, "ลุค": 3}}
+{"raw": "อื่นๆ", "replacement": "อื่น ๆ", "entropy": 0.0, "counts": {"อื่น ๆ": 25}}
+{"raw": "แซบ", "replacement": "แซ่บ", "entropy": 0.0, "counts": {"แซ่บ": 1}}
+{"raw": "กางเกง5ส่วน", "replacement": "กางเกงห้าส่วน", "entropy": 0.0, "counts": {"กางเกงห้าส่วน": 1}}
+{"raw": "มากกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 5}}
+{"raw": "โว้ยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 20}}
+{"raw": "ไอดอ", "replacement": "ไอดอล", "entropy": 0.0, "counts": {"ไอดอล": 2}}
+{"raw": "มือ2", "replacement": "มือสอง", "entropy": 0.0, "counts": {"มือสอง": 2}}
+{"raw": "คสอ", "replacement": "เครื่องสำอาง", "entropy": 0.0, "counts": {"เครื่องสำอาง": 3}}
+{"raw": "ลทบ.", "replacement": "ลงทะเบียน", "entropy": 1.120224586740747, "counts": {"ลงทะเบียน": 3, "ลทบ.": 3}}
+{"raw": "เฟรชสไปซี่", "replacement": "เฟรชสไปซี", "entropy": 0.0, "counts": {"เฟรชสไปซี": 1}}
+{"raw": "สัสสส", "replacement": "สัตว์", "entropy": 0.0, "counts": {"สัตว์": 1}}
+{"raw": "เซอร์ไพร้", "replacement": "เซอร์ไพรส์", "entropy": 0.0, "counts": {"เซอร์ไพรส์": 1}}
+{"raw": "โคด", "replacement": "โคตร", "entropy": 0.0, "counts": {"โคตร": 3}}
+{"raw": "เนี่ยะ", "replacement": "นี่", "entropy": 0.0, "counts": {"นี่": 1}}
+{"raw": "ร็อค", "replacement": "ร็อก", "entropy": 0.0, "counts": {"ร็อก": 2}}
+{"raw": "เสน่", "replacement": "เสน่ห์", "entropy": 0.0, "counts": {"เสน่ห์": 1}}
+{"raw": "ก้าวข้าว", "replacement": "ก้าวข้าม", "entropy": 0.0, "counts": {"ก้าวข้าม": 1}}
+{"raw": "รอบๆ", "replacement": "รอบ ๆ", "entropy": 1.1803368801111205, "counts": {"รอบ ๆ": 2, "รอบๆ": 2}}
+{"raw": "โหยยยย", "replacement": "โหย", "entropy": 0.0, "counts": {"โหย": 1}}
+{"raw": "เนี่ย", "replacement": "นี่", "entropy": 1.0197225089081543, "counts": {"นี่": 17, "เนี่ย": 15}}
+{"raw": "อารม", "replacement": "อารมณ์", "entropy": 0.0, "counts": {"อารมณ์": 1}}
+{"raw": "เมม", "replacement": "เม็มเบอร์", "entropy": 1.5405311519946208, "counts": {"เมมเบอร์": 5, "เม็มเบอร์": 12, "เมม": 12}}
+{"raw": "สวยๆ", "replacement": "สวย ๆ", "entropy": 0.6947224243601106, "counts": {"สวย ๆ": 6, "สวยๆ": 1}}
+{"raw": "เว่ยย", "replacement": "เว้ย", "entropy": 0.0, "counts": {"เว้ย": 1}}
+{"raw": "ฟค", "replacement": "แฟนคลับ", "entropy": 0.884204890131761, "counts": {"ฟค.": 1, "แฟนคลับ": 11, "ฟค": 1}}
+{"raw": "เราๆ", "replacement": "เรา ๆ", "entropy": 0.9916150045702532, "counts": {"เรา ๆ": 3, "เราๆ": 1}}
+{"raw": "ฟอล", "replacement": "ฟอลโลว์", "entropy": 1.0167248755262976, "counts": {"ฟอลโลว์": 8, "ฟอล": 5}}
+{"raw": "เลิ้ป", "replacement": "เลิฟ", "entropy": 0.0, "counts": {"เลิฟ": 1}}
+{"raw": "พยาม", "replacement": "พยายาม", "entropy": 0.0, "counts": {"พยายาม": 2}}
+{"raw": "เทอ", "replacement": "เธอ", "entropy": 0.0, "counts": {"เธอ": 6}}
+{"raw": "ดีๆ", "replacement": "ดี ๆ", "entropy": 0.35231813995960726, "counts": {"ดี ๆ": 45, "ดีๆ": 3}}
+{"raw": "ผูกพันธ์", "replacement": "ผูกพัน", "entropy": 0.0, "counts": {"ผูกพัน": 2}}
+{"raw": "แบ", "replacement": "แบบ", "entropy": 1.1587450075359835, "counts": {"แบ": 1, "แบบ": 2}}
+{"raw": "แท๊ก", "replacement": "แท็ก", "entropy": 0.0, "counts": {"แท็ก": 10}}
+{"raw": "ค.ตั้งใจ", "replacement": "ความตั้งใจ", "entropy": 0.0, "counts": {"ความตั้งใจ": 1}}
+{"raw": "เปน", "replacement": "เป็น", "entropy": 0.0, "counts": {"เป็น": 12}}
+{"raw": "ยอก", "replacement": "หยอก", "entropy": 0.0, "counts": {"หยอก": 1}}
+{"raw": "เร่น", "replacement": "เล่น", "entropy": 0.0, "counts": {"เล่น": 1}}
+{"raw": "ฟน้า", "replacement": "หน้า", "entropy": 0.0, "counts": {"หน้า": 1}}
+{"raw": "หน้าเหว๋อ", "replacement": "หน้าเหวอ", "entropy": 0.0, "counts": {"หน้าเหวอ": 1}}
+{"raw": "โท่ๆๆๆ", "replacement": "โถๆ", "entropy": 0.0, "counts": {"โถๆ": 1}}
+{"raw": "หลงไหล", "replacement": "หลงใหล", "entropy": 0.0, "counts": {"หลงใหล": 2}}
+{"raw": "แฟรช", "replacement": "แฟลช", "entropy": 0.0, "counts": {"แฟลช": 1}}
+{"raw": "ต่างๆนา", "replacement": "ต่าง ๆ นานา", "entropy": 0.0, "counts": {"ต่าง ๆ นานา": 1}}
+{"raw": "ว่ว", "replacement": "ว่า", "entropy": 0.0, "counts": {"ว่า": 1}}
+{"raw": "บลาๆ", "replacement": "บลา ๆ", "entropy": 1.115220098543565, "counts": {"บลา ๆ": 3, "บลาๆ": 2}}
+{"raw": "มีนา", "replacement": "มีนาคม", "entropy": 0.0, "counts": {"มีนาคม": 1}}
+{"raw": "ฟิวส์ชั่น", "replacement": "ฟิวชั่น", "entropy": 0.0, "counts": {"ฟิวชั่น": 1}}
+{"raw": "หลายหลาย", "replacement": "หลาย ๆ", "entropy": 1.360673760222241, "counts": {"หลาย ๆ": 1, "หลายๆ": 1}}
+{"raw": "ชั้น", "replacement": "ฉัน", "entropy": 0.9188013747907589, "counts": {"ฉัน": 32, "ชั้น": 15}}
+{"raw": "อีตาม๊า", "replacement": "อีตาม้า", "entropy": 0.0, "counts": {"อีตาม้า": 1}}
+{"raw": "ยัย", "replacement": "ยาย", "entropy": 0.9661702143444141, "counts": {"ยาย": 5, "ยัย": 2}}
+{"raw": "มึงง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "ไรท์เตอร์", "replacement": "ไรเตอร์", "entropy": 0.0, "counts": {"ไรเตอร์": 1}}
+{"raw": "ไลค์", "replacement": "ไลก์", "entropy": 0.0, "counts": {"ไลก์": 3}}
+{"raw": "คอมเม้นต์", "replacement": "คอมเมนต์", "entropy": 0.0, "counts": {"คอมเมนต์": 2}}
+{"raw": "ป่ะ", "replacement": "หรือเปล่า", "entropy": 1.9001981780839259, "counts": {"หรือเปล่า": 7, "เปล่า": 6, "ป่ะ": 5, "ปะ": 1}}
+{"raw": "เลิกๆ", "replacement": "เลิก ๆ", "entropy": 0.0, "counts": {"เลิก ๆ": 2}}
+{"raw": "แฟนๆ", "replacement": "แฟน ๆ", "entropy": 0.5433331970225614, "counts": {"แฟน ๆ": 16, "แฟนๆ": 2}}
+{"raw": "สนุกๆ", "replacement": "สนุก ๆ", "entropy": 1.1803368801111205, "counts": {"สนุก ๆ": 2, "สนุกๆ": 2}}
+{"raw": "อุแงงง", "replacement": "อุแง", "entropy": 0.0, "counts": {"อุแง": 1}}
+{"raw": "เด็กๆ", "replacement": "เด็ก ๆ", "entropy": 0.0, "counts": {"เด็ก ๆ": 22}}
+{"raw": "เน้", "replacement": "นี้", "entropy": 0.8661975989762587, "counts": {"นี้": 4, "เนี่ย": 1}}
+{"raw": "คหสต.", "replacement": "ความเห็นส่วนตัว", "entropy": 0.0, "counts": {"ความเห็นส่วนตัว": 1}}
+{"raw": "จริงงง", "replacement": "จริง", "entropy": 0.0, "counts": {"จริง": 2}}
+{"raw": "เวอร์ชั่น", "replacement": "เวอร์ชัน", "entropy": 0.0, "counts": {"เวอร์ชัน": 7}}
+{"raw": "เมนชั่น", "replacement": "เมนชัน", "entropy": 0.9916150045702532, "counts": {"เมนชัน": 3, "เมนชั่น": 1}}
+{"raw": "ทั่น", "replacement": "ท่าน", "entropy": 0.0, "counts": {"ท่าน": 1}}
+{"raw": "คุ่ชิป", "replacement": "คู่ชิป", "entropy": 0.0, "counts": {"คู่ชิป": 1}}
+{"raw": "แงะ", "replacement": "อะ", "entropy": 0.0, "counts": {"อะ": 1}}
+{"raw": "ซีรีย์", "replacement": "ซีรีส์", "entropy": 0.0, "counts": {"ซีรีส์": 13}}
+{"raw": "หนุ", "replacement": "หนู", "entropy": 0.0, "counts": {"หนู": 1}}
+{"raw": "ม่าย", "replacement": "ไม่", "entropy": 0.0, "counts": {"ไม่": 1}}
+{"raw": "ตะ", "replacement": "จะ", "entropy": 0.0, "counts": {"จะ": 1}}
+{"raw": "แระ", "replacement": "แล้ว", "entropy": 1.1587450075359835, "counts": {"แล้ว": 2, "ละ": 1}}
+{"raw": "โมเม้น", "replacement": "โมเมนต์", "entropy": 0.0, "counts": {"โมเมนต์": 7}}
+{"raw": "แคมปิ้ง", "replacement": "แคมปิง", "entropy": 0.0, "counts": {"แคมปิง": 1}}
+{"raw": "คสูงสุด", "replacement": "สูงสุด", "entropy": 0.0, "counts": {"สูงสุด": 1}}
+{"raw": "คอน", "replacement": "คอนเสิร์ต", "entropy": 0.8672697660190487, "counts": {"คอนเสิร์ต": 56, "ตอนเสิร์ต": 1, "คอน": 4, "คอนฯ": 3, "คแนเสิร์ต": 1}}
+{"raw": "ไค", "replacement": "ใคร", "entropy": 0.0, "counts": {"ใคร": 1}}
+{"raw": "ไปน", "replacement": "ไหน", "entropy": 0.0, "counts": {"ไหน": 1}}
+{"raw": "รุ้สึก", "replacement": "รู้สึก", "entropy": 0.0, "counts": {"รู้สึก": 1}}
+{"raw": "เปนห่วง", "replacement": "เป็นห่วง", "entropy": 0.0, "counts": {"เป็นห่วง": 1}}
+{"raw": "แล่ว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 2}}
+{"raw": "พิ", "replacement": "พี่", "entropy": 0.0, "counts": {"พี่": 19}}
+{"raw": "ขอท่ด", "replacement": "ขอโทษ", "entropy": 0.0, "counts": {"ขอโทษ": 1}}
+{"raw": "ลู้ก", "replacement": "ลูก", "entropy": 0.0, "counts": {"ลูก": 1}}
+{"raw": "ยุ", "replacement": "อยู่", "entropy": 1.115220098543565, "counts": {"ยุ": 2, "อยู่": 3}}
+{"raw": "ไป๊", "replacement": "ไป", "entropy": 0.0, "counts": {"ไป": 1}}
+{"raw": "แล้วว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 3}}
+{"raw": "กม.", "replacement": "กฎหมาย", "entropy": 0.0, "counts": {"กฎหมาย": 2}}
+{"raw": "รธน.", "replacement": "รัฐธรรมนูญ", "entropy": 0.0, "counts": {"รัฐธรรมนูญ": 1}}
+{"raw": "แพ็คเกจ", "replacement": "แพ็กเกจ", "entropy": 0.9916150045702532, "counts": {"แพ็กเกจ": 3, "แพ็คเกจ": 1}}
+{"raw": "ซัก", "replacement": "สัก", "entropy": 0.7867383482329279, "counts": {"สัก": 18, "ซัก": 5}}
+{"raw": "พล๊อต", "replacement": "พล็อต", "entropy": 0.0, "counts": {"พล็อต": 1}}
+{"raw": "เดือนๆ", "replacement": "เดือน ๆ", "entropy": 0.0, "counts": {"เดือน ๆ": 1}}
+{"raw": "นั้นแหละ", "replacement": "นั่นแหละ", "entropy": 0.0, "counts": {"นั่นแหละ": 3}}
+{"raw": "นาวเอก", "replacement": "นางเอก", "entropy": 0.0, "counts": {"นางเอก": 1}}
+{"raw": "น่านำคาญ", "replacement": "น่ารำคาญ", "entropy": 0.0, "counts": {"น่ารำคาญ": 1}}
+{"raw": "เนี่ยถ", "replacement": "นี่", "entropy": 0.0, "counts": {"นี่": 1}}
+{"raw": "ค่ามอไซด์", "replacement": "ค่ามอเตอร์ไซค์", "entropy": 0.0, "counts": {"ค่ามอเตอร์ไซค์": 1}}
+{"raw": "ค่ามอไซด์วิน", "replacement": "ค่ามอเตอร์ไซค์วิน", "entropy": 0.0, "counts": {"ค่ามอเตอร์ไซค์วิน": 1}}
+{"raw": "นิ", "replacement": "นี่", "entropy": 0.0, "counts": {"นี่": 2}}
+{"raw": "ร้องง", "replacement": "ร้อง", "entropy": 0.0, "counts": {"ร้อง": 1}}
+{"raw": "ปะ", "replacement": "หรือเปล่า", "entropy": 1.495760900038662, "counts": {"ปะ": 5, "หรือเปล่า": 8, "เปล่า": 2}}
+{"raw": "เลยยยยย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 2}}
+{"raw": "ถัวลันเตา", "replacement": "ถั่วลันเตา", "entropy": 0.0, "counts": {"ถั่วลันเตา": 1}}
+{"raw": "กรุบๆ", "replacement": "กรุบ ๆ", "entropy": 0.0, "counts": {"กรุบ ๆ": 1}}
+{"raw": "มากกกกกก", "replacement": "มาก", "entropy": 0.8661975989762587, "counts": {"มาก": 4, "มากกกกกก": 1}}
+{"raw": "ลทบ", "replacement": "ลงทะเบียน", "entropy": 1.3549341458364828, "counts": {"ลทบ.": 1, "ลงทะเบียน": 5, "ลทบ": 1}}
+{"raw": "มัร", "replacement": "มัน", "entropy": 0.0, "counts": {"มัน": 1}}
+{"raw": "อยุ่", "replacement": "อยู่", "entropy": 0.0, "counts": {"อยู่": 2}}
+{"raw": "ขาม", "replacement": "ชาม", "entropy": 0.0, "counts": {"ชาม": 1}}
+{"raw": "ค.พอใจ", "replacement": "ความพอใจ", "entropy": 0.0, "counts": {"ความพอใจ": 1}}
+{"raw": "ร้อยยิ้ม", "replacement": "รอยยิ้ม", "entropy": 1.360673760222241, "counts": {"รอยยิ้ม": 1, "ร้อยยิ้ม": 1}}
+{"raw": "โปร", "replacement": "โปรโมชัน", "entropy": 1.0430853464991168, "counts": {"โปร": 4, "โปรโมชัน": 6}}
+{"raw": "เมดเล่ย์", "replacement": "เมดเลย์", "entropy": 0.0, "counts": {"เมดเลย์": 1}}
+{"raw": "น้องๆ", "replacement": "น้อง ๆ", "entropy": 0.6396001531115637, "counts": {"น้อง ๆ": 38, "น้องๆ": 7}}
+{"raw": "ชิลล์", "replacement": "ชิล", "entropy": 0.0, "counts": {"ชิล": 2}}
+{"raw": "แม่ๆ", "replacement": "แม่ ๆ", "entropy": 0.0, "counts": {"แม่ ๆ": 1}}
+{"raw": "ไฟว้", "replacement": "ไฟต์", "entropy": 0.0, "counts": {"ไฟต์": 2}}
+{"raw": "ชัดๆ", "replacement": "ชัด ๆ", "entropy": 1.1587450075359835, "counts": {"ชัดๆ": 1, "ชัด ๆ": 2}}
+{"raw": "เช็ค", "replacement": "เช็ก", "entropy": 0.6947224243601106, "counts": {"เช็ก": 6, "เช็ค": 1}}
+{"raw": "เทรน", "replacement": "เทรนด์", "entropy": 1.115220098543565, "counts": {"เทรน": 2, "เทรนด์": 3}}
+{"raw": "โคตรๆๆๆ", "replacement": "โคตร ๆ", "entropy": 0.0, "counts": {"โคตร ๆ": 1}}
+{"raw": "เท่าไหร่", "replacement": "เท่าไร", "entropy": 0.804279368755536, "counts": {"เท่าไร": 14, "เท่าไหร่": 4}}
+{"raw": "แกรมเม", "replacement": "แกรมมา", "entropy": 0.0, "counts": {"แกรมมา": 1}}
+{"raw": "ฝึกๆ", "replacement": "ฝึก ๆ", "entropy": 0.0, "counts": {"ฝึก ๆ": 1}}
+{"raw": "สคริป", "replacement": "สคริปต์", "entropy": 0.8661975989762587, "counts": {"สคริปต์": 4, "สคริป": 1}}
+{"raw": "เตี้ยม", "replacement": "เตี๊ยม", "entropy": 0.0, "counts": {"เตี๊ยม": 1}}
+{"raw": "ตระกะ", "replacement": "ตรรกะ", "entropy": 0.0, "counts": {"ตรรกะ": 1}}
+{"raw": "แอนตี้", "replacement": "แอนตี", "entropy": 1.120224586740747, "counts": {"แอนตี": 3, "แอนตี้": 3}}
+{"raw": "เนี่ยแหละ", "replacement": "นี่แหละ", "entropy": 0.0, "counts": {"นี่แหละ": 3}}
+{"raw": "ปีศาจ", "replacement": "ปิศาจ", "entropy": 1.1587450075359835, "counts": {"ปีศาจ": 1, "ปิศาจ": 2}}
+{"raw": "ดีย์", "replacement": "ดี", "entropy": 0.0, "counts": {"ดี": 3}}
+{"raw": "ดร๊อป", "replacement": "ดรอป", "entropy": 0.0, "counts": {"ดรอป": 1}}
+{"raw": "แมร่ง", "replacement": "แม่ง", "entropy": 0.0, "counts": {"แม่ง": 4}}
+{"raw": "สัสๆ", "replacement": "สัตว์ ๆ", "entropy": 0.0, "counts": {"สัตว์ ๆ": 2}}
+{"raw": "เศษๆ", "replacement": "เศษ ๆ", "entropy": 1.360673760222241, "counts": {"เศษ ๆ": 1, "เศษๆ": 1}}
+{"raw": "วิท", "replacement": "วิทยาศาสตร์", "entropy": 0.0, "counts": {"วิทยาศาสตร์": 1}}
+{"raw": "เฟรน", "replacement": "เฟรนด์", "entropy": 1.360673760222241, "counts": {"เฟรนด์": 1, "เฟรน": 1}}
+{"raw": "ยังใง", "replacement": "อย่างไร", "entropy": 1.360673760222241, "counts": {"อย่างไร": 1, "ยังใง": 1}}
+{"raw": "โพส", "replacement": "โพสต์", "entropy": 0.0, "counts": {"โพสต์": 12}}
+{"raw": "แคปชั่น", "replacement": "แคปชัน", "entropy": 0.8661975989762587, "counts": {"แคปชัน": 4, "แคปชั่น": 1}}
+{"raw": "0600", "replacement": "06.00", "entropy": 0.0, "counts": {"06.00": 3}}
+{"raw": "มากกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 13}}
+{"raw": "สต๊าฟ", "replacement": "สตาฟฟ์", "entropy": 0.0, "counts": {"สตาฟฟ์": 1}}
+{"raw": "กรี้ด", "replacement": "กรี๊ด", "entropy": 0.8661975989762587, "counts": {"กรี้ด": 1, "กรี๊ด": 4}}
+{"raw": "ใหญj", "replacement": "ใหญ่", "entropy": 0.0, "counts": {"ใหญ่": 1}}
+{"raw": "ปลิ้มๆๆ", "replacement": "ปลิ้ม ๆ", "entropy": 0.0, "counts": {"ปลิ้ม ๆ": 1}}
+{"raw": "เช่นกันนน", "replacement": "เช่นกัน", "entropy": 0.0, "counts": {"เช่นกัน": 1}}
+{"raw": "ด้วยย", "replacement": "ด้วย", "entropy": 0.0, "counts": {"ด้วย": 2}}
+{"raw": "ชิบหัย", "replacement": "ฉิบหาย", "entropy": 0.0, "counts": {"ฉิบหาย": 1}}
+{"raw": "เต้นท์", "replacement": "เต็นท์", "entropy": 0.0, "counts": {"เต็นท์": 1}}
+{"raw": "เรย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 6}}
+{"raw": "1200", "replacement": "12.00", "entropy": 1.120224586740747, "counts": {"12.00": 3, "1200": 3}}
+{"raw": "สเปเชี่ยล", "replacement": "สเปเชียล", "entropy": 0.0, "counts": {"สเปเชียล": 2}}
+{"raw": "พรีออเดอร์", "replacement": "พรีออร์เดอร์", "entropy": 0.0, "counts": {"พรีออร์เดอร์": 1}}
+{"raw": "น๊า", "replacement": "นะ", "entropy": 0.0, "counts": {"นะ": 5}}
+{"raw": "ห่าน", "replacement": "ห่า", "entropy": 0.0, "counts": {"ห่า": 1}}
+{"raw": "เอ๋ยย", "replacement": "เอ๋ย", "entropy": 0.0, "counts": {"เอ๋ย": 1}}
+{"raw": "ซัซ", "replacement": "สัตว์", "entropy": 0.0, "counts": {"สัตว์": 1}}
+{"raw": "ที้", "replacement": "ที่", "entropy": 0.0, "counts": {"ที่": 1}}
+{"raw": "ที่หลัง", "replacement": "ทีหลัง", "entropy": 0.0, "counts": {"ทีหลัง": 1}}
+{"raw": "ศลป", "replacement": "ศิลปิน", "entropy": 1.0661975989762587, "counts": {"ศิลปิน": 8, "ศิลปะ": 1, "ศลป": 1}}
+{"raw": "บ", "replacement": "บาท", "entropy": 0.0, "counts": {"บาท": 2}}
+{"raw": "ไซต์", "replacement": "ไซซ์", "entropy": 1.360673760222241, "counts": {"ไซซ์": 1, "ไซต์": 1}}
+{"raw": "จดทบ", "replacement": "จดทะเบียน", "entropy": 0.0, "counts": {"จดทะเบียน": 1}}
+{"raw": "ช่วงๆ", "replacement": "ช่วง ๆ", "entropy": 0.0, "counts": {"ช่วง ๆ": 1}}
+{"raw": "เส้า", "replacement": "เศร้า", "entropy": 0.0, "counts": {"เศร้า": 3}}
+{"raw": "จุง", "replacement": "จัง", "entropy": 0.0, "counts": {"จัง": 1}}
+{"raw": "ด๋อยๆ", "replacement": "ด๋อย ๆ", "entropy": 0.0, "counts": {"ด๋อย ๆ": 1}}
+{"raw": "ทำมัย", "replacement": "ทำไม", "entropy": 0.0, "counts": {"ทำไม": 1}}
+{"raw": "ตัง", "replacement": "สตางค์", "entropy": 1.479131820806519, "counts": {"สตางค์": 5, "ตังค์": 2, "ตัง": 1}}
+{"raw": "บุคลลิก", "replacement": "บุคลิก", "entropy": 0.0, "counts": {"บุคลิก": 1}}
+{"raw": "ถอดตัว", "replacement": "ถอนตัว", "entropy": 0.0, "counts": {"ถอนตัว": 1}}
+{"raw": "ง่ายๆ", "replacement": "ง่าย ๆ", "entropy": 0.5050629696115053, "counts": {"ง่าย ๆ": 18, "ง่ายๆ": 2}}
+{"raw": "ฮ่ะ", "replacement": "ฮะ", "entropy": 0.0, "counts": {"ฮะ": 1}}
+{"raw": "หน่อง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 2}}
+{"raw": "บตบก.", "replacement": "บิวตีบลอกเกอร์", "entropy": 1.360673760222241, "counts": {"บิวตีบลอกเกอร์": 1, "บตบก.": 1}}
+{"raw": "เมื่อไหร่", "replacement": "เมื่อไร", "entropy": 0.9014465645146931, "counts": {"เมื่อไร": 6, "เมื่อไหร่": 2}}
+{"raw": "โอ้ปป้า", "replacement": "อปป้า", "entropy": 0.0, "counts": {"อปป้า": 1}}
+{"raw": "บาทแผล", "replacement": "บาดแผล", "entropy": 0.0, "counts": {"บาดแผล": 1}}
+{"raw": "ป่าว", "replacement": "เปล่า", "entropy": 1.146726177718505, "counts": {"เปล่า": 7, "ป่าว": 1, "หรือเปล่า": 1}}
+{"raw": "ไปๆ", "replacement": "ไป ๆ", "entropy": 0.0, "counts": {"ไป ๆ": 1}}
+{"raw": "มาๆ", "replacement": "มา ๆ", "entropy": 1.360673760222241, "counts": {"มา ๆ": 1, "มาๆ": 1}}
+{"raw": "วุ่นๆ", "replacement": "วุ่น ๆ", "entropy": 0.0, "counts": {"วุ่น ๆ": 1}}
+{"raw": "เว่อร์", "replacement": "เวอร์", "entropy": 0.9916150045702532, "counts": {"เวอร์": 3, "เว่อร์": 1}}
+{"raw": "แรกๆ", "replacement": "แรก ๆ", "entropy": 0.5234264197166756, "counts": {"แรก ๆ": 17, "แรกๆ": 2}}
+{"raw": "อัพ", "replacement": "อัป", "entropy": 1.1360298811839233, "counts": {"อัป": 17, "อัปเดต": 1, "อัพ": 7}}
+{"raw": "แอค", "replacement": "แอกเคานต์", "entropy": 1.73242180944374, "counts": {"แอกเคานต์": 9, "แอค": 6, "แอคเคานต์": 2, "แอ็กเคานต์": 1}}
+{"raw": "ความโพสท่า", "replacement": "ความโพสต์ท่า", "entropy": 0.0, "counts": {"ความโพสต์ท่า": 1}}
+{"raw": "เขื่อ", "replacement": "เชื่อ", "entropy": 0.0, "counts": {"เชื่อ": 1}}
+{"raw": "นัอง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 1}}
+{"raw": "บัฟ", "replacement": "บัฟฟ์", "entropy": 0.0, "counts": {"บัฟฟ์": 1}}
+{"raw": "ส.ป.ก", "replacement": "ส.ป.ก.", "entropy": 0.0, "counts": {"ส.ป.ก.": 1}}
+{"raw": "ทรศ.", "replacement": "โทรศัพท์", "entropy": 1.1587450075359835, "counts": {"โทรศัพท์": 2, "ทรศ.": 1}}
+{"raw": "เหี้ยยย", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 1}}
+{"raw": "สัด", "replacement": "สัตว์", "entropy": 0.0, "counts": {"สัตว์": 2}}
+{"raw": "เชรดดดด", "replacement": "เชด", "entropy": 0.0, "counts": {"เชด": 1}}
+{"raw": "แฮปปี้เอนด์", "replacement": "แฮปปีเอนด์", "entropy": 0.0, "counts": {"แฮปปีเอนด์": 1}}
+{"raw": "น้อน", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 5}}
+{"raw": "เอ้ยย", "replacement": "เอ้ย", "entropy": 0.0, "counts": {"เอ้ย": 2}}
+{"raw": "ปัย", "replacement": "ไป", "entropy": 0.0, "counts": {"ไป": 7}}
+{"raw": "มะ", "replacement": "ไหม", "entropy": 0.8661975989762587, "counts": {"ไหม": 4, "ไม่": 1}}
+{"raw": "มัย", "replacement": "ทำไม", "entropy": 1.360673760222241, "counts": {"ทำไม": 1, "มัน": 1}}
+{"raw": "ดั้ย", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "เพิ่ล", "replacement": "เพื่อน", "entropy": 0.0, "counts": {"เพื่อน": 3}}
+{"raw": "ทิ", "replacement": "ที่", "entropy": 0.0, "counts": {"ที่": 1}}
+{"raw": "ด่าๆ", "replacement": "ด่า ๆ", "entropy": 1.360673760222241, "counts": {"ด่า ๆ": 1, "ด่าๆ": 1}}
+{"raw": "มุทะ", "replacement": "หมูกระทะ", "entropy": 0.0, "counts": {"หมูกระทะ": 1}}
+{"raw": "มุง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 2}}
+{"raw": "วั้ย", "replacement": "ไว้", "entropy": 0.0, "counts": {"ไว้": 1}}
+{"raw": "เร้ววววววววว", "replacement": "เร็ว", "entropy": 0.0, "counts": {"เร็ว": 1}}
+{"raw": "ค.มั่นคง", "replacement": "ความมั่นคง", "entropy": 0.0, "counts": {"ความมั่นคง": 1}}
+{"raw": "ฟค.", "replacement": "แฟนคลับ", "entropy": 0.0, "counts": {"แฟนคลับ": 12}}
+{"raw": "ศลป.", "replacement": "ศิลปิน", "entropy": 0.0, "counts": {"ศิลปิน": 3}}
+{"raw": "ย้ากก", "replacement": "ยาก", "entropy": 0.0, "counts": {"ยาก": 1}}
+{"raw": "มึงงง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "ต้ะ", "replacement": "จ๊ะ", "entropy": 0.0, "counts": {"จ๊ะ": 1}}
+{"raw": "คข.", "replacement": "คนขับ", "entropy": 0.0, "counts": {"คนขับ": 1}}
+{"raw": "ดีดี", "replacement": "ดีๆ", "entropy": 0.0, "counts": {"ดีๆ": 1}}
+{"raw": "นั้ง", "replacement": "นั่ง", "entropy": 0.0, "counts": {"นั่ง": 2}}
+{"raw": "ทวิส", "replacement": "ทวิต", "entropy": 0.0, "counts": {"ทวิต": 1}}
+{"raw": "โซเชี่ยล", "replacement": "โซเชียล", "entropy": 0.0, "counts": {"โซเชียล": 2}}
+{"raw": "คอมเมนท์", "replacement": "คอมเมนต์", "entropy": 1.1587450075359835, "counts": {"คอมเมนต์": 2, "คอมเมนท์": 1}}
+{"raw": "มบ.", "replacement": "เมมเบอร์", "entropy": 0.8661975989762587, "counts": {"เมมเบอร์": 4, "มบ.": 1}}
+{"raw": "ฮอล", "replacement": "ฮอลล์", "entropy": 1.360673760222241, "counts": {"ฮอลล์": 1, "ฮอล": 1}}
+{"raw": "เมมโม", "replacement": "เมมโมรี", "entropy": 0.0, "counts": {"เมมโมรี": 1}}
+{"raw": "มากๆๆ", "replacement": "มากๆ", "entropy": 0.9916150045702532, "counts": {"มาก ๆ": 1, "มากๆ": 3}}
+{"raw": "มากก", "replacement": "มาก", "entropy": 0.3496182913972408, "counts": {"มาก": 17, "มมก": 1}}
+{"raw": "งานๆๆ", "replacement": "งานๆ", "entropy": 0.0, "counts": {"งานๆ": 1}}
+{"raw": "ยัฃ", "replacement": "ยัง", "entropy": 0.0, "counts": {"ยัง": 1}}
+{"raw": "อีเว้น", "replacement": "อีเว้นต์", "entropy": 1.360673760222241, "counts": {"อีเว้นต์": 1, "อีเวนต์": 1}}
+{"raw": "คาแลคเตอร์", "replacement": "คาแร็กเตอร์", "entropy": 0.0, "counts": {"คาแร็กเตอร์": 2}}
+{"raw": "เคร้งง", "replacement": "เคร้ง", "entropy": 0.0, "counts": {"เคร้ง": 1}}
+{"raw": "กรู", "replacement": "กู", "entropy": 1.1587450075359835, "counts": {"กู": 2, "กรู": 1}}
+{"raw": "ตลาดนัท", "replacement": "ตลาดนัด", "entropy": 0.0, "counts": {"ตลาดนัด": 1}}
+{"raw": "โหลด", "replacement": "ดาวน์โหลด", "entropy": 1.360673760222241, "counts": {"ดาวน์โหลด": 1, "โหลด": 1}}
+{"raw": "บรรยายกาศ", "replacement": "บรรยากาศ", "entropy": 0.0, "counts": {"บรรยากาศ": 1}}
+{"raw": "เย็นนน", "replacement": "เย็น", "entropy": 0.0, "counts": {"เย็น": 1}}
+{"raw": "มากกกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 2}}
+{"raw": "คิดด", "replacement": "คิด", "entropy": 0.0, "counts": {"คิด": 1}}
+{"raw": "สเต๊ป", "replacement": "สเต็ป", "entropy": 0.0, "counts": {"สเต็ป": 1}}
+{"raw": "พ้อย", "replacement": "พอยนต์", "entropy": 0.0, "counts": {"พอยนต์": 1}}
+{"raw": "แอพ", "replacement": "แอปพลิเคชัน", "entropy": 0.44673183443267733, "counts": {"แอปพลิเคชัน": 12, "แอพ": 1}}
+{"raw": "โหลดดด", "replacement": "ดาวน์โหลด", "entropy": 0.0, "counts": {"ดาวน์โหลด": 1}}
+{"raw": "เด้อออ", "replacement": "เด้อ", "entropy": 0.0, "counts": {"เด้อ": 3}}
+{"raw": "โว้ยยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 5}}
+{"raw": "แฮ่ะๆ", "replacement": "แหะๆ", "entropy": 0.0, "counts": {"แหะๆ": 1}}
+{"raw": "จิกซอส์", "replacement": "จิ๊กซอว์", "entropy": 0.0, "counts": {"จิ๊กซอว์": 1}}
+{"raw": "รุ", "replacement": "รู้", "entropy": 0.0, "counts": {"รู้": 1}}
+{"raw": "พร้อมๆ", "replacement": "พร้อม ๆ", "entropy": 1.1803368801111205, "counts": {"พร้อม ๆ": 2, "พร้อมๆ": 2}}
+{"raw": "กี้ด", "replacement": "กรี๊ด", "entropy": 0.0, "counts": {"กรี๊ด": 1}}
+{"raw": "หวานๆ", "replacement": "หวาน ๆ", "entropy": 1.1587450075359835, "counts": {"หวาน ๆ": 2, "หวานๆ": 1}}
+{"raw": "ล้วนๆ", "replacement": "ล้วน ๆ", "entropy": 0.9916150045702532, "counts": {"ล้วนๆ": 1, "ล้วน ๆ": 3}}
+{"raw": "ใกล้ๆ", "replacement": "ใกล้ ๆ", "entropy": 0.0, "counts": {"ใกล้ ๆ": 6}}
+{"raw": "ออริจิ", "replacement": "ออริจินัล", "entropy": 0.0, "counts": {"ออริจินัล": 1}}
+{"raw": "มึ้งงงงงง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "เหี้ยยยย", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 2}}
+{"raw": "ประมาน", "replacement": "ประมาณ", "entropy": 1.1587450075359835, "counts": {"ประมาณ": 2, "ปนะมาณ": 1}}
+{"raw": "รูสึก", "replacement": "รู้สึก", "entropy": 0.0, "counts": {"รู้สึก": 1}}
+{"raw": "อ่ะแห่มมมม", "replacement": "อะแฮ่ม", "entropy": 0.0, "counts": {"อะแฮ่ม": 1}}
+{"raw": "อาร์มี่", "replacement": "อาร์มี", "entropy": 0.9661702143444141, "counts": {"อาร์มี": 5, "อาร์มี่": 2}}
+{"raw": "ปาร์ตี้", "replacement": "ปาร์ตี", "entropy": 0.0, "counts": {"ปาร์ตี": 1}}
+{"raw": "หน่อยยยยย", "replacement": "หน่อย", "entropy": 0.0, "counts": {"หน่อย": 1}}
+{"raw": "คูม", "replacement": "คุณ", "entropy": 0.0, "counts": {"คุณ": 5}}
+{"raw": "จา", "replacement": "จะ", "entropy": 2.5410106403333614, "counts": {"จะ": 1, "จ๊ะ": 1, "จ้ะ": 1, "จา": 1}}
+{"raw": "ฮับ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 5}}
+{"raw": "เงี้ย", "replacement": "อย่างนี้", "entropy": 1.1587450075359835, "counts": {"อย่างนี้": 2, "เงี้ย": 1}}
+{"raw": "ฮือออออ", "replacement": "ฮือ", "entropy": 0.0, "counts": {"ฮือ": 1}}
+{"raw": "แบคดรอป", "replacement": "แบ็กดรอป", "entropy": 0.0, "counts": {"แบ็กดรอป": 1}}
+{"raw": "เอฟเฟค", "replacement": "เอฟเฟ็กต์", "entropy": 0.0, "counts": {"เอฟเฟ็กต์": 1}}
+{"raw": "ทันตะ", "replacement": "ทันตะแพทยศาสตร์", "entropy": 0.0, "counts": {"ทันตะแพทยศาสตร์": 1}}
+{"raw": "เบสิค", "replacement": "เบสิก", "entropy": 0.0, "counts": {"เบสิก": 1}}
+{"raw": "ชีวะ", "replacement": "ชีววิทยา", "entropy": 0.0, "counts": {"ชีววิทยา": 1}}
+{"raw": "แลบชีวะ", "replacement": "แลบชีววิทยา", "entropy": 0.0, "counts": {"แลบชีววิทยา": 1}}
+{"raw": "ฟิสิกสื", "replacement": "ฟิสิกส์", "entropy": 0.0, "counts": {"ฟิสิกส์": 1}}
+{"raw": "ไบโอเค็ม", "replacement": "ไบโอเคม", "entropy": 0.0, "counts": {"ไบโอเคม": 1}}
+{"raw": "ปฏิกริยา", "replacement": "ปฏิกิริยา", "entropy": 0.0, "counts": {"ปฏิกิริยา": 1}}
+{"raw": "บุคคลิก", "replacement": "บุคลิก", "entropy": 0.0, "counts": {"บุคลิก": 1}}
+{"raw": "ใหม", "replacement": "ไหม", "entropy": 0.0, "counts": {"ไหม": 1}}
+{"raw": "แตะอั๋ง", "replacement": "แต๊ะอั๋ง", "entropy": 0.0, "counts": {"แต๊ะอั๋ง": 1}}
+{"raw": "โผล๊ะ", "replacement": "โผละ", "entropy": 0.0, "counts": {"โผละ": 1}}
+{"raw": "ปชต.", "replacement": "ประชาธิปไตย", "entropy": 0.0, "counts": {"ประชาธิปไตย": 2}}
+{"raw": "ไพ", "replacement": "ไป", "entropy": 0.0, "counts": {"ไป": 1}}
+{"raw": "เลียน", "replacement": "เลี่ยน", "entropy": 0.0, "counts": {"เลี่ยน": 1}}
+{"raw": "ค.สุข", "replacement": "ความสุข", "entropy": 0.0, "counts": {"ความสุข": 4}}
+{"raw": "วายวับ", "replacement": "หายวับ", "entropy": 0.0, "counts": {"หายวับ": 1}}
+{"raw": "แน่นๆ", "replacement": "แน่น ๆ", "entropy": 1.1803368801111205, "counts": {"แน่น ๆ": 2, "แน่นๆ": 2}}
+{"raw": "นึ่ง", "replacement": "หนึ่ง", "entropy": 0.0, "counts": {"หนึ่ง": 1}}
+{"raw": "ผ฿ชาย", "replacement": "ผู้ชาย", "entropy": 0.0, "counts": {"ผู้ชาย": 1}}
+{"raw": "สเป็ค", "replacement": "สเป็ก", "entropy": 0.0, "counts": {"สเป็ก": 1}}
+{"raw": "สัมผัน", "replacement": "สัมผัส", "entropy": 0.0, "counts": {"สัมผัส": 1}}
+{"raw": "บ้างงงงง", "replacement": "บ้าง", "entropy": 0.0, "counts": {"บ้าง": 1}}
+{"raw": "โอแค", "replacement": "โอเค", "entropy": 0.0, "counts": {"โอเค": 1}}
+{"raw": "ไรท์", "replacement": "ไรต์", "entropy": 1.1686093236751727, "counts": {"ไรต์เตอร์": 3, "ไรต์": 21, "ไรท์": 1, "ไรเตอร์": 2}}
+{"raw": "พรีฯ", "replacement": "พรีออดเอร์", "entropy": 0.0, "counts": {"พรีออดเอร์": 1}}
+{"raw": "เชค", "replacement": "เช็ก", "entropy": 0.0, "counts": {"เช็ก": 3}}
+{"raw": "พี่พี่", "replacement": "พี่ๆ", "entropy": 0.0, "counts": {"พี่ๆ": 1}}
+{"raw": "คาแรคเตอร์", "replacement": "แครักเตอร์", "entropy": 0.8661975989762587, "counts": {"คาแร็กเตอร์": 1, "แครักเตอร์": 4}}
+{"raw": "เดบิ้ว", "replacement": "เดบิวต์", "entropy": 0.0, "counts": {"เดบิวต์": 3}}
+{"raw": "ดีนี่", "replacement": "ดีนี", "entropy": 1.360673760222241, "counts": {"ดีนี": 1, "ดีนี่": 1}}
+{"raw": "ยูทูป", "replacement": "ยูทูบ", "entropy": 1.120224586740747, "counts": {"ยูทูบ": 3, "ยูทูป": 3}}
+{"raw": "เมนท์", "replacement": "คอมเมนต์", "entropy": 0.0, "counts": {"คอมเมนต์": 1}}
+{"raw": "ใหน", "replacement": "ไหน", "entropy": 0.0, "counts": {"ไหน": 1}}
+{"raw": "งงๆ", "replacement": "งง ๆ", "entropy": 0.0, "counts": {"งง ๆ": 5}}
+{"raw": "นี่ว่า", "replacement": "นี่หว่า", "entropy": 0.0, "counts": {"นี่หว่า": 1}}
+{"raw": "ชิล", "replacement": "ชิลล์", "entropy": 1.1587450075359835, "counts": {"ชิล": 1, "ชิลล์": 2}}
+{"raw": "บั่บ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 2}}
+{"raw": "นัง", "replacement": "นาง", "entropy": 0.9916150045702532, "counts": {"นัง": 1, "นาง": 3}}
+{"raw": "โว้ยยยยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 1}}
+{"raw": "ครัช", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 1}}
+{"raw": "สปอย", "replacement": "สปอยล์", "entropy": 0.0, "counts": {"สปอยล์": 2}}
+{"raw": "นว้องงงง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 1}}
+{"raw": "เหตผล", "replacement": "เหตุผล", "entropy": 0.0, "counts": {"เหตุผล": 1}}
+{"raw": "หลีก", "replacement": "หลัก", "entropy": 0.0, "counts": {"หลัก": 1}}
+{"raw": "ค.", "replacement": "คุณ", "entropy": 0.0, "counts": {"คุณ": 2}}
+{"raw": "แฮร่", "replacement": "แฮ่", "entropy": 0.0, "counts": {"แฮ่": 1}}
+{"raw": "อยู่ๆ", "replacement": "อยู่ ๆ", "entropy": 0.9661702143444141, "counts": {"อยู่ๆ": 2, "อยู่ ๆ": 5}}
+{"raw": "อัมหิต", "replacement": "อำมหิต", "entropy": 0.0, "counts": {"อำมหิต": 1}}
+{"raw": "ตปท", "replacement": "ต่างประเทศ", "entropy": 1.1587450075359835, "counts": {"ตปท.": 1, "ต่างประเทศ": 2}}
+{"raw": "ฟตซ", "replacement": "โฟโต้เซ็ต", "entropy": 1.1587450075359835, "counts": {"โฟโต้เซ็ต": 2, "โฟโต้เซต": 1}}
+{"raw": "ทูช็อท", "replacement": "ทูช็อต", "entropy": 0.0, "counts": {"ทูช็อต": 1}}
+{"raw": "พฤษจิ", "replacement": "พฤศจิกายน", "entropy": 0.0, "counts": {"พฤศจิกายน": 2}}
+{"raw": "เอาจีง", "replacement": "เอาจริง", "entropy": 0.0, "counts": {"เอาจริง": 1}}
+{"raw": "คอนซิลเลอร์", "replacement": "คอนซีลเลอร์", "entropy": 0.0, "counts": {"คอนซีลเลอร์": 1}}
+{"raw": "แท้ง", "replacement": "แท่ง", "entropy": 1.360673760222241, "counts": {"แท่ง": 1, "แท้ง": 1}}
+{"raw": "รวมๆ", "replacement": "รวม ๆ", "entropy": 1.1587450075359835, "counts": {"รวม ๆ": 2, "รวมๆ": 1}}
+{"raw": "แบต", "replacement": "แบตเตอรี่", "entropy": 2.3547366071540514, "counts": {"แบตเตอร์รี่": 1, "แบตเตอรี่": 2, "แบตเตอร์รี": 1, "แบต": 1}}
+{"raw": "จริงๆๆ", "replacement": "จริงๆ", "entropy": 1.360673760222241, "counts": {"จริงๆ": 1, "จริง ๆ": 1}}
+{"raw": "ฟิล", "replacement": "ฟีล", "entropy": 1.360673760222241, "counts": {"ฟีล": 1, "ฟิล": 1}}
+{"raw": "มากกกเว่อ", "replacement": "มากเวอร์", "entropy": 0.0, "counts": {"มากเวอร์": 1}}
+{"raw": "ฮืออ", "replacement": "ฮือ", "entropy": 0.0, "counts": {"ฮือ": 5}}
+{"raw": "ชอบๆๆๆ", "replacement": "ชอบๆ", "entropy": 0.0, "counts": {"ชอบๆ": 1}}
+{"raw": "นร.", "replacement": "นักเรียน", "entropy": 0.0, "counts": {"นักเรียน": 2}}
+{"raw": "ที่้", "replacement": "ที่", "entropy": 0.0, "counts": {"ที่": 1}}
+{"raw": "งู้นงี้", "replacement": "อย่างโน้นอย่างนี้", "entropy": 0.0, "counts": {"อย่างโน้นอย่างนี้": 1}}
+{"raw": "เขาว", "replacement": "เขา", "entropy": 0.0, "counts": {"เขา": 1}}
+{"raw": "เห้", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 2}}
+{"raw": "มคร", "replacement": "ใคร", "entropy": 0.0, "counts": {"ใคร": 1}}
+{"raw": "ญป.", "replacement": "ญี่ปุ่น", "entropy": 1.360673760222241, "counts": {"ญี่ปุ่น": 1, "ญป.": 1}}
+{"raw": "บัตรคอน", "replacement": "บัตรคอนเสิร์ต", "entropy": 0.0, "counts": {"บัตรคอนเสิร์ต": 4}}
+{"raw": "การคัม", "replacement": "การคัมแบ็ก", "entropy": 0.0, "counts": {"การคัมแบ็ก": 1}}
+{"raw": "ส่องๆ", "replacement": "ส่อง ๆ", "entropy": 1.360673760222241, "counts": {"ส่อง ๆ": 1, "ส่องๆ": 1}}
+{"raw": "พลอต", "replacement": "พล็อต", "entropy": 0.9916150045702532, "counts": {"พลอต": 1, "พล็อต": 3}}
+{"raw": "อ้าน", "replacement": "อ่าน", "entropy": 0.0, "counts": {"อ่าน": 1}}
+{"raw": "หงูว", "replacement": "หุย", "entropy": 0.0, "counts": {"หุย": 1}}
+{"raw": "ๆๆๆ", "replacement": "ๆ", "entropy": 0.0, "counts": {"ๆ": 3}}
+{"raw": "ครับป๋ม", "replacement": "ครับผม", "entropy": 0.0, "counts": {"ครับผม": 1}}
+{"raw": "เย้อเยอะ", "replacement": "เยอะๆ", "entropy": 0.0, "counts": {"เยอะๆ": 1}}
+{"raw": "ผญ", "replacement": "ผู้หญิง", "entropy": 1.0446024429805252, "counts": {"ผู้หญิง": 5, "ผญ.": 3}}
+{"raw": "ความรุ้สึก", "replacement": "ความรู้สึก", "entropy": 0.0, "counts": {"ความรู้สึก": 2}}
+{"raw": "วันนึง", "replacement": "วันหนึ่ง", "entropy": 0.0, "counts": {"วันหนึ่ง": 1}}
+{"raw": "แฮรี่พอร์ตเตอร์", "replacement": "แฮร์รีพอตเตอร์", "entropy": 0.0, "counts": {"แฮร์รีพอตเตอร์": 1}}
+{"raw": "แล้ววว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 5}}
+{"raw": "ไร๊", "replacement": "อะไร", "entropy": 1.1587450075359835, "counts": {"ไร": 1, "อะไร": 2}}
+{"raw": "จัย", "replacement": "ใจ", "entropy": 0.0, "counts": {"ใจ": 2}}
+{"raw": "รถเมย์", "replacement": "รถเมล์", "entropy": 0.0, "counts": {"รถเมล์": 2}}
+{"raw": "คาแรกเตอร์", "replacement": "แครักเตอร์", "entropy": 0.0, "counts": {"แครักเตอร์": 1}}
+{"raw": "กรี้ดดดดด!", "replacement": "กรี้ด!", "entropy": 0.0, "counts": {"กรี้ด!": 1}}
+{"raw": "เล้ยยย", "replacement": "เลย", "entropy": 1.360673760222241, "counts": {"เลย": 1, "เล้ย": 1}}
+{"raw": "ปชช.", "replacement": "ประชาชน", "entropy": 0.9916150045702532, "counts": {"ประชาชน": 3, "ปชช.": 1}}
+{"raw": "ทั้งๆ", "replacement": "ทั้ง ๆ", "entropy": 1.120224586740747, "counts": {"ทั้ง ๆ": 3, "ทั้งๆ": 3}}
+{"raw": "อบาก", "replacement": "อยาก", "entropy": 0.0, "counts": {"อยาก": 1}}
+{"raw": "อีเว้นท์", "replacement": "อีเวนต์", "entropy": 0.0, "counts": {"อีเวนต์": 3}}
+{"raw": "ล้ะ", "replacement": "อะ", "entropy": 0.0, "counts": {"อะ": 1}}
+{"raw": "เห้น", "replacement": "เห็น", "entropy": 0.0, "counts": {"เห็น": 2}}
+{"raw": "ผปค.", "replacement": "ผู้ปกครอง", "entropy": 0.0, "counts": {"ผู้ปกครอง": 1}}
+{"raw": "สนพ.", "replacement": "สำนักพิมพ์", "entropy": 0.0, "counts": {"สำนักพิมพ์": 1}}
+{"raw": "ฮือออ", "replacement": "ฮือ", "entropy": 0.7702470083891011, "counts": {"ฮือ": 5, "ฮื": 1}}
+{"raw": "ฝันนน", "replacement": "ฝัน", "entropy": 0.0, "counts": {"ฝัน": 1}}
+{"raw": "ไหลล", "replacement": "ไหล", "entropy": 0.0, "counts": {"ไหล": 1}}
+{"raw": "สไลค์", "replacement": "สไลด์", "entropy": 0.0, "counts": {"สไลด์": 1}}
+{"raw": "เหตุการ์ณ", "replacement": "เหตุการณ์", "entropy": 0.0, "counts": {"เหตุการณ์": 1}}
+{"raw": "เซ็กร์", "replacement": "เซ็ก", "entropy": 0.0, "counts": {"เซ็ก": 1}}
+{"raw": "รน", "replacement": "คน", "entropy": 0.0, "counts": {"คน": 1}}
+{"raw": "ค.คิด", "replacement": "ความคิด", "entropy": 0.0, "counts": {"ความคิด": 3}}
+{"raw": "ค.สดใส", "replacement": "ความสดใส", "entropy": 0.0, "counts": {"ความสดใส": 1}}
+{"raw": "ค.อบอุ่น", "replacement": "ความอบอุ่น", "entropy": 0.0, "counts": {"ความอบอุ่น": 1}}
+{"raw": "อิจ", "replacement": "อิจฉา", "entropy": 0.0, "counts": {"อิจฉา": 2}}
+{"raw": "วี๊ดๆ", "replacement": "วี้ดๆ", "entropy": 0.0, "counts": {"วี้ดๆ": 1}}
+{"raw": "น่ารักกกก", "replacement": "น่ารัก", "entropy": 0.0, "counts": {"น่ารัก": 1}}
+{"raw": "แอฟ", "replacement": "แอป", "entropy": 0.0, "counts": {"แอป": 1}}
+{"raw": "มองๆ", "replacement": "มอง ๆ", "entropy": 0.0, "counts": {"มอง ๆ": 1}}
+{"raw": "อีเวนนนน", "replacement": "อีเวร", "entropy": 0.0, "counts": {"อีเวร": 1}}
+{"raw": "โอเว่อ", "replacement": "โอเวอร์", "entropy": 0.0, "counts": {"โอเวอร์": 1}}
+{"raw": "นุ", "replacement": "หนู", "entropy": 0.0, "counts": {"หนู": 3}}
+{"raw": "หึ่ยยยย", "replacement": "หึ่ย", "entropy": 0.0, "counts": {"หึ่ย": 1}}
+{"raw": "พาร์ทเนอร์", "replacement": "พาร์ตเนอร์", "entropy": 0.0, "counts": {"พาร์ตเนอร์": 2}}
+{"raw": "ไอคอนนิค", "replacement": "ไอคอนนิก", "entropy": 0.0, "counts": {"ไอคอนนิก": 1}}
+{"raw": "แพค", "replacement": "แพ็ก", "entropy": 0.0, "counts": {"แพ็ก": 1}}
+{"raw": "เพือ", "replacement": "เพื่อ", "entropy": 0.0, "counts": {"เพื่อ": 1}}
+{"raw": "นั่นล่ะ", "replacement": "นั่นแหละ", "entropy": 0.0, "counts": {"นั่นแหละ": 1}}
+{"raw": "เดะ", "replacement": "เดี๋ยว", "entropy": 0.0, "counts": {"เดี๋ยว": 3}}
+{"raw": "แพสชั่น", "replacement": "แพชชัน", "entropy": 0.0, "counts": {"แพชชัน": 1}}
+{"raw": "สัญชาติญาณ", "replacement": "สัญชาตญาณ", "entropy": 0.0, "counts": {"สัญชาตญาณ": 1}}
+{"raw": "แกร", "replacement": "แก", "entropy": 0.0, "counts": {"แก": 2}}
+{"raw": "เซทตัว", "replacement": "เซ็ตตัว", "entropy": 0.0, "counts": {"เซ็ตตัว": 1}}
+{"raw": "หวัดดี", "replacement": "สวัสดี", "entropy": 0.0, "counts": {"สวัสดี": 1}}
+{"raw": "ใส้ติ่ง", "replacement": "ไส้ติ่ง", "entropy": 0.0, "counts": {"ไส้ติ่ง": 1}}
+{"raw": "นี่ๆ", "replacement": "นี่ ๆ", "entropy": 0.0, "counts": {"นี่ ๆ": 1}}
+{"raw": "เอิ่มมมม", "replacement": "เอิ่ม", "entropy": 0.0, "counts": {"เอิ่ม": 1}}
+{"raw": "แร้ว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 4}}
+{"raw": "สเตป", "replacement": "สเต็ป", "entropy": 0.0, "counts": {"สเต็ป": 1}}
+{"raw": "เพืิ่อน", "replacement": "เพื่อน", "entropy": 0.0, "counts": {"เพื่อน": 1}}
+{"raw": "เป๋าตังค์", "replacement": "กระเป๋าสตางค์", "entropy": 0.0, "counts": {"กระเป๋าสตางค์": 1}}
+{"raw": "เป๋า", "replacement": "กระเป๋า", "entropy": 0.0, "counts": {"กระเป๋า": 1}}
+{"raw": "เท่านั้นล่ะ", "replacement": "แหละ", "entropy": 0.0, "counts": {"แหละ": 1}}
+{"raw": "เวงงงง", "replacement": "เวร", "entropy": 0.0, "counts": {"เวร": 1}}
+{"raw": "มิง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "ทำไมมมม", "replacement": "ทำไม", "entropy": 0.0, "counts": {"ทำไม": 1}}
+{"raw": "ใหม่ๆ", "replacement": "ใหม่ ๆ", "entropy": 0.0, "counts": {"ใหม่ ๆ": 7}}
+{"raw": "เมกเซ้น", "replacement": "เมกเซนต์", "entropy": 0.0, "counts": {"เมกเซนต์": 1}}
+{"raw": "ปริ้น", "replacement": "ปรินต์", "entropy": 0.9916150045702532, "counts": {"ปริ้น": 1, "ปรินต์": 3}}
+{"raw": "แบลคลิส", "replacement": "แบล็กลิสต์", "entropy": 0.0, "counts": {"แบล็กลิสต์": 1}}
+{"raw": "เมล์", "replacement": "อีเมล", "entropy": 0.0, "counts": {"อีเมล": 2}}
+{"raw": "สมมุติ", "replacement": "สมมติ", "entropy": 0.0, "counts": {"สมมติ": 1}}
+{"raw": "รูมเมท", "replacement": "รูมเมต", "entropy": 0.0, "counts": {"รูมเมต": 1}}
+{"raw": "ครส.", "replacement": "ความรู้สึก", "entropy": 0.0, "counts": {"ความรู้สึก": 1}}
+{"raw": "พิพิธภัที่ณฑ์", "replacement": "พิพิธภัณฑ์", "entropy": 0.0, "counts": {"พิพิธภัณฑ์": 1}}
+{"raw": "เย้ๆ", "replacement": "เย้ ๆ", "entropy": 0.0, "counts": {"เย้ ๆ": 1}}
+{"raw": "ม๊า", "replacement": "ม้า", "entropy": 1.0901684400555602, "counts": {"ม้า": 4, "ม๊า": 4}}
+{"raw": "บัตเก็ต", "replacement": "บักเก็ต", "entropy": 0.0, "counts": {"บักเก็ต": 1}}
+{"raw": "แงงงง", "replacement": "แง", "entropy": 0.0, "counts": {"แง": 1}}
+{"raw": "ไปๆมาๆ", "replacement": "ไป ๆ มา ๆ", "entropy": 0.0, "counts": {"ไป ๆ มา ๆ": 1}}
+{"raw": "เล๊ยยย", "replacement": "เล๊ย", "entropy": 0.0, "counts": {"เล๊ย": 1}}
+{"raw": "ดรามา", "replacement": "ดราม่า", "entropy": 0.0, "counts": {"ดราม่า": 3}}
+{"raw": "เอนเตอร์เทรน", "replacement": "เอ็นเตอร์เทน", "entropy": 1.360673760222241, "counts": {"เอ็นเตอร์เทน": 1, "เอนเตอร์เทน": 1}}
+{"raw": "ตั้ลล้าคคค", "replacement": "น่ารัก", "entropy": 0.0, "counts": {"น่ารัก": 1}}
+{"raw": "ค.มั่นใจ", "replacement": "ความมั่นใจ", "entropy": 0.0, "counts": {"ความมั่นใจ": 1}}
+{"raw": "เวน", "replacement": "เวร", "entropy": 0.0, "counts": {"เวร": 2}}
+{"raw": "ล็อค", "replacement": "ล็อก", "entropy": 0.9916150045702532, "counts": {"ล็อค": 1, "ล็อก": 3}}
+{"raw": "เลส", "replacement": "เลสเบียน", "entropy": 0.0, "counts": {"เลสเบียน": 1}}
+{"raw": "อ๋อออออออ", "replacement": "อ๋อ", "entropy": 0.0, "counts": {"อ๋อ": 1}}
+{"raw": "เพื้อน", "replacement": "เพื่อน", "entropy": 0.0, "counts": {"เพื่อน": 1}}
+{"raw": "ม่ะ", "replacement": "ไหม", "entropy": 1.360673760222241, "counts": {"ไหม": 1, "มะ": 1}}
+{"raw": "#เลสเบี้ยน", "replacement": "#เลสเบียน", "entropy": 0.0, "counts": {"#เลสเบียน": 1}}
+{"raw": "คัมแบ็ค", "replacement": "คัมแบ็ก", "entropy": 0.0, "counts": {"คัมแบ็ก": 1}}
+{"raw": "คัม", "replacement": "คัมแบ็ก", "entropy": 0.0, "counts": {"คัมแบ็ก": 2}}
+{"raw": "โอ่ย", "replacement": "โอ๊ย", "entropy": 1.360673760222241, "counts": {"โอ๊ย": 1, "โอย": 1}}
+{"raw": "ซีรี่ย์", "replacement": "ซีรีส์", "entropy": 0.8375795672172534, "counts": {"ซีรีส์": 12, "ซีรี่ย์": 1, "ซีรี่ส์": 1}}
+{"raw": "เวิร์ค", "replacement": "เวิร์ก", "entropy": 0.8661975989762587, "counts": {"เวิร์ก": 4, "เวิร์ค": 1}}
+{"raw": "มอ.", "replacement": "ม.", "entropy": 0.0, "counts": {"ม.": 1}}
+{"raw": "0500", "replacement": "05.00", "entropy": 0.0, "counts": {"05.00": 1}}
+{"raw": "0700", "replacement": "07.00", "entropy": 0.0, "counts": {"07.00": 1}}
+{"raw": "0745", "replacement": "07.45", "entropy": 0.0, "counts": {"07.45": 1}}
+{"raw": "0800", "replacement": "08.00", "entropy": 0.0, "counts": {"08.00": 1}}
+{"raw": "1300", "replacement": "13.00", "entropy": 0.0, "counts": {"13.00": 1}}
+{"raw": "1700", "replacement": "17.00", "entropy": 1.360673760222241, "counts": {"17.00": 1, "1700": 1}}
+{"raw": "1900", "replacement": "19.00", "entropy": 0.0, "counts": {"19.00": 1}}
+{"raw": "เสตจ", "replacement": "สเตจ", "entropy": 0.9916150045702532, "counts": {"เสตจ": 1, "สเตจ": 3}}
+{"raw": "ปุ๊ป", "replacement": "ปุ๊บ", "entropy": 0.9661702143444141, "counts": {"ปุ๊บ": 5, "ปุ๊ป": 2}}
+{"raw": "เนอ", "replacement": "เสนอ", "entropy": 0.0, "counts": {"เสนอ": 1}}
+{"raw": "ของมูล", "replacement": "ข้อมูล", "entropy": 0.0, "counts": {"ข้อมูล": 1}}
+{"raw": "ตลกๆ", "replacement": "ตลก ๆ", "entropy": 0.0, "counts": {"ตลก ๆ": 2}}
+{"raw": "ตน.", "replacement": "ตำแหน่ง", "entropy": 0.0, "counts": {"ตำแหน่ง": 1}}
+{"raw": "เร้ย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 1}}
+{"raw": "#คสอ", "replacement": "#เครื่องสำอาง", "entropy": 0.0, "counts": {"#เครื่องสำอาง": 1}}
+{"raw": "เซ็นตี้", "replacement": "เซ็นตี", "entropy": 0.0, "counts": {"เซ็นตี": 1}}
+{"raw": "ตจว", "replacement": "ต่างจังหวัด", "entropy": 0.0, "counts": {"ต่างจังหวัด": 3}}
+{"raw": "แอคทีฟ", "replacement": "แอกทีฟ", "entropy": 1.360673760222241, "counts": {"แอกทีฟ": 1, "แอ็กทีฟ": 1}}
+{"raw": "ตื้นเต้น", "replacement": "ตื่นเต้น", "entropy": 0.0, "counts": {"ตื่นเต้น": 1}}
+{"raw": "คำล้ำลือ", "replacement": "คำร่ำลือ", "entropy": 0.0, "counts": {"คำร่ำลือ": 1}}
+{"raw": "หนะ", "replacement": "น่ะ", "entropy": 0.0, "counts": {"น่ะ": 2}}
+{"raw": "จู้ๆ", "replacement": "สู้ๆ", "entropy": 0.0, "counts": {"สู้ๆ": 1}}
+{"raw": "เน้อ", "replacement": "เน่อ", "entropy": 0.0, "counts": {"เน่อ": 1}}
+{"raw": "วุ้นมะพร้าวว", "replacement": "วุ้นมะพร้าว", "entropy": 0.0, "counts": {"วุ้นมะพร้าว": 1}}
+{"raw": "อ๋อออออ", "replacement": "อ๋อ", "entropy": 0.0, "counts": {"อ๋อ": 1}}
+{"raw": "แว๊บ", "replacement": "แว็บ", "entropy": 0.0, "counts": {"แว็บ": 1}}
+{"raw": "ง๊ายง่าย", "replacement": "ง่ายๆ", "entropy": 0.0, "counts": {"ง่ายๆ": 1}}
+{"raw": "เยอเ", "replacement": "เยอะ", "entropy": 0.0, "counts": {"เยอะ": 1}}
+{"raw": "สันดาร", "replacement": "สันดาน", "entropy": 0.0, "counts": {"สันดาน": 1}}
+{"raw": "ชร่ะ", "replacement": "ใช่หรือเปล่า", "entropy": 0.0, "counts": {"ใช่หรือเปล่า": 1}}
+{"raw": "ตลอดๆๆๆๆ", "replacement": "ตลอด ๆ", "entropy": 0.0, "counts": {"ตลอด ๆ": 1}}
+{"raw": "แต้งกิ้ว", "replacement": "แต๊งกิ้ว", "entropy": 0.0, "counts": {"แต๊งกิ้ว": 1}}
+{"raw": "ยะ", "replacement": "นะ", "entropy": 0.0, "counts": {"นะ": 1}}
+{"raw": "วำหรับ", "replacement": "สำหรับ", "entropy": 0.0, "counts": {"สำหรับ": 1}}
+{"raw": "อิดอก", "replacement": "อีดอก", "entropy": 0.0, "counts": {"อีดอก": 1}}
+{"raw": "ม๊วฟๆ", "replacement": "ม๊วฟ ๆ", "entropy": 0.0, "counts": {"ม๊วฟ ๆ": 1}}
+{"raw": "ความชิบหาย", "replacement": "ความฉิบหาย", "entropy": 0.0, "counts": {"ความฉิบหาย": 1}}
+{"raw": "เว็บ", "replacement": "เว็บไซต์", "entropy": 0.945979911022913, "counts": {"เว็บไซต์": 9, "เว็บ": 4}}
+{"raw": "เซ็กซี่", "replacement": "เซ็กซี", "entropy": 1.1587450075359835, "counts": {"เซ็กซี": 2, "เซ็กซี่": 1}}
+{"raw": "บัดดี้", "replacement": "บัดดี", "entropy": 0.0, "counts": {"บัดดี": 1}}
+{"raw": "จิง", "replacement": "จริง", "entropy": 1.1587450075359835, "counts": {"จริง": 2, "จิง": 1}}
+{"raw": "ช่างทำโน่นนี้", "replacement": "ช่างทำโน่นนี่", "entropy": 0.0, "counts": {"ช่างทำโน่นนี่": 1}}
+{"raw": "เอ้อะ", "replacement": "เออ", "entropy": 0.0, "counts": {"เออ": 1}}
+{"raw": "มากกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "ก๊อป", "replacement": "ก็อปปี", "entropy": 0.0, "counts": {"ก็อปปี": 3}}
+{"raw": "มากๆๆๆๆๆ", "replacement": "มากๆ", "entropy": 0.0, "counts": {"มากๆ": 1}}
+{"raw": "ปุก", "replacement": "กระปุก", "entropy": 0.0, "counts": {"กระปุก": 1}}
+{"raw": "กะปุก", "replacement": "กระปุก", "entropy": 0.0, "counts": {"กระปุก": 1}}
+{"raw": "เรท", "replacement": "เรต", "entropy": 1.1803368801111205, "counts": {"เรต": 2, "เรท": 2}}
+{"raw": "ซึ่งๆ", "replacement": "ซึ่ง ๆ", "entropy": 0.0, "counts": {"ซึ่ง ๆ": 1}}
+{"raw": "ดื้อๆ", "replacement": "ดื้อ ๆ", "entropy": 1.360673760222241, "counts": {"ดื้อ ๆ": 1, "ดื้อๆ": 1}}
+{"raw": "นำตาล", "replacement": "น้ำตาล", "entropy": 0.0, "counts": {"น้ำตาล": 1}}
+{"raw": "นิ่งๆ", "replacement": "นิ่ง ๆ", "entropy": 0.0, "counts": {"นิ่ง ๆ": 3}}
+{"raw": "บช", "replacement": "บัญชี", "entropy": 0.0, "counts": {"บัญชี": 1}}
+{"raw": "นน.", "replacement": "น้ำหนัก", "entropy": 0.0, "counts": {"น้ำหนัก": 1}}
+{"raw": "คอนเสริต", "replacement": "คอนเสิร์ต", "entropy": 0.0, "counts": {"คอนเสิร์ต": 1}}
+{"raw": "มากกกกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 2}}
+{"raw": "วัมภาษณ์", "replacement": "สัมภาษณ์", "entropy": 0.0, "counts": {"สัมภาษณ์": 1}}
+{"raw": "อฟนคลับ", "replacement": "แฟนคลับ", "entropy": 0.0, "counts": {"แฟนคลับ": 1}}
+{"raw": "อ้วนๆ", "replacement": "อ้วน ๆ", "entropy": 0.0, "counts": {"อ้วน ๆ": 1}}
+{"raw": "อยู่แล้ง", "replacement": "อยู่แล้ว", "entropy": 0.0, "counts": {"อยู่แล้ว": 1}}
+{"raw": "ไง๊", "replacement": "หรืออย่างไร", "entropy": 0.0, "counts": {"หรืออย่างไร": 1}}
+{"raw": "งอนน", "replacement": "งอน", "entropy": 0.0, "counts": {"งอน": 1}}
+{"raw": "ฟรีๆ", "replacement": "ฟรี ๆ", "entropy": 0.0, "counts": {"ฟรี ๆ": 2}}
+{"raw": "ไอ้การโพส", "replacement": "ไอ้การโพสต์", "entropy": 0.0, "counts": {"ไอ้การโพสต์": 1}}
+{"raw": "ซันเซท", "replacement": "ซันเซต", "entropy": 0.0, "counts": {"ซันเซต": 1}}
+{"raw": "อืมมมมม...", "replacement": "อืม", "entropy": 0.0, "counts": {"อืม": 1}}
+{"raw": "ควมสุข", "replacement": "ความสุข", "entropy": 0.0, "counts": {"ความสุข": 1}}
+{"raw": "เหนื่อน", "replacement": "เหนื่อย", "entropy": 0.0, "counts": {"เหนื่อย": 1}}
+{"raw": "เนี่ยแหล่ะ", "replacement": "นี่แหละ", "entropy": 0.0, "counts": {"นี่แหละ": 1}}
+{"raw": "ดาร์ค", "replacement": "ดาร์ก", "entropy": 0.0, "counts": {"ดาร์ก": 1}}
+{"raw": "มอไซด์", "replacement": "มอเตอร์ไซก์", "entropy": 0.0, "counts": {"มอเตอร์ไซก์": 1}}
+{"raw": "เม้ามอย", "replacement": "เมาธ์มอย", "entropy": 0.0, "counts": {"เมาธ์มอย": 1}}
+{"raw": "ห็น", "replacement": "เห็น", "entropy": 0.0, "counts": {"เห็น": 1}}
+{"raw": "ญ.", "replacement": "หญิง", "entropy": 0.0, "counts": {"หญิง": 1}}
+{"raw": "มาส", "replacement": "มาสเตอร์", "entropy": 1.360673760222241, "counts": {"มาสเตอร์": 1, "มาส": 1}}
+{"raw": "เคลีย", "replacement": "เคลียร์", "entropy": 0.0, "counts": {"เคลียร์": 2}}
+{"raw": "สัญ", "replacement": "สัญลักษณ์", "entropy": 0.0, "counts": {"สัญลักษณ์": 1}}
+{"raw": "ชช", "replacement": "ชายชาย", "entropy": 0.0, "counts": {"ชายชาย": 1}}
+{"raw": "ช", "replacement": "ชาย", "entropy": 0.0, "counts": {"ชาย": 2}}
+{"raw": "แคส", "replacement": "แคสต์", "entropy": 0.9916150045702532, "counts": {"แคส": 1, "แคสต์": 3}}
+{"raw": "ดจีย์", "replacement": "ดี", "entropy": 0.0, "counts": {"ดี": 4}}
+{"raw": "ดวก", "replacement": "สะดวก", "entropy": 0.0, "counts": {"สะดวก": 1}}
+{"raw": "รร", "replacement": "รร.", "entropy": 1.6995970905087388, "counts": {"โรงเรียน": 2, "รร.": 3, "ร.ร.": 1}}
+{"raw": "แปป", "replacement": "แป๊บ", "entropy": 0.8661975989762587, "counts": {"แป๊บ": 4, "แป็บ": 1}}
+{"raw": "อายยย", "replacement": "อาย", "entropy": 0.0, "counts": {"อาย": 1}}
+{"raw": "แต่งตัง", "replacement": "แต่งตัว", "entropy": 0.0, "counts": {"แต่งตัว": 1}}
+{"raw": "เฟค", "replacement": "เฟก", "entropy": 0.0, "counts": {"เฟก": 1}}
+{"raw": "โช", "replacement": "โชว์", "entropy": 0.0, "counts": {"โชว์": 1}}
+{"raw": "มอไซค์", "replacement": "มอเตอร์ไซค์", "entropy": 0.0, "counts": {"มอเตอร์ไซค์": 1}}
+{"raw": "บรื๊นนน", "replacement": "บรื๊น", "entropy": 0.0, "counts": {"บรื๊น": 1}}
+{"raw": "คอลฯ", "replacement": "คอลลาเจน", "entropy": 0.0, "counts": {"คอลลาเจน": 1}}
+{"raw": "อ๋ออ", "replacement": "อ๋อ", "entropy": 0.0, "counts": {"อ๋อ": 1}}
+{"raw": "ท", "replacement": "ทำ", "entropy": 0.0, "counts": {"ทำ": 1}}
+{"raw": "พรากก", "replacement": "พราก", "entropy": 0.0, "counts": {"พราก": 1}}
+{"raw": "หนังสือชีท", "replacement": "หนังสือชีต", "entropy": 0.0, "counts": {"หนังสือชีต": 1}}
+{"raw": "คล้ายๆ", "replacement": "คล้าย ๆ", "entropy": 0.0, "counts": {"คล้าย ๆ": 5}}
+{"raw": "สายร้อค", "replacement": "สายร็อก", "entropy": 0.0, "counts": {"สายร็อก": 1}}
+{"raw": "คลิ้ก", "replacement": "คลิก", "entropy": 0.0, "counts": {"คลิก": 1}}
+{"raw": "ผปค", "replacement": "ผู้ปกครอง", "entropy": 0.0, "counts": {"ผู้ปกครอง": 1}}
+{"raw": "ผอ", "replacement": "ผอ.", "entropy": 0.0, "counts": {"ผอ.": 2}}
+{"raw": "มันส์", "replacement": "มัน", "entropy": 0.9916150045702532, "counts": {"มัน": 3, "มันส์": 1}}
+{"raw": "บล็อค", "replacement": "บล็อก", "entropy": 0.0, "counts": {"บล็อก": 1}}
+{"raw": "อนุญาติ", "replacement": "อนุญาต", "entropy": 0.0, "counts": {"อนุญาต": 1}}
+{"raw": "รั๊กส์", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "เชอร์รี่", "replacement": "เชอร์รี", "entropy": 0.0, "counts": {"เชอร์รี": 1}}
+{"raw": "โรงบาล", "replacement": "โรงพยาบาล", "entropy": 0.0, "counts": {"โรงพยาบาล": 1}}
+{"raw": "เหมือนๆ", "replacement": "เหมือน ๆ", "entropy": 0.0, "counts": {"เหมือน ๆ": 1}}
+{"raw": "อวยๆ", "replacement": "อวย ๆ", "entropy": 0.0, "counts": {"อวย ๆ": 1}}
+{"raw": "เลา", "replacement": "เรา", "entropy": 0.0, "counts": {"เรา": 1}}
+{"raw": "ราวๆ", "replacement": "ราว ๆ", "entropy": 0.0, "counts": {"ราว ๆ": 2}}
+{"raw": "ทากๆ", "replacement": "มากๆ", "entropy": 0.0, "counts": {"มากๆ": 1}}
+{"raw": "เอนจอย", "replacement": "เอ็นจอย", "entropy": 0.0, "counts": {"เอ็นจอย": 1}}
+{"raw": "มึงงงงง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "ม่วงๆ", "replacement": "ม่วง ๆ", "entropy": 0.0, "counts": {"ม่วง ๆ": 1}}
+{"raw": "เล็กๆๆๆๆๆ", "replacement": "เล็ก ๆ", "entropy": 0.0, "counts": {"เล็ก ๆ": 1}}
+{"raw": "ร.ร.", "replacement": "โรงเรียน", "entropy": 0.0, "counts": {"โรงเรียน": 1}}
+{"raw": "ไปอี๊ก", "replacement": "ไปอีก", "entropy": 0.0, "counts": {"ไปอีก": 1}}
+{"raw": "เต็น", "replacement": "เต้น", "entropy": 0.0, "counts": {"เต้น": 1}}
+{"raw": "อี๊ก", "replacement": "อีก", "entropy": 0.0, "counts": {"อีก": 1}}
+{"raw": "สตร", "replacement": "สตอรี", "entropy": 0.0, "counts": {"สตอรี": 1}}
+{"raw": "โอ้ย", "replacement": "โอ๊ย", "entropy": 0.9916150045702532, "counts": {"โอ้ย": 1, "โอ๊ย": 3}}
+{"raw": "แหล่วววว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "ไต้", "replacement": "ใต้", "entropy": 0.0, "counts": {"ใต้": 1}}
+{"raw": "หน้าใจหาย", "replacement": "น่าใจหาย", "entropy": 0.0, "counts": {"น่าใจหาย": 1}}
+{"raw": "กระทรงศึกษาธิการ", "replacement": "กระทรวงศึกษาธิการ", "entropy": 0.0, "counts": {"กระทรวงศึกษาธิการ": 1}}
+{"raw": "คอมเม้น", "replacement": "คอมเมนต์", "entropy": 0.0, "counts": {"คอมเมนต์": 6}}
+{"raw": "เฮ้อออ", "replacement": "เฮ้อ", "entropy": 0.0, "counts": {"เฮ้อ": 2}}
+{"raw": "เว้ยยยย", "replacement": "เว้ย", "entropy": 0.0, "counts": {"เว้ย": 1}}
+{"raw": "โกด", "replacement": "โกรธ", "entropy": 0.0, "counts": {"โกรธ": 2}}
+{"raw": "เย็นๆ", "replacement": "เย็น ๆ", "entropy": 0.0, "counts": {"เย็น ๆ": 5}}
+{"raw": "ตู", "replacement": "กู", "entropy": 0.9661702143444141, "counts": {"กู": 5, "ตู": 2}}
+{"raw": "โปรโหมด", "replacement": "โปรโมท", "entropy": 0.0, "counts": {"โปรโมท": 1}}
+{"raw": "หว้า", "replacement": "หว่า", "entropy": 0.0, "counts": {"หว่า": 1}}
+{"raw": "ออฟฟิต", "replacement": "ออฟฟิศ", "entropy": 0.0, "counts": {"ออฟฟิศ": 1}}
+{"raw": "แต้มๆ", "replacement": "แต้ม ๆ", "entropy": 0.0, "counts": {"แต้ม ๆ": 1}}
+{"raw": "รักก", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "ไวๆ", "replacement": "ไว ๆ", "entropy": 1.360673760222241, "counts": {"ไว ๆ": 1, "ไวๆ": 1}}
+{"raw": "งับ", "replacement": "ครับ", "entropy": 0.8661975989762587, "counts": {"ครับ": 4, "งับ": 1}}
+{"raw": "เฟสบุ๊ค", "replacement": "เฟซบุ๊ก", "entropy": 0.0, "counts": {"เฟซบุ๊ก": 1}}
+{"raw": "เด็กไซน์ไลน์", "replacement": "เด็กไซด์ไลน์", "entropy": 0.0, "counts": {"เด็กไซด์ไลน์": 1}}
+{"raw": "ต่ำๆ", "replacement": "ต่ำ ๆ", "entropy": 0.0, "counts": {"ต่ำ ๆ": 1}}
+{"raw": "แกร้", "replacement": "แก", "entropy": 0.0, "counts": {"แก": 1}}
+{"raw": "ทับจัย", "replacement": "ประทับใจ", "entropy": 0.0, "counts": {"ประทับใจ": 1}}
+{"raw": "เสริช", "replacement": "เสิร์ช", "entropy": 0.0, "counts": {"เสิร์ช": 2}}
+{"raw": "คีย์เวิด", "replacement": "คีย์เวิร์ด", "entropy": 0.0, "counts": {"คีย์เวิร์ด": 1}}
+{"raw": "โง่ๆ", "replacement": "โง่ ๆ", "entropy": 0.0, "counts": {"โง่ ๆ": 3}}
+{"raw": "ฮอลลีวู้ด", "replacement": "ฮอลลีวูด", "entropy": 0.0, "counts": {"ฮอลลีวูด": 1}}
+{"raw": "มสเฟีย", "replacement": "มาเฟีย", "entropy": 0.0, "counts": {"มาเฟีย": 1}}
+{"raw": "วนว", "replacement": "วันนาวัน", "entropy": 0.0, "counts": {"วันนาวัน": 1}}
+{"raw": "หน้าที่ๆ", "replacement": "หน้าที่ที่", "entropy": 0.0, "counts": {"หน้าที่ที่": 1}}
+{"raw": "ชิลๆ", "replacement": "ชิล ๆ", "entropy": 0.0, "counts": {"ชิล ๆ": 2}}
+{"raw": "เขินนนนนนนนน", "replacement": "เขิน", "entropy": 0.0, "counts": {"เขิน": 1}}
+{"raw": "ไดเอท", "replacement": "ไดเอต", "entropy": 0.0, "counts": {"ไดเอต": 1}}
+{"raw": "มั้ย???", "replacement": "ไหม?", "entropy": 0.0, "counts": {"ไหม?": 1}}
+{"raw": "สิ่", "replacement": "ซิ่", "entropy": 0.0, "counts": {"ซิ่": 1}}
+{"raw": "เกท", "replacement": "เก็ต", "entropy": 0.0, "counts": {"เก็ต": 1}}
+{"raw": "คอนเซป", "replacement": "คอนเซ็ปต์", "entropy": 0.0, "counts": {"คอนเซ็ปต์": 1}}
+{"raw": "ปี่ๆ", "replacement": "ปี่ ๆ", "entropy": 0.0, "counts": {"ปี่ ๆ": 1}}
+{"raw": "เมคเซ้นท์", "replacement": "เมคเซนส์", "entropy": 0.0, "counts": {"เมคเซนส์": 1}}
+{"raw": "เลท", "replacement": "เลต", "entropy": 0.0, "counts": {"เลต": 2}}
+{"raw": "ยัยทาก", "replacement": "ยายทาก", "entropy": 0.0, "counts": {"ยายทาก": 1}}
+{"raw": "นั้นเอง", "replacement": "นั่นเอง", "entropy": 0.0, "counts": {"นั่นเอง": 1}}
+{"raw": "บั้ม", "replacement": "อัลบั้ม", "entropy": 0.0, "counts": {"อัลบั้ม": 5}}
+{"raw": "ขอมูล", "replacement": "ข้อมูล", "entropy": 0.0, "counts": {"ข้อมูล": 1}}
+{"raw": "ใด้", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "เหตุการ", "replacement": "เหตุการณ์", "entropy": 0.0, "counts": {"เหตุการณ์": 1}}
+{"raw": "เห้ยย", "replacement": "เห้ย", "entropy": 0.0, "counts": {"เห้ย": 1}}
+{"raw": "ฟิว", "replacement": "ฟีล", "entropy": 0.0, "counts": {"ฟีล": 1}}
+{"raw": "โอ", "replacement": "โอเค", "entropy": 1.120224586740747, "counts": {"โอเค": 3, "โอ": 3}}
+{"raw": "บับ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 3}}
+{"raw": "วี๊!!!", "replacement": "ว้า!", "entropy": 0.0, "counts": {"ว้า!": 1}}
+{"raw": "คอนเส็ป", "replacement": "คอนเซปต์", "entropy": 0.0, "counts": {"คอนเซปต์": 1}}
+{"raw": "นู้นนี่", "replacement": "โน่นนี่", "entropy": 0.0, "counts": {"โน่นนี่": 1}}
+{"raw": "คส.", "replacement": "คอนเสิร์ต", "entropy": 0.0, "counts": {"คอนเสิร์ต": 1}}
+{"raw": "ทล.", "replacement": "ไทม์ไลน์", "entropy": 0.0, "counts": {"ไทม์ไลน์": 1}}
+{"raw": "เบอร์โทร", "replacement": "เบอร์โทรศัพท์", "entropy": 0.0, "counts": {"เบอร์โทรศัพท์": 1}}
+{"raw": "ไปรษณี", "replacement": "ไปรษณีย์", "entropy": 0.0, "counts": {"ไปรษณีย์": 1}}
+{"raw": "ทำไม้", "replacement": "ทำไม", "entropy": 0.0, "counts": {"ทำไม": 1}}
+{"raw": "วงวาร", "replacement": "สงสาร", "entropy": 0.0, "counts": {"สงสาร": 1}}
+{"raw": "นส", "replacement": "หนังสือ", "entropy": 1.360673760222241, "counts": {"หนังสือ": 1, "นส": 1}}
+{"raw": "ออนไล", "replacement": "ออนไลน์", "entropy": 0.0, "counts": {"ออนไลน์": 1}}
+{"raw": "ตลอดๆ", "replacement": "ตลอด ๆ", "entropy": 0.0, "counts": {"ตลอด ๆ": 1}}
+{"raw": "จีงๆ", "replacement": "จริงๆ", "entropy": 0.0, "counts": {"จริงๆ": 1}}
+{"raw": "สเตชั่น", "replacement": "สเตชัน", "entropy": 0.0, "counts": {"สเตชัน": 2}}
+{"raw": "ควาเหงา", "replacement": "ความเหงา", "entropy": 0.0, "counts": {"ความเหงา": 1}}
+{"raw": "เหมือดัง", "replacement": "เหมือนดัง", "entropy": 0.0, "counts": {"เหมือนดัง": 1}}
+{"raw": "เคาเตอร์", "replacement": "เคาน์เตอร์", "entropy": 0.0, "counts": {"เคาน์เตอร์": 2}}
+{"raw": "อานิสงค์", "replacement": "อานิสงส์", "entropy": 0.0, "counts": {"อานิสงส์": 1}}
+{"raw": "การแบ่งกัน", "replacement": "การแบ่งปัน", "entropy": 0.0, "counts": {"การแบ่งปัน": 1}}
+{"raw": "ปล", "replacement": "ป.ล.", "entropy": 1.360673760222241, "counts": {"ป.ล.": 1, "ปล": 1}}
+{"raw": "มีมี", "replacement": "มี", "entropy": 0.0, "counts": {"มี": 1}}
+{"raw": "คาแร็คเตอร์", "replacement": "แครักเตอร์", "entropy": 0.0, "counts": {"แครักเตอร์": 2}}
+{"raw": "เวอชั่น", "replacement": "เวอร์ชัน", "entropy": 0.0, "counts": {"เวอร์ชัน": 2}}
+{"raw": "มั๊ย", "replacement": "ไหม", "entropy": 0.0, "counts": {"ไหม": 4}}
+{"raw": "ป๊อบปูล่า", "replacement": "ปอปปูลาร์", "entropy": 0.0, "counts": {"ปอปปูลาร์": 1}}
+{"raw": "ชิปหาย", "replacement": "ฉิบหาย", "entropy": 0.0, "counts": {"ฉิบหาย": 1}}
+{"raw": "คล้ายคลับคลา", "replacement": "คลับคล้ายคลับคลา", "entropy": 0.0, "counts": {"คลับคล้ายคลับคลา": 1}}
+{"raw": "พาร์ท", "replacement": "พาร์ต", "entropy": 1.360673760222241, "counts": {"พาร์ต": 1, "พาร์ท": 1}}
+{"raw": "วอล์คอิน", "replacement": "วอล์กอิน", "entropy": 0.0, "counts": {"วอล์กอิน": 1}}
+{"raw": "วุ้ย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 1}}
+{"raw": "ไทม์เม่อ", "replacement": "ไทเมอร์", "entropy": 0.0, "counts": {"ไทเมอร์": 1}}
+{"raw": "ม่ก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "หน่ะ", "replacement": "หนะ", "entropy": 0.0, "counts": {"หนะ": 1}}
+{"raw": "เดิมม", "replacement": "เดิม", "entropy": 0.0, "counts": {"เดิม": 1}}
+{"raw": "ชอบบ", "replacement": "ชอบ", "entropy": 0.0, "counts": {"ชอบ": 2}}
+{"raw": "โว้ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยบยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยบยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยบยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยบยยยยยยยยยยยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 1}}
+{"raw": "คอม", "replacement": "คอมพิวเตอร์", "entropy": 1.1803368801111205, "counts": {"คอมพิวเตอร์": 2, "คอม": 2}}
+{"raw": "แบล็คโฮล", "replacement": "แบล็กโฮล์", "entropy": 0.0, "counts": {"แบล็กโฮล์": 1}}
+{"raw": "เจ้", "replacement": "เจ๊", "entropy": 0.0, "counts": {"เจ๊": 2}}
+{"raw": "กะดิก", "replacement": "กระดิก", "entropy": 0.0, "counts": {"กระดิก": 1}}
+{"raw": "ดุ้กดิ้ก", "replacement": "ดุ๊กดิ๊ก", "entropy": 0.0, "counts": {"ดุ๊กดิ๊ก": 1}}
+{"raw": "แอ็คชั่น", "replacement": "แอ็กชัน", "entropy": 0.0, "counts": {"แอ็กชัน": 2}}
+{"raw": "มันส์ๆ", "replacement": "มัน ๆ", "entropy": 0.0, "counts": {"มัน ๆ": 1}}
+{"raw": "แท็ค", "replacement": "แท็ก", "entropy": 0.0, "counts": {"แท็ก": 1}}
+{"raw": "จุ้บๆ", "replacement": "จุ๊บๆ", "entropy": 0.0, "counts": {"จุ๊บๆ": 1}}
+{"raw": "แยู่", "replacement": "อยู่", "entropy": 0.0, "counts": {"อยู่": 1}}
+{"raw": "เห๋น", "replacement": "เห็น", "entropy": 0.0, "counts": {"เห็น": 1}}
+{"raw": "ไว่", "replacement": "ไว้", "entropy": 0.0, "counts": {"ไว้": 1}}
+{"raw": "น้องงงงง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 3}}
+{"raw": "โอ้ยยย", "replacement": "โอ๊ย", "entropy": 0.0, "counts": {"โอ๊ย": 1}}
+{"raw": "เร้ยยย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 1}}
+{"raw": "มั่กกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "บับบบบ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 1}}
+{"raw": "บั่บบบบ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 1}}
+{"raw": "หรออออ", "replacement": "เหรอ", "entropy": 0.0, "counts": {"เหรอ": 1}}
+{"raw": "แงงงงง", "replacement": "แง", "entropy": 0.0, "counts": {"แง": 2}}
+{"raw": "แร้ววววว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "ม๊อบ", "replacement": "ม็อป", "entropy": 0.0, "counts": {"ม็อป": 2}}
+{"raw": "กุนซื้อ", "replacement": "กุนซือ", "entropy": 0.0, "counts": {"กุนซือ": 1}}
+{"raw": "ทริค", "replacement": "ทริก", "entropy": 0.0, "counts": {"ทริก": 2}}
+{"raw": "มาสคาร่า", "replacement": "มาสคารา", "entropy": 0.0, "counts": {"มาสคารา": 1}}
+{"raw": "จีๆๆๆ", "replacement": "จริงๆ", "entropy": 0.0, "counts": {"จริงๆ": 1}}
+{"raw": "แปบ", "replacement": "แป๊บ", "entropy": 0.0, "counts": {"แป๊บ": 1}}
+{"raw": "พระอาทิต", "replacement": "พระอาทิตย์", "entropy": 0.0, "counts": {"พระอาทิตย์": 1}}
+{"raw": "น้ำหยัก", "replacement": "น้ำหนัก", "entropy": 0.0, "counts": {"น้ำหนัก": 1}}
+{"raw": "เมนส์!!!", "replacement": "เมนส์!", "entropy": 0.0, "counts": {"เมนส์!": 1}}
+{"raw": "พ.น", "replacement": "พรุ่งนี้", "entropy": 0.0, "counts": {"พรุ่งนี้": 1}}
+{"raw": "เรอะ", "replacement": "เหรอ", "entropy": 1.360673760222241, "counts": {"เหรอ": 1, "หรอ": 1}}
+{"raw": "โถ่ว", "replacement": "โถ", "entropy": 0.0, "counts": {"โถ": 1}}
+{"raw": "แพคเกจ", "replacement": "แพ็กเกจ", "entropy": 1.1587450075359835, "counts": {"แพ็กเกจ": 2, "แพคเกจ": 1}}
+{"raw": "ควับ", "replacement": "ขวับ", "entropy": 0.0, "counts": {"ขวับ": 1}}
+{"raw": "หยั่ง", "replacement": "อย่าง", "entropy": 0.0, "counts": {"อย่าง": 1}}
+{"raw": "เลทมี", "replacement": "เล็ตมี", "entropy": 0.0, "counts": {"เล็ตมี": 1}}
+{"raw": "ไท๊ยไทย", "replacement": "ไทยๆ", "entropy": 0.0, "counts": {"ไทยๆ": 1}}
+{"raw": "ฉ.", "replacement": "ฉาก", "entropy": 0.0, "counts": {"ฉาก": 1}}
+{"raw": "โบรมานซ์", "replacement": "โบรแมนซ์", "entropy": 0.0, "counts": {"โบรแมนซ์": 1}}
+{"raw": "นิยานแฟนตาซี", "replacement": "นิยายแฟนตาซี", "entropy": 0.0, "counts": {"นิยายแฟนตาซี": 1}}
+{"raw": "คัย", "replacement": "ใคร", "entropy": 0.0, "counts": {"ใคร": 1}}
+{"raw": "ละเกิน", "replacement": "เหลือเกิน", "entropy": 0.0, "counts": {"เหลือเกิน": 1}}
+{"raw": "กลายเปง", "replacement": "กลายเป็น", "entropy": 0.0, "counts": {"กลายเป็น": 1}}
+{"raw": "มนุด", "replacement": "มนุษย์", "entropy": 0.0, "counts": {"มนุษย์": 2}}
+{"raw": "ที่นี้", "replacement": "ทีนี้", "entropy": 0.0, "counts": {"ทีนี้": 1}}
+{"raw": "เกาะๆ", "replacement": "เกาะเกาะ", "entropy": 0.0, "counts": {"เกาะเกาะ": 1}}
+{"raw": "ชิวๆ", "replacement": "ชิลล์ๆ", "entropy": 0.0, "counts": {"ชิลล์ๆ": 1}}
+{"raw": "ขี้เกียด", "replacement": "ขี้เกียจ", "entropy": 0.0, "counts": {"ขี้เกียจ": 1}}
+{"raw": "พรีเมี่ยม", "replacement": "พรีเมียม", "entropy": 0.0, "counts": {"พรีเมียม": 1}}
+{"raw": "แอป", "replacement": "แอปพลิเคชัน", "entropy": 0.0, "counts": {"แอปพลิเคชัน": 2}}
+{"raw": "EP", "replacement": "EP.", "entropy": 0.0, "counts": {"EP.": 1}}
+{"raw": "เวป", "replacement": "เว็บ", "entropy": 1.360673760222241, "counts": {"เว็บ": 1, "เว็บไซต์": 1}}
+{"raw": "ปธ.", "replacement": "ประธาน", "entropy": 0.0, "counts": {"ประธาน": 1}}
+{"raw": "สาธารณะประโยชน์", "replacement": "สาธารณประโยชน์", "entropy": 0.0, "counts": {"สาธารณประโยชน์": 1}}
+{"raw": "ดียยยย", "replacement": "ดี", "entropy": 0.0, "counts": {"ดี": 1}}
+{"raw": "ก๊ากก", "replacement": "ก๊าก", "entropy": 0.0, "counts": {"ก๊าก": 1}}
+{"raw": "นารัก", "replacement": "น่ารัก", "entropy": 0.0, "counts": {"น่ารัก": 1}}
+{"raw": "ยูนิท", "replacement": "ยูนิต", "entropy": 0.0, "counts": {"ยูนิต": 2}}
+{"raw": "ริมๆ", "replacement": "ริม ๆ", "entropy": 0.0, "counts": {"ริม ๆ": 1}}
+{"raw": "หวั่นๆ", "replacement": "หวั่น ๆ", "entropy": 0.0, "counts": {"หวั่น ๆ": 1}}
+{"raw": "กรี๊ดดดดดด", "replacement": "กรี๊ด", "entropy": 0.0, "counts": {"กรี๊ด": 1}}
+{"raw": "ฮาร์ทคอ", "replacement": "ฮาร์ดคอร์", "entropy": 0.0, "counts": {"ฮาร์ดคอร์": 1}}
+{"raw": "เถ้อะ", "replacement": "เถอะ", "entropy": 0.0, "counts": {"เถอะ": 1}}
+{"raw": "กีต้าร์", "replacement": "กีตาร์", "entropy": 0.0, "counts": {"กีตาร์": 3}}
+{"raw": "ไหมมมมมม", "replacement": "ไหม", "entropy": 0.0, "counts": {"ไหม": 1}}
+{"raw": "แงงง", "replacement": "แง", "entropy": 0.0, "counts": {"แง": 5}}
+{"raw": "แงง", "replacement": "แง", "entropy": 0.0, "counts": {"แง": 3}}
+{"raw": "ก่อ", "replacement": "ก่อน", "entropy": 0.0, "counts": {"ก่อน": 1}}
+{"raw": "เลยยยย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 2}}
+{"raw": "ๆๆ", "replacement": "ๆ", "entropy": 0.0, "counts": {"ๆ": 1}}
+{"raw": "เถียงคำไม่ตกฝาก", "replacement": "เถียงคำไม่ตกฟาก", "entropy": 0.0, "counts": {"เถียงคำไม่ตกฟาก": 1}}
+{"raw": "สาระเลว", "replacement": "สารเลว", "entropy": 0.0, "counts": {"สารเลว": 1}}
+{"raw": "ปกม.", "replacement": "โปเกมอน", "entropy": 0.0, "counts": {"โปเกมอน": 1}}
+{"raw": "อิหยัง", "replacement": "อีหยัง", "entropy": 0.0, "counts": {"อีหยัง": 1}}
+{"raw": "มากๆๆๆ", "replacement": "มากๆ", "entropy": 0.0, "counts": {"มากๆ": 2}}
+{"raw": "เดอะเบส", "replacement": "เดอะเบสต์", "entropy": 1.360673760222241, "counts": {"เดอะเบสต์": 1, "เดอะเบส": 1}}
+{"raw": "ค้าบบ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 2}}
+{"raw": "อีเมล์", "replacement": "อีเมล", "entropy": 0.0, "counts": {"อีเมล": 1}}
+{"raw": "รอยยิ้มมมม", "replacement": "รอยยิ้ม", "entropy": 0.0, "counts": {"รอยยิ้ม": 1}}
+{"raw": "จี๊ง", "replacement": "จริ๊ง", "entropy": 0.0, "counts": {"จริ๊ง": 1}}
+{"raw": "ไอ่", "replacement": "ไอ้", "entropy": 0.0, "counts": {"ไอ้": 5}}
+{"raw": "นทท", "replacement": "นักท่องเที่ยว", "entropy": 0.0, "counts": {"นักท่องเที่ยว": 1}}
+{"raw": "ฟลิ์ม", "replacement": "ฟิล์ม", "entropy": 0.0, "counts": {"ฟิล์ม": 1}}
+{"raw": "ชอปปิ้ง", "replacement": "ชอปปิง", "entropy": 1.1587450075359835, "counts": {"ชอปปิ้ง": 1, "ชอปปิง": 2}}
+{"raw": "คอมมิค", "replacement": "คอมมิก", "entropy": 0.0, "counts": {"คอมมิก": 1}}
+{"raw": "เรื่องนึง", "replacement": "เรื่องหนึ่ง", "entropy": 0.0, "counts": {"เรื่องหนึ่ง": 1}}
+{"raw": "ยัยอ้วน", "replacement": "ยายอ้วน", "entropy": 0.0, "counts": {"ยายอ้วน": 1}}
+{"raw": "ปุๆ", "replacement": "ปุ ๆ", "entropy": 0.0, "counts": {"ปุ ๆ": 1}}
+{"raw": "ฟื้นๆๆ", "replacement": "ฟื้นๆ", "entropy": 0.0, "counts": {"ฟื้นๆ": 1}}
+{"raw": "ซีรี่ส์", "replacement": "ซีรีส์", "entropy": 0.0, "counts": {"ซีรีส์": 3}}
+{"raw": "อิก", "replacement": "อีก", "entropy": 0.0, "counts": {"อีก": 1}}
+{"raw": "บ๊ายบ่าย", "replacement": "บ๊ายบาย", "entropy": 0.0, "counts": {"บ๊ายบาย": 1}}
+{"raw": "คืด", "replacement": "คิด", "entropy": 0.0, "counts": {"คิด": 2}}
+{"raw": "อ่ะค่ะ", "replacement": "ค่ะ", "entropy": 0.0, "counts": {"ค่ะ": 1}}
+{"raw": "ไม่เอา", "replacement": "ไม่นำ", "entropy": 0.0, "counts": {"ไม่นำ": 1}}
+{"raw": "เยอะค่ะ", "replacement": "เยอะ", "entropy": 0.0, "counts": {"เยอะ": 1}}
+{"raw": "สตั้น", "replacement": "สตันต์", "entropy": 0.0, "counts": {"สตันต์": 2}}
+{"raw": "ทีา", "replacement": "ที่", "entropy": 0.0, "counts": {"ที่": 1}}
+{"raw": "ครับ!!", "replacement": "ครับ!", "entropy": 0.0, "counts": {"ครับ!": 1}}
+{"raw": "จริงจรัง", "replacement": "จริงจัง", "entropy": 0.0, "counts": {"จริงจัง": 1}}
+{"raw": "เหน่ย", "replacement": "เหนื่อย", "entropy": 0.0, "counts": {"เหนื่อย": 1}}
+{"raw": "โง่วว", "replacement": "โง่", "entropy": 0.0, "counts": {"โง่": 1}}
+{"raw": "รับๆ", "replacement": "รับ ๆ", "entropy": 0.0, "counts": {"รับ ๆ": 1}}
+{"raw": "ไม", "replacement": "ทำไม", "entropy": 0.0, "counts": {"ทำไม": 3}}
+{"raw": "ทำราย", "replacement": "ทำลาย", "entropy": 0.0, "counts": {"ทำลาย": 1}}
+{"raw": "ควัม", "replacement": "ความ", "entropy": 0.0, "counts": {"ความ": 2}}
+{"raw": "วิ้งค์วับ", "replacement": "วิ้งวับ", "entropy": 0.0, "counts": {"วิ้งวับ": 1}}
+{"raw": "งัม", "replacement": "งาม", "entropy": 0.0, "counts": {"งาม": 1}}
+{"raw": "กรี๊ดดด", "replacement": "กรี๊ด", "entropy": 0.0, "counts": {"กรี๊ด": 2}}
+{"raw": "แลงๆ", "replacement": "แรงๆ", "entropy": 0.0, "counts": {"แรงๆ": 1}}
+{"raw": "ค้าบ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 4}}
+{"raw": "คัท", "replacement": "คัต", "entropy": 0.0, "counts": {"คัต": 1}}
+{"raw": "คอนเฟิมๆๆๆ", "replacement": "คอนเฟิร์มๆ", "entropy": 0.0, "counts": {"คอนเฟิร์มๆ": 1}}
+{"raw": "สนุกกกกกก", "replacement": "สนุก", "entropy": 0.0, "counts": {"สนุก": 1}}
+{"raw": "ไปดูๆๆๆๆๆ", "replacement": "ไปดูๆ", "entropy": 0.0, "counts": {"ไปดูๆ": 1}}
+{"raw": "ปรากฎ", "replacement": "ปรากฏ", "entropy": 1.360673760222241, "counts": {"ปรากฏ": 1, "ปรากฎ": 1}}
+{"raw": "ขค.", "replacement": "ข้อความ", "entropy": 0.0, "counts": {"ข้อความ": 1}}
+{"raw": "แร่ะ", "replacement": "แหละ", "entropy": 0.0, "counts": {"แหละ": 1}}
+{"raw": "คคหสต.", "replacement": "ความคิดเห็นส่วนตัว", "entropy": 0.0, "counts": {"ความคิดเห็นส่วนตัว": 1}}
+{"raw": "เหลือเกินน", "replacement": "เหลือเกิน", "entropy": 0.0, "counts": {"เหลือเกิน": 1}}
+{"raw": "เว่อ", "replacement": "เวอร์", "entropy": 0.0, "counts": {"เวอร์": 5}}
+{"raw": "ปชช", "replacement": "ประชาชน", "entropy": 0.0, "counts": {"ประชาชน": 1}}
+{"raw": "ฉดใฉ", "replacement": "สดใส", "entropy": 0.0, "counts": {"สดใส": 1}}
+{"raw": "แกกก๊", "replacement": "แก", "entropy": 0.0, "counts": {"แก": 1}}
+{"raw": "ใัน", "replacement": "ใน", "entropy": 0.0, "counts": {"ใน": 1}}
+{"raw": "กรี้ดกร้าดๆๆๆๆ", "replacement": "กรี๊ดกร๊าดๆ", "entropy": 0.0, "counts": {"กรี๊ดกร๊าดๆ": 1}}
+{"raw": "ทากกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "เท่ห์", "replacement": "เท่", "entropy": 1.360673760222241, "counts": {"เท่": 1, "เท่ห์": 1}}
+{"raw": "ทากกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "แบ่บบบบ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 1}}
+{"raw": "ฮื่อออ", "replacement": "ฮือ", "entropy": 0.0, "counts": {"ฮือ": 1}}
+{"raw": "น้องงงง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 1}}
+{"raw": "ม๊ากกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "รัวๆ", "replacement": "รัว ๆ", "entropy": 0.8661975989762587, "counts": {"รัว ๆ": 4, "รัวๆ": 1}}
+{"raw": "ทองๆ", "replacement": "ทอง ๆ", "entropy": 0.0, "counts": {"ทอง ๆ": 1}}
+{"raw": "ห่างๆ", "replacement": "ห่าง ๆ", "entropy": 1.1587450075359835, "counts": {"ห่าง ๆ": 2, "ห่างๆ": 1}}
+{"raw": "แมท", "replacement": "แมตต์", "entropy": 0.9916150045702532, "counts": {"แมตต์": 3, "แมช": 1}}
+{"raw": "หวะ", "replacement": "ว่ะ", "entropy": 0.0, "counts": {"ว่ะ": 1}}
+{"raw": "ช้ะ", "replacement": "ใช่หรือเปล่า", "entropy": 1.360673760222241, "counts": {"ใช่หรือเปล่า": 1, "ช้ะ": 1}}
+{"raw": "รีสอร์ท", "replacement": "รีสอร์ต", "entropy": 1.360673760222241, "counts": {"รีสอร์ต": 1, "รีสอร์ท": 1}}
+{"raw": "มีท", "replacement": "มีต", "entropy": 2.065860847684144, "counts": {"มีต": 1, "มีตติง": 1, "มีตติ้ง": 1}}
+{"raw": "มากๆๆๆๆ", "replacement": "มากๆ", "entropy": 1.360673760222241, "counts": {"มากๆ": 1, "มาก ๆ": 1}}
+{"raw": "กิโล", "replacement": "กิโลกรัม", "entropy": 0.0, "counts": {"กิโลกรัม": 1}}
+{"raw": "หลีดเดอร์", "replacement": "ลีดเดอร์", "entropy": 0.0, "counts": {"ลีดเดอร์": 1}}
+{"raw": "หละ", "replacement": "ล่ะ", "entropy": 0.9916150045702532, "counts": {"แหละ": 1, "ล่ะ": 3}}
+{"raw": "เชียะ", "replacement": "เชียว", "entropy": 0.0, "counts": {"เชียว": 1}}
+{"raw": "การบิ้วท์", "replacement": "การบิลต์", "entropy": 0.0, "counts": {"การบิลต์": 1}}
+{"raw": "แดร๊ก", "replacement": "แดก", "entropy": 0.0, "counts": {"แดก": 1}}
+{"raw": "โท่ดๆ", "replacement": "โทษๆ", "entropy": 0.0, "counts": {"โทษๆ": 1}}
+{"raw": "จร้า", "replacement": "จ้ะ", "entropy": 0.0, "counts": {"จ้ะ": 4}}
+{"raw": "พาร์ทไท", "replacement": "พาร์ทไทม์", "entropy": 0.0, "counts": {"พาร์ทไทม์": 1}}
+{"raw": "ทรบ", "replacement": "ทรบ.", "entropy": 0.0, "counts": {"ทรบ.": 1}}
+{"raw": "เอ็นดูว", "replacement": "เอ็นดู", "entropy": 0.0, "counts": {"เอ็นดู": 1}}
+{"raw": "ปืนฟองสบู", "replacement": "ปืนฟองสบู่", "entropy": 0.0, "counts": {"ปืนฟองสบู่": 1}}
+{"raw": "ยิ้มมมม", "replacement": "ยิ้ม", "entropy": 0.0, "counts": {"ยิ้ม": 1}}
+{"raw": "รีเมค", "replacement": "รีเมก", "entropy": 0.0, "counts": {"รีเมก": 1}}
+{"raw": "โมเมนท์", "replacement": "โมเมนต์", "entropy": 0.0, "counts": {"โมเมนต์": 1}}
+{"raw": "มัลติฟังก์ชั่น", "replacement": "มัลติฟังก์ชัน", "entropy": 0.0, "counts": {"มัลติฟังก์ชัน": 1}}
+{"raw": "คร้าบ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 1}}
+{"raw": "ะ", "replacement": "นะ", "entropy": 0.0, "counts": {"นะ": 1}}
+{"raw": "อนค.", "replacement": "อนาคต", "entropy": 0.0, "counts": {"อนาคต": 1}}
+{"raw": "เนตรๆๆๆๆ", "replacement": "เนตรๆ", "entropy": 0.0, "counts": {"เนตรๆ": 1}}
+{"raw": "ม้ากก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 1}}
+{"raw": "เด้ออ", "replacement": "เด้อ", "entropy": 0.0, "counts": {"เด้อ": 1}}
+{"raw": "คือๆๆๆ", "replacement": "คือๆ", "entropy": 0.0, "counts": {"คือๆ": 1}}
+{"raw": "เหี้ยย", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 2}}
+{"raw": "ยาด", "replacement": "อนุญาต", "entropy": 0.0, "counts": {"อนุญาต": 2}}
+{"raw": "ม้ะๆๆๆๆๆๆๆ", "replacement": "ไหมๆ", "entropy": 0.0, "counts": {"ไหมๆ": 1}}
+{"raw": "น้องบ่เอาแล้วๆๆๆๆๆ", "replacement": "น้องบ่เอาแล้วๆ", "entropy": 0.0, "counts": {"น้องบ่เอาแล้วๆ": 1}}
+{"raw": "ผกก", "replacement": "ผู้กำกับ", "entropy": 0.0, "counts": {"ผู้กำกับ": 1}}
+{"raw": "เทคนิค", "replacement": "เทกนิก", "entropy": 1.360673760222241, "counts": {"เทกนิก": 1, "เทคนิค": 1}}
+{"raw": "กรี๊ดดดดด", "replacement": "กรี๊ด", "entropy": 0.0, "counts": {"กรี๊ด": 1}}
+{"raw": "รักส์", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "แฟนมีท", "replacement": "แฟนมีทติ้ง", "entropy": 0.0, "counts": {"แฟนมีทติ้ง": 1}}
+{"raw": "ทันที่", "replacement": "ทันที", "entropy": 0.0, "counts": {"ทันที": 1}}
+{"raw": "ไมา", "replacement": "ไม่", "entropy": 0.0, "counts": {"ไม่": 1}}
+{"raw": "ชือ", "replacement": "ชื่อ", "entropy": 0.0, "counts": {"ชื่อ": 1}}
+{"raw": "ครส", "replacement": "ความรู้สึก", "entropy": 0.0, "counts": {"ความรู้สึก": 1}}
+{"raw": "กลจ", "replacement": "กำลังใจ", "entropy": 0.0, "counts": {"กำลังใจ": 1}}
+{"raw": "เล็กๆน้อยๆ", "replacement": "เล็ก ๆ น้อย ๆ", "entropy": 0.0, "counts": {"เล็ก ๆ น้อย ๆ": 1}}
+{"raw": "ช้าๆ", "replacement": "ช้า ๆ", "entropy": 0.0, "counts": {"ช้า ๆ": 1}}
+{"raw": "เอ็กซ์ตรอว์ดินารี่", "replacement": "เอ็กซ์ตรอว์ดินารี", "entropy": 0.0, "counts": {"เอ็กซ์ตรอว์ดินารี": 1}}
+{"raw": "พริ้ว", "replacement": "พลิ้ว", "entropy": 0.0, "counts": {"พลิ้ว": 1}}
+{"raw": "สัสส", "replacement": "สัตว์", "entropy": 0.0, "counts": {"สัตว์": 1}}
+{"raw": "เมดิเตอเรเนี่ยน", "replacement": "เมดิเตอร์เรเนียน", "entropy": 0.0, "counts": {"เมดิเตอร์เรเนียน": 1}}
+{"raw": "ประเทด", "replacement": "ประเทศ", "entropy": 0.0, "counts": {"ประเทศ": 1}}
+{"raw": "งุ้งงิ้งๆๆๆๆๆ", "replacement": "งุ้งงิ้งๆ", "entropy": 0.0, "counts": {"งุ้งงิ้งๆ": 1}}
+{"raw": "ปอ", "replacement": "ป.", "entropy": 0.0, "counts": {"ป.": 2}}
+{"raw": "เปง", "replacement": "เป็น", "entropy": 0.0, "counts": {"เป็น": 4}}
+{"raw": "เว่อออร์", "replacement": "เวอร์", "entropy": 0.0, "counts": {"เวอร์": 1}}
+{"raw": "คลีนิก", "replacement": "คลินิก", "entropy": 0.0, "counts": {"คลินิก": 1}}
+{"raw": "ฟื้นฟู่", "replacement": "ฟื้นฟู", "entropy": 0.0, "counts": {"ฟื้นฟู": 1}}
+{"raw": "ปย.", "replacement": "ประโยชน์", "entropy": 1.360673760222241, "counts": {"ประโยชน์": 1, "ประโยค": 1}}
+{"raw": "พอร์ต", "replacement": "พล็อต", "entropy": 0.0, "counts": {"พล็อต": 1}}
+{"raw": "ไปอีกกก", "replacement": "ไปอีก", "entropy": 0.0, "counts": {"ไปอีก": 1}}
+{"raw": "แก๊กกก", "replacement": "แก๊ก", "entropy": 0.0, "counts": {"แก๊ก": 1}}
+{"raw": "ใสใจ", "replacement": "ใส่ใจ", "entropy": 0.0, "counts": {"ใส่ใจ": 1}}
+{"raw": "นรัก", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "เชีย", "replacement": "เชียร์", "entropy": 0.0, "counts": {"เชียร์": 1}}
+{"raw": "เธีย", "replacement": "เธียเตอร์", "entropy": 0.0, "counts": {"เธียเตอร์": 3}}
+{"raw": "น้องง", "replacement": "น้อง", "entropy": 0.0, "counts": {"น้อง": 1}}
+{"raw": "น่ารักก", "replacement": "น่ารัก", "entropy": 0.0, "counts": {"น่ารัก": 1}}
+{"raw": "ฟิ้ววววว", "replacement": "ฟิ้ว", "entropy": 0.0, "counts": {"ฟิ้ว": 1}}
+{"raw": "บ้าบอออ", "replacement": "บ้าบอ", "entropy": 0.0, "counts": {"บ้าบอ": 2}}
+{"raw": "เลยยย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 3}}
+{"raw": "ว่านหาง", "replacement": "ว่านหางจระเข้", "entropy": 0.0, "counts": {"ว่านหางจระเข้": 1}}
+{"raw": "เขิลล", "replacement": "เขิน", "entropy": 0.0, "counts": {"เขิน": 1}}
+{"raw": "คาปู", "replacement": "คาปูชิโน", "entropy": 0.0, "counts": {"คาปูชิโน": 1}}
+{"raw": "พนง.", "replacement": "พนักงาน", "entropy": 0.0, "counts": {"พนักงาน": 1}}
+{"raw": "ออดิชั่น", "replacement": "ออดิชัน", "entropy": 0.0, "counts": {"ออดิชัน": 2}}
+{"raw": "ง่อยๆ", "replacement": "ง่อย ๆ", "entropy": 0.0, "counts": {"ง่อย ๆ": 1}}
+{"raw": "แบบจังๆ", "replacement": "แบบจัง ๆ", "entropy": 0.0, "counts": {"แบบจัง ๆ": 1}}
+{"raw": "ออฯ", "replacement": "ออดิชัน", "entropy": 0.0, "counts": {"ออดิชัน": 1}}
+{"raw": "ก้อ", "replacement": "ก็", "entropy": 0.6337328832551566, "counts": {"ก็": 7, "ดี": 1}}
+{"raw": "ยี่ปุ่น", "replacement": "ญี่ปุ่น", "entropy": 0.0, "counts": {"ญี่ปุ่น": 1}}
+{"raw": "ยี่ปุ่นๆ", "replacement": "ญี่ปุ่นๆ", "entropy": 0.0, "counts": {"ญี่ปุ่นๆ": 1}}
+{"raw": "ลาบแซลม่อน", "replacement": "ลาบแซลมอน", "entropy": 0.0, "counts": {"ลาบแซลมอน": 1}}
+{"raw": "ทับจาย", "replacement": "ประทับใจ", "entropy": 0.0, "counts": {"ประทับใจ": 1}}
+{"raw": "เลยๆ", "replacement": "เลย ๆ", "entropy": 0.0, "counts": {"เลย ๆ": 1}}
+{"raw": "งืออ", "replacement": "งือ", "entropy": 0.0, "counts": {"งือ": 1}}
+{"raw": "โฟลว", "replacement": "โฟลว์", "entropy": 0.0, "counts": {"โฟลว์": 1}}
+{"raw": "วิ", "replacement": "วินาที", "entropy": 1.1803368801111205, "counts": {"วินาที": 2, "วิ": 2}}
+{"raw": "จนท.", "replacement": "เจ้าหน้าที่", "entropy": 0.0, "counts": {"เจ้าหน้าที่": 1}}
+{"raw": "เอ้ออออ", "replacement": "เอ้อ", "entropy": 0.0, "counts": {"เอ้อ": 1}}
+{"raw": "มั้งงง", "replacement": "กระมัง", "entropy": 0.0, "counts": {"กระมัง": 1}}
+{"raw": "ตง", "replacement": "ตรง", "entropy": 0.0, "counts": {"ตรง": 1}}
+{"raw": "คนน", "replacement": "คน", "entropy": 0.0, "counts": {"คน": 1}}
+{"raw": "อิเวง", "replacement": "อีเวร", "entropy": 0.0, "counts": {"อีเวร": 1}}
+{"raw": "แปล่งๆ", "replacement": "แปร่งๆ", "entropy": 0.0, "counts": {"แปร่งๆ": 1}}
+{"raw": "แม่ว", "replacement": "แม่ง", "entropy": 0.0, "counts": {"แม่ง": 1}}
+{"raw": "ไปร", "replacement": "ไปรษณีย์", "entropy": 1.1587450075359835, "counts": {"ไปร": 1, "ไปรษณีย์": 2}}
+{"raw": "ยพท.", "replacement": "ยึดพื้นที่", "entropy": 1.360673760222241, "counts": {"ยึดพื้นที่": 1, "ยืมพื้นที่": 1}}
+{"raw": "บอท", "replacement": "บ็อต", "entropy": 0.0, "counts": {"บ็อต": 9}}
+{"raw": "หนุก", "replacement": "สนุก", "entropy": 0.0, "counts": {"สนุก": 1}}
+{"raw": "ต้นตำหรับ", "replacement": "ต้นตำรับ", "entropy": 0.0, "counts": {"ต้นตำรับ": 1}}
+{"raw": "เชี่ย", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 2}}
+{"raw": "แปบเดียว", "replacement": "แป๊บเดียว", "entropy": 0.0, "counts": {"แป๊บเดียว": 1}}
+{"raw": "การเคลื่อนที", "replacement": "การเคลื่อนที่", "entropy": 0.0, "counts": {"การเคลื่อนที่": 2}}
+{"raw": "ส่า", "replacement": "ว่า", "entropy": 0.0, "counts": {"ว่า": 1}}
+{"raw": "หรอออ", "replacement": "หรอ", "entropy": 0.0, "counts": {"หรอ": 2}}
+{"raw": "หนุด", "replacement": "หยุด", "entropy": 0.0, "counts": {"หยุด": 1}}
+{"raw": "ยุ้ง", "replacement": "ยุ่ง", "entropy": 0.0, "counts": {"ยุ่ง": 1}}
+{"raw": "มี๊", "replacement": "มี", "entropy": 1.1587450075359835, "counts": {"มี๊": 1, "มี": 2}}
+{"raw": "ลิ้วว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "ดิสเซอร์", "replacement": "ดิสเซอร์เทชัน", "entropy": 0.0, "counts": {"ดิสเซอร์เทชัน": 1}}
+{"raw": "งนอน", "replacement": "นอน", "entropy": 0.0, "counts": {"นอน": 1}}
+{"raw": "ตั่งต่าง", "replacement": "ต่างๆ", "entropy": 0.0, "counts": {"ต่างๆ": 2}}
+{"raw": "เข็กๆ", "replacement": "เล็กๆ", "entropy": 0.0, "counts": {"เล็กๆ": 1}}
+{"raw": "งุ้งๆงิ้งๆ", "replacement": "งุ้ง ๆ งิ้ง ๆ", "entropy": 0.0, "counts": {"งุ้ง ๆ งิ้ง ๆ": 1}}
+{"raw": "อี๊กก", "replacement": "อีก", "entropy": 0.0, "counts": {"อีก": 1}}
+{"raw": "นึ", "replacement": "หนึ่ง", "entropy": 0.0, "counts": {"หนึ่ง": 1}}
+{"raw": "แถลงการ", "replacement": "แถลงการณ์", "entropy": 0.0, "counts": {"แถลงการณ์": 1}}
+{"raw": "ความไม่รู้ๆ", "replacement": "ความไม่รู้ ๆ", "entropy": 0.0, "counts": {"ความไม่รู้ ๆ": 1}}
+{"raw": "พกจ.", "replacement": "พวงกุญแจ", "entropy": 0.0, "counts": {"พวงกุญแจ": 2}}
+{"raw": "เรื่อบ", "replacement": "เรื่อง", "entropy": 0.0, "counts": {"เรื่อง": 1}}
+{"raw": "บุคลิค", "replacement": "บุคลิกภาพ", "entropy": 1.360673760222241, "counts": {"บุคลิกภาพ": 1, "บุคลิก": 1}}
+{"raw": "รู", "replacement": "รู้", "entropy": 1.360673760222241, "counts": {"รู้": 1, "รู": 1}}
+{"raw": "ศลปต่างชาติ", "replacement": "ศิลปินต่างชาติ", "entropy": 0.0, "counts": {"ศิลปินต่างชาติ": 1}}
+{"raw": "แคสติ้ง", "replacement": "แคสติง", "entropy": 0.0, "counts": {"แคสติง": 1}}
+{"raw": "ห๊ะ", "replacement": "ฮะ", "entropy": 0.0, "counts": {"ฮะ": 1}}
+{"raw": "งัย", "replacement": "หรืออย่างไร", "entropy": 0.0, "counts": {"หรืออย่างไร": 1}}
+{"raw": "มากกกกกกกกก", "replacement": "มาก", "entropy": 0.0, "counts": {"มาก": 2}}
+{"raw": "ซับพอร์ต", "replacement": "ซัพพอร์ต", "entropy": 0.0, "counts": {"ซัพพอร์ต": 1}}
+{"raw": "ม่า", "replacement": "ดราม่า", "entropy": 0.0, "counts": {"ดราม่า": 1}}
+{"raw": "เสียตัง", "replacement": "เสียสตางค์", "entropy": 0.0, "counts": {"เสียสตางค์": 1}}
+{"raw": "งับบ", "replacement": "ครับ", "entropy": 0.0, "counts": {"ครับ": 1}}
+{"raw": "คราฟ", "replacement": "คราฟต์", "entropy": 0.0, "counts": {"คราฟต์": 1}}
+{"raw": "ค.คิดเห็น", "replacement": "ความคิดเห็น", "entropy": 0.0, "counts": {"ความคิดเห็น": 1}}
+{"raw": "ซัพ", "replacement": "ซัปพอร์ต", "entropy": 0.0, "counts": {"ซัปพอร์ต": 2}}
+{"raw": "ค.รู้สึก", "replacement": "ความรู้สึก", "entropy": 0.0, "counts": {"ความรู้สึก": 1}}
+{"raw": "ค.สามารถ", "replacement": "ความสามารถ", "entropy": 0.0, "counts": {"ความสามารถ": 2}}
+{"raw": "การซัพ", "replacement": "การซัปพอร์ต", "entropy": 0.0, "counts": {"การซัปพอร์ต": 1}}
+{"raw": "โควต้า", "replacement": "โควตา", "entropy": 0.0, "counts": {"โควตา": 3}}
+{"raw": "เซค", "replacement": "เซ็กชัน", "entropy": 0.0, "counts": {"เซ็กชัน": 1}}
+{"raw": "จย้า", "replacement": "จ้ะ", "entropy": 1.360673760222241, "counts": {"จ้ะ": 1, "จ้า": 1}}
+{"raw": "เป๋าผ้า", "replacement": "กระเป๋าผ้า", "entropy": 0.0, "counts": {"กระเป๋าผ้า": 1}}
+{"raw": "ละนะ", "replacement": "แหละนะ", "entropy": 0.0, "counts": {"แหละนะ": 1}}
+{"raw": "สปท", "replacement": "สปท.", "entropy": 0.0, "counts": {"สปท.": 1}}
+{"raw": "น่ส", "replacement": "น่า", "entropy": 0.0, "counts": {"น่า": 1}}
+{"raw": "เำราะ", "replacement": "เพราะ", "entropy": 0.0, "counts": {"เพราะ": 1}}
+{"raw": "สิ่งดีๆ", "replacement": "สิ่งดี ๆ", "entropy": 0.0, "counts": {"สิ่งดี ๆ": 1}}
+{"raw": "นานๆๆ", "replacement": "นาน ๆ", "entropy": 0.0, "counts": {"นาน ๆ": 1}}
+{"raw": "เทียเตอร์", "replacement": "เธียเตอร์", "entropy": 0.0, "counts": {"เธียเตอร์": 1}}
+{"raw": "เน้อออ", "replacement": "เน่อ", "entropy": 0.0, "counts": {"เน่อ": 1}}
+{"raw": "หวงๆ", "replacement": "หวง ๆ", "entropy": 0.0, "counts": {"หวง ๆ": 1}}
+{"raw": "มักมาก", "replacement": "มาก ๆ", "entropy": 0.0, "counts": {"มาก ๆ": 1}}
+{"raw": "เฉพาะๆๆ", "replacement": "เฉพาะ ๆ", "entropy": 0.0, "counts": {"เฉพาะ ๆ": 1}}
+{"raw": "อาๆๆ", "replacement": "อา ๆ", "entropy": 0.0, "counts": {"อา ๆ": 1}}
+{"raw": "ร่วมไปถึง", "replacement": "รวมไปถึง", "entropy": 0.0, "counts": {"รวมไปถึง": 1}}
+{"raw": "อื่นๆๆ", "replacement": "อื่น ๆ", "entropy": 0.0, "counts": {"อื่น ๆ": 1}}
+{"raw": "เมิงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงงง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "กู้ววววววววววววววววววววววววววววววว", "replacement": "กู", "entropy": 0.0, "counts": {"กู": 1}}
+{"raw": "รี้ววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววววว", "replacement": "ริ้ว", "entropy": 0.0, "counts": {"ริ้ว": 1}}
+{"raw": "โว้ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 1}}
+{"raw": "ดร๊อฟ", "replacement": "ดร็อป", "entropy": 0.0, "counts": {"ดร็อป": 1}}
+{"raw": "่วิชา", "replacement": "วิชา", "entropy": 0.0, "counts": {"วิชา": 1}}
+{"raw": "นั้า", "replacement": "นั้น", "entropy": 0.0, "counts": {"นั้น": 1}}
+{"raw": "ยังยืน", "replacement": "ยั่งยืน", "entropy": 0.0, "counts": {"ยั่งยืน": 1}}
+{"raw": "ทับใจ", "replacement": "ประทับใจ", "entropy": 0.0, "counts": {"ประทับใจ": 1}}
+{"raw": "วิ้งๆ", "replacement": "วิ้ง ๆ", "entropy": 0.0, "counts": {"วิ้ง ๆ": 1}}
+{"raw": "เม็ดๆ", "replacement": "เม็ด ๆ", "entropy": 0.0, "counts": {"เม็ด ๆ": 1}}
+{"raw": "เหน", "replacement": "เห็น", "entropy": 0.0, "counts": {"เห็น": 2}}
+{"raw": "ตะเร็ก", "replacement": "ตัวเล็ก", "entropy": 0.0, "counts": {"ตัวเล็ก": 1}}
+{"raw": "คอนโด", "replacement": "คอนโดมิเนียม", "entropy": 0.0, "counts": {"คอนโดมิเนียม": 1}}
+{"raw": "ฮืออออ", "replacement": "ฮือ", "entropy": 0.0, "counts": {"ฮือ": 1}}
+{"raw": "รู้กกกกกก", "replacement": "ลูก", "entropy": 0.0, "counts": {"ลูก": 1}}
+{"raw": "เอ็นดูววว", "replacement": "เอ็นดู", "entropy": 0.0, "counts": {"เอ็นดู": 1}}
+{"raw": "รสชาด", "replacement": "รสชาติ", "entropy": 0.0, "counts": {"รสชาติ": 4}}
+{"raw": "แฉะๆ", "replacement": "แฉะ ๆ", "entropy": 0.0, "counts": {"แฉะ ๆ": 1}}
+{"raw": "ดิชั้น", "replacement": "ดิฉัน", "entropy": 0.0, "counts": {"ดิฉัน": 1}}
+{"raw": "หนมจีบ", "replacement": "ขนมจีบ", "entropy": 0.0, "counts": {"ขนมจีบ": 1}}
+{"raw": "รีบรู้", "replacement": "รับรู้", "entropy": 0.0, "counts": {"รับรู้": 1}}
+{"raw": "ไดโนเสา", "replacement": "ไดโนเสาร์", "entropy": 0.0, "counts": {"ไดโนเสาร์": 2}}
+{"raw": "บลาๆๆๆ", "replacement": "บลาๆ", "entropy": 0.0, "counts": {"บลาๆ": 1}}
+{"raw": "ปสด", "replacement": "ประสาทแดก", "entropy": 0.0, "counts": {"ประสาทแดก": 2}}
+{"raw": "ชห", "replacement": "ฉิบหาย", "entropy": 0.0, "counts": {"ฉิบหาย": 1}}
+{"raw": "รวั้ก", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "แมทท์", "replacement": "แมต", "entropy": 0.0, "counts": {"แมต": 1}}
+{"raw": "เร่ม", "replacement": "เริ่ม", "entropy": 0.0, "counts": {"เริ่ม": 1}}
+{"raw": "ม", "replacement": "มา", "entropy": 1.360673760222241, "counts": {"มา": 1, "ม": 1}}
+{"raw": "ว๊อย", "replacement": "ว้อย", "entropy": 0.0, "counts": {"ว้อย": 1}}
+{"raw": "ล็อคอิน", "replacement": "ล็อกอิน", "entropy": 0.0, "counts": {"ล็อกอิน": 1}}
+{"raw": "พักๆ", "replacement": "พัก ๆ", "entropy": 0.0, "counts": {"พัก ๆ": 1}}
+{"raw": "ทั่วๆ", "replacement": "ทั่ว ๆ", "entropy": 0.0, "counts": {"ทั่ว ๆ": 2}}
+{"raw": "อย", "replacement": "อยู่", "entropy": 0.0, "counts": {"อยู่": 1}}
+{"raw": "เซนเตอร์", "replacement": "เซ็นเตอร์", "entropy": 1.1587450075359835, "counts": {"เซ็นเตอร์": 2, "เซนเตอร์": 1}}
+{"raw": "เลวา", "replacement": "เวลา", "entropy": 0.0, "counts": {"เวลา": 1}}
+{"raw": "ราชบัณฑิตฯ", "replacement": "ราชบัณฑิตยสถานฯ", "entropy": 1.360673760222241, "counts": {"ราชบัณฑิตยสถานฯ": 1, "ราชบัณฑิตยสถาน": 1}}
+{"raw": "อิเมจิ้น", "replacement": "อิเมจิน", "entropy": 0.0, "counts": {"อิเมจิน": 1}}
+{"raw": "ฟีต", "replacement": "ฟีด", "entropy": 0.0, "counts": {"ฟีด": 1}}
+{"raw": "เครื่องสำอางค์", "replacement": "เครื่องสำอาง", "entropy": 0.0, "counts": {"เครื่องสำอาง": 1}}
+{"raw": "แคสเกมส์", "replacement": "แคสต์เกม", "entropy": 0.0, "counts": {"แคสต์เกม": 1}}
+{"raw": "ตื่นนน", "replacement": "ตื่น", "entropy": 0.0, "counts": {"ตื่น": 1}}
+{"raw": "ซิ", "replacement": "สิ", "entropy": 1.1587450075359835, "counts": {"ซิ": 1, "สิ": 2}}
+{"raw": "พ่าม", "replacement": "พล่าม", "entropy": 0.0, "counts": {"พล่าม": 1}}
+{"raw": "อนิเม", "replacement": "อะนิเมชัน", "entropy": 0.0, "counts": {"อะนิเมชัน": 1}}
+{"raw": "ค.ปรารถนา", "replacement": "ความปรารถนา", "entropy": 0.0, "counts": {"ความปรารถนา": 1}}
+{"raw": "ปราณี", "replacement": "ปรานี", "entropy": 0.0, "counts": {"ปรานี": 1}}
+{"raw": "ครีมเคาเตอร์แบรนด์", "replacement": "ครีมเคาน์เตอร์แบรนด์", "entropy": 0.0, "counts": {"ครีมเคาน์เตอร์แบรนด์": 1}}
+{"raw": "สอบถาบถาม", "replacement": "สอบถาม", "entropy": 0.0, "counts": {"สอบถาม": 1}}
+{"raw": "ยัยวายร้ายฝึกหัด", "replacement": "ยายวายร้ายฝึกหัด", "entropy": 0.0, "counts": {"ยายวายร้ายฝึกหัด": 1}}
+{"raw": "ใหญ่ๆ", "replacement": "ใหญ่ ๆ", "entropy": 0.0, "counts": {"ใหญ่ ๆ": 3}}
+{"raw": "อิมแพค", "replacement": "อิมแพก", "entropy": 0.0, "counts": {"อิมแพก": 1}}
+{"raw": "เดทแอร์", "replacement": "เดดแอร์", "entropy": 0.0, "counts": {"เดดแอร์": 2}}
+{"raw": "โอ่โห้", "replacement": "โอ้โห", "entropy": 0.0, "counts": {"โอ้โห": 1}}
+{"raw": "ล", "replacement": "ลอง", "entropy": 0.0, "counts": {"ลอง": 1}}
+{"raw": "ทรศ", "replacement": "โทรศัพท์", "entropy": 0.0, "counts": {"โทรศัพท์": 4}}
+{"raw": "อังกิด", "replacement": "อังกฤษ", "entropy": 0.0, "counts": {"อังกฤษ": 1}}
+{"raw": "เพลงคุกกี้ฯ", "replacement": "เพลงคุกกี้เสี่ยงทาย", "entropy": 0.0, "counts": {"เพลงคุกกี้เสี่ยงทาย": 1}}
+{"raw": "งานมอร์เตอร์โชว", "replacement": "งานมอเตอร์โชว์", "entropy": 0.0, "counts": {"งานมอเตอร์โชว์": 1}}
+{"raw": "ดิสนี่ย์", "replacement": "ดิสนีย์", "entropy": 1.360673760222241, "counts": {"ดิสนีย์": 1, "ดิสนี่ย์": 1}}
+{"raw": "เป๊ะๆ", "replacement": "เป๊ะ ๆ", "entropy": 0.0, "counts": {"เป๊ะ ๆ": 1}}
+{"raw": "เรียล", "replacement": "เรียน", "entropy": 0.0, "counts": {"เรียน": 1}}
+{"raw": "ไฟนอลวอล์ค", "replacement": "ไฟนอลวอล์ก", "entropy": 0.0, "counts": {"ไฟนอลวอล์ก": 1}}
+{"raw": "ยอดไลค์", "replacement": "ยอดไลก์", "entropy": 0.0, "counts": {"ยอดไลก์": 1}}
+{"raw": "ค่", "replacement": "ค่ะ", "entropy": 0.0, "counts": {"ค่ะ": 1}}
+{"raw": "กลายเปน", "replacement": "กลายเป็น", "entropy": 0.0, "counts": {"กลายเป็น": 1}}
+{"raw": "ขลุย", "replacement": "ขุย", "entropy": 0.0, "counts": {"ขุย": 1}}
+{"raw": "ไกลๆ", "replacement": "ไกล ๆ", "entropy": 1.115220098543565, "counts": {"ไกลๆ": 2, "ไกล ๆ": 3}}
+{"raw": "เมืี่อกี้", "replacement": "เมื่อกี้", "entropy": 0.0, "counts": {"เมื่อกี้": 1}}
+{"raw": "เบียร", "replacement": "เบียร์", "entropy": 0.0, "counts": {"เบียร์": 1}}
+{"raw": "เบื่อ!!!", "replacement": "เบื่อ!", "entropy": 0.0, "counts": {"เบื่อ!": 1}}
+{"raw": "โลลิค่อ", "replacement": "โลลิคอน", "entropy": 0.0, "counts": {"โลลิคอน": 1}}
+{"raw": "เหว๋อ", "replacement": "เหวอ", "entropy": 0.0, "counts": {"เหวอ": 1}}
+{"raw": "เถือน", "replacement": "เถื่อน", "entropy": 0.0, "counts": {"เถื่อน": 1}}
+{"raw": "อุส่าห์", "replacement": "อุตส่าห์", "entropy": 0.0, "counts": {"อุตส่าห์": 1}}
+{"raw": "แง๊", "replacement": "แง้", "entropy": 0.0, "counts": {"แง้": 1}}
+{"raw": "สุดดดดดด", "replacement": "สุด", "entropy": 0.0, "counts": {"สุด": 1}}
+{"raw": "เอ๊งง", "replacement": "เอง", "entropy": 0.0, "counts": {"เอง": 1}}
+{"raw": "ด่วนนน!!", "replacement": "ด่วน", "entropy": 0.0, "counts": {"ด่วน": 1}}
+{"raw": "สาดดด", "replacement": "สาด", "entropy": 0.0, "counts": {"สาด": 1}}
+{"raw": "ชั่วๆ", "replacement": "ชั่ว ๆ", "entropy": 0.0, "counts": {"ชั่ว ๆ": 1}}
+{"raw": "ความปสด", "replacement": "ความประสาทแดก", "entropy": 0.0, "counts": {"ความประสาทแดก": 1}}
+{"raw": "แมกเนต", "replacement": "แม็กเนต", "entropy": 0.0, "counts": {"แม็กเนต": 1}}
+{"raw": "มอไซ", "replacement": "มอเตอร์ไซค์", "entropy": 0.0, "counts": {"มอเตอร์ไซค์": 1}}
+{"raw": "การบ้าย", "replacement": "การบ้าน", "entropy": 0.0, "counts": {"การบ้าน": 1}}
+{"raw": "ยังไงก็ตาม", "replacement": "อย่างไรก็ตาม", "entropy": 0.0, "counts": {"อย่างไรก็ตาม": 1}}
+{"raw": "สำเร็ฐ", "replacement": "สำเร็จ", "entropy": 0.0, "counts": {"สำเร็จ": 1}}
+{"raw": "ไบโพล่า", "replacement": "ไบโพลาร์", "entropy": 0.0, "counts": {"ไบโพลาร์": 2}}
+{"raw": "ข่ะ", "replacement": "ค่ะ", "entropy": 0.0, "counts": {"ค่ะ": 4}}
+{"raw": "แก่ๆ", "replacement": "แก่ ๆ", "entropy": 0.0, "counts": {"แก่ ๆ": 1}}
+{"raw": "ควสมผูกพันธ์", "replacement": "ความผูกพัน", "entropy": 0.0, "counts": {"ความผูกพัน": 1}}
+{"raw": "เบิรธเดย์", "replacement": "เบิร์ดเดย์", "entropy": 0.0, "counts": {"เบิร์ดเดย์": 1}}
+{"raw": "ค.รัก", "replacement": "ความรัก", "entropy": 0.0, "counts": {"ความรัก": 3}}
+{"raw": "บิ้ว", "replacement": "บิวต์", "entropy": 0.0, "counts": {"บิวต์": 1}}
+{"raw": "กัป", "replacement": "กับ", "entropy": 0.0, "counts": {"กับ": 1}}
+{"raw": "เลขา", "replacement": "เลขานุการ", "entropy": 0.0, "counts": {"เลขานุการ": 1}}
+{"raw": "เมิง", "replacement": "มึง", "entropy": 0.0, "counts": {"มึง": 1}}
+{"raw": "รัย", "replacement": "อะไร", "entropy": 0.0, "counts": {"อะไร": 1}}
+{"raw": "ร้อเร่น", "replacement": "ล้อเล่น", "entropy": 0.0, "counts": {"ล้อเล่น": 1}}
+{"raw": "เก่งๆ", "replacement": "เก่ง ๆ", "entropy": 0.0, "counts": {"เก่ง ๆ": 1}}
+{"raw": "เล้ยย", "replacement": "เลย", "entropy": 0.0, "counts": {"เลย": 2}}
+{"raw": "หนิ", "replacement": "นะ", "entropy": 1.360673760222241, "counts": {"นะ": 1, "นี่": 1}}
+{"raw": "ดึกๆ", "replacement": "ดึก ๆ", "entropy": 0.0, "counts": {"ดึก ๆ": 2}}
+{"raw": "ลขส", "replacement": "ลิขสิทธิ์", "entropy": 0.0, "counts": {"ลิขสิทธิ์": 1}}
+{"raw": "ไพเรท", "replacement": "ไพเรต", "entropy": 0.0, "counts": {"ไพเรต": 1}}
+{"raw": "ฮี", "replacement": "หี", "entropy": 0.0, "counts": {"หี": 1}}
+{"raw": "ลอคอิน", "replacement": "ล็อกอิน", "entropy": 0.0, "counts": {"ล็อกอิน": 1}}
+{"raw": "เครือง", "replacement": "เครื่อง", "entropy": 0.0, "counts": {"เครื่อง": 1}}
+{"raw": "แพ็กเกจจิ้ง", "replacement": "แพ็กเกจจิง", "entropy": 0.0, "counts": {"แพ็กเกจจิง": 1}}
+{"raw": "ซซ.", "replacement": "ซีซั่น", "entropy": 0.0, "counts": {"ซีซั่น": 1}}
+{"raw": "รีวิย", "replacement": "รีวิว", "entropy": 0.0, "counts": {"รีวิว": 1}}
+{"raw": "ง่า", "replacement": "อะ", "entropy": 1.360673760222241, "counts": {"อะ": 1, "ว่า": 1}}
+{"raw": "เมือ", "replacement": "เมื่อ", "entropy": 0.0, "counts": {"เมื่อ": 1}}
+{"raw": "ยั่วๆ", "replacement": "ยั่ว ๆ", "entropy": 0.0, "counts": {"ยั่ว ๆ": 1}}
+{"raw": "คิ่อย", "replacement": "ค่อย", "entropy": 0.0, "counts": {"ค่อย": 1}}
+{"raw": "สโอชิ", "replacement": "โอชิ", "entropy": 0.0, "counts": {"โอชิ": 1}}
+{"raw": "ทุรกันดาน", "replacement": "ทุรกันดาร", "entropy": 0.0, "counts": {"ทุรกันดาร": 1}}
+{"raw": "ปท", "replacement": "ประเทศ", "entropy": 0.0, "counts": {"ประเทศ": 1}}
+{"raw": "ยอดดดดดด", "replacement": "ยอด", "entropy": 0.0, "counts": {"ยอด": 1}}
+{"raw": "เที่ยบ", "replacement": "เทียบ", "entropy": 0.0, "counts": {"เทียบ": 1}}
+{"raw": "ทิ้น", "replacement": "ทินต์", "entropy": 0.0, "counts": {"ทินต์": 2}}
+{"raw": "เว้ยย", "replacement": "เว้ย", "entropy": 0.0, "counts": {"เว้ย": 1}}
+{"raw": "แบ่บ", "replacement": "แบบ", "entropy": 0.0, "counts": {"แบบ": 1}}
+{"raw": "โอย", "replacement": "โอ๊ย", "entropy": 0.0, "counts": {"โอ๊ย": 1}}
+{"raw": "แปบๆ", "replacement": "แป๊บๆ", "entropy": 0.0, "counts": {"แป๊บๆ": 1}}
+{"raw": "แอพพลิเคชั่น", "replacement": "แอปพลิเคชัน", "entropy": 0.0, "counts": {"แอปพลิเคชัน": 1}}
+{"raw": "อคย", "replacement": "เคย", "entropy": 0.0, "counts": {"เคย": 1}}
+{"raw": "พุด", "replacement": "พูด", "entropy": 0.0, "counts": {"พูด": 1}}
+{"raw": "สวยย", "replacement": "สวย", "entropy": 0.0, "counts": {"สวย": 1}}
+{"raw": "ห่วงของใย", "replacement": "ห่วงใยของใย", "entropy": 0.0, "counts": {"ห่วงใยของใย": 1}}
+{"raw": "มั่ย", "replacement": "ไม่", "entropy": 0.0, "counts": {"ไม่": 4}}
+{"raw": "หวัย", "replacement": "ไหว", "entropy": 0.0, "counts": {"ไหว": 1}}
+{"raw": "ล้อง", "replacement": "ร้อง", "entropy": 0.0, "counts": {"ร้อง": 1}}
+{"raw": "เอ๋า", "replacement": "อ้าว", "entropy": 0.0, "counts": {"อ้าว": 1}}
+{"raw": "ขาวๆ", "replacement": "ขาว ๆ", "entropy": 0.0, "counts": {"ขาว ๆ": 1}}
+{"raw": "น่าร๊ากกก", "replacement": "น่ารัก", "entropy": 0.0, "counts": {"น่ารัก": 1}}
+{"raw": "ชั้ล", "replacement": "ฉัน", "entropy": 0.0, "counts": {"ฉัน": 3}}
+{"raw": "นอง", "replacement": "นอน", "entropy": 0.0, "counts": {"นอน": 1}}
+{"raw": "ก่อง", "replacement": "ก่อน", "entropy": 0.0, "counts": {"ก่อน": 1}}
+{"raw": "สัมพาษณ์", "replacement": "สัมภาษณ์", "entropy": 0.0, "counts": {"สัมภาษณ์": 1}}
+{"raw": "ดิสกัส", "replacement": "ดิสคัส", "entropy": 0.0, "counts": {"ดิสคัส": 1}}
+{"raw": "เดี่ยวกัน", "replacement": "เดียวกัน", "entropy": 0.0, "counts": {"เดียวกัน": 1}}
+{"raw": "การมีตติ้ง", "replacement": "การมีตติง", "entropy": 0.0, "counts": {"การมีตติง": 1}}
+{"raw": "เดียม", "replacement": "เตรียม", "entropy": 0.0, "counts": {"เตรียม": 1}}
+{"raw": "เซนซิทีฟ", "replacement": "เซ็นซิทีฟ", "entropy": 0.0, "counts": {"เซ็นซิทีฟ": 1}}
+{"raw": "สังเกตุ", "replacement": "สังเกต", "entropy": 1.360673760222241, "counts": {"สังเกต": 1, "สังเกตุ": 1}}
+{"raw": "เคี้ยว", "replacement": "เขี้ยว", "entropy": 0.0, "counts": {"เขี้ยว": 1}}
+{"raw": "คสอ.", "replacement": "เครื่องสำอาง", "entropy": 0.0, "counts": {"เครื่องสำอาง": 1}}
+{"raw": "อ่ะแฮ่มๆ", "replacement": "อ่ะแฮ่ม ๆ", "entropy": 0.0, "counts": {"อ่ะแฮ่ม ๆ": 1}}
+{"raw": "เตง", "replacement": "ตัวเอง", "entropy": 0.0, "counts": {"ตัวเอง": 2}}
+{"raw": "เหี้ยๆๆๆๆๆๆๆ", "replacement": "เหี้ย ๆ", "entropy": 0.0, "counts": {"เหี้ย ๆ": 1}}
+{"raw": "5555555555555555555555555555", "replacement": "ขาด", "entropy": 0.0, "counts": {"ขาด": 1}}
+{"raw": "ลากๆ", "replacement": "ลาก ๆ", "entropy": 0.0, "counts": {"ลาก ๆ": 1}}
+{"raw": "ความผาสุข", "replacement": "ความผาสุก", "entropy": 0.0, "counts": {"ความผาสุก": 1}}
+{"raw": "อัป", "replacement": "อัปเดต", "entropy": 0.0, "counts": {"อัปเดต": 1}}
+{"raw": "ถุก", "replacement": "ถูก", "entropy": 0.0, "counts": {"ถูก": 1}}
+{"raw": "ความปรึก", "replacement": "ความปึก", "entropy": 0.0, "counts": {"ความปึก": 1}}
+{"raw": "โครตๆๆ", "replacement": "โคตรๆ", "entropy": 0.0, "counts": {"โคตรๆ": 1}}
+{"raw": "ชัวิต", "replacement": "ชีวิต", "entropy": 0.0, "counts": {"ชีวิต": 1}}
+{"raw": "เระ", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "ต่อต่อต้าน", "replacement": "ต่อต้าน", "entropy": 0.0, "counts": {"ต่อต้าน": 1}}
+{"raw": "เรื่อ", "replacement": "เรื่อง", "entropy": 0.0, "counts": {"เรื่อง": 1}}
+{"raw": "กำไล", "replacement": "กำไร", "entropy": 0.0, "counts": {"กำไร": 1}}
+{"raw": "ปั้ม", "replacement": "ปัมป์", "entropy": 1.360673760222241, "counts": {"ปัมป์": 1, "ปั๊ม": 1}}
+{"raw": "เทคแคร์", "replacement": "เทกแคร์", "entropy": 0.0, "counts": {"เทกแคร์": 1}}
+{"raw": "ก้มตาก้มตา", "replacement": "ก้มหน้าก้มตา", "entropy": 0.0, "counts": {"ก้มหน้าก้มตา": 1}}
+{"raw": "น่ารักๆๆๆๆๆๆๆๆๆๆ", "replacement": "น่ารักๆ", "entropy": 0.0, "counts": {"น่ารักๆ": 1}}
+{"raw": "โพรเจคไทน์", "replacement": "โปรเจกไทน์", "entropy": 0.0, "counts": {"โปรเจกไทน์": 1}}
+{"raw": "โพราลอย", "replacement": "โพราลอยด์", "entropy": 0.0, "counts": {"โพราลอยด์": 1}}
+{"raw": "เซอร์ไพรส", "replacement": "เซอร์ไพรส์", "entropy": 0.0, "counts": {"เซอร์ไพรส์": 1}}
+{"raw": "มิย", "replacement": "มิ.ย.", "entropy": 0.0, "counts": {"มิ.ย.": 1}}
+{"raw": "นิดนุง", "replacement": "นิดหนึ่ง", "entropy": 0.0, "counts": {"นิดหนึ่ง": 1}}
+{"raw": "มือถือสากปากอม***", "replacement": "มือถือสากปากถือศีล", "entropy": 0.0, "counts": {"มือถือสากปากถือศีล": 1}}
+{"raw": "ขยะแยง", "replacement": "ขยะแขยง", "entropy": 0.0, "counts": {"ขยะแขยง": 1}}
+{"raw": "อะรัย", "replacement": "อะไร", "entropy": 0.0, "counts": {"อะไร": 3}}
+{"raw": "แผลงๆ", "replacement": "แผลง ๆ", "entropy": 0.0, "counts": {"แผลง ๆ": 1}}
+{"raw": "ค้า", "replacement": "คะ", "entropy": 0.0, "counts": {"คะ": 1}}
+{"raw": "เอ่ยย", "replacement": "เอ่ย", "entropy": 0.0, "counts": {"เอ่ย": 1}}
+{"raw": "ให", "replacement": "ให้", "entropy": 0.0, "counts": {"ให้": 1}}
+{"raw": "ผิดๆๆๆๆๆ", "replacement": "ผิดๆ", "entropy": 0.0, "counts": {"ผิดๆ": 1}}
+{"raw": "ก่", "replacement": "ก็", "entropy": 0.0, "counts": {"ก็": 2}}
+{"raw": "เห้นใจ", "replacement": "เห็นใจ", "entropy": 0.0, "counts": {"เห็นใจ": 1}}
+{"raw": "ความรุสึก", "replacement": "ความรู้สึก", "entropy": 0.0, "counts": {"ความรู้สึก": 1}}
+{"raw": "ชี่ย", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 1}}
+{"raw": "รุสึก", "replacement": "รู้สึก", "entropy": 0.0, "counts": {"รู้สึก": 1}}
+{"raw": "กล่ย", "replacement": "กลาย", "entropy": 0.0, "counts": {"กลาย": 1}}
+{"raw": "จิงๆ", "replacement": "จริงๆ", "entropy": 1.1587450075359835, "counts": {"จริงๆ": 2, "จริง ๆ": 1}}
+{"raw": "เธ๊อ", "replacement": "เธอ", "entropy": 0.0, "counts": {"เธอ": 1}}
+{"raw": "บัย", "replacement": "บาย", "entropy": 0.0, "counts": {"บาย": 1}}
+{"raw": "ร้ากกก", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "เหรียญเซรามิค", "replacement": "เหรียญเซรามิก", "entropy": 0.0, "counts": {"เหรียญเซรามิก": 1}}
+{"raw": "โปรเจ็ค", "replacement": "โปรเจกต์", "entropy": 0.0, "counts": {"โปรเจกต์": 3}}
+{"raw": "พนง", "replacement": "พนักงาน", "entropy": 0.0, "counts": {"พนักงาน": 1}}
+{"raw": "คิ้วๆ", "replacement": "คิ้ว ๆ", "entropy": 0.0, "counts": {"คิ้ว ๆ": 1}}
+{"raw": "สปอร์ท", "replacement": "สปอร์ต", "entropy": 0.0, "counts": {"สปอร์ต": 1}}
+{"raw": "เกงวอร์ม", "replacement": "กางเกงวอร์ม", "entropy": 0.0, "counts": {"กางเกงวอร์ม": 1}}
+{"raw": "ร้ากกกกก", "replacement": "รัก", "entropy": 0.0, "counts": {"รัก": 1}}
+{"raw": "รอยยิ่ม", "replacement": "รอยยิ้ม", "entropy": 0.0, "counts": {"รอยยิ้ม": 1}}
+{"raw": "ชิปเปอร", "replacement": "ชิปเปอร์", "entropy": 0.0, "counts": {"ชิปเปอร์": 1}}
+{"raw": "เวล", "replacement": "เวลา", "entropy": 2.065860847684144, "counts": {"เวลา": 1, "เวล": 1, "เลเวล": 1}}
+{"raw": "กราฟฟิค", "replacement": "กราฟฟิก", "entropy": 0.0, "counts": {"กราฟฟิก": 1}}
+{"raw": "พวกเค้า", "replacement": "พวกเขา", "entropy": 0.0, "counts": {"พวกเขา": 1}}
+{"raw": "สถน.รฟ", "replacement": "สถานีรถไฟ", "entropy": 0.0, "counts": {"สถานีรถไฟ": 1}}
+{"raw": "รฟ.", "replacement": "รถไฟ", "entropy": 0.0, "counts": {"รถไฟ": 1}}
+{"raw": "มาค", "replacement": "มาส์ก", "entropy": 0.0, "counts": {"มาส์ก": 1}}
+{"raw": "เนียบ", "replacement": "เนียน", "entropy": 0.0, "counts": {"เนียน": 2}}
+{"raw": "เรียบเนียบ", "replacement": "เรียบเนียน", "entropy": 0.0, "counts": {"เรียบเนียน": 1}}
+{"raw": "เริ้ฟฟ", "replacement": "เลิฟ", "entropy": 0.0, "counts": {"เลิฟ": 1}}
+{"raw": "พ๊อตเรื่อง", "replacement": "พล็อตเรื่อง", "entropy": 0.0, "counts": {"พล็อตเรื่อง": 1}}
+{"raw": "หมูทะ", "replacement": "หมูกระทะ", "entropy": 0.0, "counts": {"หมูกระทะ": 1}}
+{"raw": "ไอ้ซัซ", "replacement": "ไอ้สัตว์", "entropy": 0.0, "counts": {"ไอ้สัตว์": 1}}
+{"raw": "ขอแม้", "replacement": "ข้อแม้", "entropy": 0.0, "counts": {"ข้อแม้": 1}}
+{"raw": "ดอม", "replacement": "ด้อม", "entropy": 0.0, "counts": {"ด้อม": 1}}
+{"raw": "คนอ่า", "replacement": "คนอ่าน", "entropy": 0.0, "counts": {"คนอ่าน": 1}}
+{"raw": "คุน", "replacement": "คุณ", "entropy": 0.0, "counts": {"คุณ": 2}}
+{"raw": "นสด", "replacement": "นักแสดง", "entropy": 0.0, "counts": {"นักแสดง": 1}}
+{"raw": "พี่ว๊าก", "replacement": "พี่ว้าก", "entropy": 0.0, "counts": {"พี่ว้าก": 1}}
+{"raw": "กระยับ", "replacement": "ขยับ", "entropy": 0.0, "counts": {"ขยับ": 1}}
+{"raw": "บู้", "replacement": "บู๊", "entropy": 0.0, "counts": {"บู๊": 1}}
+{"raw": "บนๆ", "replacement": "บน ๆ", "entropy": 0.0, "counts": {"บน ๆ": 1}}
+{"raw": "เหนี่ยวแน่น", "replacement": "เหนียวแน่น", "entropy": 0.0, "counts": {"เหนียวแน่น": 1}}
+{"raw": "ตรู", "replacement": "ตู", "entropy": 0.0, "counts": {"ตู": 1}}
+{"raw": "เล้ย", "replacement": "เลย", "entropy": 1.360673760222241, "counts": {"เลย": 1, "เล้ย": 1}}
+{"raw": "ป้องการ", "replacement": "ป้องกัน", "entropy": 0.0, "counts": {"ป้องกัน": 1}}
+{"raw": "เผลอเลอ", "replacement": "เผอเรอ", "entropy": 0.0, "counts": {"เผอเรอ": 1}}
+{"raw": "ใข่", "replacement": "ใช่", "entropy": 0.0, "counts": {"ใช่": 1}}
+{"raw": "วิทฯ", "replacement": "วิทยศาสตร์", "entropy": 0.0, "counts": {"วิทยศาสตร์": 1}}
+{"raw": "จักแร้", "replacement": "รักแร้", "entropy": 0.0, "counts": {"รักแร้": 2}}
+{"raw": "มีๆ", "replacement": "มี ๆ", "entropy": 0.0, "counts": {"มี ๆ": 1}}
+{"raw": "ร้อนๆ", "replacement": "ร้อน ๆ", "entropy": 0.0, "counts": {"ร้อน ๆ": 1}}
+{"raw": "เบส", "replacement": "เบสต์", "entropy": 0.0, "counts": {"เบสต์": 1}}
+{"raw": "อัลฟ่า", "replacement": "อัลฟา", "entropy": 0.0, "counts": {"อัลฟา": 2}}
+{"raw": "เบต้า", "replacement": "เบตา", "entropy": 0.0, "counts": {"เบตา": 1}}
+{"raw": "งื้อออ", "replacement": "งื้อ", "entropy": 0.0, "counts": {"งื้อ": 1}}
+{"raw": "เขิง", "replacement": "เขิน", "entropy": 0.0, "counts": {"เขิน": 1}}
+{"raw": "ชลบุรี๊", "replacement": "ชลบุรี", "entropy": 0.0, "counts": {"ชลบุรี": 1}}
+{"raw": "ด*ก", "replacement": "ดอก", "entropy": 0.0, "counts": {"ดอก": 1}}
+{"raw": "พิมนิยม", "replacement": "พิมพ์นิยม", "entropy": 0.0, "counts": {"พิมพ์นิยม": 1}}
+{"raw": "โอกาศ", "replacement": "โอกาส", "entropy": 0.0, "counts": {"โอกาส": 1}}
+{"raw": "ตัลหรอด", "replacement": "ตลอด", "entropy": 0.0, "counts": {"ตลอด": 1}}
+{"raw": "เริ้ป", "replacement": "เลิฟ", "entropy": 0.0, "counts": {"เลิฟ": 1}}
+{"raw": "มั่กๆ", "replacement": "มากๆ", "entropy": 0.0, "counts": {"มากๆ": 1}}
+{"raw": "มอไซต์", "replacement": "มอเตอร์ไซค์", "entropy": 0.0, "counts": {"มอเตอร์ไซค์": 1}}
+{"raw": "ยุว", "replacement": "ยุวกาชาด", "entropy": 0.0, "counts": {"ยุวกาชาด": 1}}
+{"raw": "ป๊าดด", "replacement": "ป๊าด", "entropy": 0.0, "counts": {"ป๊าด": 1}}
+{"raw": "สพาย", "replacement": "สะพาย", "entropy": 0.0, "counts": {"สะพาย": 1}}
+{"raw": "อิเว้นน", "replacement": "อีเวร", "entropy": 0.0, "counts": {"อีเวร": 1}}
+{"raw": "แบ้ว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 2}}
+{"raw": "ฮอท", "replacement": "ฮอต", "entropy": 0.0, "counts": {"ฮอต": 1}}
+{"raw": "เลคเช่อ", "replacement": "เลคเชอร์", "entropy": 0.0, "counts": {"เลคเชอร์": 1}}
+{"raw": "ฟิ๊น", "replacement": "ฟิน", "entropy": 0.0, "counts": {"ฟิน": 1}}
+{"raw": "แกร๊", "replacement": "แก", "entropy": 0.0, "counts": {"แก": 2}}
+{"raw": "บีทบ๊อก", "replacement": "บีทบ๊อกซ์", "entropy": 0.0, "counts": {"บีทบ๊อกซ์": 1}}
+{"raw": "แรพ", "replacement": "แรป", "entropy": 0.0, "counts": {"แรป": 1}}
+{"raw": "ชอบบบ", "replacement": "ชอบ", "entropy": 0.0, "counts": {"ชอบ": 1}}
+{"raw": "จม.", "replacement": "จดหมาย", "entropy": 0.0, "counts": {"จดหมาย": 1}}
+{"raw": "ด้ายยย", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "อัพโหลด", "replacement": "อัปโหลด", "entropy": 0.0, "counts": {"อัปโหลด": 1}}
+{"raw": "วอทท", "replacement": "วอต", "entropy": 0.0, "counts": {"วอต": 1}}
+{"raw": "เขาหา", "replacement": "เข้าหา", "entropy": 0.0, "counts": {"เข้าหา": 1}}
+{"raw": "เป็", "replacement": "เป็น", "entropy": 0.0, "counts": {"เป็น": 1}}
+{"raw": "ปายย", "replacement": "ไป", "entropy": 0.0, "counts": {"ไป": 1}}
+{"raw": "ค.สนใจ", "replacement": "ความสนใจ", "entropy": 0.0, "counts": {"ความสนใจ": 1}}
+{"raw": "เลื่อยๆ", "replacement": "เรื่อยๆ", "entropy": 0.0, "counts": {"เรื่อยๆ": 1}}
+{"raw": "พีค!!!!!", "replacement": "พีค!", "entropy": 0.0, "counts": {"พีค!": 1}}
+{"raw": "ต่อ!!", "replacement": "ต่อ!", "entropy": 0.0, "counts": {"ต่อ!": 1}}
+{"raw": "ปญอ.", "replacement": "ปัญญาอ่อน", "entropy": 0.0, "counts": {"ปัญญาอ่อน": 1}}
+{"raw": "ขก.", "replacement": "ขี้เกียจ", "entropy": 0.0, "counts": {"ขี้เกียจ": 1}}
+{"raw": "ริษัท", "replacement": "บริษัท", "entropy": 0.0, "counts": {"บริษัท": 1}}
+{"raw": "ประครอง", "replacement": "ประคอง", "entropy": 0.0, "counts": {"ประคอง": 1}}
+{"raw": "ผกก.", "replacement": "ผู้กำกับ", "entropy": 1.1587450075359835, "counts": {"ผู้กำกับ": 2, "ผกก.": 1}}
+{"raw": "ใส้", "replacement": "ไส้", "entropy": 0.0, "counts": {"ไส้": 1}}
+{"raw": "อต.", "replacement": "อินเตอร์", "entropy": 0.0, "counts": {"อินเตอร์": 2}}
+{"raw": "ยังๆ", "replacement": "ยัง ๆ", "entropy": 0.0, "counts": {"ยัง ๆ": 1}}
+{"raw": "ไหง", "replacement": "ไง", "entropy": 0.0, "counts": {"ไง": 1}}
+{"raw": "เค้าท์เตอร์", "replacement": "เคาน์เตอร์", "entropy": 0.0, "counts": {"เคาน์เตอร์": 1}}
+{"raw": "บุลลี่", "replacement": "บุลลี", "entropy": 0.0, "counts": {"บุลลี": 1}}
+{"raw": "คม.", "replacement": "คอมเมนต์", "entropy": 0.0, "counts": {"คอมเมนต์": 1}}
+{"raw": "นี้แหละ", "replacement": "นี่แหละ", "entropy": 0.0, "counts": {"นี่แหละ": 1}}
+{"raw": "โซเชี่ยว", "replacement": "โซเชียลเน็ตเวิร์ก", "entropy": 0.0, "counts": {"โซเชียลเน็ตเวิร์ก": 1}}
+{"raw": "กลิ่นไอ", "replacement": "กลิ่นอาย", "entropy": 0.0, "counts": {"กลิ่นอาย": 1}}
+{"raw": "ชดชย", "replacement": "ชดเชย", "entropy": 0.0, "counts": {"ชดเชย": 1}}
+{"raw": "เม้าธ์มอย", "replacement": "เมาธ์มอย", "entropy": 0.0, "counts": {"เมาธ์มอย": 1}}
+{"raw": "อ้ะ", "replacement": "อะ", "entropy": 0.0, "counts": {"อะ": 3}}
+{"raw": "เอ้ยยยยยย", "replacement": "เอ๊ย", "entropy": 0.0, "counts": {"เอ๊ย": 1}}
+{"raw": "ชิบผายย", "replacement": "ฉิบหาย", "entropy": 0.0, "counts": {"ฉิบหาย": 1}}
+{"raw": "ว้อยยยยยยยยย", "replacement": "โว้ย", "entropy": 0.0, "counts": {"โว้ย": 1}}
+{"raw": "รับผิดชอบบ", "replacement": "รับผิดชอบ", "entropy": 0.0, "counts": {"รับผิดชอบ": 1}}
+{"raw": "แบรก", "replacement": "เบรก", "entropy": 0.0, "counts": {"เบรก": 1}}
+{"raw": "พรี่", "replacement": "พี่", "entropy": 0.0, "counts": {"พี่": 1}}
+{"raw": "ฟุตบาท", "replacement": "ฟุตพาท", "entropy": 0.0, "counts": {"ฟุตพาท": 1}}
+{"raw": "นส.", "replacement": "หนังสือ", "entropy": 0.0, "counts": {"หนังสือ": 1}}
+{"raw": "ป่ะๆๆๆๆๆ", "replacement": "หรือเปล่าๆ", "entropy": 0.0, "counts": {"หรือเปล่าๆ": 1}}
+{"raw": "เนี่ย!!!!", "replacement": "นี่!", "entropy": 0.0, "counts": {"นี่!": 1}}
+{"raw": "จิ้งงงงงงง", "replacement": "จริง", "entropy": 0.0, "counts": {"จริง": 1}}
+{"raw": "พูมจัย", "replacement": "ภูมิใจ", "entropy": 0.0, "counts": {"ภูมิใจ": 1}}
+{"raw": "ปะดิ๊ว", "replacement": "พรอดิวซ์", "entropy": 0.0, "counts": {"พรอดิวซ์": 1}}
+{"raw": "???", "replacement": "?", "entropy": 0.0, "counts": {"?": 1}}
+{"raw": "เอพ", "replacement": "เอพิโสด", "entropy": 0.0, "counts": {"เอพิโสด": 1}}
+{"raw": "น่าจงจาน", "replacement": "น่าสงสาร", "entropy": 0.0, "counts": {"น่าสงสาร": 1}}
+{"raw": "นู่นนี่นั่น", "replacement": "โน่นนี่นั่น", "entropy": 0.0, "counts": {"โน่นนี่นั่น": 1}}
+{"raw": "พาสาอังกิด", "replacement": "ภาษาอังกฤษ", "entropy": 0.0, "counts": {"ภาษาอังกฤษ": 1}}
+{"raw": "อ้างอี", "replacement": "อ้างอิง", "entropy": 0.0, "counts": {"อ้างอิง": 1}}
+{"raw": "หข่อ", "replacement": "หล่อ", "entropy": 0.0, "counts": {"หล่อ": 1}}
+{"raw": "ดุ๊กดิ๊กๆ", "replacement": "ดุ๊กดิ๊ก ๆ", "entropy": 0.0, "counts": {"ดุ๊กดิ๊ก ๆ": 1}}
+{"raw": "ตายๆ", "replacement": "ตาย ๆ", "entropy": 0.0, "counts": {"ตาย ๆ": 1}}
+{"raw": "น่าเอ็นดู๊ววว", "replacement": "น่าเอ็นดู", "entropy": 0.0, "counts": {"น่าเอ็นดู": 1}}
+{"raw": "มากมาก", "replacement": "มาก ๆ", "entropy": 0.0, "counts": {"มาก ๆ": 1}}
+{"raw": "เว่อๆ", "replacement": "เวอร์ ๆ", "entropy": 0.0, "counts": {"เวอร์ ๆ": 1}}
+{"raw": "ลู้", "replacement": "รู้", "entropy": 0.0, "counts": {"รู้": 1}}
+{"raw": "ตัวแฉบ", "replacement": "ตัวแสบ", "entropy": 0.0, "counts": {"ตัวแสบ": 1}}
+{"raw": "พิม", "replacement": "พิมพ์", "entropy": 0.0, "counts": {"พิมพ์": 4}}
+{"raw": "หม๊ดดด", "replacement": "หมด", "entropy": 0.0, "counts": {"หมด": 1}}
+{"raw": "อร่อยยยย", "replacement": "อร่อย", "entropy": 0.0, "counts": {"อร่อย": 1}}
+{"raw": "สายตี้", "replacement": "สายปาร์ตี", "entropy": 0.0, "counts": {"สายปาร์ตี": 1}}
+{"raw": "โลชั่น", "replacement": "โลชัน", "entropy": 0.0, "counts": {"โลชัน": 1}}
+{"raw": "ฟ้าทะลายโจ", "replacement": "ฟ้าทะลายโจร", "entropy": 0.0, "counts": {"ฟ้าทะลายโจร": 1}}
+{"raw": "หนมปัง", "replacement": "ขนมปัง", "entropy": 0.0, "counts": {"ขนมปัง": 1}}
+{"raw": "พี่เค้า", "replacement": "พี่เขา", "entropy": 0.0, "counts": {"พี่เขา": 1}}
+{"raw": "อ้วกก", "replacement": "อ้วก", "entropy": 0.0, "counts": {"อ้วก": 1}}
+{"raw": "ดั้ยยยย", "replacement": "ได้", "entropy": 0.0, "counts": {"ได้": 1}}
+{"raw": "ขอออ", "replacement": "ขอ", "entropy": 0.0, "counts": {"ขอ": 1}}
+{"raw": "#เวิร์คช็อป", "replacement": "#เวิร์กชอป", "entropy": 0.0, "counts": {"#เวิร์กชอป": 1}}
+{"raw": "เพ้นท์", "replacement": "เพนต์", "entropy": 0.0, "counts": {"เพนต์": 5}}
+{"raw": "เซรามิค", "replacement": "เซรามิก", "entropy": 0.0, "counts": {"เซรามิก": 3}}
+{"raw": "เวิร์คช็อป", "replacement": "เวิร์กชอป", "entropy": 1.360673760222241, "counts": {"เวิร์กชอป": 1, "เวิร์หชอป": 1}}
+{"raw": "#เวิร์คชอป", "replacement": "#เวิร์กชอป", "entropy": 0.0, "counts": {"#เวิร์กชอป": 1}}
+{"raw": "#เพ้นท์", "replacement": "#เพนต์", "entropy": 0.0, "counts": {"#เพนต์": 1}}
+{"raw": "ดั้น", "replacement": "ดัน", "entropy": 0.0, "counts": {"ดัน": 1}}
+{"raw": "โว๊ะ", "replacement": "โวะ", "entropy": 0.0, "counts": {"โวะ": 1}}
+{"raw": "ฟตช", "replacement": "โฟโตเซ็ต", "entropy": 0.0, "counts": {"โฟโตเซ็ต": 1}}
+{"raw": "ว่างๆ", "replacement": "ว่าง ๆ", "entropy": 0.0, "counts": {"ว่าง ๆ": 1}}
+{"raw": "เริม", "replacement": "เริ่ม", "entropy": 0.0, "counts": {"เริ่ม": 1}}
+{"raw": "แป๊ปๆ", "replacement": "แป๊บ ๆ", "entropy": 0.0, "counts": {"แป๊บ ๆ": 1}}
+{"raw": "ลำสี", "replacement": "สำลี", "entropy": 0.0, "counts": {"สำลี": 1}}
+{"raw": "ซพ.", "replacement": "เซอร์ไพรส์", "entropy": 0.0, "counts": {"เซอร์ไพรส์": 1}}
+{"raw": "ใหญ่้", "replacement": "ใหญ่", "entropy": 0.0, "counts": {"ใหญ่": 1}}
+{"raw": "นิดนุ้ง", "replacement": "นิดหนึ่ง", "entropy": 0.0, "counts": {"นิดหนึ่ง": 1}}
+{"raw": "ช้าน", "replacement": "ฉัน", "entropy": 0.0, "counts": {"ฉัน": 1}}
+{"raw": "ไอ้อดอก", "replacement": "ไอ้ดอก", "entropy": 0.0, "counts": {"ไอ้ดอก": 1}}
+{"raw": "อิเห้", "replacement": "อีเหี้ย", "entropy": 0.0, "counts": {"อีเหี้ย": 1}}
+{"raw": "ครั่ง", "replacement": "ครั้ง", "entropy": 0.0, "counts": {"ครั้ง": 1}}
+{"raw": "ทั่ง", "replacement": "ทั้ง", "entropy": 0.0, "counts": {"ทั้ง": 1}}
+{"raw": "เนี่ยยยย", "replacement": "นี่", "entropy": 0.0, "counts": {"นี่": 1}}
+{"raw": "ราวัล", "replacement": "รางวัล", "entropy": 0.0, "counts": {"รางวัล": 1}}
+{"raw": "เนี่ย??", "replacement": "เนี่ย?", "entropy": 0.0, "counts": {"เนี่ย?": 1}}
+{"raw": "กำลังภายใ", "replacement": "กำลังภายใน", "entropy": 0.0, "counts": {"กำลังภายใน": 1}}
+{"raw": "เศร้าๆ", "replacement": "เศร้า ๆ", "entropy": 0.0, "counts": {"เศร้า ๆ": 1}}
+{"raw": "เครื่องสําอางค์", "replacement": "เครื่องสําอาง", "entropy": 0.0, "counts": {"เครื่องสําอาง": 1}}
+{"raw": "อ", "replacement": "อี", "entropy": 1.360673760222241, "counts": {"อี": 1, "เหรอ": 1}}
+{"raw": "ห.", "replacement": "เหี้ย", "entropy": 0.0, "counts": {"เหี้ย": 1}}
+{"raw": "ลุงๆ", "replacement": "ลุง ๆ", "entropy": 0.0, "counts": {"ลุง ๆ": 1}}
+{"raw": "ตาๆ", "replacement": "ตา ๆ", "entropy": 0.0, "counts": {"ตา ๆ": 1}}
+{"raw": "สวยยยยยยยย", "replacement": "สวย", "entropy": 0.0, "counts": {"สวย": 1}}
+{"raw": "ชิปหายวายป่วง", "replacement": "ฉิบหายวายป่วง", "entropy": 0.0, "counts": {"ฉิบหายวายป่วง": 1}}
+{"raw": "สะ", "replacement": "เสีย", "entropy": 0.0, "counts": {"เสีย": 1}}
+{"raw": "ด.", "replacement": "เดือน", "entropy": 0.0, "counts": {"เดือน": 1}}
+{"raw": "พี้ค", "replacement": "พี้ก", "entropy": 0.0, "counts": {"พี้ก": 1}}
+{"raw": "ูชอบ", "replacement": "ชอบ", "entropy": 0.0, "counts": {"ชอบ": 1}}
+{"raw": "ผีน้อยยยย", "replacement": "ผีน้อย", "entropy": 0.0, "counts": {"ผีน้อย": 1}}
+{"raw": "เล่นกัน", "replacement": "เช่นกัน", "entropy": 0.0, "counts": {"เช่นกัน": 1}}
+{"raw": "สุขภสพ", "replacement": "สุขภาพ", "entropy": 0.0, "counts": {"สุขภาพ": 1}}
+{"raw": "ยากกกกก", "replacement": "ยาก", "entropy": 0.0, "counts": {"ยาก": 1}}
+{"raw": "โคตรเง่าวงศ์ตระกูล", "replacement": "โคตรเหง้าวงศ์ตระกูล", "entropy": 0.0, "counts": {"โคตรเหง้าวงศ์ตระกูล": 1}}
+{"raw": "โอ้วโหววว", "replacement": "โอ้โห", "entropy": 0.0, "counts": {"โอ้โห": 1}}
+{"raw": "น้อนๆ", "replacement": "น้อง ๆ", "entropy": 0.0, "counts": {"น้อง ๆ": 1}}
+{"raw": "แง้ง", "replacement": "แง", "entropy": 0.0, "counts": {"แง": 1}}
+{"raw": "สุดๆๆ", "replacement": "สุด ๆ", "entropy": 0.0, "counts": {"สุด ๆ": 1}}
+{"raw": "ขื่อ", "replacement": "ชื่อ", "entropy": 0.0, "counts": {"ชื่อ": 1}}
+{"raw": "รุ้", "replacement": "รู้", "entropy": 0.0, "counts": {"รู้": 2}}
+{"raw": "นี", "replacement": "นี้", "entropy": 0.0, "counts": {"นี้": 1}}
+{"raw": "เซ็งๆ", "replacement": "เซ็ง ๆ", "entropy": 0.0, "counts": {"เซ็ง ๆ": 1}}
+{"raw": "ทำไร", "replacement": "ทำอะไร", "entropy": 0.0, "counts": {"ทำอะไร": 1}}
+{"raw": "เซกซี่", "replacement": "เซ็กซี", "entropy": 0.0, "counts": {"เซ็กซี": 1}}
+{"raw": "คหสต", "replacement": "ความเห็นส่วนตัว", "entropy": 0.0, "counts": {"ความเห็นส่วนตัว": 2}}
+{"raw": "ฟิก", "replacement": "ฟิกชัน", "entropy": 0.0, "counts": {"ฟิกชัน": 1}}
+{"raw": "ข่อม", "replacement": "ขอบคุณ", "entropy": 0.0, "counts": {"ขอบคุณ": 1}}
+{"raw": "ข่า", "replacement": "ค่ะ", "entropy": 0.0, "counts": {"ค่ะ": 1}}
+{"raw": "ฮะๆๆ", "replacement": "ฮะๆ", "entropy": 0.0, "counts": {"ฮะๆ": 1}}
+{"raw": "แม่!!!", "replacement": "แม่!", "entropy": 0.0, "counts": {"แม่!": 1}}
+{"raw": "เนิ่นเขา", "replacement": "เนินเขา", "entropy": 0.0, "counts": {"เนินเขา": 1}}
+{"raw": "นักกีฬาโอลิมปิค", "replacement": "นักกีฬาโอลิมปิก", "entropy": 0.0, "counts": {"นักกีฬาโอลิมปิก": 1}}
+{"raw": "สำเร็จๆๆ", "replacement": "สำเร็จ ๆ", "entropy": 0.0, "counts": {"สำเร็จ ๆ": 1}}
+{"raw": "บูลลี่", "replacement": "บูลลี", "entropy": 0.0, "counts": {"บูลลี": 1}}
+{"raw": "คัมแบค", "replacement": "คัมแบ็ก", "entropy": 0.0, "counts": {"คัมแบ็ก": 1}}
+{"raw": "ใช่ๆ", "replacement": "ใช่ ๆ", "entropy": 0.0, "counts": {"ใช่ ๆ": 1}}
+{"raw": "เหยยย", "replacement": "เหย", "entropy": 0.0, "counts": {"เหย": 1}}
+{"raw": "บล๊อค", "replacement": "บล็อก", "entropy": 0.0, "counts": {"บล็อก": 1}}
+{"raw": "รปห", "replacement": "รัฐประหาร", "entropy": 0.0, "counts": {"รัฐประหาร": 1}}
+{"raw": "แร้ววว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "อหหหหห", "replacement": "อีเหี้ย", "entropy": 0.0, "counts": {"อีเหี้ย": 1}}
+{"raw": "ปอลอ.", "replacement": "ป.ล.", "entropy": 0.0, "counts": {"ป.ล.": 1}}
+{"raw": "ดั้นด้น", "replacement": "ดัน", "entropy": 0.0, "counts": {"ดัน": 1}}
+{"raw": "เรื่อยๆๆๆๆ", "replacement": "เรื่อยๆ", "entropy": 0.0, "counts": {"เรื่อยๆ": 1}}
+{"raw": "คือแบ่บ", "replacement": "คือแบบ", "entropy": 0.0, "counts": {"คือแบบ": 1}}
+{"raw": "ใันๆ", "replacement": "วันๆ", "entropy": 0.0, "counts": {"วันๆ": 1}}
+{"raw": "เปงบ้า", "replacement": "เป็นบ้า", "entropy": 0.0, "counts": {"เป็นบ้า": 1}}
+{"raw": "แนะนะ", "replacement": "แนะนำ", "entropy": 0.0, "counts": {"แนะนำ": 1}}
+{"raw": "สตก.", "replacement": "สติกเกอร์", "entropy": 0.0, "counts": {"สติกเกอร์": 1}}
+{"raw": "สติ๊กเกอร์ไลน์", "replacement": "สติกเกอร์ไลน์", "entropy": 0.0, "counts": {"สติกเกอร์ไลน์": 1}}
+{"raw": "ปท.", "replacement": "ประเทศ", "entropy": 0.0, "counts": {"ประเทศ": 2}}
+{"raw": "ว๊อททท", "replacement": "ว้อท", "entropy": 0.0, "counts": {"ว้อท": 1}}
+{"raw": "เมเน", "replacement": "เมเนเจอร์", "entropy": 0.0, "counts": {"เมเนเจอร์": 1}}
+{"raw": "ฮืออออออ", "replacement": "ฮือ", "entropy": 0.0, "counts": {"ฮือ": 1}}
+{"raw": "ปะดิ้ว", "replacement": "โปรดิวซ์", "entropy": 0.0, "counts": {"โปรดิวซ์": 1}}
+{"raw": "ค่ด", "replacement": "โคตร", "entropy": 0.0, "counts": {"โคตร": 1}}
+{"raw": "งุ๊ยๆๆ", "replacement": "งุ้ยๆ", "entropy": 0.0, "counts": {"งุ้ยๆ": 1}}
+{"raw": "หยัก", "replacement": "อยาก", "entropy": 0.0, "counts": {"อยาก": 1}}
+{"raw": "จังเล๊ยยยย", "replacement": "จังเลย", "entropy": 0.0, "counts": {"จังเลย": 1}}
+{"raw": "สต็อค", "replacement": "สต็อก", "entropy": 0.0, "counts": {"สต็อก": 1}}
+{"raw": "ใจเย็นๆ", "replacement": "ใจเย็น ๆ", "entropy": 0.0, "counts": {"ใจเย็น ๆ": 1}}
+{"raw": "โอปป้า", "replacement": "อปป้า", "entropy": 0.0, "counts": {"อปป้า": 1}}
+{"raw": "ฮิๆ", "replacement": "ฮิ ๆ", "entropy": 0.0, "counts": {"ฮิ ๆ": 1}}
+{"raw": "แชต", "replacement": "แชท", "entropy": 0.0, "counts": {"แชท": 2}}
+{"raw": "อัพเดต", "replacement": "อัปเดต", "entropy": 0.0, "counts": {"อัปเดต": 1}}
+{"raw": "ธรรมดาๆ", "replacement": "ธรรมดา ๆ", "entropy": 0.0, "counts": {"ธรรมดา ๆ": 1}}
+{"raw": "อืมมมม", "replacement": "อืม", "entropy": 0.0, "counts": {"อืม": 1}}
+{"raw": "ครุ่นคริส", "replacement": "ครุ่นคิด", "entropy": 0.0, "counts": {"ครุ่นคิด": 1}}
+{"raw": "แล้วววววว", "replacement": "แล้ว", "entropy": 0.0, "counts": {"แล้ว": 1}}
+{"raw": "สเปค", "replacement": "สเปก", "entropy": 0.0, "counts": {"สเปก": 2}}
+{"raw": "หึๆ", "replacement": "หึ ๆ", "entropy": 0.0, "counts": {"หึ ๆ": 1}}
+{"raw": "ลายเซ็นต์", "replacement": "ลายเซ็น", "entropy": 0.0, "counts": {"ลายเซ็น": 1}}
+{"raw": "การแร็ป", "replacement": "การแรป", "entropy": 0.0, "counts": {"การแรป": 1}}
+{"raw": "ย่ะๆๆ", "replacement": "ย่ะๆ", "entropy": 0.0, "counts": {"ย่ะๆ": 1}}
+{"raw": "หร่อ", "replacement": "เหรอ", "entropy": 0.0, "counts": {"เหรอ": 1}}
+{"raw": "อะโฮ่า", "replacement": "อะโรฮ่า", "entropy": 0.0, "counts": {"อะโรฮ่า": 1}}
+{"raw": "แค้", "replacement": "แค่", "entropy": 0.0, "counts": {"แค่": 1}}
+{"raw": "วีค", "replacement": "วีก", "entropy": 0.0, "counts": {"วีก": 1}}
+{"raw": "สเป", "replacement": "สเปเชียล", "entropy": 0.0, "counts": {"สเปเชียล": 1}}
+{"raw": "ตัวเค้า", "replacement": "ตัวเขา", "entropy": 0.0, "counts": {"ตัวเขา": 1}}
+{"raw": "ปรกติ", "replacement": "ปกติ", "entropy": 0.0, "counts": {"ปกติ": 1}}
+{"raw": "ปั้บ", "replacement": "ปั๊บ", "entropy": 0.0, "counts": {"ปั๊บ": 1}}
+{"raw": "สุดด", "replacement": "สุด", "entropy": 0.0, "counts": {"สุด": 1}}
+{"raw": "แฟนมีต", "replacement": "แฟนมีตติง", "entropy": 0.0, "counts": {"แฟนมีตติง": 1}}
+{"raw": "ดะเน่ว", "replacement": "เดี๋ยวนี้", "entropy": 0.0, "counts": {"เดี๋ยวนี้": 1}}
+{"raw": "กินน", "replacement": "กิน", "entropy": 0.0, "counts": {"กิน": 1}}
+{"raw": "ด้วยยๆๆ", "replacement": "ด้วย ๆ", "entropy": 0.0, "counts": {"ด้วย ๆ": 1}}
+{"raw": "ชห.", "replacement": "ฉิบหาย", "entropy": 0.0, "counts": {"ฉิบหาย": 1}}
+{"raw": "ทีมเยลโล่ว์", "replacement": "ทีมเยลโลว์", "entropy": 0.0, "counts": {"ทีมเยลโลว์": 1}}
+{"raw": "กินๆ", "replacement": "กิน ๆ", "entropy": 0.0, "counts": {"กิน ๆ": 1}}
+{"raw": "นอนๆ", "replacement": "นอน ๆ", "entropy": 0.0, "counts": {"นอน ๆ": 1}}
+{"raw": "คอนเนอ", "replacement": "คอนเนอร์", "entropy": 0.0, "counts": {"คอนเนอร์": 1}}
+{"raw": "ชนี", "replacement": "ชะนี", "entropy": 0.0, "counts": {"ชะนี": 1}}
+{"raw": "มถึง", "replacement": "ถึง", "entropy": 0.0, "counts": {"ถึง": 1}}
+{"raw": "หนุ่มๆ", "replacement": "หนุ่ม ๆ", "entropy": 0.0, "counts": {"หนุ่ม ๆ": 1}}
+{"raw": "อะไร๊", "replacement": "อะไร", "entropy": 0.0, "counts": {"อะไร": 1}}

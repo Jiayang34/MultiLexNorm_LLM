@@ -93,14 +93,16 @@ def parse_label_scores(score_field):
         scores[label] = float(score)
 
     # select the norm label with maximal confidence
-    norm_label, norm_conf = max(
+    norm_label, max_norm_conf = max(
         ((label, scores.get(label, 0.0)) for label in NORM_LABELS),
         key=lambda item: item[1],
     )
+    # confidence sum of all the NORM LABELS
+    norm_conf = sum(scores.get(label, 0.0) for label in NORM_LABELS)
     if norm_conf >= DETECTOR_THRESHOLD:
-        return norm_label, norm_conf
+        return norm_label, max_norm_conf, norm_conf
     keep_conf = scores.get(KEEP_LABEL, 0.0)
-    return KEEP_LABEL, keep_conf
+    return KEEP_LABEL, keep_conf, norm_conf
 
 
 # Load and parse detector output
@@ -122,12 +124,13 @@ def read_detector_output(path):
                 raise ValueError(f"Expected token and score at line {line_number}: {stripped}")
 
             raw = parts[0]
-            label, confidence = parse_label_scores(parts[1])
+            label, confidence, norm_confidence = parse_label_scores(parts[1])
             current_sentence.append(
                 {
                     "raw": raw,
                     "label": label,
                     "confidence": confidence,
+                    "norm_confidence": norm_confidence,
                 }
             )
 
@@ -180,6 +183,7 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
             raw = detector_token["raw"]
             detector_label = detector_token["label"]
             detector_confidence = detector_token["confidence"]
+            detector_norm_confidence = detector_token["norm_confidence"]
             gold_token_norm = gold_norm[token_index] if gold_norm is not None else None
             dictionary_entropy = None
 
@@ -216,6 +220,7 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
                     "Gold_NORM": gold_token_norm,
                     "Detector_label": detector_label,
                     "Detector_confidence": detector_confidence,
+                    "Detector_norm_confidence": detector_norm_confidence,
                     "Replacement": replacement,
                     "Dictionary_entropy": dictionary_entropy,
                     "Source": source,
