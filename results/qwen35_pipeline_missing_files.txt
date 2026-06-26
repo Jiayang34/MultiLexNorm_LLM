@@ -1,0 +1,7 @@
+Comparison generated from current local evaluation_summary files.
+Languages requested: de, en, hr, id, iden, ja, ko, nl, sl, sr, th, vi
+Languages included: de, en, hr, id, iden, ja, ko, nl, sl, sr, th, vi
+Num languages included: 12
+
+Missing files:
+- None
