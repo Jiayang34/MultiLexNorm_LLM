@@ -14,7 +14,7 @@ PROJECT_ROOT="/dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM"
 PIPELINE_ROOT="$PROJECT_ROOT/our_pipeline1"
 HF_MODEL_PATH="$PROJECT_ROOT/models/huggingface/Qwen3.5-9B"
 
-MODEL_NAME="qwen3.5_9b_hf"
+MODEL_NAME="qwen3.5_9b"
 DTYPE="float16"
 
 source ~/miniconda3/bin/activate new_pipeline
