@@ -43,14 +43,32 @@ def safe_divide(numerator, denominator):
     return numerator / denominator if denominator else 0.0
 
 
-# Convert final normalization records into evaluation labels
-def build_normalization_outcomes(records):
-    outcomes = []
+# Compute normalization TP/FP/TN/FN using the convention from the paper.
+#
+# In particular, a token that needs normalization but is changed to the wrong
+# new form is an FP. It is only an FN when the system leaves the raw token
+# unchanged.
+def compute_normalization_confusion(records):
+    confusion = {"TP": 0, "FP": 0, "TN": 0, "FN": 0}
+
     for record in records:
-        gold_positive = record["RAW"] != record["Gold_NORM"]
-        prediction_correct = record["Replacement"] == record["Gold_NORM"]
-        outcomes.append((gold_positive, prediction_correct))
-    return outcomes
+        raw = record["RAW"]
+        gold = record["Gold_NORM"]
+        prediction = record["Replacement"]
+
+        if raw != gold:
+            if prediction == gold:
+                confusion["TP"] += 1
+            elif prediction == raw:
+                confusion["FN"] += 1
+            else:
+                confusion["FP"] += 1
+        elif prediction == gold:
+            confusion["TN"] += 1
+        else:
+            confusion["FP"] += 1
+
+    return confusion
 
 
 # Convert detector labels into evaluation labels
@@ -116,6 +134,46 @@ def compute_err(confusion):
     return safe_divide(accuracy - lai, 1 - lai)
 
 
+# Compute official normalization accuracy, LAI, and ERR directly from
+# raw/gold/prediction values. 
+def compute_normalization_base_scores(records):
+    total = len(records)
+    changed = sum(
+        record["RAW"] != record["Gold_NORM"]
+        for record in records
+    )
+    correct = sum(
+        record["Replacement"] == record["Gold_NORM"]
+        for record in records
+    )
+
+    accuracy = safe_divide(correct, total)
+    lai = safe_divide(total - changed, total)
+    err = safe_divide(accuracy - lai, 1 - lai)
+    return accuracy, lai, err
+
+
+# Package paper-style normalization counts with independently computed ERR.
+def evaluate_normalization_records(records):
+    confusion = compute_normalization_confusion(records)
+    precision = compute_precision(confusion)
+    recall = compute_recall(confusion)
+    accuracy, lai, err = compute_normalization_base_scores(records)
+
+    return {
+        "count": len(records),
+        "confusion": confusion,
+        "scores": {
+            "accuracy": accuracy,
+            "lai": lai,
+            "precision": precision,
+            "recall": recall,
+            "f1": compute_f1(precision, recall),
+            "err": err,
+        },
+    }
+
+
 # Package confusion counts with metric scores.
 def evaluate_outcomes(outcomes):
     confusion = compute_confusion(outcomes)
@@ -175,10 +233,10 @@ def evaluate_sentence_outcomes(records):
         "confusion": confusion,
         "scores": {
             "accuracy": safe_divide(correct, total),
+            "lai": compute_lai(confusion),
             "precision": precision,
             "recall": recall,
             "f1": compute_f1(precision, recall),
-            "lai": compute_lai(confusion),
             "err": compute_err(confusion),
         },
     }
@@ -203,15 +261,13 @@ def summarize(final_records):
                 for record in llm_source_records
             ),
         },
-        "overall_final": evaluate_outcomes(build_normalization_outcomes(final_records)),
+        "overall_final": evaluate_normalization_records(final_records),
         "sentence_level": evaluate_sentence_outcomes(final_records),
         "detector": evaluate_outcomes(build_detector_outcomes(final_records)),
-        "dictionary_source": evaluate_outcomes(
-            build_normalization_outcomes(dictionary_source_records)
+        "dictionary_source": evaluate_normalization_records(
+            dictionary_source_records
         ),
-        "llm_source": evaluate_outcomes(
-            build_normalization_outcomes(llm_source_records)
-        ),
+        "llm_source": evaluate_normalization_records(llm_source_records),
     }
 
     return summary
