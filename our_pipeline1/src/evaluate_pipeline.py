@@ -35,15 +35,31 @@ def safe_divide(numerator, denominator):
     return numerator / denominator if denominator else 0.0
 
 
-def build_normalization_outcomes(records):
-    outcomes = []
+# Compute normalization TP/FP/TN/FN using the convention from the paper.
+#
+# A token that needs normalization but is changed to the wrong new form is an
+# FP. It is only an FN when the system leaves the raw token unchanged.
+def compute_normalization_confusion(records):
+    confusion = {"TP": 0, "FP": 0, "TN": 0, "FN": 0}
 
     for record in records:
-        gold_positive = record["RAW"] != record["Gold_NORM"]
-        prediction_correct = record["Replacement"] == record["Gold_NORM"]
-        outcomes.append((gold_positive, prediction_correct))
+        raw = record["RAW"]
+        gold = record["Gold_NORM"]
+        prediction = record["Replacement"]
 
-    return outcomes
+        if raw != gold:
+            if prediction == gold:
+                confusion["TP"] += 1
+            elif prediction == raw:
+                confusion["FN"] += 1
+            else:
+                confusion["FP"] += 1
+        elif prediction == gold:
+            confusion["TN"] += 1
+        else:
+            confusion["FP"] += 1
+
+    return confusion
 
 
 def build_detector_outcomes(records):
@@ -104,6 +120,48 @@ def compute_err(confusion):
     lai = compute_lai(confusion)
 
     return safe_divide(accuracy - lai, 1 - lai)
+
+
+# Compute official normalization accuracy, LAI, and ERR directly from
+# raw/gold/prediction values. These values must not be derived from the
+# paper-style confusion counts because wrong new normalizations are FPs there,
+# even when the gold token itself needs normalization.
+def compute_normalization_base_scores(records):
+    total = len(records)
+    changed = sum(
+        record["RAW"] != record["Gold_NORM"]
+        for record in records
+    )
+    correct = sum(
+        record["Replacement"] == record["Gold_NORM"]
+        for record in records
+    )
+
+    accuracy = safe_divide(correct, total)
+    lai = safe_divide(total - changed, total)
+    err = safe_divide(accuracy - lai, 1 - lai)
+    return accuracy, lai, err
+
+
+# Package paper-style normalization counts with independently computed ERR.
+def evaluate_normalization_records(records):
+    confusion = compute_normalization_confusion(records)
+    precision = compute_precision(confusion)
+    recall = compute_recall(confusion)
+    accuracy, lai, err = compute_normalization_base_scores(records)
+
+    return {
+        "count": len(records),
+        "confusion": confusion,
+        "scores": {
+            "accuracy": accuracy,
+            "lai": lai,
+            "precision": precision,
+            "recall": recall,
+            "f1": compute_f1(precision, recall),
+            "err": err,
+        },
+    }
 
 
 def evaluate_outcomes(outcomes):
@@ -196,19 +254,15 @@ def summarize(final_records):
                 for record in llm_source_records
             ),
         },
-        "overall_final": evaluate_outcomes(
-            build_normalization_outcomes(final_records)
-        ),
+        "overall_final": evaluate_normalization_records(final_records),
         "sentence_level": evaluate_sentence_outcomes(final_records),
         "detector": evaluate_outcomes(
             build_detector_outcomes(final_records)
         ),
-        "dictionary_source": evaluate_outcomes(
-            build_normalization_outcomes(dictionary_source_records)
+        "dictionary_source": evaluate_normalization_records(
+            dictionary_source_records
         ),
-        "llm_source": evaluate_outcomes(
-            build_normalization_outcomes(llm_source_records)
-        ),
+        "llm_source": evaluate_normalization_records(llm_source_records),
     }
 
 
