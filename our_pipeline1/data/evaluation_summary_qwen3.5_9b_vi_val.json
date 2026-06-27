@@ -3,7 +3,7 @@
     "total_tokens": 13651,
     "dictionary_replaced": 1337,
     "llm_applied": 767,
-    "llm_replaced": 711
+    "llm_replaced": 712
   },
   "overall_final": {
     "count": 13651,
@@ -24,21 +24,21 @@
   },
   "sentence_level": {
     "count": 1050,
-    "correct": 589,
-    "incorrect": 461,
+    "correct": 592,
+    "incorrect": 458,
     "confusion": {
-      "TP": 589,
+      "TP": 592,
       "FP": 0,
       "TN": 0,
-      "FN": 461
+      "FN": 458
     },
     "scores": {
-      "accuracy": 0.560952380952381,
+      "accuracy": 0.5638095238095238,
       "precision": 1.0,
-      "recall": 0.560952380952381,
-      "f1": 0.7187309334960341,
+      "recall": 0.5638095238095238,
+      "f1": 0.7210718635809987,
       "lai": 0.0,
-      "err": 0.560952380952381
+      "err": 0.5638095238095238
     }
   },
   "detector": {

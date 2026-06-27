@@ -3,7 +3,7 @@
     "total_tokens": 3863,
     "dictionary_replaced": 282,
     "llm_applied": 745,
-    "llm_replaced": 657
+    "llm_replaced": 655
   },
   "overall_final": {
     "count": 3863,

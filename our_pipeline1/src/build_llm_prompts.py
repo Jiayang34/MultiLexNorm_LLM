@@ -117,11 +117,9 @@ def format_prompt(masked_sentence, examples, norm_label):
     if norm_label == NORM_1WORD_LABEL:
         word_prompt = "The normalized output should contain exactly 1 whitespace-separated words."
     elif norm_label == NORM_2WORD_LABEL:
-        word_prompt = ("The normalized output should contain exactly 2 whitespace-separated words and keep them in the "
-                       "same string, e.g. [\"want to\"].")
+        word_prompt = "The detector predicts this may normalize to 2 words, but prioritize the correct normalization over matching this length."
     elif norm_label == NORM_3PLUS_LABEL:
-        word_prompt = ("The normalized output should contain 3 or more whitespace-separated words and keep them in the "
-                       "same string, e.g. [\"want to do\"].")
+        word_prompt = "The detector predicts this may normalize to 3 or more words, but use fewer words if that is the correct normalization."
     lines = [
         "Standardize the word or phrase enclosed in <MASK> by converting it to "
         "its formal and grammatically correct form. Consider the sentence "
