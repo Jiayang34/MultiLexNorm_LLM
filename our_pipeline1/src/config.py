@@ -4,6 +4,47 @@ from pathlib import Path
 # Change language
 import os
 LANGUAGE = os.environ.get("LANGUAGE", "en")
+
+DEFAULT_DETECTOR_THRESHOLD = 0.5
+DEFAULT_ENTROPY_THRESHOLD = 0.5
+
+OPTIMAL_DETECTOR_THRESHOLDS = {
+    "de": 0.7,
+    "en": 0.5,
+    "hr": 0.9,
+    "id": 0.1,
+    "iden": 0.9,
+    "ja": 0.5,
+    "ko": 0.7,
+    "nl": 0.3,
+    "sl": 0.3,
+    "sr": 0.5,
+    "th": 0.5,
+    "vi": 0.5,
+}
+
+OPTIMAL_ENTROPY_THRESHOLDS = {
+    "de": 1.4,
+    "en": 1.4,
+    "hr": 1.4,
+    "id": 1.4,
+    "iden": 1.4,
+    "ja": 0.5,
+    "ko": 1.4,
+    "nl": 1.4,
+    "sl": 1.4,
+    "sr": 0.8,
+    "th": 1.4,
+    "vi": 1.4,
+}
+
+
+def get_threshold(env_name, optimal_thresholds, default_threshold, language):
+    if env_name in os.environ:
+        return float(os.environ[env_name])
+    return optimal_thresholds.get(language, default_threshold)
+
+
 # change datasets(train/ validation)
 IS_VAL = os.environ.get("IS_VAL", "false").lower() in {"1", "true", "yes"}
 RUN_SUFFIX = "_val" if IS_VAL else ""
@@ -36,7 +77,12 @@ DETECTOR_DEVICE = "0"
 
 # Dictionary
 DICTIONARY_PATH = Path(f"data/dictionary_{LANGUAGE}.jsonl")
-ENTROPY_THRESHOLD = 0.5
+ENTROPY_THRESHOLD = get_threshold(
+    "ENTROPY_THRESHOLD",
+    OPTIMAL_ENTROPY_THRESHOLDS,
+    DEFAULT_ENTROPY_THRESHOLD,
+    LANGUAGE,
+)
 
 # Selected language data -> DEV_RATIO -> DEV data
 DEV_PATH = Path("data") / f"dev_raw_norm_{LANGUAGE}.jsonl"
@@ -51,7 +97,12 @@ NORM_LABELS = {
     NORM_2WORD_LABEL,
     NORM_3PLUS_LABEL,
 }
-DETECTOR_THRESHOLD = 0.5
+DETECTOR_THRESHOLD = get_threshold(
+    "DETECTOR_THRESHOLD",
+    OPTIMAL_DETECTOR_THRESHOLDS,
+    DEFAULT_DETECTOR_THRESHOLD,
+    LANGUAGE,
+)
 DETECTOR_CONFIDENCE_PATH = Path(
     f"data/detector_output/detector_{LANGUAGE}{RUN_SUFFIX}.confidence.out"
 )
