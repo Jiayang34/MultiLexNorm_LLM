@@ -8,7 +8,7 @@ from src.config import (
     ENTROPY_THRESHOLD,
     LANGUAGE,
     MODEL,
-    NORM_LABEL,
+    NORM_LABELS,
     build_run_data_dir,
 )
 
@@ -76,7 +76,7 @@ def build_detector_outcomes(records):
     outcomes = []
     for record in records:
         gold_positive = record["RAW"] != record["Gold_NORM"]
-        predicted_positive = record["Detector_label"] == NORM_LABEL
+        predicted_positive = record["Detector_label"] in NORM_LABELS
         prediction_correct = predicted_positive == gold_positive
         outcomes.append((gold_positive, prediction_correct))
     return outcomes

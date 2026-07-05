@@ -16,6 +16,8 @@ from src.config import (
     KEEP_LABEL,
     LANGUAGE,
     NORM_LABEL,
+    NORM_LABELS,
+    NORM_LENGTH_LABELS,
     SEED,
     SPLIT_NAME,
     STAGE2_OUTPUT_PATH,
@@ -67,17 +69,64 @@ def load_dev_gold():
     ]
 
 
-# Decide token label
-# If confidence score > threshold then return NORM else 0
-def parse_label_scores(score_field):
+# Parse both binary O/NORM and length-aware detector score fields.
+def parse_detector_scores(score_field):
     scores = {}
     for part in score_field.split("|"):
         label, score = part.split("=", maxsplit=1)
         scores[label] = float(score)
 
-    if scores[NORM_LABEL] >= DETECTOR_THRESHOLD:
-        return NORM_LABEL, scores[NORM_LABEL]
-    return KEEP_LABEL, scores[KEEP_LABEL]
+    if KEEP_LABEL not in scores:
+        raise ValueError(f"Missing detector label {KEEP_LABEL!r}: {score_field!r}")
+
+    has_binary_norm = NORM_LABEL in scores
+    present_length_labels = [
+        label for label in NORM_LENGTH_LABELS if label in scores
+    ]
+    if has_binary_norm and present_length_labels:
+        raise ValueError(
+            "Detector output mixes binary and length-aware NORM labels: "
+            f"{score_field!r}"
+        )
+
+    if has_binary_norm:
+        norm_label = NORM_LABEL
+        norm_confidence = scores[NORM_LABEL]
+        detector_format = "binary"
+    elif present_length_labels:
+        norm_label = max(
+            present_length_labels,
+            key=lambda label: scores[label],
+        )
+        norm_confidence = sum(
+            scores.get(label, 0.0) for label in NORM_LENGTH_LABELS
+        )
+        detector_format = "length_aware"
+    else:
+        raise ValueError(
+            "Expected binary NORM or at least one length-aware NORM label; "
+            f"scores={score_field!r}"
+        )
+
+    if norm_confidence >= DETECTOR_THRESHOLD:
+        label = norm_label
+        confidence = scores[norm_label]
+    else:
+        label = KEEP_LABEL
+        confidence = scores[KEEP_LABEL]
+
+    return {
+        "label": label,
+        "confidence": confidence,
+        "norm_confidence": norm_confidence,
+        "detector_format": detector_format,
+    }
+
+
+# Preserve the existing two-value API for higher-level callers.
+def parse_label_scores(score_field):
+    prediction = parse_detector_scores(score_field)
+    return prediction["label"], prediction["confidence"]
 
 
 # Load and parse detector output
@@ -99,12 +148,14 @@ def read_detector_output(path):
                 raise ValueError(f"Expected token and score at line {line_number}: {stripped}")
 
             raw = parts[0]
-            label, confidence = parse_label_scores(parts[1])
+            prediction = parse_detector_scores(parts[1])
             current_sentence.append(
                 {
                     "raw": raw,
-                    "label": label,
-                    "confidence": confidence,
+                    "label": prediction["label"],
+                    "confidence": prediction["confidence"],
+                    "norm_confidence": prediction["norm_confidence"],
+                    "detector_format": prediction["detector_format"],
                 }
             )
 
@@ -157,11 +208,13 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
             raw = detector_token["raw"]
             detector_label = detector_token["label"]
             detector_confidence = detector_token["confidence"]
+            detector_norm_confidence = detector_token.get("norm_confidence")
+            detector_format = detector_token.get("detector_format", "binary")
             gold_token_norm = gold_norm[token_index] if gold_norm is not None else None
             dictionary_entropy = None
 
             # Replace NORM tokens only when the dictionary candidate is low entropy
-            if detector_label == NORM_LABEL and raw in dictionary:
+            if detector_label in NORM_LABELS and raw in dictionary:
                 dictionary_entry = dictionary[raw]
                 dictionary_entropy = dictionary_entry["entropy"]
                 if dictionary_entropy <= ENTROPY_THRESHOLD:
@@ -171,7 +224,7 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
                     replacement = raw
                     source = "llm_pending"
             # Rest tokens should be processed by LLM
-            elif detector_label == NORM_LABEL:
+            elif detector_label in NORM_LABELS:
                 replacement = raw
                 source = "llm_pending"
             # Keep
@@ -193,6 +246,8 @@ def build_master_table(detector_sentences, gold_sentences, dictionary):
                     "Gold_NORM": gold_token_norm,
                     "Detector_label": detector_label,
                     "Detector_confidence": detector_confidence,
+                    "Detector_norm_confidence": detector_norm_confidence,
+                    "Detector_format": detector_format,
                     "Replacement": replacement,
                     "Dictionary_entropy": dictionary_entropy,
                     "Source": source,
@@ -213,7 +268,9 @@ def write_jsonl(records, path):
 # Print info
 def summarize(records):
     source_counts = Counter(record["Source"] for record in records)
-    detected_norm = sum(record["Detector_label"] == NORM_LABEL for record in records)
+    detected_norm = sum(
+        record["Detector_label"] in NORM_LABELS for record in records
+    )
     dictionary_count = source_counts["dictionary"]
     coverage = dictionary_count / detected_norm if detected_norm else 0.0
 

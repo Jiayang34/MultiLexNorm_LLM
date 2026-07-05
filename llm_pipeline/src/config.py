@@ -76,7 +76,18 @@ DETECTOR_DEVICE = "0"
 
 ### Detector ### Setup
 KEEP_LABEL = "O"
+# Binary detector label.
 NORM_LABEL = "NORM"
+# Length-aware detector labels.
+NORM_1WORD_LABEL = "NORM_1WORD"
+NORM_2WORD_LABEL = "NORM_2WORD"
+NORM_3PLUS_LABEL = "NORM_3PLUS"
+NORM_LENGTH_LABELS = (
+    NORM_1WORD_LABEL,
+    NORM_2WORD_LABEL,
+    NORM_3PLUS_LABEL,
+)
+NORM_LABELS = frozenset((NORM_LABEL, *NORM_LENGTH_LABELS))
 DETECTOR_CONFIDENCE_PATH = (
     DATA_DIR / "detector_output" / f"detector_{LANGUAGE}.confidence.out"
 )
