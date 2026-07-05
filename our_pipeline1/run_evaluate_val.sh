@@ -4,7 +4,7 @@
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=64G
-#SBATCH --time=5:00:00
+#SBATCH --time=2:00:00
 #SBATCH --output=qwen_all_val_%j.out
 #SBATCH --error=qwen_all_val_%j.err
 #SBATCH --container-image=/dss/dsshome1/01/ge65nus2/projects/MultiLexNorm_LLM/nvidia+pytorch+23.10-py3.sqsh
@@ -25,8 +25,9 @@ export PYTHONPATH="$PIPELINE_ROOT:${PYTHONPATH:-}"
 export IS_VAL=true
 export HF_HUB_OFFLINE=1
 export TRANSFORMERS_OFFLINE=1
+export MULTIWORD_MARGIN=0.5
 
-LANGUAGES=("de" "hr" "id" "iden" "ja" "ko" "nl" "sl" "sr" "th" "vi")
+LANGUAGES=("de" "en" "hr" "id" "iden" "ja" "ko" "nl" "sl" "sr" "th" "vi")
 
 for LANG in "${LANGUAGES[@]}"; do
     export LANGUAGE="$LANG"
@@ -36,6 +37,9 @@ for LANG in "${LANGUAGES[@]}"; do
     echo "Running language: $LANG"
     echo "Started: $(date)"
     echo "============================================================"
+
+    python -m src.apply_dictionary
+    python -m src.build_llm_prompts
 
     PROMPTS="data/llm_prompts_${LANG}_val.jsonl"
     MASTER_TABLE="data/table_applied_dictionary_${LANG}_val.jsonl"
