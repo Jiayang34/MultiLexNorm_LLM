@@ -10,6 +10,9 @@ from src.config import (
     DATASET_NAME,
     DEV_RATIO,
     LANGUAGE,
+    NORM_1WORD_LABEL,
+    NORM_2WORD_LABEL,
+    NORM_3PLUS_LABEL,
     NUM_LLM_SHOTS,
     SEED,
     SPLIT_NAME,
@@ -109,12 +112,31 @@ def mask_sentence(sentence_records, candidate):
 
 
 # Prompt: instruction, few-shot examples, and masked input sentence.
-def format_prompt(masked_sentence, examples):
+def format_prompt(masked_sentence, examples, norm_label=None):
+    word_prompt = ""
+    if norm_label == NORM_1WORD_LABEL:
+        word_prompt = (
+            "The normalized output should contain exactly 1 "
+            "whitespace-separated word."
+        )
+    elif norm_label == NORM_2WORD_LABEL:
+        word_prompt = (
+            "The normalized output should contain exactly 2 "
+            "whitespace-separated words and keep them in the same string, "
+            'e.g. ["want to"].'
+        )
+    elif norm_label == NORM_3PLUS_LABEL:
+        word_prompt = (
+            "The normalized output should contain 3 or more "
+            "whitespace-separated words and keep them in the same string, "
+            'e.g. ["want to do"].'
+        )
+
     lines = [
         "Standardize the word or phrase enclosed in <MASK> by converting it to "
         "its formal and grammatically correct form. Consider the sentence "
         "context, including punctuation, capitalization, and reduplication. "
-        "Preserve the original meaning with minimal edits. If no normalization "
+        f"Preserve the original meaning with minimal edits. {word_prompt} If no normalization "
         "is needed, return the original word or phrase. Return only a JSON list "
         "with one string.",
         "",
@@ -146,7 +168,11 @@ def build_prompts(master_records, candidates, examples):
                 "Token_index": candidate["Token_index"],
                 "RAW": candidate["RAW"],
                 "Gold_NORM": candidate["Gold_NORM"],
-                "Prompt": format_prompt(masked_sentence, examples),
+                "Prompt": format_prompt(
+                    masked_sentence,
+                    examples,
+                    candidate.get("Detector_label"),
+                ),
             }
         )
 

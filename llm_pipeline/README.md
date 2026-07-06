@@ -9,7 +9,8 @@ Stage 1-1:
 
 ### Run Pipeline
 Stage 1-2: 
-- apply detector to label tokens by 0/NROM confidence score
+- apply the detector and select normalization candidates from its confidence scores
+- support both binary (`O`/`NORM`) and length-aware detector labels
 
 Stage 2: 
 - build MFR dictionary
@@ -43,7 +44,10 @@ DEV:
 
 ### Scripts
 - `src/inspect_hf_dataset.py`: helper function: inspect and export the HF dataset
-- `src/prepare_detector_data.py`: convert HF data to labeled data for training detector, generate language-specified MaChAmp dataset config
+- `src/prepare_detector_data.py`: convert HF or synthetic data to detector training data and generate a language-specific MaChAmp config
+- `src/import_clean_wiki.py`: import, clean, and tokenize Wikipedia text
+- `src/add_noise.py`: create synthetic normalization data with learned and rule-based noise
+- `src/execute_pretrain_finetune_experiment.py`: run synthetic pretraining, original-data finetuning, and dev prediction
 - `src/execute_prepare_detector.py`: execution script: prepare detector data and train the detector.
 - `src/build_dictionary.py`: build MFR lookup dictionary candidates
 - `src/apply_dictionary.py`: apply dictionary replacements to detector labeled tokens
@@ -53,6 +57,8 @@ DEV:
 - `src/execute_run_pipeline.py`: execution script: run the 2026 LLM pipeline end to end.
 - `src/search_thresholds.py`: run a real detector and entropy threshold grid search with reusable caches.
 - `src/plot_threshold_results.py`: plot final ERR and F1 from threshold search results.
+- `src/execute_full_search_thresholds.py`: run threshold search for multiple languages.
+- `src/execute_val_threshold.py`: evaluate original or new detector outputs on validation data with selected thresholds.
 
 ### Example data
 
@@ -113,7 +119,7 @@ the DeepSeek API; all other model names use the local Ollama API.
 
 ### Check Default Language and Thresholds
 
-Open `config.py`:
+Open `src/config.py`:
 
 ```bash
 LANGUAGE = os.getenv("PIPELINE_LANGUAGE", "en")
@@ -128,7 +134,7 @@ MODEL = os.getenv("MODEL", "qwen3.5:9b")
 Prepare detector data and train the detector:
 
 ```bash
-python -m src.execute_prepare_detector
+python -m src.execute_prepare_detector --language en
 ```
 
 ### Run Pipeline
@@ -152,39 +158,55 @@ data/qwen3.5:9b/en_0.5_0.5/
 
 ## 3. Analyze Thresholds
 
-### Grid Search
+### Grid Threshold Search
 
-Run pipeline for threshold grid search (reuse cache including LLM):
+The default grid contains:
+
+- Detector thresholds: `0.1, 0.3, 0.5, 0.7, 0.9`
+- Dictionary entropy thresholds: `0.2, 0.5, 0.8, 1.1, 1.4, 1.7`
+
+The first run builds reusable caches. External detector output and dictionary
+files can also be supplied.
+
+Run a threshold search for one language:
 
 ```bash
 python -m src.search_thresholds \
   --language en \
-  --model deepseek-v4-pro
+  --model qwen3.5:9b \
+  --detector-output \
+  ../our_pipeline1/data/detector_output/detector_en.confidence.out \
+  --dictionary ../our_pipeline1/data/dictionary_en.jsonl \
+  --output-root data/newdetector_qwen3.5:9b
 ```
 
-This creates:
+The selected thresholds, evaluation results, and ERR/F1 plots are written to:
 
 ```text
-data/deepseek-v4-pro/en_thresholds/
+data/newdetector_qwen3.5:9b/en_thresholds/
 ```
 
-### Plot Grid Search Results
-
-Plot entropy threshold against final ERR and F1, with one line per detector
-threshold in each figure:
+Run batch threshold grid search for multiple languages:
 
 ```bash
-python -m src.plot_threshold_results \
-  --language en \
-  --model deepseek-v4-pro
+python -m src.execute_full_search_thresholds \
+  --model qwen3.5:9b \
+  --languages de en hr id iden ja ko nl sl sr th vi
 ```
 
-This creates:
+### Evaluate a Selected Validation Threshold
 
-```text
-data/deepseek-v4-pro/en_thresholds/threshold_entropy_err_en.png
-data/deepseek-v4-pro/en_thresholds/threshold_entropy_f1_en.png
+Run validation data with either the original or new detector:
+
+```bash
+python -m src.execute_val_threshold \
+  --detector new \
+  --model qwen3.5:9b \
+  --languages en \
+  --threshold 0.5 0.5
 ```
+
+Add `--prepare-only` to prepare tables and prompts without running the LLM.
 
 # Appendix
 
@@ -315,6 +337,25 @@ This creates:
 data/qwen3.5:9b/en_0.5_0.5/evaluation_summary_en.json
 ```
 
+## Synthetic Data Pretraining
+
+This experiment imports and tokenizes clean Wikipedia text, adds noise learned
+from the original training data together with simple character-level rules,
+then pretrains on the synthetic pairs and finetunes on the original train
+split.
+
+```bash
+python -m src.execute_pretrain_finetune_experiment \
+  --language en \
+  --run-name wiki5k \
+  --max-sentences 5000 \
+  --device 0
+```
+
+Data and models are written under `data/wiki_pretrain_finetune/` and
+`models/machamp/`. Default Wikipedia URLs are available for `en`, `de`, `it`,
+`ja`, `ko`, and `nl`.
+
 ## Master Table
 
 `data/qwen3.5:9b/en_0.5_0.5/table_applied_dictionary_en.jsonl` and
@@ -330,6 +371,8 @@ one JSON object per token:
   "Gold_NORM": "the",
   "Detector_label": "NORM",
   "Detector_confidence": 0.999913215637207,
+  "Detector_norm_confidence": 0.999913215637207,
+  "Detector_format": "binary",
   "Replacement": "the",
   "Dictionary_entropy": null,
   "Source": "qwen3.5:9b"
@@ -341,8 +384,10 @@ one JSON object per token:
 - `Token_index`: token position inside the sentence.
 - `RAW`: original token.
 - `Gold_NORM`: gold normalized token for evaluation.
-- `Detector_label`: detector decision, `O` or `NORM`.
+- `Detector_label`: detector decision, `O`, `NORM`, or a length-aware NORM label.
 - `Detector_confidence`: confidence score of `Detector_label`.
+- `Detector_norm_confidence`: total normalization probability used for thresholding.
+- `Detector_format`: detector output format, `binary` or `length_aware`.
 - `Replacement`: current pipeline prediction.
 - `Dictionary_entropy`: dictionary entropy if `Source` is `dictionary`, otherwise `null`.
 - `Source`: replacement source, such as `keep`, `dictionary`, `llm_pending`, or the LLM model name.

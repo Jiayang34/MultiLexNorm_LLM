@@ -4,7 +4,9 @@
 !/models/machamp/
 /models/machamp/*
 !/models/machamp/configs/
-!/models/machamp/configs/**
+/models/machamp/configs/*
+!/models/machamp/configs/machamp_params_detector.json
+!/models/machamp/configs/machamp_params_detector_pretrain5.json
 
 # Third-party source checkout
 /external/
@@ -14,3 +16,5 @@
 /src/export_examples.py
 
 /scripts/
+
+/tests/

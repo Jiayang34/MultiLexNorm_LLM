@@ -150,6 +150,7 @@ def run_inference(prompt_records, candidate_records, model):
     # load LLM candidate list
     candidates_by_token = index_by_token_id(candidate_records)
     outputs = []
+    invalid_outputs = 0
     deepseek_client = None
 
     if is_deepseek_model(model):
@@ -170,7 +171,15 @@ def run_inference(prompt_records, candidate_records, model):
         else:
             raw_output = call_ollama(prompt_record["Prompt"], model)
 
-        prediction = parse_prediction(raw_output)
+        try:
+            prediction = parse_prediction(raw_output)
+        except (TypeError, ValueError) as error:
+            prediction = prompt_record["RAW"]
+            invalid_outputs += 1
+            print(
+                f"[invalid output] Token_id={token_id} "
+                f"fallback={prediction!r} error={error}"
+            )
 
         output_record = dict(candidates_by_token[token_id])
         output_record["Replacement"] = prediction
@@ -183,6 +192,7 @@ def run_inference(prompt_records, candidate_records, model):
             f"RAW={output_record['RAW']!r} -> {prediction!r}"
         )
 
+    print(f"Invalid outputs replaced with RAW: {invalid_outputs}")
     return outputs
 
 
