@@ -51,9 +51,9 @@ for LANG in "${LANGUAGES[@]}"; do
 
   export LANGUAGE="$LANG"
   
-  test -f "data/llm_prompts_${LANG}.jsonl"
-  test -f "data/llm_candidates_${LANG}.jsonl"
-  test -f "data/table_applied_dictionary_${LANG}.jsonl"
+  test -f "data/${LANG}/llm_prompts_${LANG}.jsonl"
+  test -f "data/${LANG}/llm_candidates_${LANG}.jsonl"
+  test -f "data/${LANG}/table_applied_dictionary_${LANG}.jsonl"
   
   python -m src.run_llm \
     --model "$OLLAMA_MODEL" \
