@@ -58,17 +58,17 @@ print("qwen3_5:", CONFIG_MAPPING_NAMES.get("qwen3_5"))
 PY
 
 echo "----- Required files -----"
-test -s "data/table_applied_dictionary_en_val.jsonl"
-test -s "data/llm_candidates_en_val.jsonl"
-test -s "data/llm_prompts_en_val.jsonl"
-test -s "data/gold_en_val.jsonl"
+test -s "data/en/table_applied_dictionary_en_val.jsonl"
+test -s "data/en/llm_candidates_en_val.jsonl"
+test -s "data/en/llm_prompts_en_val.jsonl"
+test -s "data/en/gold_en_val.jsonl"
 test -s "$HF_MODEL_PATH/config.json"
 
 ls -lh \
-  data/table_applied_dictionary_en_val.jsonl \
-  data/llm_candidates_en_val.jsonl \
-  data/llm_prompts_en_val.jsonl \
-  data/gold_en_val.jsonl
+  data/en/table_applied_dictionary_en_val.jsonl \
+  data/en/llm_candidates_en_val.jsonl \
+  data/en/llm_prompts_en_val.jsonl \
+  data/en/gold_en_val.jsonl
 
 echo "----- Run LLM -----"
 python -m src.run_llm \
@@ -81,9 +81,8 @@ python -m src.evaluate_pipeline
 
 echo "----- Outputs -----"
 ls -lh \
-  data/llm_candidates_applied_llm_en_val.jsonl \
-  data/table_applied_qwen3.5_9b_hf_en_val.jsonl \
-  data/evaluation_summary_qwen3.5_9b_hf_en_val.json
+  data/en/llm_candidates_applied_llm_en_val.jsonl \
+  data/en/table_applied_qwen3.5_9b_hf_en_val.jsonl \
+  data/en/evaluation_summary_qwen3.5_9b_hf_en_val.json
 
 echo "Done at $(date)"
-

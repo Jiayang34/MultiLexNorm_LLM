@@ -131,7 +131,7 @@ for LANG in "${LANGUAGES[@]}"; do
   export LANGUAGE="$LANG"
 
   test -f "models/machamp/detector_${LANG}_xlmr/model.pt"
-  test -f "data/dictionary_${LANG}.jsonl"
+  test -f "data/${LANG}/dictionary_${LANG}.jsonl"
 
   python -m src.execute_run_pipeline
   python -m src.evaluate_pipeline

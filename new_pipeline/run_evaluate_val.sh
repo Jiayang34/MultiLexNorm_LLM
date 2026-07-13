@@ -37,10 +37,10 @@ for LANG in "${LANGUAGES[@]}"; do
     echo "Started: $(date)"
     echo "============================================================"
 
-    PROMPTS="data/llm_prompts_${LANG}_val.jsonl"
-    MASTER_TABLE="data/table_applied_dictionary_${LANG}_val.jsonl"
-    CANDIDATES="data/llm_candidates_${LANG}_val.jsonl"
-    GOLD="data/gold_${LANG}_val.jsonl"
+    PROMPTS="data/${LANG}/llm_prompts_${LANG}_val.jsonl"
+    MASTER_TABLE="data/${LANG}/table_applied_dictionary_${LANG}_val.jsonl"
+    CANDIDATES="data/${LANG}/llm_candidates_${LANG}_val.jsonl"
+    GOLD="data/${LANG}/gold_${LANG}_val.jsonl"
 
     test -s "$PROMPTS"
     test -s "$MASTER_TABLE"
@@ -58,9 +58,9 @@ for LANG in "${LANGUAGES[@]}"; do
 
     echo "Finished language: $LANG at $(date)"
     ls -lh \
-        "data/llm_candidates_applied_llm_${LANG}_val.jsonl" \
-        "data/table_applied_${MODEL_NAME}_${LANG}_val.jsonl" \
-        "data/evaluation_summary_${MODEL_NAME}_${LANG}_val.json"
+        "data/${LANG}/llm_candidates_applied_llm_${LANG}_val.jsonl" \
+        "data/${LANG}/table_applied_${MODEL_NAME}_${LANG}_val.jsonl" \
+        "data/${LANG}/evaluation_summary_${MODEL_NAME}_${LANG}_val.json"
 done
 
 echo
