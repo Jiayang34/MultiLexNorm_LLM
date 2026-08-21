@@ -4,8 +4,8 @@
 
 ### Prepare Detector
 Stage 1-1:
-- prepare detctor training data
-- train a XLM-R detector
+- prepare detector training data
+- train an XLM-R detector
 
 ### Run Pipeline
 Stage 1-2: 
@@ -13,7 +13,7 @@ Stage 1-2:
 - support both binary (`O`/`NORM`) and length-aware detector labels
 
 Stage 2: 
-- build MFR dictionary
+- build the Most Frequent Replacement (MFR) dictionary
 - read detector predictions and keep tokens with `P(NORM) >= DETECTOR_THRESHOLD`
 - apply dictionary with `dictionary_entropy <= ENTROPY_THRESHOLD` filtering -> the rest is LLM candidates
 
@@ -105,7 +105,7 @@ ollama list
 
 ### DeepSeek API
 
-Set the API key in the shell instead of storing it in the repository:
+Set the DeepSeek API key:
 
 ```bash
 export DEEPSEEK_API_KEY="your-api-key"
@@ -196,7 +196,10 @@ python -m src.execute_full_search_thresholds \
 
 ### Evaluate a Selected Validation Threshold
 
-Run validation data with either the original or new detector:
+Run the official validation data with either the original or new detector. The
+`original` detector reads from `../new_pipeline/data` by default; the `new`
+detector reads from `../our_pipeline1/data` by default. Use `--original-data`
+or `--new-data` to override those roots.
 
 ```bash
 python -m src.execute_val_threshold \
@@ -240,10 +243,11 @@ python external/machamp/train.py \
 3. Predict on the dev split with detector confidence:
 
 ```bash
+mkdir -p data/qwen3.5:9b/en_0.5_0.5/detector_output
 python external/machamp/predict.py \
   models/machamp/detector_en_xlmr/model.pt \
-  data/detector_train/detector_dev_en.tsv \
-  data/detector_output/detector_en.confidence.out \
+  models/machamp/train_dev/en/detector_dev_en.tsv \
+  data/qwen3.5:9b/en_0.5_0.5/detector_output/detector_en.confidence.out \
   --dataset detector_en \
   --device 0 \
   --topn 2
