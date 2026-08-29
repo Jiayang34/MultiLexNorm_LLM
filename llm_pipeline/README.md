@@ -175,8 +175,8 @@ python -m src.search_thresholds \
   --language en \
   --model qwen3.5:9b \
   --detector-output \
-  ../our_pipeline1/data/detector_output/detector_en.confidence.out \
-  --dictionary ../our_pipeline1/data/dictionary_en.jsonl \
+  ../our_pipeline_lrz/data/detector_output/detector_en.confidence.out \
+  --dictionary ../our_pipeline_lrz/data/dictionary_en.jsonl \
   --output-root data/newdetector_qwen3.5:9b
 ```
 

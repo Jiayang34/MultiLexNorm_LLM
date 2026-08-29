@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/llm_pipeline" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/new_pipeline" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/our_pipeline1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baseline_lrz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/our_pipeline_lrz" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10.20 WSL (Ubuntu): (/home/jiayang_wsl/miniconda3/envs/mln26_test/bin/python3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
