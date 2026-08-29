@@ -20,7 +20,7 @@ DEFAULT_LANGUAGES = [
 ]
 SUPPORTED_MODELS = ["qwen3.5:9b", "deepseek-v4-pro"]
 PIPELINE_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_INPUT_ROOT = PIPELINE_ROOT.parent / "our_pipeline1" / "data"
+DEFAULT_INPUT_ROOT = PIPELINE_ROOT.parent / "our_pipeline_lrz" / "data"
 
 
 def parse_args():
@@ -44,7 +44,7 @@ def parse_args():
         "--input-root",
         type=Path,
         default=DEFAULT_INPUT_ROOT,
-        help="our_pipeline1 data directory.",
+        help="our_pipeline_lrz data directory.",
     )
     parser.add_argument(
         "--output-root",

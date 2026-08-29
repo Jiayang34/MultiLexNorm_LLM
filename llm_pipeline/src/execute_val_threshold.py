@@ -13,8 +13,8 @@ LANGUAGES = ("de", "en", "hr", "id", "iden", "ja", "ko", "nl", "sl", "sr", "th",
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 PIPELINE_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DATA_ROOTS = {
-    "original": PROJECT_ROOT / "new_pipeline" / "data",
-    "new": PROJECT_ROOT / "our_pipeline1" / "data",
+    "original": PROJECT_ROOT / "baseline_lrz" / "data",
+    "new": PROJECT_ROOT / "our_pipeline_lrz" / "data",
 }
 DEFAULT_OUTPUT_ROOT = PIPELINE_ROOT / "data" / "val_threshold_runs"
 
@@ -321,8 +321,8 @@ def parse_args(argv=None):
         choices=sorted(DEFAULT_DATA_ROOTS),
         required=True,
         help=(
-            "original reads new_pipeline/data; "
-            "new reads our_pipeline1/data."
+            "original reads baseline_lrz/data; "
+            "new reads our_pipeline_lrz/data."
         ),
     )
     parser.add_argument(

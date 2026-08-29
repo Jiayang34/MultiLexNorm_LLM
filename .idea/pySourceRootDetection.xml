@@ -3,7 +3,7 @@
   <component name="PySourceRootDetectionService">
     <option name="sourcePathsSet">
       <set>
-        <option value="$PROJECT_DIR$/new_pipeline/external/machamp" />
+        <option value="$PROJECT_DIR$/baseline_lrz/external/machamp" />
       </set>
     </option>
   </component>
