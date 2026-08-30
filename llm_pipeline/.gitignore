@@ -1,5 +1,8 @@
 # Generated data and trained artifacts
-/data/
+/data/*
+!/data/val_threshold_runs/
+!/data/val_threshold_runs/deepseek-v4-pro/
+!/data/val_threshold_runs/deepseek-v4-pro/**
 /models/*
 !/models/machamp/
 /models/machamp/*
