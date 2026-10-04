@@ -11,7 +11,7 @@ Raw:        Why do dese guys think they doin' summn?
 Normalized: Why do these guys think they are doing something?
 ```
 
-### MultiLexNorm++
+### Original [MultiLexNorm++](https://arxiv.org/abs/2601.16623)
 
 - A lexical normalization benchmark covering Indo-European and Asian languages.
 - A three-stage pipeline: **Detector → MFR Dictionary → LLM**.
