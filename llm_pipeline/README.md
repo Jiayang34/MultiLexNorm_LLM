@@ -74,7 +74,7 @@ For each language, the best threshold pair is selected on the development set us
 
 ## Results
 
-### Ablation Study: 12 Languages × 3 LLMs
+1. Ablation Study: 12 Languages × 3 LLMs
 
 | Detector | Thresholds | Δ ERR (pp) | Δ F1 (pp) |
 |---|---|---:|---:|
@@ -85,7 +85,7 @@ For each language, the best threshold pair is selected on the development set us
 
 **Takeaway:** Language-specific threshold optimization is the primary source of improvement, while the length-aware detector provides smaller and model-dependent benefits.
 
-### Threshold Optimization: by Language
+2. Threshold Optimization: by Language
 
 <p align="left">
   <img src="../results/err_improvement_by_language.png"
@@ -93,14 +93,12 @@ For each language, the best threshold pair is selected on the development set us
        width="65%">
 </p>
 
-### Threshold Optimization: by Language Group
+3. Threshold Optimization: by Language Group
 
 | Group | Datasets | Δ ERR (pp) | Δ F1 (pp) |
 |---|---:|---:|---:|
 | Asian (`id`, `ja`, `ko`, `th`, `vi`) | 5 | **+6.56** | **+3.12** |
 | Indo-European | 7 | +2.01 | +1.67 |
-
-Sources: [full pipeline](../results/final_results_our_pipeline.csv)
 
 ---
 
