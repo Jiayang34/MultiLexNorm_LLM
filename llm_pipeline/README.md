@@ -46,12 +46,12 @@ The original detector–dictionary–LLM pipeline:
 
 The reproduced baseline uses fixed values for two key thresholds:
 
-- **Detector threshold:** controls which tokens are selected as normalization candidates.
+- **Detector confidence score threshold:** controls which tokens are selected as normalization candidates.
 - **Dictionary entropy threshold:** determines whether a candidate is replaced by the MFR dictionary or passed to the LLM.
 
 The baseline uses fixed detector and dictionary-entropy thresholds for all languages.
 
-We make both thresholds configurable and perform a **5 × 6 grid search per language**:
+We make both thresholds configurable and perform a 5 × 6 grid search per language:
 
 ```text
 Detector threshold: 0.1, 0.3, 0.5, 0.7, 0.9
@@ -66,27 +66,29 @@ For each language, the best threshold pair is selected on the development set us
 
 ## Results
 
-### Overall: 12 Language Datasets × 3 LLMs
+### Ablation Study: 12 Languages × 3 LLMs
 
-| Setting | Δ ERR (pp) | Δ F1 (pp) |
-|---|---:|---:|
-| Threshold optimization only | **+3.91** | **+2.27** |
-| Length-aware detector + threshold optimization | +3.79 | +1.79 |
+| Detector | Thresholds | Δ ERR (pp) | Δ F1 (pp) |
+|---|---|---:|---:|
+| Original | Original | Baseline | Baseline |
+| Length-aware | Original | +0.19 | -0.45 |
+| Original | Language-specific | **+3.91** | **+2.27** |
+| Length-aware | Language-specific | +3.79 | +1.79 |
 
-### Threshold Optimization Only, by Different Language
+**Takeaway:** Language-specific threshold optimization is the primary source of improvement, while the length-aware detector provides smaller and model-dependent benefits.
 
-**Effect by language**
+### Threshold Optimization: by Language
 
 ![Effect of threshold optmization by language](../results/err_improvement_by_language.png)
 
-**Effect by language group**
+### Threshold Optimization: by Language Group
 
 | Group | Datasets | Δ ERR (pp) | Δ F1 (pp) |
 |---|---:|---:|---:|
 | Asian (`id`, `ja`, `ko`, `th`, `vi`) | 5 | **+6.56** | **+3.12** |
 | Indo-European | 7 | +2.01 | +1.67 |
 
-Sources: [threshold optimization](../results/ablation2_threshold_search.csv) · [full pipeline](../results/final_results_our_pipeline.csv)
+Sources: [full pipeline](../results/final_results_our_pipeline.csv)
 
 ---
 
