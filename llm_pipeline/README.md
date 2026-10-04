@@ -36,6 +36,8 @@ This module focuses primarily on Yujiaxuan Wang's contribution, including the pi
        width="75%">
 </p>
 
+We first reproduced the original detector–dictionary–LLM pipeline as the experimental baseline. 
+
 The original detector–dictionary–LLM pipeline:
 
 - Detect tokens that require normalization
@@ -57,8 +59,6 @@ The reproduced baseline uses fixed values for two key thresholds:
 - **Detector confidence score threshold:** controls which tokens are selected as normalization candidates.
 - **Dictionary entropy threshold:** determines whether a candidate is replaced by the MFR dictionary or passed to the LLM.
 
-The baseline uses fixed detector and dictionary-entropy thresholds for all languages.
-
 We make both thresholds configurable and perform a 5 × 6 grid search per language:
 
 ```text
@@ -78,9 +78,9 @@ For each language, the best threshold pair is selected on the development set us
 
 | Detector | Thresholds | Δ ERR (pp) | Δ F1 (pp) |
 |---|---|---:|---:|
-| Original | Original | Baseline | Baseline |
-| Length-aware | Original | +0.19 | -0.45 |
-| Original | Language-specific | **+3.91** | **+2.27** |
+| Binary | Fixed | Baseline | Baseline |
+| Length-aware | Fixed | +0.19 | -0.45 |
+| Binary | Language-specific | **+3.91** | **+2.27** |
 | Length-aware | Language-specific | +3.79 | +1.79 |
 
 **Takeaway:** Language-specific threshold optimization is the primary source of improvement, while the length-aware detector provides smaller and model-dependent benefits.
@@ -93,12 +93,12 @@ For each language, the best threshold pair is selected on the development set us
        width="65%">
 </p>
 
-### Threshold Optimization: by Language Group
-
 | Group | Datasets | Δ ERR (pp) | Δ F1 (pp) |
 |---|---:|---:|---:|
 | Asian (`id`, `ja`, `ko`, `th`, `vi`) | 5 | **+6.56** | **+3.12** |
 | Indo-European | 7 | +2.01 | +1.67 |
+
+**Takeaway:** Threshold optimization improves most languages, with the largest gains concentrated in several Asian-language datasets.
 
 ---
 
@@ -109,8 +109,6 @@ For each language, the best threshold pair is selected on the development set us
 - **Detector:** XLM-RoBERTa via MaChAmp.
 - **LLMs:** Qwen2.5-7B, Qwen3.5-9B, DeepSeek-V4-Pro; eight-shot prompting.
 - **Metrics:** Error Reduction Rate (ERR) and F1.
-
-Training data supplies detector training, the MFR dictionary, and prompt examples. Thresholds are selected on development data.
 
 ## Project Structure
 
@@ -124,7 +122,7 @@ llm_pipeline/
 ```
 
 
-## Quick Start
+## Example Usage
 
 Requires **Conda, Git, Ollama, network access, and a CUDA-compatible GPU at device `0`**. Run from the repository root.
 
