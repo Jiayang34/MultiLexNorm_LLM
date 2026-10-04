@@ -87,12 +87,6 @@ For each language, the best threshold pair is selected on the development set us
 
 ### Threshold Optimization: by Language
 
-<p align="left">
-  <img src="../results/err_improvement_by_language.png"
-       alt="Effect of threshold optmization by language"
-       width="65%">
-</p>
-
 | Group | Datasets | Δ ERR (pp) | Δ F1 (pp) |
 |---|---:|---:|---:|
 | Asian (`id`, `ja`, `ko`, `th`, `vi`) | 5 | **+6.56** | **+3.12** |
