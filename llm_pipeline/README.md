@@ -6,7 +6,7 @@
 Stage 1-1:
 - prepare detector training data
 - train an XLM-R detector
-
+--
 ### Run Pipeline
 Stage 1-2: 
 - apply the detector and select normalization candidates from its confidence scores
