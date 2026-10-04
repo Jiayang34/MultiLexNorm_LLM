@@ -6,6 +6,7 @@
 Stage 1-1:
 - prepare detector training data
 - train an XLM-R detector
+----ok
 
 ### Run Pipeline
 Stage 1-2: 
