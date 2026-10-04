@@ -30,10 +30,10 @@ This module focuses primarily on Yujiaxuan Wang's contribution, including the pi
 
 ## Reproduced Pipeline
 
-<p align="center">
+<p align="left">
   <img src="../results/baseline_process.png"
        alt="Reproduced baseline pipeline"
-       width="65%">
+       width="75%">
 </p>
 
 The original detector–dictionary–LLM pipeline:
@@ -46,10 +46,10 @@ The original detector–dictionary–LLM pipeline:
 
 ## Language-Specific Threshold Optimization
 
-<p align="center">
+<p align="left">
   <img src="../results/our_pipeline_process.png"
        alt="Our pipeline with optimal threshold search"
-       width="65%">
+       width="75%">
 </p>
 
 The reproduced baseline uses fixed values for two key thresholds:
@@ -87,7 +87,7 @@ For each language, the best threshold pair is selected on the development set us
 
 ### Threshold Optimization: by Language
 
-<p align="center">
+<p align="left">
   <img src="../results/err_improvement_by_language.png"
        alt="Effect of threshold optmization by language"
        width="65%">
