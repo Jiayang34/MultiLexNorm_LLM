@@ -1,6 +1,6 @@
 # Extending the MultiLexNorm++ Pipeline with Length-Aware Detection and Language-Specific Threshold Optimization
 
-## Overview
+## Introduction
 
 ### Lexical Normalization
 
@@ -16,11 +16,9 @@ Normalized: Why do these guys think they are doing something?
 - A lexical normalization benchmark covering Indo-European and Asian languages.
 - A three-stage pipeline: **Detector → MFR Dictionary → LLM**.
 
-**Limitations:** Binary detection ignores output length, and a fixed threshold configuration may not suit every language.
+**Limitations:** The detector ignores output length, and a fixed threshold configuration may not suit every language.
 
-### Our Work
-
-We investigate two extensions:
+### We investigate two extensions:
 
 - A **length-aware detector** that predicts the expected number of output words.
 - **Language-specific threshold optimization**.
@@ -35,9 +33,13 @@ This module focuses primarily on the pipeline implementation and threshold optim
 
 ## Reproduced Pipeline
 
-We reproduced the original detector–dictionary–LLM pipeline.
-
 ![Reproduced baseline pipeline](../results/baseline_process.png)
+
+The original detector–dictionary–LLM pipeline:
+
+- detect tokens that require normalization
+- handle reliable cases with a Most-Frequent-Replacement (MFR) dictionary
+- send the remaining cases to an LLM.
 
 ---
 
@@ -45,23 +47,27 @@ We reproduced the original detector–dictionary–LLM pipeline.
 
 ![Our pipeline with optimal threshold search](../results/our_pipeline_process.png)
 
-- **Detector threshold:** selects tokens for normalization.
-- **Dictionary entropy threshold:** routes reliable dictionary matches to MFR replacement and the rest to LLM.
+The reproduced baseline uses fixed values for two key thresholds:
 
-The per-language grid contains **30 combinations**:
+- **Detector threshold:** controls which tokens are selected as normalization candidates.
+- **Dictionary entropy threshold:** determines whether a candidate is replaced by the MFR dictionary or passed to the LLM.
+
+The baseline uses fixed detector and dictionary-entropy thresholds for all languages.
+
+We make both thresholds configurable and perform a **5 × 6 grid search per language**:
 
 ```text
-Detector: 0.1, 0.3, 0.5, 0.7, 0.9
-Entropy:  0.2, 0.5, 0.8, 1.1, 1.4, 1.7
+Detector threshold: 0.1, 0.3, 0.5, 0.7, 0.9
+Entropy threshold:  0.2, 0.5, 0.8, 1.1, 1.4, 1.7
 ```
 
-The search caches LLM predictions at the lowest thresholds, reuses them across the grid, and selects the highest development-set ERR, with F1 as a tie-breaker.
+LLM outputs are cached and reused across threshold combinations to avoid repeated inference.
+
+For each language, the best threshold pair is selected on the development set using ERR, with F1 as a secondary criterion.
 
 ---
 
 ## Results
-
-Team validation results; gains over the reproduced baseline in **percentage points (pp)**, averaged equally across language datasets and three LLMs.
 
 ### Overall: 12 Language Datasets × 3 LLMs
 
@@ -74,7 +80,7 @@ Team validation results; gains over the reproduced baseline in **percentage poin
 
 **Effect by language**
 
-![Effect of threshold optmization by language](..results/err_improvement_by_language.png)
+![Effect of threshold optmization by language](../results/err_improvement_by_language.png)
 
 **Effect by language group**
 
@@ -90,7 +96,7 @@ Sources: [threshold optimization](../results/ablation2_threshold_search.csv) · 
 ## Experimental Setup
 
 - **Dataset:** `weerayut/multilexnorm2026-dev-pub`; 12 language datasets.
-- **Split:** 90% training / 10% development per language (seed `42`); separate validation data for final evaluation.
+- **Split:** 90% training / 10% development per language; separate validation data for final evaluation.
 - **Detector:** XLM-RoBERTa via MaChAmp.
 - **LLMs:** Qwen2.5-7B, Qwen3.5-9B, DeepSeek-V4-Pro; eight-shot prompting.
 - **Metrics:** Error Reduction Rate (ERR) and F1.
