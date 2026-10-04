@@ -23,13 +23,8 @@ Normalized: Why do these guys think they are doing something?
 - A **length-aware detector** that predicts the expected number of output words.
 - **Language-specific threshold optimization**.
 
-This module focuses primarily on the pipeline implementation and threshold optimization.
+This module focuses primarily on Yujiaxuan Wang's contribution, including the pipeline implementation, threshold optimization, and the experimental analysis.
 
-## My Contribution
-
-- Reproduced the original MultiLexNorm++ pipeline.
-- Implemented language-specific threshold optimization.
-- Contributed to the experimental analysis.
 
 ## Reproduced Pipeline
 
