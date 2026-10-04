@@ -30,12 +30,6 @@ This module focuses primarily on Yujiaxuan Wang's contribution, including the pi
 
 ## Reproduced Pipeline
 
-<p align="left">
-  <img src="../results/baseline_process.png"
-       alt="Reproduced baseline pipeline"
-       width="75%">
-</p>
-
 We first reproduced the original detector–dictionary–LLM pipeline as the experimental baseline. 
 
 The original detector–dictionary–LLM pipeline:
