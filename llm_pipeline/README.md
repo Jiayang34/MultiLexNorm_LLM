@@ -13,15 +13,17 @@ Normalized: Why do these guys think they are doing something?
 
 ### Original [MultiLexNorm++](https://arxiv.org/abs/2601.16623)
 
-- A lexical normalization benchmark covering Indo-European and Asian languages.
-- A three-stage pipeline: **Detector → MFR Dictionary → LLM**.
+- A lexical normalization benchmark covering Indo-European and Asian languages
+- A three-stage pipeline: Detector → MFR Dictionary → LLM
 
 **Limitations:** The detector ignores output length, and a fixed threshold configuration may not suit every language.
 
-### We investigate two extensions:
+### Our work
 
-- A **length-aware detector** that predicts the expected number of output words.
-- **Language-specific threshold optimization**.
+We investigate two extensions to the pipeline:
+
+- A **length-aware detector** that predicts the expected number of output words
+- Language-specific **threshold optimization**
 
 This module focuses primarily on Yujiaxuan Wang's contribution, including the pipeline implementation, threshold optimization, and the experimental analysis.
 
@@ -32,9 +34,9 @@ This module focuses primarily on Yujiaxuan Wang's contribution, including the pi
 
 The original detector–dictionary–LLM pipeline:
 
-- detect tokens that require normalization
-- handle reliable cases with a Most-Frequent-Replacement (MFR) dictionary
-- send the remaining cases to an LLM.
+- Detect tokens that require normalization
+- Handle reliable cases with a Most-Frequent-Replacement (MFR) dictionary
+- Send the remaining cases to an LLM
 
 ---
 
