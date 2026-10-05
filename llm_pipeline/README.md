@@ -35,7 +35,7 @@ Read more: [Poster](doc/PosterMultiLexNorm.pdf) | [Report](doc/Extending_the_Mul
 - Developed the threshold optimization
 - Contributed to experimental analysis
 
-**Tech Stack:** Python · Hugging Face · MaChAmp (PyTorch-based) · Ollama · DeepSeek API · Matplotlib
+Tech Stack: Python · Hugging Face · MaChAmp (PyTorch-based) · Ollama · DeepSeek API · Matplotlib
 
 ---
 
