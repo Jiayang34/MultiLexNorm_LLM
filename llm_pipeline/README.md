@@ -25,7 +25,7 @@ We investigate two extensions to the pipeline:
 - A **length-aware detector** that predicts the expected number of output words
 - Language-specific **threshold optimization**
 
-## My Contribution — Yujiaxuan Wang
+### My Contribution — Yujiaxuan Wang
 
 - Reproduced the original pipeline.
 - Developed language-specific threshold optimization.
