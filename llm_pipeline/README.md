@@ -27,15 +27,15 @@ We investigate two extensions to the pipeline:
 
 ### My Contribution — Yujiaxuan Wang
 
-- Reproduced the original pipeline
-- Developed the threshold optimization
-- Contributed to experimental analysis
+1. Reproduced the original pipeline
+2. Developed the threshold optimization
+3. Contributed to experimental analysis
 
 **Tech Stack:** Python · PyTorch · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
 
 ---
 
-## Reproduced Pipeline
+## 1. Reproduced Pipeline
 
 <p align="left">
   <img src="../results/baseline_process.png"
@@ -53,7 +53,7 @@ The original detector–dictionary–LLM pipeline:
 
 ---
 
-## Language-Specific Threshold Optimization
+## 2. Language-Specific Threshold Optimization
 
 <p align="left">
   <img src="../results/our_pipeline_process.png"
@@ -83,7 +83,7 @@ For each language, the best threshold pair is selected on the development set us
 
 ---
 
-## Results
+## 3. Results
 
 ### Ablation Study: 12 Languages × 3 LLMs
 
