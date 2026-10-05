@@ -43,7 +43,7 @@ We investigate two extensions to the pipeline:
        width="75%">
 </p>
 
-We first reproduced the original detector–dictionary–LLM pipeline as the experimental baseline. 
+We first reproduced the pipeline as the experimental baseline. 
 
 The original detector–dictionary–LLM pipeline:
 
@@ -72,8 +72,6 @@ We make both thresholds configurable and perform a 5 × 6 grid search per langua
 Detector threshold: 0.1, 0.3, 0.5, 0.7, 0.9
 Entropy threshold:  0.2, 0.5, 0.8, 1.1, 1.4, 1.7
 ```
-
-LLM outputs are cached and reused across threshold combinations to avoid repeated inference.
 
 <p align="left">
   <img src="examples/qwen3.5:9b_threshold/en_thresholds/threshold_entropy_err_en.png"
