@@ -11,12 +11,14 @@ Raw:        Why do dese guys think they doin' summn?
 Normalized: Why do these guys think they are doing something?
 ```
 
-### Original [MultiLexNorm++](https://arxiv.org/abs/2601.16623)
+### Original MultiLexNorm++
 
-- A lexical normalization benchmark covering Indo-European and Asian languages
+[MultiLexNorm++](https://arxiv.org/abs/2601.16623) addresses lexical normalization through:
+
+- A benchmark covering Indo-European and Asian languages
 - A three-stage pipeline: Detector → MFR Dictionary → LLM
 
-**Limitations:** The detector ignores output length, and a fixed threshold configuration may not suit every language.
+**Limitations:** Binary detector ignores output length, and a fixed threshold configuration may not suit every language.
 
 ### Our work
 
