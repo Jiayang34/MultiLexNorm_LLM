@@ -69,7 +69,7 @@ Entropy threshold:  0.2, 0.5, 0.8, 1.1, 1.4, 1.7
 LLM outputs are cached and reused across threshold combinations to avoid repeated inference.
 
 <p align="left">
-  <img src="llm_pipeline/examples/qwen3.5:9b_threshold/en_thresholds/threshold_entropy_err_en.png"
+  <img src="/examples/qwen3.5:9b_threshold/en_thresholds/threshold_entropy_err_en.png"
        alt="threshold_entropy_err_en"
        width="75%">
 </p>
