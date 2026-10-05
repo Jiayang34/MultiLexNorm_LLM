@@ -31,6 +31,8 @@ We investigate two extensions to the pipeline:
 - Developed language-specific threshold optimization.
 - Contributed to experimental analysis.
 
+**Tech Stack:** Python · PyTorch · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
+
 ---
 
 ## Reproduced Pipeline
@@ -110,10 +112,11 @@ For each language, the best threshold pair is selected on the development set us
 ## Experimental Setup
 
 - **Dataset:** `weerayut/multilexnorm2026-dev-pub`; 12 language datasets.
-- **Split:** 90% training / 10% development per language; separate validation data for final evaluation.
-- **Detector:** XLM-RoBERTa via MaChAmp.
-- **LLMs:** Qwen2.5-7B, Qwen3.5-9B, DeepSeek-V4-Pro; eight-shot prompting.
-- **Metrics:** Error Reduction Rate (ERR) and F1.
+- **Split:** 90% training / 10% development; separate validation set.
+- **Models:** XLM-R detector; Qwen2.5-7B, Qwen3.5-9B, DeepSeek-V4-Pro.
+- **Evaluation:** ERR and F1; thresholds selected on the dev set.
+
+---
 
 ## Project Structure
 
@@ -126,6 +129,7 @@ llm_pipeline/
 └── README.md
 ```
 
+---
 
 ## Example Usage
 
