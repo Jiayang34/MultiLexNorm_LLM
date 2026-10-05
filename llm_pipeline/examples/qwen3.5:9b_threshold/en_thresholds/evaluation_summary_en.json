@@ -1,0 +1,106 @@
+{
+  "threshold_search": {
+    "selection_metric": "overall_final.err",
+    "detector_threshold": 0.5,
+    "entropy_threshold": 1.4,
+    "err": 0.6996047430830045,
+    "f1": 0.8410041841004184,
+    "combinations_evaluated": 30,
+    "llm_mode": "cached",
+    "tie_break_default": {
+      "detector_threshold": 0.5,
+      "entropy_threshold": 0.5
+    }
+  },
+  "counts": {
+    "total_tokens": 3558,
+    "dictionary_replaced": 183,
+    "llm_applied": 59,
+    "llm_replaced": 55
+  },
+  "overall_final": {
+    "count": 3558,
+    "confusion": {
+      "TP": 201,
+      "FP": 37,
+      "TN": 3281,
+      "FN": 39
+    },
+    "scores": {
+      "accuracy": 0.9786396852164138,
+      "lai": 0.9288926363125352,
+      "precision": 0.8445378151260504,
+      "recall": 0.8375,
+      "f1": 0.8410041841004184,
+      "err": 0.6996047430830045
+    }
+  },
+  "sentence_level": {
+    "count": 236,
+    "correct": 176,
+    "incorrect": 60,
+    "confusion": {
+      "TP": 81,
+      "FP": 11,
+      "TN": 95,
+      "FN": 49
+    },
+    "scores": {
+      "accuracy": 0.7457627118644068,
+      "lai": 0.4491525423728814,
+      "precision": 0.8804347826086957,
+      "recall": 0.6230769230769231,
+      "f1": 0.7297297297297297,
+      "err": 0.5384615384615384
+    }
+  },
+  "detector": {
+    "count": 3558,
+    "confusion": {
+      "TP": 215,
+      "FP": 27,
+      "TN": 3278,
+      "FN": 38
+    },
+    "scores": {
+      "precision": 0.8884297520661157,
+      "recall": 0.849802371541502,
+      "f1": 0.8686868686868687,
+      "err": 0.7430830039525689
+    }
+  },
+  "dictionary_source": {
+    "count": 183,
+    "confusion": {
+      "TP": 170,
+      "FP": 13,
+      "TN": 0,
+      "FN": 0
+    },
+    "scores": {
+      "accuracy": 0.9289617486338798,
+      "lai": 0.03825136612021858,
+      "precision": 0.9289617486338798,
+      "recall": 1.0,
+      "f1": 0.9631728045325779,
+      "err": 0.9261363636363636
+    }
+  },
+  "llm_source": {
+    "count": 59,
+    "confusion": {
+      "TP": 31,
+      "FP": 24,
+      "TN": 3,
+      "FN": 1
+    },
+    "scores": {
+      "accuracy": 0.576271186440678,
+      "lai": 0.3389830508474576,
+      "precision": 0.5636363636363636,
+      "recall": 0.96875,
+      "f1": 0.7126436781609196,
+      "err": 0.35897435897435903
+    }
+  }
+}

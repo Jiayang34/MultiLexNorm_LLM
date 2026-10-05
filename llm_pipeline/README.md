@@ -68,6 +68,12 @@ Entropy threshold:  0.2, 0.5, 0.8, 1.1, 1.4, 1.7
 
 LLM outputs are cached and reused across threshold combinations to avoid repeated inference.
 
+<p align="left">
+  <img src="llm_pipeline/examples/qwen3.5:9b_threshold/en_thresholds/threshold_entropy_err_en.png"
+       alt="threshold_entropy_err_en"
+       width="75%">
+</p>
+
 For each language, the best threshold pair is selected on the development set using ERR, with F1 as a secondary criterion.
 
 ---
@@ -118,7 +124,7 @@ llm_pipeline/
 
 ## Example Usage
 
-Requires **Conda, Git, Ollama, network access, and a CUDA-compatible GPU at device `0`**. Run from the repository root.
+Requires Conda, Git, Ollama, network access, and a CUDA-compatible GPU at device `0`. Run from the repository root.
 
 ### 1. Install Dependencies
 
@@ -131,8 +137,6 @@ mkdir -p external
 git clone https://github.com/machamp-nlp/machamp.git external/machamp
 pip install -r external/machamp/requirements.txt
 ```
-
-Skip the clone command if MaChAmp is already installed.
 
 ### 2. Prepare Models
 
@@ -158,4 +162,8 @@ Results: `data/qwen3.5:9b/en_0.5_0.5/evaluation_summary_en.json`.
 python -m src.search_thresholds --language en --model qwen3.5:9b
 ```
 
-Outputs: `data/qwen3.5:9b/en_thresholds/`. Add `--check-cache` to reuse existing caches. For other options, run the corresponding module with `--help`.
+Outputs: `data/qwen3.5:9b/en_thresholds/`.
+
+
+## Technical Documentation
+For full environment setup, pipeline workflow, scripts usage, and detailed implementation notes, see [Technical Documentation](TECHNICAL.md).
