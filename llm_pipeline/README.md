@@ -25,8 +25,7 @@ We investigate two extensions to the pipeline:
 - A **length-aware detector** that predicts the expected number of output words
 - Language-specific **threshold optimization**
 
-[Poster](doc/PosterMultiLexNorm.pdf)
-[Report](doc/Extending_the_MultiLexNorm___Pipeline.pdf)
+Read more: [Poster](doc/PosterMultiLexNorm.pdf) | [Report](doc/Extending_the_MultiLexNorm___Pipeline.pdf)
 
 ### My Contribution — Yujiaxuan Wang
 
