@@ -31,7 +31,7 @@ We investigate two extensions to the pipeline:
 - Developed the threshold optimization
 - Contributed to experimental analysis
 
-**Tech Stack:** Python · PyTorch · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
+**Tech Stack:** Python · Hugging Face · MaChAmp (PyTorch-based) · Ollama · DeepSeek API · Matplotlib
 
 ---
 
