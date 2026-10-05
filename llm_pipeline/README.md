@@ -27,9 +27,9 @@ We investigate two extensions to the pipeline:
 
 ### My Contribution — Yujiaxuan Wang
 
-- Reproduced the original pipeline.
-- Developed language-specific threshold optimization.
-- Contributed to experimental analysis.
+- Reproduced the original pipeline
+- Developed the threshold optimization
+- Contributed to experimental analysis
 
 **Tech Stack:** Python · PyTorch · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
 
@@ -173,6 +173,7 @@ python -m src.search_thresholds --language en --model qwen3.5:9b
 
 Outputs: `data/qwen3.5:9b/en_thresholds/`.
 
+---
 
 ## Technical Documentation
 For full environment setup, pipeline workflow, scripts usage, and detailed implementation notes, see [Technical Documentation](TECHNICAL.md).
