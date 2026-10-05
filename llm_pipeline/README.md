@@ -27,9 +27,9 @@ We investigate two extensions to the pipeline:
 
 ### My Contribution — Yujiaxuan Wang
 
-1. Reproduced the original pipeline
-2. Developed the threshold optimization
-3. Contributed to experimental analysis
+- Reproduced the original pipeline
+- Developed the threshold optimization
+- Contributed to experimental analysis
 
 **Tech Stack:** Python · PyTorch · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
 
@@ -107,16 +107,17 @@ For each language, the best threshold pair is selected on the development set us
 
 ---
 
-## Experimental Setup
+## 4. Appendix
+
+### Experimental Setup
 
 - **Dataset:** `weerayut/multilexnorm2026-dev-pub`; 12 language datasets.
 - **Split:** 90% training / 10% development; separate validation set.
 - **Models:** XLM-R detector; Qwen2.5-7B, Qwen3.5-9B, DeepSeek-V4-Pro.
 - **Evaluation:** ERR and F1; thresholds selected on the dev set.
 
----
 
-## Project Structure
+### Project Structure
 
 ```text
 llm_pipeline/
@@ -127,13 +128,12 @@ llm_pipeline/
 └── README.md
 ```
 
----
 
-## Example Usage
+### Example Usage
 
 Requires Conda, Git, Ollama, network access, and a CUDA-compatible GPU at device `0`. Run from the repository root.
 
-### 1. Install Dependencies
+#### 1. Install Dependencies
 
 ```bash
 cd llm_pipeline
@@ -145,7 +145,7 @@ git clone https://github.com/machamp-nlp/machamp.git external/machamp
 pip install -r external/machamp/requirements.txt
 ```
 
-### 2. Prepare Models
+#### 2. Prepare Models
 
 ```bash
 python -m src.execute_prepare_detector --language en
@@ -154,7 +154,7 @@ ollama pull qwen3.5:9b
 
 The first command prepares data and trains the detector. Ensure Ollama is serving at `localhost:11434`; otherwise run `ollama serve` in another terminal.
 
-### 3. Run the Pipeline
+#### 3. Run the Pipeline
 
 ```bash
 python -m src.execute_run_pipeline --language en --model qwen3.5:9b
@@ -163,7 +163,7 @@ python -m src.execute_run_pipeline --language en --model qwen3.5:9b
 Default detector / entropy thresholds: `0.5 / 0.5`.
 Results: `data/qwen3.5:9b/en_0.5_0.5/evaluation_summary_en.json`.
 
-### 4. Search Thresholds
+#### 4. Search Thresholds
 
 ```bash
 python -m src.search_thresholds --language en --model qwen3.5:9b
@@ -171,7 +171,6 @@ python -m src.search_thresholds --language en --model qwen3.5:9b
 
 Outputs: `data/qwen3.5:9b/en_thresholds/`.
 
----
 
-## Technical Documentation
+### Technical Documentation
 For full environment setup, pipeline workflow, scripts usage, and detailed implementation notes, see [Technical Documentation](TECHNICAL.md).
