@@ -35,7 +35,7 @@ Read more: [Poster](doc/PosterMultiLexNorm.pdf) | [Report](doc/Extending_the_Mul
 - Developed the threshold optimization
 - Contributed to experimental analysis
 
-Tech Stack: Python · Hugging Face · MaChAmp (PyTorch-based) · Ollama · DeepSeek API · Matplotlib
+Tech Stack: Python · Hugging Face · MaChAmp · Ollama · DeepSeek API · Matplotlib
 
 ---
 
@@ -46,14 +46,13 @@ Tech Stack: Python · Hugging Face · MaChAmp (PyTorch-based) · Ollama · DeepS
        alt="Reproduced baseline pipeline"
        width="75%">
 </p>
+ 
+We first reproduced the pipeline as the experimental baseline:
 
-We first reproduced the pipeline as the experimental baseline. 
-
-The original detector–dictionary–LLM pipeline:
-
-- Detect tokens that require normalization
-- Handle reliable cases with a Most-Frequent-Replacement (MFR) dictionary
-- Send the remaining cases to an LLM
+- Constructed training data from the aligned raw and normalized text.
+- Trained an XLM-R-based detector to identify words requiring normalization.
+- Built a Most-Frequent-Replacement (MFR) dictionary to replace reliable words.
+- Sent the remaining words to an LLM using few-shot examples and surrounding context.
 
 ---
 
@@ -67,7 +66,7 @@ The original detector–dictionary–LLM pipeline:
 
 The reproduced baseline uses fixed values for two key thresholds:
 
-- **Detector confidence score threshold:** controls which tokens are selected as normalization candidates.
+- **Detector confidence score threshold:** controls which words are selected as normalization candidates.
 - **Dictionary entropy threshold:** determines whether a candidate is replaced by the MFR dictionary or passed to the LLM.
 
 We make both thresholds configurable and perform a 5 × 6 grid search per language:
